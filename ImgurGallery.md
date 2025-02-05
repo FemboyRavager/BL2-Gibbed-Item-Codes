@@ -472,7 +472,7 @@ Legendary Reaper
 
         BL2(BwAAAAAtbwAgDZahQxAymQXBAUEAwf///////////38DQS4BAME=) 
 
-Tricky Infiltrator 
+**Tricky Infiltrator** 
 
 (Unf0rseen +5 / Ir0n Hand +4 / Be Like Water +4) 
 
@@ -480,7 +480,7 @@ Tricky Infiltrator
 
         BL2(BwAAAAD3VAAgDZahQxAyGQfBAUEAwf///////////38DgS4BAME=) 
 
-Graceful Infiltrator 
+**Graceful Infiltrator** 
 
 (Be Like Water +5 / Unf0rseen +4 / Ir0n Hand +4) 
 
@@ -488,7 +488,7 @@ Graceful Infiltrator
 
         BL2(BwAAAACyYwAgDZahQxAymQjBAUEAwf///////////38DwS4BAME=)
 
-Chaotic Evil Rogue Class Mod	
+**Chaotic Evil Rogue** 
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -496,7 +496,7 @@ Chaotic Evil Rogue Class Mod
 
         BL2(BwAAAAAO6QkcFAWwEBG9ngjBAUEAwf///////////38DAQchAME=)
 
-Chaotic Evil Rogue Class Mod	
+**Chaotic Evil Rogue**  	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -504,7 +504,7 @@ Chaotic Evil Rogue Class Mod
 
         BL2(BwAAAAB6rAkcFAWwEBG9HgfBAUEAwf///////////38DAQchAME=)
 
-Chaotic Evil Rogue Class Mod	
+**Chaotic Evil Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -512,7 +512,7 @@ Chaotic Evil Rogue Class Mod
 
         BL2(BwAAAADzAQkcFAWwEBG9ngXBAUEAwf///////////38DAQchAME=)
 
-Chaotic Good Rogue Class Mod	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -520,7 +520,7 @@ Chaotic Good Rogue Class Mod
 
         BL2(BwAAAADvhgkbFAWwEBG9ngjBAUEAwf///////////38DwQYhAME=)
 
-Chaotic Good Rogue Class Mod	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -528,7 +528,7 @@ Chaotic Good Rogue Class Mod
 
         BL2(BwAAAACbwwkbFAWwEBG9HgfBAUEAwf///////////38DwQYhAME=)
 
-Chaotic Good Rogue Class Mod	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -536,7 +536,7 @@ Chaotic Good Rogue Class Mod
 
         BL2(BwAAAAASbgkbFAWwEBG9ngXBAUEAwf///////////38DwQYhAME=)
 
-Chaotic Neutral Rogue Class Mod	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -544,7 +544,7 @@ Chaotic Neutral Rogue Class Mod
 
         BL2(BwAAAAB9sAkYFAWwEBG9ngjBAUEAwf///////////38DAQYhAME=)
 
-Chaotic Neutral Rogue Class Mod	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -552,7 +552,7 @@ Chaotic Neutral Rogue Class Mod
 
         BL2(BwAAAAAJ9QkYFAWwEBG9HgfBAUEAwf///////////38DAQYhAME=)
 
-Chaotic Neutral Rogue Class Mod	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -560,7 +560,7 @@ Chaotic Neutral Rogue Class Mod
 
         BL2(BwAAAACAWAkYFAWwEBG9ngXBAUEAwf///////////38DAQYhAME=)
 
-Lawful Evil Rogue Class Mod	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -568,7 +568,7 @@ Lawful Evil Rogue Class Mod
 
         BL2(BwAAAABZ3QkeFAWwEBG9ngjBAUEAwf///////////38DgQchAME=)
 
-Lawful Evil Rogue Class Mod	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -576,7 +576,7 @@ Lawful Evil Rogue Class Mod
 
         BL2(BwAAAAAtmAkeFAWwEBG9HgfBAUEAwf///////////38DgQchAME=)
 
-Lawful Evil Rogue Class Mod	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -584,7 +584,7 @@ Lawful Evil Rogue Class Mod
 
         BL2(BwAAAACkNQkeFAWwEBG9ngXBAUEAwf///////////38DgQchAME=)
 
-Lawful Good Rogue Class Mod	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -592,7 +592,7 @@ Lawful Good Rogue Class Mod
 
         BL2(BwAAAAC4sgkZFAWwEBG9ngjBAUEAwf///////////38DQQYhAME=)
 
-Lawful Good Rogue Class Mod	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -600,7 +600,7 @@ Lawful Good Rogue Class Mod
 
         BL2(BwAAAADM9wkZFAWwEBG9HgfBAUEAwf///////////38DQQYhAME=)
 
-Lawful Good Rogue Class Mod	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -608,7 +608,7 @@ Lawful Good Rogue Class Mod
 
         BL2(BwAAAABFWgkZFAWwEBG9ngXBAUEAwf///////////38DQQYhAME=)
 
-Lawful Neutral Rogue Class Mod	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -616,7 +616,7 @@ Lawful Neutral Rogue Class Mod
 
         BL2(BwAAAACnXAkXFAWwEBG9ngjBAUEAwf///////////38DwQUhAME=)
 
-Lawful Neutral Rogue Class Mod	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -624,7 +624,7 @@ Lawful Neutral Rogue Class Mod
 
         BL2(BwAAAADTGQkXFAWwEBG9HgfBAUEAwf///////////38DwQUhAME=)
 
-Lawful Neutral Rogue Class Mod	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -632,7 +632,7 @@ Lawful Neutral Rogue Class Mod
 
         BL2(BwAAAABatAkXFAWwEBG9ngXBAUEAwf///////////38DwQUhAME=)
 
-Neutral Evil Rogue Class Mod	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -640,7 +640,7 @@ Neutral Evil Rogue Class Mod
 
         BL2(BwAAAADL6wkdFAWwEBG9ngjBAUEAwf///////////38DQQchAME=)
 
-Neutral Evil Rogue Class Mod	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -648,7 +648,7 @@ Neutral Evil Rogue Class Mod
 
         BL2(BwAAAAC/rgkdFAWwEBG9HgfBAUEAwf///////////38DQQchAME=)
 
-Neutral Evil Rogue Class Mod	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -656,7 +656,7 @@ Neutral Evil Rogue Class Mod
 
         BL2(BwAAAAA2AwkdFAWwEBG9ngXBAUEAwf///////////38DQQchAME=)
 
-Neutral Good Rogue Class Mod	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -664,7 +664,7 @@ Neutral Good Rogue Class Mod
 
         BL2(BwAAAAAqhAkaFAWwEBG9ngjBAUEAwf///////////38DgQYhAME=)
 
-Neutral Good Rogue Class Mod	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -672,7 +672,7 @@ Neutral Good Rogue Class Mod
 
         BL2(BwAAAABewQkaFAWwEBG9HgfBAUEAwf///////////38DgQYhAME=)
 
-Neutral Good Rogue Class Mod	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -680,7 +680,7 @@ Neutral Good Rogue Class Mod
 
         BL2(BwAAAADXbAkaFAWwEBG9ngXBAUEAwf///////////38DgQYhAME=)
 
-True Neutral Rogue Class Mod	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -688,7 +688,7 @@ True Neutral Rogue Class Mod
 
         BL2(BwAAAABiXgkWFAWwEBG9ngjBAUEAwf///////////38DgQUhAME=)
 
-True Neutral Rogue Class Mod	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -696,7 +696,7 @@ True Neutral Rogue Class Mod
 
         BL2(BwAAAAAWGwkWFAWwEBG9HgfBAUEAwf///////////38DgQUhAME=)
 
-True Neutral Rogue Class Mod	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
