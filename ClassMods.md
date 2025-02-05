@@ -3,264 +3,264 @@
 ![VTtOZR8](https://github.com/user-attachments/assets/5a0b1f5d-c256-4685-a1e9-4b7830b9de95)
 **Legendary Hunter**
 
-	BL2(BwAAAACf9wArDTIQZBBQKAnBAUEAwf///////////78EASYBAME=)
-	BL2(BwAAAABbIQArDTIQZBBQaAjBAUEAwf///////////78EASYBAME=)
-	BL2(BwAAAAAPsAArDTIQZBBQqAfBAUEAwf///////////78EASYBAME=)
-	BL2(BwAAAADLZgArDTIQZBBQ6AbBAUEAwf///////////78EASYBAME=)
-	BL2(BwAAAAB3KwArDTIQZBBQKAbBAUEAwf///////////78EASYBAME=)
-	BL2(BwAAAACmyQArDTIQZBBQaAXBAUEAwf///////////78EASYBAME=)
+BL2(BwAAAACf9wArDTIQZBBQKAnBAUEAwf///////////78EASYBAME=)
+BL2(BwAAAABbIQArDTIQZBBQaAjBAUEAwf///////////78EASYBAME=)
+BL2(BwAAAAAPsAArDTIQZBBQqAfBAUEAwf///////////78EASYBAME=)
+BL2(BwAAAADLZgArDTIQZBBQ6AbBAUEAwf///////////78EASYBAME=)
+BL2(BwAAAAB3KwArDTIQZBBQKAbBAUEAwf///////////78EASYBAME=)
+BL2(BwAAAACmyQArDTIQZBBQaAXBAUEAwf///////////78EASYBAME=)
 
 ---
 ![m7xvcpY](https://github.com/user-attachments/assets/6b1ff62d-7276-41dd-97fb-3fdb94c32703)
 **Legendary Sniper**
 
-	BL2(BwAAAABi6AoMAAMIsBBQKAnBAUEAwf///////////78EwQIgAME=)
-	BL2(BwAAAACmPgoMAAMIsBBQaAjBAUEAwf///////////78EwQIgAME=)
-	BL2(BwAAAADyrwoMAAMIsBBQqAfBAUEAwf///////////78EwQIgAME=)
-	BL2(BwAAAAA2eQoMAAMIsBBQ6AbBAUEAwf///////////78EwQIgAME=)
-	BL2(BwAAAACKNAoMAAMIsBBQKAbBAUEAwf///////////78EwQIgAME=)
-	BL2(BwAAAABb1goMAAMIsBBQaAXBAUEAwf///////////78EwQIgAME=)
+BL2(BwAAAABi6AoMAAMIsBBQKAnBAUEAwf///////////78EwQIgAME=)
+BL2(BwAAAACmPgoMAAMIsBBQaAjBAUEAwf///////////78EwQIgAME=)
+BL2(BwAAAADyrwoMAAMIsBBQqAfBAUEAwf///////////78EwQIgAME=)
+BL2(BwAAAAA2eQoMAAMIsBBQ6AbBAUEAwf///////////78EwQIgAME=)
+BL2(BwAAAACKNAoMAAMIsBBQKAbBAUEAwf///////////78EwQIgAME=)
+BL2(BwAAAABb1goMAAMIsBBQaAXBAUEAwf///////////78EwQIgAME=)
 
 ---
 ![GETHSMs](https://github.com/user-attachments/assets/71b949b6-81fe-4433-9a48-7f4ca43352f1)
 **Legendary Ninja**
 
-	BL2(BwAAAAAeoAoLAAMIEBFQKAnBAUEAwf///////////78EQQIgAME=)
-	BL2(BwAAAADadgoLAAMIEBFQaAjBAUEAwf///////////78EQQIgAME=)
-	BL2(BwAAAACO5woLAAMIEBFQqAfBAUEAwf///////////78EQQIgAME=)
-	BL2(BwAAAABKMQoLAAMIEBFQ6AbBAUEAwf///////////78EQQIgAME=)
-	BL2(BwAAAAD2fAoLAAMIEBFQKAbBAUEAwf///////////78EQQIgAME=)
-	BL2(BwAAAAAnngoLAAMIEBFQaAXBAUEAwf///////////78EQQIgAME=)
+BL2(BwAAAAAeoAoLAAMIEBFQKAnBAUEAwf///////////78EQQIgAME=)
+BL2(BwAAAADadgoLAAMIEBFQaAjBAUEAwf///////////78EQQIgAME=)
+BL2(BwAAAACO5woLAAMIEBFQqAfBAUEAwf///////////78EQQIgAME=)
+BL2(BwAAAABKMQoLAAMIEBFQ6AbBAUEAwf///////////78EQQIgAME=)
+BL2(BwAAAAD2fAoLAAMIEBFQKAbBAUEAwf///////////78EQQIgAME=)
+BL2(BwAAAAAnngoLAAMIEBFQaAXBAUEAwf///////////78EQQIgAME=)
 
 ---
 ![PgzDmKN](https://github.com/user-attachments/assets/6e22dda6-d01b-4def-95d1-0a00e6f46d74)
 **Legendary Killer**
 
-	BL2(BwAAAABSGAoKAAMI8BFQKAnBAUEAwf///////////78EgQIgAME=)
-	BL2(BwAAAACWzgoKAAMI8BFQaAjBAUEAwf///////////78EgQIgAME=)
-	BL2(BwAAAADCXwoKAAMI8BFQqAfBAUEAwf///////////78EgQIgAME=)
-	BL2(BwAAAAAGiQoKAAMI8BFQ6AbBAUEAwf///////////78EgQIgAME=)
-	BL2(BwAAAAC6xAoKAAMI8BFQKAbBAUEAwf///////////78EgQIgAME=)
-	BL2(BwAAAABrJgoKAAMI8BFQaAXBAUEAwf///////////78EgQIgAME=)
+BL2(BwAAAABSGAoKAAMI8BFQKAnBAUEAwf///////////78EgQIgAME=)
+BL2(BwAAAACWzgoKAAMI8BFQaAjBAUEAwf///////////78EgQIgAME=)
+BL2(BwAAAADCXwoKAAMI8BFQqAfBAUEAwf///////////78EgQIgAME=)
+BL2(BwAAAAAGiQoKAAMI8BFQ6AbBAUEAwf///////////78EgQIgAME=)
+BL2(BwAAAAC6xAoKAAMI8BFQKAbBAUEAwf///////////78EgQIgAME=)
+BL2(BwAAAABrJgoKAAMI8BFQaAXBAUEAwf///////////78EgQIgAME=)
 ---
 ![aLk6nAJ](https://github.com/user-attachments/assets/92a59f12-4f6a-49f3-8b3f-8569ed0447ec)
 **Legendary Soldier**
 
-	BL2(BwAAAABhWAAlDW6hQxBQKAnBAUEAwf///////////78EQRABAME=)
-	BL2(BwAAAACljgAlDW6hQxBQaAjBAUEAwf///////////78EQRABAME=)
-	BL2(BwAAAADxHwAlDW6hQxBQqAfBAUEAwf///////////78EQRABAME=)
-	BL2(BwAAAAA1yQAlDW6hQxBQ6AbBAUEAwf///////////78EQRABAME=)
-	BL2(BwAAAACJhAAlDW6hQxBQKAbBAUEAwf///////////78EQRABAME=)
-	BL2(BwAAAABYZgAlDW6hQxBQaAXBAUEAwf///////////78EQRABAME=)
+BL2(BwAAAABhWAAlDW6hQxBQKAnBAUEAwf///////////78EQRABAME=)
+BL2(BwAAAACljgAlDW6hQxBQaAjBAUEAwf///////////78EQRABAME=)
+BL2(BwAAAADxHwAlDW6hQxBQqAfBAUEAwf///////////78EQRABAME=)
+BL2(BwAAAAA1yQAlDW6hQxBQ6AbBAUEAwf///////////78EQRABAME=)
+BL2(BwAAAACJhAAlDW6hQxBQKAbBAUEAwf///////////78EQRABAME=)
+BL2(BwAAAABYZgAlDW6hQxBQaAXBAUEAwf///////////78EQRABAME=)
 
 ---
 ![plZr599](https://github.com/user-attachments/assets/3a331784-7632-472b-91ec-7055397fb19e)
 **Legendary Engineer**
         
-	BL2(BwAAAAA92goDAAMIEBFQKAnBAUEAwf///////////78EQQEgAME=)
-	BL2(BwAAAAD5DAoDAAMIEBFQaAjBAUEAwf///////////78EQQEgAME=)
-	BL2(BwAAAACtnQoDAAMIEBFQqAfBAUEAwf///////////78EQQEgAME=)
-	BL2(BwAAAABpSwoDAAMIEBFQ6AbBAUEAwf///////////78EQQEgAME=)
-	BL2(BwAAAADVBgoDAAMIEBFQKAbBAUEAwf///////////78EQQEgAME=)
-	BL2(BwAAAAAE5AoDAAMIEBFQaAXBAUEAwf///////////78EQQEgAME=)
+BL2(BwAAAAA92goDAAMIEBFQKAnBAUEAwf///////////78EQQEgAME=)
+BL2(BwAAAAD5DAoDAAMIEBFQaAjBAUEAwf///////////78EQQEgAME=)
+BL2(BwAAAACtnQoDAAMIEBFQqAfBAUEAwf///////////78EQQEgAME=)
+BL2(BwAAAABpSwoDAAMIEBFQ6AbBAUEAwf///////////78EQQEgAME=)
+BL2(BwAAAADVBgoDAAMIEBFQKAbBAUEAwf///////////78EQQEgAME=)
+BL2(BwAAAAAE5AoDAAMIEBFQaAXBAUEAwf///////////78EQQEgAME=)
 
 ---
 ![5YM6Pgv](https://github.com/user-attachments/assets/00cbe3da-4436-4c4a-924f-0c28ab4fbc7e)
 **Legendary Ranger**
 
-	BL2(BwAAAAAZtwoFAAMIEBFQKAnBAUEAwf///////////78EwQAgAME=)
-	BL2(BwAAAADdYQoFAAMIEBFQaAjBAUEAwf///////////78EwQAgAME=)
-	BL2(BwAAAACJ8AoFAAMIEBFQqAfBAUEAwf///////////78EwQAgAME=)
-	BL2(BwAAAABNJgoFAAMIEBFQ6AbBAUEAwf///////////78EwQAgAME=)
-	BL2(BwAAAADxawoFAAMIEBFQKAbBAUEAwf///////////78EwQAgAME=)
-	BL2(BwAAAAAgiQoFAAMIEBFQaAXBAUEAwf///////////78EwQAgAME=)
+BL2(BwAAAAAZtwoFAAMIEBFQKAnBAUEAwf///////////78EwQAgAME=)
+BL2(BwAAAADdYQoFAAMIEBFQaAjBAUEAwf///////////78EwQAgAME=)
+BL2(BwAAAACJ8AoFAAMIEBFQqAfBAUEAwf///////////78EwQAgAME=)
+BL2(BwAAAABNJgoFAAMIEBFQ6AbBAUEAwf///////////78EwQAgAME=)
+BL2(BwAAAADxawoFAAMIEBFQKAbBAUEAwf///////////78EwQAgAME=)
+BL2(BwAAAAAgiQoFAAMIEBFQaAXBAUEAwf///////////78EwQAgAME=)
 
 ---
 ![62AxSxB](https://github.com/user-attachments/assets/94d416dd-6e3b-482f-bc92-9dca10c1fffe)
 **Legendary Pointman**
 
-	BL2(BwAAAAA4/woEAAMIEBJQKAnBAUEAwf///////////78EAQEgAME=)
-	BL2(BwAAAAD8KQoEAAMIEBJQaAjBAUEAwf///////////78EAQEgAME=)
-	BL2(BwAAAACouAoEAAMIEBJQqAfBAUEAwf///////////78EAQEgAME=)
-	BL2(BwAAAABsbgoEAAMIEBJQ6AbBAUEAwf///////////78EAQEgAME=)
-	BL2(BwAAAADQIwoEAAMIEBJQKAbBAUEAwf///////////78EAQEgAME=)
-	BL2(BwAAAAABwQoEAAMIEBJQaAXBAUEAwf///////////78EAQEgAME=)
+BL2(BwAAAAA4/woEAAMIEBJQKAnBAUEAwf///////////78EAQEgAME=)
+BL2(BwAAAAD8KQoEAAMIEBJQaAjBAUEAwf///////////78EAQEgAME=)
+BL2(BwAAAACouAoEAAMIEBJQqAfBAUEAwf///////////78EAQEgAME=)
+BL2(BwAAAABsbgoEAAMIEBJQ6AbBAUEAwf///////////78EAQEgAME=)
+BL2(BwAAAADQIwoEAAMIEBJQKAbBAUEAwf///////////78EAQEgAME=)
+BL2(BwAAAAABwQoEAAMIEBJQaAXBAUEAwf///////////78EAQEgAME=)
 
 ---
 ![i7eW48d](https://github.com/user-attachments/assets/6526cd17-7972-404c-badd-36a8b676142e)
 **Legendary Titan**
 
-	BL2(BwAAAABnggoJAAMI8BFQKAnBAUEAwf///////////78EgQEgAME=)
-	BL2(BwAAAACjVAoJAAMI8BFQaAjBAUEAwf///////////78EgQEgAME=)
-	BL2(BwAAAAD3xQoJAAMI8BFQqAfBAUEAwf///////////78EgQEgAME=)
-	BL2(BwAAAAAzEwoJAAMI8BFQ6AbBAUEAwf///////////78EgQEgAME=)
-	BL2(BwAAAACPXgoJAAMI8BFQKAbBAUEAwf///////////78EgQEgAME=)
-	BL2(BwAAAABevAoJAAMI8BFQaAXBAUEAwf///////////78EgQEgAME=)
+BL2(BwAAAABnggoJAAMI8BFQKAnBAUEAwf///////////78EgQEgAME=)
+BL2(BwAAAACjVAoJAAMI8BFQaAjBAUEAwf///////////78EgQEgAME=)
+BL2(BwAAAAD3xQoJAAMI8BFQqAfBAUEAwf///////////78EgQEgAME=)
+BL2(BwAAAAAzEwoJAAMI8BFQ6AbBAUEAwf///////////78EgQEgAME=)
+BL2(BwAAAACPXgoJAAMI8BFQKAbBAUEAwf///////////78EgQEgAME=)
+BL2(BwAAAABevAoJAAMI8BFQaAXBAUEAwf///////////78EgQEgAME=)
 
 ---
 ![XtlogWZ](https://github.com/user-attachments/assets/e264390e-c6c4-4632-960c-ea068b291a38)
 **Legendary Gunzerker**
 
-	BL2(BwAAAAAzmAoHAAMIEBFQKAnBAUEAwf///////////38DAQMgAME=)
-	BL2(BwAAAAD3TgoHAAMIEBFQaAjBAUEAwf///////////38DAQMgAME=)
-	BL2(BwAAAACj3woHAAMIEBFQqAfBAUEAwf///////////38DAQMgAME=)
-	BL2(BwAAAABnCQoHAAMIEBFQ6AbBAUEAwf///////////38DAQMgAME=)
-	BL2(BwAAAADbRAoHAAMIEBFQKAbBAUEAwf///////////38DAQMgAME=)
-	BL2(BwAAAAAKpgoHAAMIEBFQaAXBAUEAwf///////////38DAQMgAME=)
+BL2(BwAAAAAzmAoHAAMIEBFQKAnBAUEAwf///////////38DAQMgAME=)
+BL2(BwAAAAD3TgoHAAMIEBFQaAjBAUEAwf///////////38DAQMgAME=)
+BL2(BwAAAACj3woHAAMIEBFQqAfBAUEAwf///////////38DAQMgAME=)
+BL2(BwAAAABnCQoHAAMIEBFQ6AbBAUEAwf///////////38DAQMgAME=)
+BL2(BwAAAADbRAoHAAMIEBFQKAbBAUEAwf///////////38DAQMgAME=)
+BL2(BwAAAAAKpgoHAAMIEBFQaAXBAUEAwf///////////38DAQMgAME=)
 
 ---
 ![dGHfmzx](https://github.com/user-attachments/assets/5a102ea9-0b3b-4589-8eec-2648daa430d0)
 **Legendary Hoarder**
 
-	BL2(BwAAAAD9cgoIAAMIsBBQKAnBAUEAwf///////////78EwQEgAME=)
-	BL2(BwAAAAA5pAoIAAMIsBBQaAjBAUEAwf///////////78EwQEgAME=)
-	BL2(BwAAAABtNQoIAAMIsBBQqAfBAUEAwf///////////78EwQEgAME=)
-	BL2(BwAAAACp4woIAAMIsBBQ6AbBAUEAwf///////////78EwQEgAME=)
-	BL2(BwAAAAAVrgoIAAMIsBBQKAbBAUEAwf///////////78EwQEgAME=)
-	BL2(BwAAAADETAoIAAMIsBBQaAXBAUEAwf///////////78EwQEgAME=)
+BL2(BwAAAAD9cgoIAAMIsBBQKAnBAUEAwf///////////78EwQEgAME=)
+BL2(BwAAAAA5pAoIAAMIsBBQaAjBAUEAwf///////////78EwQEgAME=)
+BL2(BwAAAABtNQoIAAMIsBBQqAfBAUEAwf///////////78EwQEgAME=)
+BL2(BwAAAACp4woIAAMIsBBQ6AbBAUEAwf///////////78EwQEgAME=)
+BL2(BwAAAAAVrgoIAAMIsBBQKAbBAUEAwf///////////78EwQEgAME=)
+BL2(BwAAAADETAoIAAMIsBBQaAXBAUEAwf///////////78EwQEgAME=)
 
 ---
 ![YyryIxQ](https://github.com/user-attachments/assets/18c092e0-4687-42c7-b6a5-765385398c69)
 **Legendary Berserker**
 
-	BL2(BwAAAAAL9gApDTIQhBBQaAjBAYEBwf///////////38DwSEBAME=)
-	BL2(BwAAAADPIAApDTIQhBBQKAnBAYEBwf///////////38DwSEBAME=)
-	BL2(BwAAAABfZwApDTIQhBBQqAfBAYEBwf///////////38DwSEBAME=)
-	BL2(BwAAAACbsQApDTIQhBBQ6AbBAYEBwf///////////38DwSEBAME=)
-	BL2(BwAAAAAn/AApDTIQhBBQKAbBAYEBwf///////////38DwSEBAME=)
-	BL2(BwAAAAD2HgApDTIQhBBQaAXBAYEBwf///////////38DwSEBAME=)
+BL2(BwAAAAAL9gApDTIQhBBQaAjBAYEBwf///////////38DwSEBAME=)
+BL2(BwAAAADPIAApDTIQhBBQKAnBAYEBwf///////////38DwSEBAME=)
+BL2(BwAAAABfZwApDTIQhBBQqAfBAYEBwf///////////38DwSEBAME=)
+BL2(BwAAAACbsQApDTIQhBBQ6AbBAYEBwf///////////38DwSEBAME=)
+BL2(BwAAAAAn/AApDTIQhBBQKAbBAYEBwf///////////38DwSEBAME=)
+BL2(BwAAAAD2HgApDTIQhBBQaAXBAYEBwf///////////38DwSEBAME=)
 
 ---
 ![C8hgjuv](https://github.com/user-attachments/assets/9940ea53-ef56-4540-9918-6484f7e08c21)
 **Legendary Siren**
 
-	BL2(BwAAAADE7QAnDXyhAxFQKAnBAUEAwf///////////78EgRgBAME=)
-	BL2(BwAAAAAAOwAnDXyhAxFQaAjBAUEAwf///////////78EgRgBAME=)
-	BL2(BwAAAABUqgAnDXyhAxFQqAfBAUEAwf///////////78EgRgBAME=)
-	BL2(BwAAAACQfAAnDXyhAxFQ6AbBAUEAwf///////////78EgRgBAME=)
-	BL2(BwAAAAAsMQAnDXyhAxFQKAbBAUEAwf///////////78EgRgBAME=)
-	BL2(BwAAAAD90wAnDXyhAxFQaAXBAUEAwf///////////78EgRgBAME=)
+BL2(BwAAAADE7QAnDXyhAxFQKAnBAUEAwf///////////78EgRgBAME=)
+BL2(BwAAAAAAOwAnDXyhAxFQaAjBAUEAwf///////////78EgRgBAME=)
+BL2(BwAAAABUqgAnDXyhAxFQqAfBAUEAwf///////////78EgRgBAME=)
+BL2(BwAAAACQfAAnDXyhAxFQ6AbBAUEAwf///////////78EgRgBAME=)
+BL2(BwAAAAAsMQAnDXyhAxFQKAbBAUEAwf///////////78EgRgBAME=)
+BL2(BwAAAAD90wAnDXyhAxFQaAXBAUEAwf///////////78EgRgBAME=)
 
 ---
 ![n9LZxcL](https://github.com/user-attachments/assets/40412706-ef73-4664-ba12-4ac2e3d2834e)
 **Legendary Binder**
 
-	BL2(BwAAAADV8QoAAAMIEBFQKAnBAUEAwf///////////78EAQAgAME=)
-	BL2(BwAAAAARJwoAAAMIEBFQaAjBAUEAwf///////////78EAQAgAME=)
-	BL2(BwAAAAARJwoAAAMIEBFQaAjBAUEAwf///////////78EAQAgAME=)
-	BL2(BwAAAACBYAoAAAMIEBFQ6AbBAUEAwf///////////78EAQAgAME=)
-	BL2(BwAAAAA9LQoAAAMIEBFQKAbBAUEAwf///////////78EAQAgAME=)
-	BL2(BwAAAADszwoAAAMIEBFQaAXBAUEAwf///////////78EAQAgAME=)
+BL2(BwAAAADV8QoAAAMIEBFQKAnBAUEAwf///////////78EAQAgAME=)
+BL2(BwAAAAARJwoAAAMIEBFQaAjBAUEAwf///////////78EAQAgAME=)
+BL2(BwAAAAARJwoAAAMIEBFQaAjBAUEAwf///////////78EAQAgAME=)
+BL2(BwAAAACBYAoAAAMIEBFQ6AbBAUEAwf///////////78EAQAgAME=)
+BL2(BwAAAAA9LQoAAAMIEBFQKAbBAUEAwf///////////78EAQAgAME=)
+BL2(BwAAAADszwoAAAMIEBFQaAXBAUEAwf///////////78EAQAgAME=)
 
 ---
 ![H48nEzV](https://github.com/user-attachments/assets/09833dcc-5006-4f3f-8a90-417d73b7309f)
 **Legendary Cat**
 
-	BL2(BwAAAAA2aQoCAAMIsBBQKAnBAUEAwf///////////78EgQAgAME=)
-	BL2(BwAAAADyvwoCAAMIsBBQaAjBAUEAwf///////////78EgQAgAME=)
-	BL2(BwAAAACmLgoCAAMIsBBQqAfBAUEAwf///////////78EgQAgAME=)
-	BL2(BwAAAABi+AoCAAMIsBBQ6AbBAUEAwf///////////78EgQAgAME=)
-	BL2(BwAAAADetQoCAAMIsBBQKAbBAUEAwf///////////78EgQAgAME=)
-	BL2(BwAAAAAPVwoCAAMIsBBQaAXBAUEAwf///////////78EgQAgAME=)
+BL2(BwAAAAA2aQoCAAMIsBBQKAnBAUEAwf///////////78EgQAgAME=)
+BL2(BwAAAADyvwoCAAMIsBBQaAjBAUEAwf///////////78EgQAgAME=)
+BL2(BwAAAACmLgoCAAMIsBBQqAfBAUEAwf///////////78EgQAgAME=)
+BL2(BwAAAABi+AoCAAMIsBBQ6AbBAUEAwf///////////78EgQAgAME=)
+BL2(BwAAAADetQoCAAMIsBBQKAbBAUEAwf///////////78EgQAgAME=)
+BL2(BwAAAAAPVwoCAAMIsBBQaAXBAUEAwf///////////78EgQAgAME=)
 
 ---
 ![8G6XpLY](https://github.com/user-attachments/assets/4a28a571-edc0-4253-8ede-387344eb46a9)
 **Legendary Nurse**
 
-	BL2(BwAAAAD7rQoBAAMI8BFQKAnBAUEAwf///////////78EQQAgAME=)
-	BL2(BwAAAAA/ewoBAAMI8BFQaAjBAUEAwf///////////78EQQAgAME=)
-	BL2(BwAAAABr6goBAAMI8BFQqAfBAUEAwf///////////78EQQAgAME=)
-	BL2(BwAAAACvPAoBAAMI8BFQ6AbBAUEAwf///////////78EQQAgAME=)
-	BL2(BwAAAAATcQoBAAMI8BFQKAbBAUEAwf///////////78EQQAgAME=)
-	BL2(BwAAAADCkwoBAAMI8BFQaAXBAUEAwf///////////78EQQAgAME=)
+BL2(BwAAAAD7rQoBAAMI8BFQKAnBAUEAwf///////////78EQQAgAME=)
+BL2(BwAAAAA/ewoBAAMI8BFQaAjBAUEAwf///////////78EQQAgAME=)
+BL2(BwAAAABr6goBAAMI8BFQqAfBAUEAwf///////////78EQQAgAME=)
+BL2(BwAAAACvPAoBAAMI8BFQ6AbBAUEAwf///////////78EQQAgAME=)
+BL2(BwAAAAATcQoBAAMI8BFQKAbBAUEAwf///////////78EQQAgAME=)
+BL2(BwAAAADCkwoBAAMI8BFQaAXBAUEAwf///////////78EQQAgAME=)
 
 ---
 ![DXV3f45](https://github.com/user-attachments/assets/f5b46230-b86c-4c93-a8b2-46cfb5c6b622)
 **Legendary Mechromancer**
 
-	BL2(BwAAAAC8ZAIKAQkI0BBQKAnBAUEAwf///////////38DQQsgAME=)
-	BL2(BwAAAAB4sgIKAQkI0BBQaAjBAUEAwf///////////38DQQsgAME=)
-	BL2(BwAAAAAsIwIKAQkI0BBQqAfBAUEAwf///////////38DQQsgAME=)
-	BL2(BwAAAADo9QIKAQkI0BBQ6AbBAUEAwf///////////38DQQsgAME=)
-	BL2(BwAAAABUuAIKAQkI0BBQKAbBAUEAwf///////////38DQQsgAME=)
-	BL2(BwAAAACFWgIKAQkI0BBQaAXBAUEAwf///////////38DQQsgAME=)
+BL2(BwAAAAC8ZAIKAQkI0BBQKAnBAUEAwf///////////38DQQsgAME=)
+BL2(BwAAAAB4sgIKAQkI0BBQaAjBAUEAwf///////////38DQQsgAME=)
+BL2(BwAAAAAsIwIKAQkI0BBQqAfBAUEAwf///////////38DQQsgAME=)
+BL2(BwAAAADo9QIKAQkI0BBQ6AbBAUEAwf///////////38DQQsgAME=)
+BL2(BwAAAABUuAIKAQkI0BBQKAbBAUEAwf///////////38DQQsgAME=)
+BL2(BwAAAACFWgIKAQkI0BBQaAXBAUEAwf///////////38DQQsgAME=)
 
 ---
 ![Vji4flr](https://github.com/user-attachments/assets/741cbd0b-a336-4771-8d42-d4eb671076cc)
 **Legendary Catalyst**
 
-	BL2(BwAAAACvTwoVAAMIEBFQKAnBAUEAwf///////////78EgQMgAME=)
-	BL2(BwAAAABrmQoVAAMIEBFQaAjBAUEAwf///////////78EgQMgAME=)
-	BL2(BwAAAAA/CAoVAAMIEBFQqAfBAUEAwf///////////78EgQMgAME=)
-	BL2(BwAAAAD73goVAAMIEBFQ6AbBAUEAwf///////////78EgQMgAME=)
-	BL2(BwAAAABHkwoVAAMIEBFQKAbBAUEAwf///////////78EgQMgAME=)
-	BL2(BwAAAACWcQoVAAMIEBFQaAXBAUEAwf///////////78EgQMgAME=)
+BL2(BwAAAACvTwoVAAMIEBFQKAnBAUEAwf///////////78EgQMgAME=)
+BL2(BwAAAABrmQoVAAMIEBFQaAjBAUEAwf///////////78EgQMgAME=)
+BL2(BwAAAAA/CAoVAAMIEBFQqAfBAUEAwf///////////78EgQMgAME=)
+BL2(BwAAAAD73goVAAMIEBFQ6AbBAUEAwf///////////78EgQMgAME=)
+BL2(BwAAAABHkwoVAAMIEBFQKAbBAUEAwf///////////78EgQMgAME=)
+BL2(BwAAAACWcQoVAAMIEBFQaAXBAUEAwf///////////78EgQMgAME=)
 
 ---
 ![lfBsdak](https://github.com/user-attachments/assets/cfe5578a-7326-45dc-8473-4e64bb67d7ef)
 **Legendary Roboteer**
 
-	BL2(BwAAAACJ1QoWAAMIsBBQKAnBAUEAwf///////////78EQQMgAME=)
-	BL2(BwAAAABNAwoWAAMIsBBQaAjBAUEAwf///////////78EQQMgAME=)
-	BL2(BwAAAAAZkgoWAAMIsBBQqAfBAUEAwf///////////78EQQMgAME=)
-	BL2(BwAAAADdRAoWAAMIsBBQ6AbBAUEAwf///////////78EQQMgAME=)
-	BL2(BwAAAABhCQoWAAMIsBBQKAbBAUEAwf///////////78EQQMgAME=)
-	BL2(BwAAAACw6woWAAMIsBBQaAXBAUEAwf///////////78EQQMgAME=)
+BL2(BwAAAACJ1QoWAAMIsBBQKAnBAUEAwf///////////78EQQMgAME=)
+BL2(BwAAAABNAwoWAAMIsBBQaAjBAUEAwf///////////78EQQMgAME=)
+BL2(BwAAAAAZkgoWAAMIsBBQqAfBAUEAwf///////////78EQQMgAME=)
+BL2(BwAAAADdRAoWAAMIsBBQ6AbBAUEAwf///////////78EQQMgAME=)
+BL2(BwAAAABhCQoWAAMIsBBQKAbBAUEAwf///////////78EQQMgAME=)
+BL2(BwAAAACw6woWAAMIsBBQaAXBAUEAwf///////////78EQQMgAME=)
 
 ---
 ![HR8LrF8](https://github.com/user-attachments/assets/e76b361d-4b45-4361-a771-68516106d859)
 **Legendary Anarchist**
 
-	BL2(BwAAAADe4QoUAAMIsBBQKAnBAUEAwf///////////78EwQMgAME=)
-	BL2(BwAAAAAaNwoUAAMIsBBQaAjBAUEAwf///////////78EwQMgAME=)
-	BL2(BwAAAABOpgoUAAMIsBBQqAfBAUEAwf///////////78EwQMgAME=)
-	BL2(BwAAAACKcAoUAAMIsBBQ6AbBAUEAwf///////////78EwQMgAME=)
-	BL2(BwAAAAA2PQoUAAMIsBBQKAbBAUEAwf///////////78EwQMgAME=)
-	BL2(BwAAAADn3woUAAMIsBBQaAXBAUEAwf///////////78EwQMgAME=)
+BL2(BwAAAADe4QoUAAMIsBBQKAnBAUEAwf///////////78EwQMgAME=)
+BL2(BwAAAAAaNwoUAAMIsBBQaAjBAUEAwf///////////78EwQMgAME=)
+BL2(BwAAAABOpgoUAAMIsBBQqAfBAUEAwf///////////78EwQMgAME=)
+BL2(BwAAAACKcAoUAAMIsBBQ6AbBAUEAwf///////////78EwQMgAME=)
+BL2(BwAAAAA2PQoUAAMIsBBQKAbBAUEAwf///////////78EwQMgAME=)
+BL2(BwAAAADn3woUAAMIsBBQaAXBAUEAwf///////////78EwQMgAME=)
 
 ---
 ![dpOKySM](https://github.com/user-attachments/assets/692fc9ae-bbaa-4e38-803d-bdfe02b13239)
 **Legendary Psycho**
 
-	BL2(BwAAAAAHkQYLAAcAMBBQKAnBAUEAwf///////////78EQQkgAME=)
-	BL2(BwAAAADDRwYLAAcAMBBQaAjBAUEAwf///////////78EQQkgAME=)
-	BL2(BwAAAACX1gYLAAcAMBBQqAfBAUEAwf///////////78EQQkgAME=)
-	BL2(BwAAAABTAAYLAAcAMBBQ6AbBAUEAwf///////////78EQQkgAME=)
-	BL2(BwAAAADvTQYLAAcAMBBQKAbBAUEAwf///////////78EQQkgAME=)
-	BL2(BwAAAAA+rwYLAAcAMBBQaAXBAUEAwf///////////78EQQkgAME=)
+BL2(BwAAAAAHkQYLAAcAMBBQKAnBAUEAwf///////////78EQQkgAME=)
+BL2(BwAAAADDRwYLAAcAMBBQaAjBAUEAwf///////////78EQQkgAME=)
+BL2(BwAAAACX1gYLAAcAMBBQqAfBAUEAwf///////////78EQQkgAME=)
+BL2(BwAAAABTAAYLAAcAMBBQ6AbBAUEAwf///////////78EQQkgAME=)
+BL2(BwAAAADvTQYLAAcAMBBQKAbBAUEAwf///////////78EQQkgAME=)
+BL2(BwAAAAA+rwYLAAcAMBBQaAXBAUEAwf///////////78EQQkgAME=)
 
 ---
 ![WklwgGu](https://github.com/user-attachments/assets/1dc185f4-f0fb-4afa-97d0-778afd6bdafe)
 **Legendary Sickle**
 
-	BL2(BwAAAADKYgoYAAMIEBFQKAnBAUEAwf///////////78EgQQgAME=)
-	BL2(BwAAAAAOtAoYAAMIEBFQaAjBAUEAwf///////////78EgQQgAME=)
-	BL2(BwAAAABaJQoYAAMIEBFQqAfBAUEAwf///////////78EgQQgAME=)
-	BL2(BwAAAACe8woYAAMIEBFQ6AbBAUEAwf///////////78EgQQgAME=)
-	BL2(BwAAAAAivgoYAAMIEBFQKAbBAUEAwf///////////78EgQQgAME=)
-	BL2(BwAAAADzXAoYAAMIEBFQaAXBAUEAwf///////////78EgQQgAME=)
+BL2(BwAAAADKYgoYAAMIEBFQKAnBAUEAwf///////////78EgQQgAME=)
+BL2(BwAAAAAOtAoYAAMIEBFQaAjBAUEAwf///////////78EgQQgAME=)
+BL2(BwAAAABaJQoYAAMIEBFQqAfBAUEAwf///////////78EgQQgAME=)
+BL2(BwAAAACe8woYAAMIEBFQ6AbBAUEAwf///////////78EgQQgAME=)
+BL2(BwAAAAAivgoYAAMIEBFQKAbBAUEAwf///////////78EgQQgAME=)
+BL2(BwAAAADzXAoYAAMIEBFQaAXBAUEAwf///////////78EgQQgAME=)
 
 ---
 ![9T4cNIx](https://github.com/user-attachments/assets/8147b72e-62ce-4f0f-b9c5-a13f1a0e5c2b)
 **Legendary Torch**
 
-	BL2(BwAAAABthAoZAAMIEBFQKAnBAUEAwf///////////78EQQQgAME=)
-	BL2(BwAAAACpUgoZAAMIEBFQaAjBAUEAwf///////////78EQQQgAME=)
-	BL2(BwAAAAD9wwoZAAMIEBFQqAfBAUEAwf///////////78EQQQgAME=)
-	BL2(BwAAAAA5FQoZAAMIEBFQ6AbBAUEAwf///////////78EQQQgAME=)
-	BL2(BwAAAACFWAoZAAMIEBFQKAbBAUEAwf///////////78EQQQgAME=)
-	BL2(BwAAAABUugoZAAMIEBFQaAXBAUEAwf///////////78EQQQgAME=)
+BL2(BwAAAABthAoZAAMIEBFQKAnBAUEAwf///////////78EQQQgAME=)
+BL2(BwAAAACpUgoZAAMIEBFQaAjBAUEAwf///////////78EQQQgAME=)
+BL2(BwAAAAD9wwoZAAMIEBFQqAfBAUEAwf///////////78EQQQgAME=)
+BL2(BwAAAAA5FQoZAAMIEBFQ6AbBAUEAwf///////////78EQQQgAME=)
+BL2(BwAAAACFWAoZAAMIEBFQKAbBAUEAwf///////////78EQQQgAME=)
+BL2(BwAAAABUugoZAAMIEBFQaAXBAUEAwf///////////78EQQQgAME=)
 
 ---
 ![YuR6CW0](https://github.com/user-attachments/assets/c1686cf3-5539-4bc1-a9c1-b42a83cfc951)
 **Legendary Reaper**
 
-	BL2(BwAAAADVxgoXAAMIEBFQKAnBAUEAwf///////////78EAQQgAME=)
-	BL2(BwAAAAAREAoXAAMIEBFQaAjBAUEAwf///////////78EAQQgAME=)
-	BL2(BwAAAABFgQoXAAMIEBFQqAfBAUEAwf///////////78EAQQgAME=)
-	BL2(BwAAAACBVwoXAAMIEBFQ6AbBAUEAwf///////////78EAQQgAME=)
-	BL2(BwAAAAA9GgoXAAMIEBFQKAbBAUEAwf///////////78EAQQgAME=)
-	BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
+BL2(BwAAAADVxgoXAAMIEBFQKAnBAUEAwf///////////78EAQQgAME=)
+BL2(BwAAAAAREAoXAAMIEBFQaAjBAUEAwf///////////78EAQQgAME=)
+BL2(BwAAAABFgQoXAAMIEBFQqAfBAUEAwf///////////78EAQQgAME=)
+BL2(BwAAAACBVwoXAAMIEBFQ6AbBAUEAwf///////////78EAQQgAME=)
+BL2(BwAAAAA9GgoXAAMIEBFQKAbBAUEAwf///////////78EAQQgAME=)
+BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 # Class Mods
 ## Zer0
 ![JXihvfg](https://github.com/user-attachments/assets/c36af0c5-0777-4aee-bfba-4dbff08a9d18)
@@ -271,19 +271,19 @@
 
 (Cooldown Rate +35% / Critical Damage +29% / Reload Speed +16%) 
 
-        	BL2(BwAAAADTlAArDZShYxAyGQXBAUEAwf///////////38DASYBAME=) 
+        BL2(BwAAAADTlAArDZShYxAyGQXBAUEAwf///////////38DASYBAME=) 
 ---
 **Legendary Sniper**
 
-        	BL2(BwAAAACxTgoMAAsAsBBIJAXBAUEAwf///////////78EwQIgAME=)
+        BL2(BwAAAACxTgoMAAsAsBBIJAXBAUEAwf///////////78EwQIgAME=)
 ---
 **Legendary Ninja**
 
-        	BL2(BwAAAADNBgoLAAsAEBFIJAXBAUEAwf///////////78EQQIgAME=)
+        BL2(BwAAAADNBgoLAAsAEBFIJAXBAUEAwf///////////78EQQIgAME=)
 ---
 **Legendary Killer**
 
-        	BL2(BwAAAACBvgoKAAsA8BFIJAXBAUEAwf///////////78EgQIgAME=)
+        BL2(BwAAAACBvgoKAAsA8BFIJAXBAUEAwf///////////78EgQIgAME=)
 ---
 **Slayer Of Terramorphous** 
 
@@ -291,7 +291,7 @@
 
 (Burn Damage +26% / Burn Chance +26% / Max Health +8294) 
 
-        	BL2(BwAAAADVKQAjDZKhYxAyGQXBAUEAwf///////////38DwQkBAME=)
+        BL2(BwAAAADVKQAjDZKhYxAyGQXBAUEAwf///////////38DwQkBAME=)
 
 ![2qqzb3i](https://github.com/user-attachments/assets/731673ff-5aa5-4d4f-a33f-1bd610787b5f)
 
@@ -301,7 +301,7 @@
 
 (Max Health +9015 / Health Regeneration + 236.6) 
 
-        	BL2(BwAAAAADAQAUDZahIxAymQXBAUEAwf///////////38DQSYBAME=) 
+        BL2(BwAAAAADAQAUDZahIxAymQXBAUEAwf///////////38DQSYBAME=) 
 ---
 **Disturbed Survivor**
 
@@ -309,14 +309,14 @@
 
 (Max Health +9015 / Health Regeneration + 236.6) 
 
-        	BL2(BwAAAADZOgAUDZahIxAyGQfBAUEAwf///////////38DgSYBAME=) 
+        BL2(BwAAAADZOgAUDZahIxAyGQfBAUEAwf///////////38DgSYBAME=) 
 ---
 **Contemptible Survivor**
 (Ambush +5 / Rising Sh0t +4 / Resurgence +4) 
 
 (Max Health +9015 / Health Regeneration + 236.6) 
 
-        	BL2(BwAAAACcDQAUDZahIxAymQjBAUEAwf///////////38DwSYBAME=) 
+        BL2(BwAAAACcDQAUDZahIxAymQjBAUEAwf///////////38DwSYBAME=) 
 ---
 **Contemptible Killer**
 
@@ -324,7 +324,7 @@
 
 (Team Critical Damage +40%) 
 
-        	BL2(BwAAAACDigAfDZahwxAymQXBAQEBwf///////////38DQS0BAME=) 
+        BL2(BwAAAACDigAfDZahwxAymQXBAQEBwf///////////38DQS0BAME=) 
 ---
 **Unpredictable Killer**
 
@@ -332,7 +332,7 @@
 
 (Team Critical Damage +40%) 
 
-        	BL2(BwAAAAAchgAfDZahwxAymQjBAQEBwf///////////38DwS0BAME=)
+        BL2(BwAAAAAchgAfDZahwxAymQjBAQEBwf///////////38DwS0BAME=)
 ---
 **The Killer** 
 
@@ -340,7 +340,7 @@
 
 (Team Critical Damage +40%) 
 
-        	BL2(BwAAAAC+gAAfDZahwxAyGQfBAUEAwf///////////38DgS0BAME=)
+        BL2(BwAAAAC+gAAfDZahwxAyGQfBAUEAwf///////////38DgS0BAME=)
 ---
 **Tricky Spy**
 
@@ -348,7 +348,7 @@
 
 (Cooldown Rate +13%) 
 
-        	BL2(BwAAAAD7OQAsDZahAxEymQXBAUEAwf///////////38DQSgBAME=) 
+        BL2(BwAAAAD7OQAsDZahAxEymQXBAUEAwf///////////38DQSgBAME=) 
 ---
 **Swift Spy** 
 
@@ -356,7 +356,7 @@
 
 (Cooldown Rate +13%) 
 
-        	BL2(BwAAAABkNQAsDZahAxEymQjBAUEAwf///////////38DwSgBAME=) 
+        BL2(BwAAAABkNQAsDZahAxEymQjBAUEAwf///////////38DwSgBAME=) 
 ---
 **Contemptible Spy**
 
@@ -364,7 +364,7 @@
 
 (Cooldown Rate +13%) 
 
-        	BL2(BwAAAAAhAgAsDZahAxEyGQfBAUEAwf///////////38DgSgBAME=) 
+        BL2(BwAAAAAhAgAsDZahAxEyGQfBAUEAwf///////////38DgSgBAME=) 
 ---
 **Razored Stalker**
 
@@ -372,7 +372,7 @@
 
 (Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
 
-        	BL2(BwAAAAC79gAVDZahoxAymQXBAUEAwf///////////38DQScBAME=) 
+        BL2(BwAAAAC79gAVDZahoxAymQXBAUEAwf///////////38DQScBAME=) 
 ---
 **Shadow Stalker** 
 
@@ -380,7 +380,7 @@
 
 (Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
 
-        	BL2(BwAAAABhzQAVDZahoxAyGQfBAUEAwf///////////38DgScBAME=)
+        BL2(BwAAAABhzQAVDZahoxAyGQfBAUEAwf///////////38DgScBAME=)
 ---
 **Disturbed Stalker**
 
@@ -388,7 +388,7 @@
 
 (Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
 
-        	BL2(BwAAAAAk+gAVDZahoxAymQjBAUEAwf///////////38DwScBAME=)
+        BL2(BwAAAAAk+gAVDZahoxAymQjBAUEAwf///////////38DwScBAME=)
 ---
 **Tranquil Sniper**
 
@@ -396,7 +396,7 @@
 
 (Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
 
-        	BL2(BwAAAADAYQAWDZahYxAymQjBAUEAwf///////////38DwSkBAME=) 
+        BL2(BwAAAADAYQAWDZahYxAymQjBAUEAwf///////////38DwSkBAME=) 
 ---
 **One Shot Sniper** 
 
@@ -404,7 +404,7 @@
 
 (Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
 
-        	BL2(BwAAAACFVgAWDZahYxAyGQfBAUEAwf///////////38DgSkBAME=) 
+        BL2(BwAAAACFVgAWDZahYxAyGQfBAUEAwf///////////38DgSkBAME=) 
 ---
 **Deadly Sniper**
 
@@ -412,7 +412,7 @@
 
 (Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
 
-        	BL2(BwAAAABfbQAWDZahYxAymQXBAUEAwf///////////38DQSkBAME=) 
+        BL2(BwAAAABfbQAWDZahYxAymQXBAUEAwf///////////38DQSkBAME=) 
 ---
 **Sure Shot** 
 
@@ -420,7 +420,7 @@
 
 (Team Accuracy +28%) 
 
-        	BL2(BwAAAABnTQAeDZahwxAyGQfBAUEAwf///////////38DgSoBAME=) 
+        BL2(BwAAAABnTQAeDZahwxAyGQfBAUEAwf///////////38DgSoBAME=) 
 ---
 **True Shot**
 
@@ -428,7 +428,7 @@
 
 (Team Accuracy +28%) 
 
-        	BL2(BwAAAAC9dgAeDZahwxAymQXBAUEAwf///////////38DQSoBAME=) 
+        BL2(BwAAAAC9dgAeDZahwxAymQXBAUEAwf///////////38DQSoBAME=) 
 ---
 **Long Shot**
 
@@ -436,7 +436,7 @@
 
 (Team Accuracy +28%) 
 
-        	BL2(BwAAAAAiegAeDZahwxAymQjBAUEAwf///////////38DwSoBAME=) 
+        BL2(BwAAAAAiegAeDZahwxAymQjBAUEAwf///////////38DwSoBAME=) 
 ---
 **Succinct Professional** 
 
@@ -444,7 +444,7 @@
 
 (Reload Speed +29% / Shield Capacity +793) 
 
-        	BL2(BwAAAADSwQAXDZahQxAymQXBAUEAwf///////////38DQSsBAME=) 
+        BL2(BwAAAADSwQAXDZahQxAymQXBAUEAwf///////////38DQSsBAME=) 
 ---
 **The Professional**
 
@@ -452,7 +452,7 @@
 
 (Reload Speed +29% / Shield Capacity +793) 
 
-        	BL2(BwAAAAAI+gAXDZahQxAyGQfBAUEAwf///////////38DgSsBAME=)
+        BL2(BwAAAAAI+gAXDZahQxAyGQfBAUEAwf///////////38DgSsBAME=)
 ---
 **Unequaled Professional** 
 
@@ -460,7 +460,7 @@
 
 (Reload Speed +29% / Shield Capacity +793) 
 
-        	BL2(BwAAAABNzQAXDZahQxAymQjBAUEAwf///////////38DwSsBAME=) 
+        BL2(BwAAAABNzQAXDZahQxAymQjBAUEAwf///////////38DwSsBAME=) 
 ---
 **Lethal Ninja**
 
@@ -468,7 +468,7 @@
 
 (Melee Damage +46%) 
 
-        	BL2(BwAAAADdzgAYDZahAxEymQXBAUEAwf///////////38DQSwBAME=) 
+        BL2(BwAAAADdzgAYDZahAxEymQXBAUEAwf///////////38DQSwBAME=) 
 ---
 **Bloodied Ninja**
 
@@ -476,7 +476,7 @@
 
 (Melee Damage +46%) 
 
-        	BL2(BwAAAAAH9QAYDZahAxEyGQfBAUEAwf///////////38DgSwBAME=) 
+        BL2(BwAAAAAH9QAYDZahAxEyGQfBAUEAwf///////////38DgSwBAME=) 
 ---
 **Shadow Ninja**
 
@@ -484,7 +484,7 @@
 
 (Melee Damage +46%) 
 
-        	BL2(BwAAAABCwgAYDZahAxEymQjBAUEAwf///////////38DwSwBAME=) 
+        BL2(BwAAAABCwgAYDZahAxEymQjBAUEAwf///////////38DwSwBAME=) 
 ---
 **Rugged Infiltrator**
 
@@ -492,7 +492,7 @@
 
 (Fire Rate +26% / Melee Damage +36%) 
 
-        	BL2(BwAAAAAtbwAgDZahQxAymQXBAUEAwf///////////38DQS4BAME=) 
+        BL2(BwAAAAAtbwAgDZahQxAymQXBAUEAwf///////////38DQS4BAME=) 
 ---
 **Tricky Infiltrator** 
 
@@ -500,7 +500,7 @@
 
 (Fire Rate +26% / Melee Damage +36%) 
 
-        	BL2(BwAAAAD3VAAgDZahQxAyGQfBAUEAwf///////////38DgS4BAME=) 
+        BL2(BwAAAAD3VAAgDZahQxAyGQfBAUEAwf///////////38DgS4BAME=) 
 ---
 **Graceful Infiltrator** 
 
@@ -508,223 +508,223 @@
 
 (Fire Rate +26% / Melee Damage +36%) 
 
-        	BL2(BwAAAACyYwAgDZahQxAymQjBAUEAwf///////////38DwS4BAME=)
+        BL2(BwAAAACyYwAgDZahQxAymQjBAUEAwf///////////38DwS4BAME=)
 ---
-**Chaotic Evil Rogue** 
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue** 
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAAAO6QkcFAWwEBG9ngjBAUEAwf///////////38DAQchAME=)
+        BL2(BwAAAAAO6QkcFAWwEBG9ngjBAUEAwf///////////38DAQchAME=)
 ---
-**Chaotic Evil Rogue**  	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**  	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAAB6rAkcFAWwEBG9HgfBAUEAwf///////////38DAQchAME=)
+        BL2(BwAAAAB6rAkcFAWwEBG9HgfBAUEAwf///////////38DAQchAME=)
 ---
-**Chaotic Evil Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
 
-        	BL2(BwAAAADzAQkcFAWwEBG9ngXBAUEAwf///////////38DAQchAME=)
+        BL2(BwAAAADzAQkcFAWwEBG9ngXBAUEAwf///////////38DAQchAME=)
 ---
-**Chaotic Good Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAADvhgkbFAWwEBG9ngjBAUEAwf///////////38DwQYhAME=)
+        BL2(BwAAAADvhgkbFAWwEBG9ngjBAUEAwf///////////38DwQYhAME=)
 ---
-**Chaotic Good Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAACbwwkbFAWwEBG9HgfBAUEAwf///////////38DwQYhAME=)
+        BL2(BwAAAACbwwkbFAWwEBG9HgfBAUEAwf///////////38DwQYhAME=)
 ---
-**Chaotic Good Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
 
-        	BL2(BwAAAAASbgkbFAWwEBG9ngXBAUEAwf///////////38DwQYhAME=)
+        BL2(BwAAAAASbgkbFAWwEBG9ngXBAUEAwf///////////38DwQYhAME=)
 ---
-**Chaotic Neutral Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAAB9sAkYFAWwEBG9ngjBAUEAwf///////////38DAQYhAME=)
+        BL2(BwAAAAB9sAkYFAWwEBG9ngjBAUEAwf///////////38DAQYhAME=)
 ---
-**Chaotic Neutral Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAAAJ9QkYFAWwEBG9HgfBAUEAwf///////////38DAQYhAME=)
+        BL2(BwAAAAAJ9QkYFAWwEBG9HgfBAUEAwf///////////38DAQYhAME=)
 ---
-**Chaotic Neutral Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
 
-        	BL2(BwAAAACAWAkYFAWwEBG9ngXBAUEAwf///////////38DAQYhAME=)
+        BL2(BwAAAACAWAkYFAWwEBG9ngXBAUEAwf///////////38DAQYhAME=)
 ---
-**Lawful Evil Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAABZ3QkeFAWwEBG9ngjBAUEAwf///////////38DgQchAME=)
+        BL2(BwAAAABZ3QkeFAWwEBG9ngjBAUEAwf///////////38DgQchAME=)
 ---
-**Lawful Evil Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAAAtmAkeFAWwEBG9HgfBAUEAwf///////////38DgQchAME=)
+        BL2(BwAAAAAtmAkeFAWwEBG9HgfBAUEAwf///////////38DgQchAME=)
 ---
-**Lawful Evil Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
 
-        	BL2(BwAAAACkNQkeFAWwEBG9ngXBAUEAwf///////////38DgQchAME=)
+        BL2(BwAAAACkNQkeFAWwEBG9ngXBAUEAwf///////////38DgQchAME=)
 ---
-**Lawful Good Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAAC4sgkZFAWwEBG9ngjBAUEAwf///////////38DQQYhAME=)
+        BL2(BwAAAAC4sgkZFAWwEBG9ngjBAUEAwf///////////38DQQYhAME=)
 ---
-**Lawful Good Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAADM9wkZFAWwEBG9HgfBAUEAwf///////////38DQQYhAME=)
+        BL2(BwAAAADM9wkZFAWwEBG9HgfBAUEAwf///////////38DQQYhAME=)
 ---
-**Lawful Good Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
 
-        	BL2(BwAAAABFWgkZFAWwEBG9ngXBAUEAwf///////////38DQQYhAME=)
+        BL2(BwAAAABFWgkZFAWwEBG9ngXBAUEAwf///////////38DQQYhAME=)
 ---
-**Lawful Neutral Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAACnXAkXFAWwEBG9ngjBAUEAwf///////////38DwQUhAME=)
+        BL2(BwAAAACnXAkXFAWwEBG9ngjBAUEAwf///////////38DwQUhAME=)
 ---
-**Lawful Neutral Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAADTGQkXFAWwEBG9HgfBAUEAwf///////////38DwQUhAME=)
+        BL2(BwAAAADTGQkXFAWwEBG9HgfBAUEAwf///////////38DwQUhAME=)
 ---
-**Lawful Neutral Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
 
-        	BL2(BwAAAABatAkXFAWwEBG9ngXBAUEAwf///////////38DwQUhAME=)
+        BL2(BwAAAABatAkXFAWwEBG9ngXBAUEAwf///////////38DwQUhAME=)
 ---
-**Neutral Evil Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAADL6wkdFAWwEBG9ngjBAUEAwf///////////38DQQchAME=)
+        BL2(BwAAAADL6wkdFAWwEBG9ngjBAUEAwf///////////38DQQchAME=)
 
-**Neutral Evil Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAAC/rgkdFAWwEBG9HgfBAUEAwf///////////38DQQchAME=)
+        BL2(BwAAAAC/rgkdFAWwEBG9HgfBAUEAwf///////////38DQQchAME=)
 
-**Neutral Evil Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
 
-        	BL2(BwAAAAA2AwkdFAWwEBG9ngXBAUEAwf///////////38DQQchAME=)
+        BL2(BwAAAAA2AwkdFAWwEBG9ngXBAUEAwf///////////38DQQchAME=)
 
-**Neutral Good Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAAAqhAkaFAWwEBG9ngjBAUEAwf///////////38DgQYhAME=)
+        BL2(BwAAAAAqhAkaFAWwEBG9ngjBAUEAwf///////////38DgQYhAME=)
 
-**Neutral Good Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAABewQkaFAWwEBG9HgfBAUEAwf///////////38DgQYhAME=)
+        BL2(BwAAAABewQkaFAWwEBG9HgfBAUEAwf///////////38DgQYhAME=)
 
-**Neutral Good Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
 
-        	BL2(BwAAAADXbAkaFAWwEBG9ngXBAUEAwf///////////38DgQYhAME=)
+        BL2(BwAAAADXbAkaFAWwEBG9ngXBAUEAwf///////////38DgQYhAME=)
 
-**True Neutral Rogue**	
+**True $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +73%]	
 
 [+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAABiXgkWFAWwEBG9ngjBAUEAwf///////////38DgQUhAME=)
+        BL2(BwAAAABiXgkWFAWwEBG9ngjBAUEAwf///////////38DgQUhAME=)
 
-**True Neutral Rogue**	
+**True $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +73%]	
 
 [+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
 
-        	BL2(BwAAAAAWGwkWFAWwEBG9HgfBAUEAwf///////////38DgQUhAME=)
+        BL2(BwAAAAAWGwkWFAWwEBG9HgfBAUEAwf///////////38DgQUhAME=)
 
-**True Neutral Rogue**	
+**True $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +73%]	
 
 [+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
 
-        	BL2(BwAAAACftgkWFAWwEBG9ngXBAUEAwf///////////38DgQUhAME=)
+        BL2(BwAAAACftgkWFAWwEBG9ngXBAUEAwf///////////38DgQUhAME=)
 
 ![l2y9DwA](https://github.com/user-attachments/assets/f2143590-4baf-4510-b498-9087c5de48ef)
 
@@ -734,7 +734,7 @@
 
 (Max Health +9015 / Health Regeneration +236.6) 
 
-	BL2(BwAAAABjdwAUDZihIxAyGQnBAUEAwf///////////38DQSYBAME=) 
+BL2(BwAAAABjdwAUDZihIxAyGQnBAUEAwf///////////38DQSYBAME=) 
 
 
 **Contemptible Survivor** 
@@ -743,7 +743,7 @@
 
 (Max Health +9015 / Health Regeneration +236.6) 
 
-	BL2(BwAAAACnoQAUDZihIxAyWQjBAUEAwf///////////38DQSYBAME=) 
+BL2(BwAAAACnoQAUDZihIxAyWQjBAUEAwf///////////38DQSYBAME=) 
 
 
 **Disturbed Survivor** 
@@ -752,7 +752,7 @@
 
 (Max Health +9015 / Health Regeneration +236.6) 
 
-	BL2(BwAAAACgpgAUDZihIxAymQfBAUEAwf///////////38DgSYBAME=) 
+BL2(BwAAAACgpgAUDZihIxAymQfBAUEAwf///////////38DgSYBAME=) 
 
 
 **Disturbed Survivor** 
@@ -761,7 +761,7 @@
 
 (Max Health +9015 / Health Regeneration +236.6) 
 
-	BL2(BwAAAABkcAAUDZihIxAy2QbBAUEAwf///////////38DgSYBAME=) 
+BL2(BwAAAABkcAAUDZihIxAy2QbBAUEAwf///////////38DgSYBAME=) 
 
 
 **Bloodied Survivor** 
@@ -770,7 +770,7 @@
 
 (Max Health +9015 / Health Regeneration +236.6) 
 
-	BL2(BwAAAADpTwAUDZihIxAyGQbBAUEAwf///////////38DwSYBAME=) 
+BL2(BwAAAADpTwAUDZihIxAyGQbBAUEAwf///////////38DwSYBAME=) 
 
 **Bloodied Survivor** 
 
@@ -778,7 +778,7 @@
 
 (Max Health +9015 / Health Regeneration +236.6) 
 
-	BL2(BwAAAAA4rQAUDZihIxAyWQXBAUEAwf///////////38DwSYBAME=) 
+BL2(BwAAAAA4rQAUDZihIxAyWQXBAUEAwf///////////38DwSYBAME=) 
 
 **The Killer** 
 
@@ -786,7 +786,7 @@
 
 (Team Critical Damage +40%) 
 
-	BL2(BwAAAADHHAAfDZihwxAymQfBAUEAwf///////////38DgS0BAME=) 
+BL2(BwAAAADHHAAfDZihwxAymQfBAUEAwf///////////38DgS0BAME=) 
 
 **The Killer** 
 
@@ -794,7 +794,7 @@
 
 (Team Critical Damage +40%) 
 
-	BL2(BwAAAAADygAfDZihwxAy2QbBAUEAwf///////////38DgS0BAME=) 
+BL2(BwAAAAADygAfDZihwxAy2QbBAUEAwf///////////38DgS0BAME=) 
 
 **Unpredictable Killer** 
 
@@ -802,7 +802,7 @@
 
 (Team Critical Damage +40%) 
 
-	BL2(BwAAAACBGAAfDZihwxAyGQnBAQEBwf///////////38DwS0BAME=) 
+BL2(BwAAAACBGAAfDZihwxAyGQnBAQEBwf///////////38DwS0BAME=) 
 
 **Unpredictable Killer** 
 
@@ -810,7 +810,7 @@
 
 (Team Critical Damage +40%) 
 
-	BL2(BwAAAABFzgAfDZihwxAyWQjBAQEBwf///////////38DwS0BAME=) 
+BL2(BwAAAABFzgAfDZihwxAyWQjBAQEBwf///////////38DwS0BAME=) 
 
 **Contemptible Killer** 
 
@@ -818,7 +818,7 @@
 
 (Team Critical Damage +40%) 
 
-	BL2(BwAAAAALIAAfDZihwxAyGQbBAQEBwf///////////38DQS0BAME=) 
+BL2(BwAAAAALIAAfDZihwxAyGQbBAQEBwf///////////38DQS0BAME=) 
 
 **Contemptible Killer** 
 
@@ -826,7 +826,7 @@
 
 (Team Critical Damage +40%) 
 
-	BL2(BwAAAADawgAfDZihwxAyWQXBAQEBwf///////////38DQS0BAME=) 
+BL2(BwAAAADawgAfDZihwxAyWQXBAQEBwf///////////38DQS0BAME=) 
 
 **Contemptible Spy** 
 
@@ -834,7 +834,7 @@
 
 (Cooldown Rate +13%) 
 
-	BL2(BwAAAABYngAsDZihAxEymQfBAUEAwf///////////38DgSgBAME=) 
+BL2(BwAAAABYngAsDZihAxEymQfBAUEAwf///////////38DgSgBAME=) 
 
 **Contemptible Spy** 
 
@@ -842,7 +842,7 @@
 
 (Cooldown Rate +13%) 
 
-	BL2(BwAAAACcSAAsDZihAxEy2QbBAUEAwf///////////38DgSgBAME=) 
+BL2(BwAAAACcSAAsDZihAxEy2QbBAUEAwf///////////38DgSgBAME=) 
 
 **Swift Spy** 
 
@@ -850,7 +850,7 @@
 
 (Cooldown Rate +13%) 
 
-	BL2(BwAAAAD5qwAsDZihAxEyGQnBAUEAwf///////////38DwSgBAME=) 
+BL2(BwAAAAD5qwAsDZihAxEyGQnBAUEAwf///////////38DwSgBAME=) 
 
 **Swift Spy** 
 
@@ -858,7 +858,7 @@
 
 (Cooldown Rate +13%) 
 
-	BL2(BwAAAAA9fQAsDZihAxEyWQjBAUEAwf///////////38DwSgBAME=) 
+BL2(BwAAAAA9fQAsDZihAxEyWQjBAUEAwf///////////38DwSgBAME=) 
 
 **Tricky Spy** 
 
@@ -866,7 +866,7 @@
 
 (Cooldown Rate +13%) 
 
-	BL2(BwAAAABzkwAsDZihAxEyGQbBAUEAwf///////////38DQSgBAME=) 
+BL2(BwAAAABzkwAsDZihAxEyGQbBAUEAwf///////////38DQSgBAME=) 
 
 **Tricky Spy** 
 
@@ -874,7 +874,7 @@
 
 (Cooldown Rate +13%) 
 
-	BL2(BwAAAACicQAsDZihAxEyWQXBAUEAwf///////////38DQSgBAME=) 
+BL2(BwAAAACicQAsDZihAxEyWQXBAUEAwf///////////38DQSgBAME=) 
 
 **Disturbed Stalker** 
 
@@ -882,7 +882,7 @@
 
 (Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
 
-	BL2(BwAAAAC5ZAAVDZihoxAyGQnBAUEAwf///////////38DwScBAME=) 
+BL2(BwAAAAC5ZAAVDZihoxAyGQnBAUEAwf///////////38DwScBAME=) 
 
 **Disturbed Stalker** 
 
@@ -890,7 +890,7 @@
 
 (Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
 
-	BL2(BwAAAAB9sgAVDZihoxAyWQjBAUEAwf///////////38DwScBAME=) 
+BL2(BwAAAAB9sgAVDZihoxAyWQjBAUEAwf///////////38DwScBAME=) 
 
 **Shadow Stalker** 
 
@@ -898,7 +898,7 @@
 
 (Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
 
-	BL2(BwAAAAAYUQAVDZihoxAymQfBAUEAwf///////////38DgScBAME=) 
+BL2(BwAAAAAYUQAVDZihoxAymQfBAUEAwf///////////38DgScBAME=) 
 
 **Shadow Stalker** 
 
@@ -906,7 +906,7 @@
 
 (Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
 
-	BL2(BwAAAADchwAVDZihoxAy2QbBAUEAwf///////////38DgScBAME=) 
+BL2(BwAAAADchwAVDZihoxAy2QbBAUEAwf///////////38DgScBAME=) 
 
 **Razored Stalker** 
 
@@ -914,7 +914,7 @@
 
 (Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
 
-	BL2(BwAAAAAzXAAVDZihoxAyGQbBAUEAwf///////////38DQScBAME=) 
+BL2(BwAAAAAzXAAVDZihoxAyGQbBAUEAwf///////////38DQScBAME=) 
 
 **Razored Stalker** 
 
@@ -922,7 +922,7 @@
 
 (Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
 
-	BL2(BwAAAADivgAVDZihoxAyWQXBAUEAwf///////////38DQScBAME=) 
+BL2(BwAAAADivgAVDZihoxAyWQXBAUEAwf///////////38DQScBAME=) 
 
 **Tranquil Sniper** 
 
@@ -930,7 +930,7 @@
 
 (Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
 
-	BL2(BwAAAABd/wAWDZihYxAyGQnBAUEAwf///////////38DwSkBAME=) 
+BL2(BwAAAABd/wAWDZihYxAyGQnBAUEAwf///////////38DwSkBAME=) 
 
 **Tranquil Sniper** 
 
@@ -938,7 +938,7 @@
 
 (Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
 
-	BL2(BwAAAACZKQAWDZihYxAyWQjBAUEAwf///////////38DwSkBAME=) 
+BL2(BwAAAACZKQAWDZihYxAyWQjBAUEAwf///////////38DwSkBAME=) 
 
 **One Shot Sniper** 
 
@@ -946,7 +946,7 @@
 
 (Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
 
-	BL2(BwAAAAD8ygAWDZihYxAymQfBAUEAwf///////////38DgSkBAME=) 
+BL2(BwAAAAD8ygAWDZihYxAymQfBAUEAwf///////////38DgSkBAME=) 
 
 **One Shot Sniper** 
 
@@ -954,7 +954,7 @@
 
 (Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
 
-	BL2(BwAAAAA4HAAWDZihYxAy2QbBAUEAwf///////////38DgSkBAME=) 
+BL2(BwAAAAA4HAAWDZihYxAy2QbBAUEAwf///////////38DgSkBAME=) 
 
 **Deadly Sniper** 
 
@@ -962,7 +962,7 @@
 
 (Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
 
-	BL2(BwAAAADXxwAWDZihYxAyGQbBAUEAwf///////////38DQSkBAME=) 
+BL2(BwAAAADXxwAWDZihYxAyGQbBAUEAwf///////////38DQSkBAME=) 
 
 **Deadly Sniper** 
 
@@ -970,7 +970,7 @@
 
 (Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
 
-	BL2(BwAAAAAGJQAWDZihYxAyWQXBAUEAwf///////////38DQSkBAME=) 
+BL2(BwAAAAAGJQAWDZihYxAyWQXBAUEAwf///////////38DQSkBAME=) 
 
 **Long Shot** 
 
@@ -978,7 +978,7 @@
 
 (Team Accuracy +28%) 
 
-	BL2(BwAAAAC/5AAeDZihwxAyGQnBAUEAwf///////////38DwSoBAME=) 
+BL2(BwAAAAC/5AAeDZihwxAyGQnBAUEAwf///////////38DwSoBAME=) 
 
 **Long Shot** 
 
@@ -986,7 +986,7 @@
 
 (Team Accuracy +28%) 
 
-	BL2(BwAAAAB7MgAeDZihwxAyWQjBAUEAwf///////////38DwSoBAME=) 
+BL2(BwAAAAB7MgAeDZihwxAyWQjBAUEAwf///////////38DwSoBAME=) 
 
 **True Shot** 
 
@@ -994,7 +994,7 @@
 
 (Team Accuracy +28%) 
 
-	BL2(BwAAAAA13AAeDZihwxAyGQbBAUEAwf///////////38DQSoBAME=) 
+BL2(BwAAAAA13AAeDZihwxAyGQbBAUEAwf///////////38DQSoBAME=) 
 
 **True Shot** 
 
@@ -1002,7 +1002,7 @@
 
 (Team Accuracy +28%) 
 
-	BL2(BwAAAADkPgAeDZihwxAyWQXBAUEAwf///////////38DQSoBAME=) 
+BL2(BwAAAADkPgAeDZihwxAyWQXBAUEAwf///////////38DQSoBAME=) 
 
 **Sure Shot** 
 
@@ -1010,7 +1010,7 @@
 
 (Team Accuracy +28%) 
 
-	BL2(BwAAAAAe0QAeDZihwxAymQfBAUEAwf///////////38DgSoBAME=) 
+BL2(BwAAAAAe0QAeDZihwxAymQfBAUEAwf///////////38DgSoBAME=) 
 
 **Sure Shot** 
 
@@ -1018,7 +1018,7 @@
 
 (Team Accuracy +28%) 
 
-	BL2(BwAAAADaBwAeDZihwxAy2QbBAUEAwf///////////38DgSoBAME=) 
+BL2(BwAAAADaBwAeDZihwxAy2QbBAUEAwf///////////38DgSoBAME=) 
 
 **Unequaled Professional** 
 
@@ -1026,7 +1026,7 @@
 
 (Reload Speed +29% / Shield Capacity +7933) 
 
-	BL2(BwAAAADQUwAXDZihQxAyGQnBAUEAwf///////////38DwSsBAME=) 
+BL2(BwAAAADQUwAXDZihQxAyGQnBAUEAwf///////////38DwSsBAME=) 
 
 **Unequaled Professional** 
 
@@ -1034,7 +1034,7 @@
 
 (Reload Speed +29% / Shield Capacity +7933) 
 
-	BL2(BwAAAAAUhQAXDZihQxAyWQjBAUEAwf///////////38DwSsBAME=) 
+BL2(BwAAAAAUhQAXDZihQxAyWQjBAUEAwf///////////38DwSsBAME=) 
 
 **The Professional** 
 
@@ -1042,7 +1042,7 @@
 
 (Reload Speed +29% / Shield Capacity +7933) 
 
-	BL2(BwAAAABxZgAXDZihQxAymQfBAUEAwf///////////38DgSsBAME=) 
+BL2(BwAAAABxZgAXDZihQxAymQfBAUEAwf///////////38DgSsBAME=) 
 
 **The Professional** 
 
@@ -1050,7 +1050,7 @@
 
 (Reload Speed +29% / Shield Capacity +7933) 
 
-	BL2(BwAAAAC1sAAXDZihQxAy2QbBAUEAwf///////////38DgSsBAME=) 
+BL2(BwAAAAC1sAAXDZihQxAy2QbBAUEAwf///////////38DgSsBAME=) 
 
 **Succint Professional** 
 
@@ -1058,7 +1058,7 @@
 
 (Reload Speed +29% / Shield Capacity +7933) 
 
-	BL2(BwAAAABaawAXDZihQxAyGQbBAUEAwf///////////38DQSsBAME=) 
+BL2(BwAAAABaawAXDZihQxAyGQbBAUEAwf///////////38DQSsBAME=) 
 
 **Succinct Professional** 
 
@@ -1066,7 +1066,7 @@
 
 (Reload Speed +29% / Shield Capacity +7933) 
 
-	BL2(BwAAAACLiQAXDZihQxAyWQXBAUEAwf///////////38DQSsBAME=) 
+BL2(BwAAAACLiQAXDZihQxAyWQXBAUEAwf///////////38DQSsBAME=) 
 
 **Shadow Ninja** 
 
@@ -1074,7 +1074,7 @@
 
 (Melee Damage +46%) 
 
-	BL2(BwAAAADfXAAYDZihAxEyGQnBAUEAwf///////////38DwSwBAME=) 
+BL2(BwAAAADfXAAYDZihAxEyGQnBAUEAwf///////////38DwSwBAME=) 
 
 **Shadow Ninja** 
 
@@ -1082,7 +1082,7 @@
 
 (Melee Damage +46%) 
 
-	BL2(BwAAAAAbigAYDZihAxEyWQjBAUEAwf///////////38DwSwBAME=) 
+BL2(BwAAAAAbigAYDZihAxEyWQjBAUEAwf///////////38DwSwBAME=) 
 
 **Bloodied Ninja** 
 
@@ -1090,7 +1090,7 @@
 
 (Melee Damage +46%) 
 
-	BL2(BwAAAAB+aQAYDZihAxEymQfBAUEAwf///////////38DgSwBAME=) 
+BL2(BwAAAAB+aQAYDZihAxEymQfBAUEAwf///////////38DgSwBAME=) 
 
 **Bloodied Ninja** 
 
@@ -1098,7 +1098,7 @@
 
 (Melee Damage +46%) 
 
-	BL2(BwAAAAC6vwAYDZihAxEy2QbBAUEAwf///////////38DgSwBAME=) 
+BL2(BwAAAAC6vwAYDZihAxEy2QbBAUEAwf///////////38DgSwBAME=) 
 
 **Lethal Ninja** 
 
@@ -1106,7 +1106,7 @@
 
 (Melee Damage +46%) 
 
-	BL2(BwAAAABVZAAYDZihAxEyGQbBAUEAwf///////////38DQSwBAME=) 
+BL2(BwAAAABVZAAYDZihAxEyGQbBAUEAwf///////////38DQSwBAME=) 
 
 **Lethal Ninja** 
 
@@ -1114,7 +1114,7 @@
 
 (Melee Damage +46%) 
 
-	BL2(BwAAAACEhgAYDZihAxEyWQXBAUEAwf///////////38DQSwBAME=) 
+BL2(BwAAAACEhgAYDZihAxEyWQXBAUEAwf///////////38DQSwBAME=) 
 
 **Graceful Infiltrator** 
 
@@ -1122,7 +1122,7 @@
 
 (Fire Rate +26% / Melee Damage +36%) 
 
-	BL2(BwAAAAAv/QAgDZihQxAyGQnBAUEAwf///////////38DwS4BAME=) 
+BL2(BwAAAAAv/QAgDZihQxAyGQnBAUEAwf///////////38DwS4BAME=) 
 
 **Graceful Infiltrator** 
 
@@ -1130,7 +1130,7 @@
 
 (Fire Rate +26% / Melee Damage +36%) 
 
-	BL2(BwAAAADrKwAgDZihQxAyWQjBAUEAwf///////////38DwS4BAME=) 
+BL2(BwAAAADrKwAgDZihQxAyWQjBAUEAwf///////////38DwS4BAME=) 
 
 **Tricky Infiltrator** 
 
@@ -1138,7 +1138,7 @@
 
 (Fire Rate +26% / Melee Damage +36%) 
 
-	BL2(BwAAAACOyAAgDZihQxAymQfBAUEAwf///////////38DgS4BAME=) 
+BL2(BwAAAACOyAAgDZihQxAymQfBAUEAwf///////////38DgS4BAME=) 
 
 **Tricky Infiltrator** 
 
@@ -1146,7 +1146,7 @@
 
 (Fire Rate +26% / Melee Damage +36%) 
 
-	BL2(BwAAAABKHgAgDZihQxAy2QbBAUEAwf///////////38DgS4BAME=) 
+BL2(BwAAAABKHgAgDZihQxAy2QbBAUEAwf///////////38DgS4BAME=) 
 
 **Rugged Infiltrator** 
 
@@ -1154,7 +1154,7 @@
 
 (Fire Rate +26% / Melee Damage +36%) 
 
-	BL2(BwAAAAClxQAgDZihQxAyGQbBAUEAwf///////////38DQS4BAME=) 
+BL2(BwAAAAClxQAgDZihQxAyGQbBAUEAwf///////////38DQS4BAME=) 
 
 **Rugged Infiltrator** 
 
@@ -1162,439 +1162,439 @@
 
 (Fire Rate +26% / Melee Damage +36%) 
 
-	BL2(BwAAAAB0JwAgDZihQxAyWQXBAUEAwf///////////38DQS4BAME=)
+BL2(BwAAAAB0JwAgDZihQxAyWQXBAUEAwf///////////38DQS4BAME=)
 
-**Chaotic Evil Rogue**
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Vel0city Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAAB2cgkcFAWwEBG9HgnBAUEAwf///////////38DAQchAME=)
+BL2(BwAAAAB2cgkcFAWwEBG9HgnBAUEAwf///////////38DAQchAME=)
 
-**Chaotic Evil Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Vel0city Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAACypAkcFAWwEBG9XgjBAUEAwf///////////38DAQchAME=)
+BL2(BwAAAACypAkcFAWwEBG9XgjBAUEAwf///////////38DAQchAME=)
 
-**Chaotic Evil Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAADmNQkcFAWwEBG9ngfBAUEAwf///////////38DAQchAME=)
+BL2(BwAAAADmNQkcFAWwEBG9ngfBAUEAwf///////////38DAQchAME=)
 
-**Chaotic Evil Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAAAi4wkcFAWwEBG93gbBAUEAwf///////////38DAQchAME=)
+BL2(BwAAAAAi4wkcFAWwEBG93gbBAUEAwf///////////38DAQchAME=)
 
-**Chaotic Evil Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Like The Wind Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAACergkcFAWwEBG9HgbBAUEAwf///////////38DAQchAME=)
+BL2(BwAAAACergkcFAWwEBG9HgbBAUEAwf///////////38DAQchAME=)
 
-**Chaotic Evil Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Like The Wind Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAABPTAkcFAWwEBG9XgXBAUEAwf///////////38DAQchAME=)
+BL2(BwAAAABPTAkcFAWwEBG9XgXBAUEAwf///////////38DAQchAME=)
 
-**Chaotic Good Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+6 Vel0city Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAACXHQkbFAWwEBG9HgnBAUEAwf///////////38DwQYhAME=)
+BL2(BwAAAACXHQkbFAWwEBG9HgnBAUEAwf///////////38DwQYhAME=)
 
-**Chaotic Good Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+6 Vel0city Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAABTywkbFAWwEBG9XgjBAUEAwf///////////38DwQYhAME=)
+BL2(BwAAAABTywkbFAWwEBG9XgjBAUEAwf///////////38DwQYhAME=)
 
-**Chaotic Good Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAAAHWgkbFAWwEBG9ngfBAUEAwf///////////38DwQYhAME=)
+BL2(BwAAAAAHWgkbFAWwEBG9ngfBAUEAwf///////////38DwQYhAME=)
 
-**Chaotic Good Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAADDjAkbFAWwEBG93gbBAUEAwf///////////38DwQYhAME=)
+BL2(BwAAAADDjAkbFAWwEBG93gbBAUEAwf///////////38DwQYhAME=)
 
-**Chaotic Good Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+6 Like The Wind Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAAB/wQkbFAWwEBG9HgbBAUEAwf///////////38DwQYhAME=)
+BL2(BwAAAAB/wQkbFAWwEBG9HgbBAUEAwf///////////38DwQYhAME=)
 
-**Chaotic Good Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+6 Like The Wind Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAACuIwkbFAWwEBG9XgXBAUEAwf///////////38DwQYhAME=)
+BL2(BwAAAACuIwkbFAWwEBG9XgXBAUEAwf///////////38DwQYhAME=)
 
-**Chaotic Neutral Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+6 Vel0city Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAAAFKwkYFAWwEBG9HgnBAUEAwf///////////38DAQYhAME=)
+BL2(BwAAAAAFKwkYFAWwEBG9HgnBAUEAwf///////////38DAQYhAME=)
 
-**Chaotic Neutral Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+6 Vel0city Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAADB/QkYFAWwEBG9XgjBAUEAwf///////////38DAQYhAME=)
+BL2(BwAAAADB/QkYFAWwEBG9XgjBAUEAwf///////////38DAQYhAME=)
 
-**Chaotic Neutral Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAACVbAkYFAWwEBG9ngfBAUEAwf///////////38DAQYhAME=)
+BL2(BwAAAACVbAkYFAWwEBG9ngfBAUEAwf///////////38DAQYhAME=)
 
-**Chaotic Neutral Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAABRugkYFAWwEBG93gbBAUEAwf///////////38DAQYhAME=)
+BL2(BwAAAABRugkYFAWwEBG93gbBAUEAwf///////////38DAQYhAME=)
 
-**Chaotic Neutral Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+6 Like The Wind Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAADt9wkYFAWwEBG9HgbBAUEAwf///////////38DAQYhAME=)
+BL2(BwAAAADt9wkYFAWwEBG9HgbBAUEAwf///////////38DAQYhAME=)
 
-**Chaotic Neutral Rogue**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+6 Like The Wind Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAAA8FQkYFAWwEBG9XgXBAUEAwf///////////38DAQYhAME=)
+BL2(BwAAAAA8FQkYFAWwEBG9XgXBAUEAwf///////////38DAQYhAME=)
 
-**Lawful Evil Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Vel0city Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAAAhRgkeFAWwEBG9HgnBAUEAwf///////////38DgQchAME=)
+BL2(BwAAAAAhRgkeFAWwEBG9HgnBAUEAwf///////////38DgQchAME=)
 
-**Lawful Evil Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Vel0city Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAADlkAkeFAWwEBG9XgjBAUEAwf///////////38DgQchAME=)
+BL2(BwAAAADlkAkeFAWwEBG9XgjBAUEAwf///////////38DgQchAME=)
 
-**Lawful Evil Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAACxAQkeFAWwEBG9ngfBAUEAwf///////////38DgQchAME=)
+BL2(BwAAAACxAQkeFAWwEBG9ngfBAUEAwf///////////38DgQchAME=)
 
-**Lawful Evil Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAAB11wkeFAWwEBG93gbBAUEAwf///////////38DgQchAME=)
+BL2(BwAAAAB11wkeFAWwEBG93gbBAUEAwf///////////38DgQchAME=)
 
-**Lawful Evil Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Like The Wind Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAADJmgkeFAWwEBG9HgbBAUEAwf///////////38DgQchAME=)
+BL2(BwAAAADJmgkeFAWwEBG9HgbBAUEAwf///////////38DgQchAME=)
 
-**Lawful Evil Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Like The Wind Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAAAYeAkeFAWwEBG9XgXBAUEAwf///////////38DgQchAME=)
+BL2(BwAAAAAYeAkeFAWwEBG9XgXBAUEAwf///////////38DgQchAME=)
 
-**Lawful Good Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Vel0city Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAADAKQkZFAWwEBG9HgnBAUEAwf///////////38DQQYhAME=)
+BL2(BwAAAADAKQkZFAWwEBG9HgnBAUEAwf///////////38DQQYhAME=)
 
-**Lawful Good Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Vel0city Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAAAE/wkZFAWwEBG9XgjBAUEAwf///////////38DQQYhAME=)
+BL2(BwAAAAAE/wkZFAWwEBG9XgjBAUEAwf///////////38DQQYhAME=)
 
-**Lawful Good Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Vel0city Skill]
 
-	BL2(BwAAAABQbgkZFAWwEBG9ngfBAUEAwf///////////38DQQYhAME=)
+BL2(BwAAAABQbgkZFAWwEBG9ngfBAUEAwf///////////38DQQYhAME=)
 
-**Lawful Good Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAACUuAkZFAWwEBG93gbBAUEAwf///////////38DQQYhAME=)
+BL2(BwAAAACUuAkZFAWwEBG93gbBAUEAwf///////////38DQQYhAME=)
 
-**Lawful Good Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Like The Wind Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAAAo9QkZFAWwEBG9HgbBAUEAwf///////////38DQQYhAME=)
+BL2(BwAAAAAo9QkZFAWwEBG9HgbBAUEAwf///////////38DQQYhAME=)
 
-**Lawful Good Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Like The Wind Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAAD5FwkZFAWwEBG9XgXBAUEAwf///////////38DQQYhAME=)
+BL2(BwAAAAD5FwkZFAWwEBG9XgXBAUEAwf///////////38DQQYhAME=)
 
-**Lawful Neutral Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Vel0city Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAADfxwkXFAWwEBG9HgnBAUEAwf///////////38DwQUhAME=)
+BL2(BwAAAADfxwkXFAWwEBG9HgnBAUEAwf///////////38DwQUhAME=)
 
-**Lawful Neutral Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Vel0city Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAAAbEQkXFAWwEBG9XgjBAUEAwf///////////38DwQUhAME=)
+BL2(BwAAAAAbEQkXFAWwEBG9XgjBAUEAwf///////////38DwQUhAME=)
 
-**Lawful Neutral Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAABPgAkXFAWwEBG9ngfBAUEAwf///////////38DwQUhAME=)
+BL2(BwAAAABPgAkXFAWwEBG9ngfBAUEAwf///////////38DwQUhAME=)
 
-**Lawful Neutral Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Tw0 Fang Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAACLVgkXFAWwEBG93gbBAUEAwf///////////38DwQUhAME=)
+BL2(BwAAAACLVgkXFAWwEBG93gbBAUEAwf///////////38DwQUhAME=)
 
-**Lawful Neutral Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Like The Wind Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAAA3GwkXFAWwEBG9HgbBAUEAwf///////////38DwQUhAME=)
+BL2(BwAAAAA3GwkXFAWwEBG9HgbBAUEAwf///////////38DwQUhAME=)
 
-**Lawful Neutral Rogue**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Like The Wind Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAADm+QkXFAWwEBG9XgXBAUEAwf///////////38DwQUhAME=)
+BL2(BwAAAADm+QkXFAWwEBG9XgXBAUEAwf///////////38DwQUhAME=)
 
-**Neutral Evil Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Vel0city Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAACzcAkdFAWwEBG9HgnBAUEAwf///////////38DQQchAME=)
+BL2(BwAAAACzcAkdFAWwEBG9HgnBAUEAwf///////////38DQQchAME=)
 
-**Neutral Evil Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Vel0city Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAAB3pgkdFAWwEBG9XgjBAUEAwf///////////38DQQchAME=)
+BL2(BwAAAAB3pgkdFAWwEBG9XgjBAUEAwf///////////38DQQchAME=)
 
-**Neutral Evil Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Tw0 Fang Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAAAjNwkdFAWwEBG9ngfBAUEAwf///////////38DQQchAME=)
+BL2(BwAAAAAjNwkdFAWwEBG9ngfBAUEAwf///////////38DQQchAME=)
 
-**Neutral Evil Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Tw0 Fang Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAADn4QkdFAWwEBG93gbBAUEAwf///////////38DQQchAME=)
+BL2(BwAAAADn4QkdFAWwEBG93gbBAUEAwf///////////38DQQchAME=)
 
-**Neutral Evil Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Like The Wind Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAABbrAkdFAWwEBG9HgbBAUEAwf///////////38DQQchAME=)
+BL2(BwAAAABbrAkdFAWwEBG9HgbBAUEAwf///////////38DQQchAME=)
 
-**Neutral Evil Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Like The Wind Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAACKTgkdFAWwEBG9XgXBAUEAwf///////////38DQQchAME=)
+BL2(BwAAAACKTgkdFAWwEBG9XgXBAUEAwf///////////38DQQchAME=)
 
-**Neutral Good Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Vel0city Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAABSHwkaFAWwEBG9HgnBAUEAwf///////////38DgQYhAME=)
+BL2(BwAAAABSHwkaFAWwEBG9HgnBAUEAwf///////////38DgQYhAME=)
 
-**Neutral Good Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Vel0city Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAACWyQkaFAWwEBG9XgjBAUEAwf///////////38DgQYhAME=)
+BL2(BwAAAACWyQkaFAWwEBG9XgjBAUEAwf///////////38DgQYhAME=)
 
-**Neutral Good Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Tw0 Fang Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAADCWAkaFAWwEBG9ngfBAUEAwf///////////38DgQYhAME=)
+BL2(BwAAAADCWAkaFAWwEBG9ngfBAUEAwf///////////38DgQYhAME=)
 
-**Neutral Good Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Tw0 Fang Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAAAGjgkaFAWwEBG93gbBAUEAwf///////////38DgQYhAME=)
+BL2(BwAAAAAGjgkaFAWwEBG93gbBAUEAwf///////////38DgQYhAME=)
 
-**Neutral Good Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Like The Wind Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAAC6wwkaFAWwEBG9HgbBAUEAwf///////////38DgQYhAME=)
+BL2(BwAAAAC6wwkaFAWwEBG9HgbBAUEAwf///////////38DgQYhAME=)
 
-**Neutral Good Rogue**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Like The Wind Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAABrIQkaFAWwEBG9XgXBAUEAwf///////////38DgQYhAME=)
+BL2(BwAAAABrIQkaFAWwEBG9XgXBAUEAwf///////////38DgQYhAME=)
 
-**True Neutral Rogue**	
+**True $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +73%]	
 
 [+6 Vel0city Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAAAaxQkWFAWwEBG9HgnBAUEAwf///////////38DgQUhAME=)
+BL2(BwAAAAAaxQkWFAWwEBG9HgnBAUEAwf///////////38DgQUhAME=)
 
-**True Neutral Rogue**	
+**True $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +73%]	
 
 [+6 Vel0city Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAADeEwkWFAWwEBG9XgjBAUEAwf///////////38DgQUhAME=)
+BL2(BwAAAADeEwkWFAWwEBG9XgjBAUEAwf///////////38DgQUhAME=)
 
-**True Neutral Rogue**	
+**True $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +73%]	
 
 [+6 Tw0 Fang Skill] [+5 Vel0city Skill]
 
-	BL2(BwAAAACKggkWFAWwEBG9ngfBAUEAwf///////////38DgQUhAME=)
+BL2(BwAAAACKggkWFAWwEBG9ngfBAUEAwf///////////38DgQUhAME=)
 
-**True Neutral Rogue**	
+**True $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +73%]	
 
 [+6 Tw0 Fang Skill] [+5 Like The Wind Skill]	
 
-	BL2(BwAAAABOVAkWFAWwEBG93gbBAUEAwf///////////38DgQUhAME=)
+BL2(BwAAAABOVAkWFAWwEBG93gbBAUEAwf///////////38DgQUhAME=)
 
-**True Neutral Rogue**	
+**True $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +73%]	
 
 [+6 Like The Wind Skill] [+5 Vel0city Skill]	
 
-	BL2(BwAAAADyGQkWFAWwEBG9HgbBAUEAwf///////////38DgQUhAME=)
+BL2(BwAAAADyGQkWFAWwEBG9HgbBAUEAwf///////////38DgQUhAME=)
 
-**True Neutral Rogue**	
+**True $${\color{grey}Neutral}$$ Rogue**	
 
 [Magazine Size +73%]	
 
 [+6 Like The Wind Skill] [+5 Tw0 Fang Skill]	
 
-	BL2(BwAAAAAj+wkWFAWwEBG9XgXBAUEAwf///////////38DgQUhAME=)
+BL2(BwAAAAAj+wkWFAWwEBG9XgXBAUEAwf///////////38DgQUhAME=)
 ---
  ![v4HYmIF](https://github.com/user-attachments/assets/03ee85c8-a545-40ef-939b-a31ec35ad071)
 
@@ -1604,19 +1604,19 @@
 
 (Cooldown Rate +35% / Gun Damage +29% / Fire Rate +16%) 
 
-	BL2(BwAAAADL9AAlDWqhQxAyGQXBAUEAwf///////////38DQRABAME=)  
+BL2(BwAAAADL9AAlDWqhQxAyGQXBAUEAwf///////////38DQRABAME=)  
 
 **Legendary Engineer**
 
-	BL2(BwAAAADqWgoDAAcAUBBIJAXBAUEAwf///////////78EQQEgAME=)
+BL2(BwAAAADqWgoDAAcAUBBIJAXBAUEAwf///////////78EQQEgAME=)
 
 **Legendary Pointman**
 
-	BL2(BwAAAACwjQoEAAcAEBJIJAXBAUEAwf///////////78EAQEgAME=)
+BL2(BwAAAACwjQoEAAcAEBJIJAXBAUEAwf///////////78EAQEgAME=)
 
 **Legendary Ranger**
 
-	BL2(BwAAAACRxQoFAAcAEBFIJAXBAUEAwf///////////78EwQAgAME=)
+BL2(BwAAAACRxQoFAAcAEBFIJAXBAUEAwf///////////78EwQAgAME=)
 
 **Slayer Of Terramorphous** 
 
@@ -1624,7 +1624,7 @@
 
 (Burn Damage +26% / Burn Chance + 26% / Max Health +8294) 
 
-	BL2(BwAAAAAY+wAADWihQxAyGQXBAUEAwf///////////38DwQkBAME=)
+BL2(BwAAAAAY+wAADWihQxAyGQXBAUEAwf///////////38DwQkBAME=)
 
  ![nPnG7Jk](https://github.com/user-attachments/assets/85bd03e3-f2ed-44a0-b9e1-1e404e08b811)
 
@@ -1634,7 +1634,7 @@
 
 (SMG Accuracy +28%) 
 
-	BL2(BwAAAACk+QACDWyhwxAymQjBAUEAwf///////////38DwQwBAME=) 
+BL2(BwAAAACk+QACDWyhwxAymQjBAUEAwf///////////38DwQwBAME=) 
 
 
 **Warfare Specialist** 
@@ -1643,7 +1643,7 @@
 
 (SMG Accuracy +28%) 
 
-	BL2(BwAAAADhzgACDWyhwxAyGQfBAUEAwf///////////38DgQwBAME=) 
+BL2(BwAAAADhzgACDWyhwxAyGQfBAUEAwf///////////38DgQwBAME=) 
 
 
 **Hazard Specialist** 
@@ -1652,7 +1652,7 @@
 
 (SMG Accuracy +28%) 
 
-	BL2(BwAAAAA79QACDWyhwxAymQXBAUEAwf///////////38DQQwBAME=) 
+BL2(BwAAAAA79QACDWyhwxAymQXBAUEAwf///////////38DQQwBAME=) 
 
 **Support Gunner** 
 
@@ -1660,7 +1660,7 @@
 
 (Team Fire Rate +26%) 
 
-	BL2(BwAAAABCsgAaDWyhoxAymQjBAUEAwf///////////38DAREBAME=) 
+BL2(BwAAAABCsgAaDWyhoxAymQjBAUEAwf///////////38DAREBAME=) 
 
 
 
@@ -1670,7 +1670,7 @@
 
 (Team Fire Rate +26%) 
 
-	BL2(BwAAAAB9mAAaDWyhoxAyGQfBAUEAwf///////////38DwRABAME=) 
+BL2(BwAAAAB9mAAaDWyhoxAyGQfBAUEAwf///////////38DwRABAME=) 
 
 **Heavy Gunner** 
 
@@ -1678,7 +1678,7 @@
 
 (Team Fire Rate +26%) 
 
-	BL2(BwAAAADFRwAaDWyhoxAymQXBAUEAwf///////////38DgRABAME=) 
+BL2(BwAAAADFRwAaDWyhoxAymQXBAUEAwf///////////38DgRABAME=) 
 
 
 
@@ -1688,7 +1688,7 @@
 
 (Shock Damage Resist +26% / Electrocute Damage +40%) 
 
-	BL2(BwAAAADc8AADDWyhAxEymQXBAUEAwf///////////38DQQ0BAME=) 
+BL2(BwAAAADc8AADDWyhAxEymQXBAUEAwf///////////38DQQ0BAME=) 
 
 
 
@@ -1698,7 +1698,7 @@
 
 (Shock Damage Resist +26% / Electrocute Damage +40%) 
 
-	BL2(BwAAAABD/AADDWyhAxEymQjBAUEAwf///////////38DwQ0BAME=) 
+BL2(BwAAAABD/AADDWyhAxEymQjBAUEAwf///////////38DwQ0BAME=) 
 
 
 
@@ -1708,7 +1708,7 @@
 
 (Shock Damage Resist +26% / Electrocute Damage +40%) 
 
-	BL2(BwAAAAAGywADDWyhAxEyGQfBAUEAwf///////////38DgQ0BAME=) 
+BL2(BwAAAAAGywADDWyhAxEyGQfBAUEAwf///////////38DgQ0BAME=) 
 
 
 
@@ -1718,7 +1718,7 @@
 
 (Grenade Damage +35% / Explosive Damage Resist +26%) 
 
-	BL2(BwAAAADsxwAGDWyhgxAymQjBAUEAwf///////////38DARIBAME=) 
+BL2(BwAAAADsxwAGDWyhgxAymQjBAUEAwf///////////38DARIBAME=) 
 
 
 
@@ -1728,7 +1728,7 @@
 
 (Grenade Damage +35% / Explosive Damage Resist +26%) 
 
-	BL2(BwAAAAA/LgAGDWyhgxAyGQfBAUEAwf///////////38DwREBAME=) 
+BL2(BwAAAAA/LgAGDWyhgxAyGQfBAUEAwf///////////38DwREBAME=) 
 
 
 
@@ -1738,7 +1738,7 @@
 
 (Grenade Damage +35% / Explosive Damage Resist +26%) 
 
-	BL2(BwAAAACH8QAGDWyhgxAymQXBAUEAwf///////////38DgREBAME=) 
+BL2(BwAAAACH8QAGDWyhgxAymQXBAUEAwf///////////38DgREBAME=) 
 
 
 
@@ -1748,7 +1748,7 @@
 
 (Health Regeneration +281.7 / Max Health +9015) 
 
-	BL2(BwAAAAAqLwAFDWyhAxIyGQfBAUEAwf///////////38DgQ8BAME=) 
+BL2(BwAAAAAqLwAFDWyhAxIyGQfBAUEAwf///////////38DgQ8BAME=) 
 
 
 
@@ -1758,7 +1758,7 @@
 
 (Health Regeneration +281.7 / Max Health +9015) 
 
-	BL2(BwAAAABvGAAFDWyhAxIymQjBAUEAwf///////////38DwQ8BAME=) 
+BL2(BwAAAABvGAAFDWyhAxIymQjBAUEAwf///////////38DwQ8BAME=) 
 
 
 
@@ -1768,7 +1768,7 @@
 
 (Health Regeneration +281.7 / Max Health +9015) 
 
-	BL2(BwAAAADwFAAFDWyhAxIymQXBAUEAwf///////////38DQQ8BAME=) 
+BL2(BwAAAADwFAAFDWyhAxIymQXBAUEAwf///////////38DQQ8BAME=) 
 
 
 
@@ -1778,7 +1778,7 @@
 
 (Assault Rifle Mazine Size +40% / Assault Rifle Damage +35%) 
 
-	BL2(BwAAAAAHAwAEDWyhQxAyGQfBAUEAwf///////////38DgQ4BAME=) 
+BL2(BwAAAAAHAwAEDWyhQxAyGQfBAUEAwf///////////38DgQ4BAME=) 
 
 
 
@@ -1788,7 +1788,7 @@
 
 (Assault Rifle Mazine Size +40% / Assault Rifle Damage +35%) 
 
-	BL2(BwAAAADdOAAEDWyhQxAymQXBAUEAwf///////////38DQQ4BAME=) 
+BL2(BwAAAADdOAAEDWyhQxAymQXBAUEAwf///////////38DQQ4BAME=) 
 
 
 
@@ -1798,7 +1798,7 @@
 
 (Assault Rifle Mazine Size +40% / Assault Rifle Damage +35%) 
 
-	BL2(BwAAAABCNAAEDWyhQxAymQjBAUEAwf///////////38DwQ4BAME=) 
+BL2(BwAAAABCNAAEDWyhQxAymQjBAUEAwf///////////38DwQ4BAME=) 
 
 
 
@@ -1808,7 +1808,7 @@
 
 (Team Shield Recharge Rate +40% / Team Shield Recharge Delay -28%) 
 
-	BL2(BwAAAABJ8QAZDWyh4xEyGQfBAUEAwf///////////38DgQsBAME=) 
+BL2(BwAAAABJ8QAZDWyh4xEyGQfBAUEAwf///////////38DgQsBAME=) 
 
 
 
@@ -1818,7 +1818,7 @@
 
 (Team Shield Recharge Rate +40% / Team Shield Recharge Delay -28%) 
 
-	BL2(BwAAAAAMxgAZDWyh4xEymQjBAUEAwf///////////38DwQsBAME=) 
+BL2(BwAAAAAMxgAZDWyh4xEymQjBAUEAwf///////////38DwQsBAME=) 
 
 
 
@@ -1828,7 +1828,7 @@
 
 (Team Shield Recharge Rate +40% / Team Shield Recharge Delay -28%) 
 
-	BL2(BwAAAACTygAZDWyh4xEymQXBAUEAwf///////////38DQQsBAME=) 
+BL2(BwAAAACTygAZDWyh4xEymQXBAUEAwf///////////38DQQsBAME=) 
 
 
 
@@ -1838,7 +1838,7 @@
 
 (Reload Speed +31% / Magazine Size +35%) 
 
-	BL2(BwAAAAAEYwABDWyhQxAymQjBAUEAwf///////////38DwQoBAME=) 
+BL2(BwAAAAAEYwABDWyhQxAymQjBAUEAwf///////////38DwQoBAME=) 
 
 
 
@@ -1848,7 +1848,7 @@
 
 (Reload Speed +31% / Magazine Size +35%) 
 
-	BL2(BwAAAABBVAABDWyhQxAyGQfBAUEAwf///////////38DgQoBAME=) 
+BL2(BwAAAABBVAABDWyhQxAyGQfBAUEAwf///////////38DgQoBAME=) 
 
 
 
@@ -1858,7 +1858,7 @@
 
 (Reload Speed +31% / Magazine Size +35%) 
 
-	BL2(BwAAAACbbwABDWyhQxAymQXBAUEAwf///////////38DQQoBAME=) 
+BL2(BwAAAACbbwABDWyhQxAymQXBAUEAwf///////////38DQQoBAME=) 
 
 
 
@@ -1868,7 +1868,7 @@
 
 (Cooldown Rate +35%) 
 
-	BL2(BwAAAADq6gAmDWyhQxAymQXBAUEAwf///////////38DgRIBAME=) 
+BL2(BwAAAADq6gAmDWyhQxAymQXBAUEAwf///////////38DgRIBAME=) 
 
 
 
@@ -1878,7 +1878,7 @@
 
 (Cooldown Rate +35%) 
 
-	BL2(BwAAAABtHwAmDWyhQxAymQjBAUEAwf///////////38DARMBAME=) 
+BL2(BwAAAABtHwAmDWyhQxAymQjBAUEAwf///////////38DARMBAME=) 
 
 
 
@@ -1888,161 +1888,161 @@
 
 (Cooldown Rate +35%) 
 
-	BL2(BwAAAABSNQAmDWyhQxAyGQfBAUEAwf///////////38DwRIBAME=)
+BL2(BwAAAABSNQAmDWyhQxAyGQfBAUEAwf///////////38DwRIBAME=)
 
 
 
-**Chaotic Evil Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+5 Impact Skill] [+4 Ranger Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAAA8sAkJFAGwEBG9ngjBAUEAwf///////////38DgQIhAME=)
+BL2(BwAAAAA8sAkJFAGwEBG9ngjBAUEAwf///////////38DgQIhAME=)
 
 
 
-**Chaotic Evil Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAABI9QkJFAGwEBG9HgfBAUEAwf///////////38DgQIhAME=)
+BL2(BwAAAABI9QkJFAGwEBG9HgfBAUEAwf///////////38DgQIhAME=)
 
 
 
-**Chaotic Evil Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+5 Grit Skill] [+4 Impact Skill] [+4 Ranger Skill]	
 
-	BL2(BwAAAADBWAkJFAGwEBG9ngXBAUEAwf///////////38DgQIhAME=)
+BL2(BwAAAADBWAkJFAGwEBG9ngXBAUEAwf///////////38DgQIhAME=)
 
 
 
-**Chaotic Good Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+5 Impact Skill] [+4 Ranger Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAACEuAkGFAGwEBG9ngjBAUEAwf///////////38DwQEhAME=)
+BL2(BwAAAACEuAkGFAGwEBG9ngjBAUEAwf///////////38DwQEhAME=)
 
 
 
-**Chaotic Good Ranger**	
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-[+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
-
-	BL2(BwAAAADw/QkGFAGwEBG9HgfBAUEAwf///////////38DwQEhAME=)
-
-
-
-**Chaotic Good Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
+[+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
+
+BL2(BwAAAADw/QkGFAGwEBG9HgfBAUEAwf///////////38DwQEhAME=)
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
 [+5 Grit Skill] [+4 Impact Skill] [+4 Ranger Skill]	
 
-	BL2(BwAAAAB5UAkGFAGwEBG9ngXBAUEAwf///////////38DwQEhAME=)
+BL2(BwAAAAB5UAkGFAGwEBG9ngXBAUEAwf///////////38DwQEhAME=)
 
 
 
-**Chaotic Neutral Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+5 Impact Skill] [+4 Ranger Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAADTjAkEFAGwEBG9ngjBAUEAwf///////////38DQQEhAME=)
+BL2(BwAAAADTjAkEFAGwEBG9ngjBAUEAwf///////////38DQQEhAME=)
 
 
 
-**Chaotic Neutral Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAACnyQkEFAGwEBG9HgfBAUEAwf///////////38DQQEhAME=)
+BL2(BwAAAACnyQkEFAGwEBG9HgfBAUEAwf///////////38DQQEhAME=)
 
 
 
-**Chaotic Neutral Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+5 Grit Skill] [+4 Impact Skill] [+4 Ranger Skill]	
 
-	BL2(BwAAAAAuZAkEFAGwEBG9ngXBAUEAwf///////////38DQQEhAME=)
+BL2(BwAAAAAuZAkEFAGwEBG9ngXBAUEAwf///////////38DQQEhAME=)
 
 
 
-**Lawful Evil Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+5 Impact Skill] [+4 Ranger Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAACbVgkIFAGwEBG9ngjBAUEAwf///////////38DQQIhAME=)
+BL2(BwAAAACbVgkIFAGwEBG9ngjBAUEAwf///////////38DQQIhAME=)
 
 
 
-**Lawful Evil Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAADvEwkIFAGwEBG9HgfBAUEAwf///////////38DQQIhAME=)
+BL2(BwAAAADvEwkIFAGwEBG9HgfBAUEAwf///////////38DQQIhAME=)
 
 
 
-**Lawful Evil Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+5 Grit Skill] [+4 Impact Skill] [+4 Ranger Skill]	
 
-	BL2(BwAAAABmvgkIFAGwEBG9ngXBAUEAwf///////////38DQQIhAME=)
+BL2(BwAAAABmvgkIFAGwEBG9ngXBAUEAwf///////////38DQQIhAME=)
 
 
 
-**Lawful Good Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+5 Impact Skill] [+4 Ranger Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAAB0agkFFAGwEBG9ngjBAUEAwf///////////38DgQEhAME=)
+BL2(BwAAAAB0agkFFAGwEBG9ngjBAUEAwf///////////38DgQEhAME=)
 
 
 
-**Lawful Good Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAAAALwkFFAGwEBG9HgfBAUEAwf///////////38DgQEhAME=)
+BL2(BwAAAAAALwkFFAGwEBG9HgfBAUEAwf///////////38DgQEhAME=)
 
 
 
-**Lawful Good Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+5 Grit Skill] [+4 Impact Skill] [+4 Ranger Skill]	
 
-	BL2(BwAAAACJggkFFAGwEBG9ngXBAUEAwf///////////38DgQEhAME=)
+BL2(BwAAAACJggkFFAGwEBG9ngXBAUEAwf///////////38DgQEhAME=)
 
 
 
-**Lawful Neutral Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -2050,116 +2050,116 @@
 
 
 
-	BL2(BwAAAAD34QkCFAGwEBG9ngjBAUEAwf///////////38DwQAhAME=)
+BL2(BwAAAAD34QkCFAGwEBG9ngjBAUEAwf///////////38DwQAhAME=)
 
 
 
-**Lawful Neutral Ranger**	
-
-[Magazine Size +45%] [Weapon Accuracy +31%]	
-
-[+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
-
-	BL2(BwAAAACDpAkCFAGwEBG9HgfBAUEAwf///////////38DwQAhAME=)
-
-
-
-**Lawful Neutral Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
+[+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
+
+BL2(BwAAAACDpAkCFAGwEBG9HgfBAUEAwf///////////38DwQAhAME=)
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+
+[Magazine Size +45%] [Weapon Accuracy +31%]	
+
 [+5 Grit Skill] [+4 Impact Skill] [+4 Ranger Skill]	
 
-	BL2(BwAAAAAKCQkCFAGwEBG9ngXBAUEAwf///////////38DwQAhAME=)
+BL2(BwAAAAAKCQkCFAGwEBG9ngXBAUEAwf///////////38DwQAhAME=)
 
 
 
-**Neutral Evil Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+5 Impact Skill] [+4 Ranger Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAADMYgkKFAGwEBG9ngjBAUEAwf///////////38DwQIhAME=)
+BL2(BwAAAADMYgkKFAGwEBG9ngjBAUEAwf///////////38DwQIhAME=)
 
 
 
-**Neutral Evil Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAAC4JwkKFAGwEBG9HgfBAUEAwf///////////38DwQIhAME=)
+BL2(BwAAAAC4JwkKFAGwEBG9HgfBAUEAwf///////////38DwQIhAME=)
 
 
 
-**Neutral Evil Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+5 Grit Skill] [+4 Impact Skill] [+4 Ranger Skill]	
 
-	BL2(BwAAAAAxigkKFAGwEBG9ngXBAUEAwf///////////38DwQIhAME=)
+BL2(BwAAAAAxigkKFAGwEBG9ngXBAUEAwf///////////38DwQIhAME=)
 
 
 
-**Neutral Good Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+5 Impact Skill] [+4 Ranger Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAADXZAkHFAGwEBG9ngjBAUEAwf///////////38DAQIhAME=)
+BL2(BwAAAADXZAkHFAGwEBG9ngjBAUEAwf///////////38DAQIhAME=)
 
 
 
-**Neutral Good Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAACjIQkHFAGwEBG9HgfBAUEAwf///////////38DAQIhAME=)
+BL2(BwAAAACjIQkHFAGwEBG9HgfBAUEAwf///////////38DAQIhAME=)
 
 
 
-**Neutral Good Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+5 Grit Skill] [+4 Impact Skill] [+4 Ranger Skill]	
 
-	BL2(BwAAAAAqjAkHFAGwEBG9ngXBAUEAwf///////////38DAQIhAME=)
+BL2(BwAAAAAqjAkHFAGwEBG9ngXBAUEAwf///////////38DAQIhAME=)
 
 
 
-**True Neutral Ranger**	
+**True $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +73%]	
 
 [+5 Impact Skill] [+4 Ranger Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAABI/gkDFAGwEBG9ngjBAUEAwf///////////38DAQEhAME=)
+BL2(BwAAAABI/gkDFAGwEBG9ngjBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True Neutral Ranger**	
+**True $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +73%]	
 
 [+5 Ranger Skill] [+4 Impact Skill] [+4 Grit Skill]	
 
-	BL2(BwAAAAA8uwkDFAGwEBG9HgfBAUEAwf///////////38DAQEhAME=)
+BL2(BwAAAAA8uwkDFAGwEBG9HgfBAUEAwf///////////38DAQEhAME=)
 
 
-**True Neutral Ranger**	
+**True $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +73%]	
 
 [+5 Grit Skill] [+4 Impact Skill] [+4 Ranger Skill]	
 
-	BL2(BwAAAAC1FgkDFAGwEBG9ngXBAUEAwf///////////38DAQEhAME=)
+BL2(BwAAAAC1FgkDFAGwEBG9ngXBAUEAwf///////////38DAQEhAME=)
 ---
 ![8pMPeyS](https://github.com/user-attachments/assets/0837b57e-b2de-44b0-a95a-8ea14020cf5b)
 
@@ -2170,7 +2170,7 @@
 
 (SMG Accuracy +28%) 
 
-	BL2(BwAAAABiswACDW6hwxAyGQnBAUEAwf///////////38DwQwBAME=) 
+BL2(BwAAAABiswACDW6hwxAyGQnBAUEAwf///////////38DwQwBAME=) 
 
 
 
@@ -2180,7 +2180,7 @@
 
 (SMG Accuracy +28%) 
 
-	BL2(BwAAAACmZQACDW6hwxAyWQjBAUEAwf///////////38DwQwBAME=) 
+BL2(BwAAAACmZQACDW6hwxAyWQjBAUEAwf///////////38DwQwBAME=) 
 
 
 
@@ -2190,7 +2190,7 @@
 
 (SMG Accuracy +28%) 
 
-	BL2(BwAAAADDhgACDW6hwxAymQfBAUEAwf///////////38DgQwBAME=) 
+BL2(BwAAAADDhgACDW6hwxAymQfBAUEAwf///////////38DgQwBAME=) 
 
 
 
@@ -2200,7 +2200,7 @@
 
 (SMG Accuracy +28%) 
 
-	BL2(BwAAAAAHUAACDW6hwxAy2QbBAUEAwf///////////38DgQwBAME=) 
+BL2(BwAAAAAHUAACDW6hwxAy2QbBAUEAwf///////////38DgQwBAME=) 
 
 
 
@@ -2210,7 +2210,7 @@
 
 (SMG Accuracy +28%) 
 
-	BL2(BwAAAADoiwACDW6hwxAyGQbBAUEAwf///////////38DQQwBAME=) 
+BL2(BwAAAADoiwACDW6hwxAyGQbBAUEAwf///////////38DQQwBAME=) 
 
 
 
@@ -2220,7 +2220,7 @@
 
 (SMG Accuracy +28%) 
 
-	BL2(BwAAAAA5aQACDW6hwxAyWQXBAUEAwf///////////38DQQwBAME=) 
+BL2(BwAAAAA5aQACDW6hwxAyWQXBAUEAwf///////////38DQQwBAME=) 
 
 
 
@@ -2230,7 +2230,7 @@
 
 (Team Fire Rate +26%) 
 
-	BL2(BwAAAACE+AAaDW6hoxAyGQnBAUEAwf///////////38DAREBAME=) 
+BL2(BwAAAACE+AAaDW6hoxAyGQnBAUEAwf///////////38DAREBAME=) 
 
 
 
@@ -2240,7 +2240,7 @@
 
 (Team Fire Rate +26%) 
 
-	BL2(BwAAAABALgAaDW6hoxAyWQjBAUEAwf///////////38DAREBAME=) 
+BL2(BwAAAABALgAaDW6hoxAyWQjBAUEAwf///////////38DAREBAME=) 
 
 
 
@@ -2250,7 +2250,7 @@
 
 (Team Fire Rate +26%) 
 
-	BL2(BwAAAABf0AAaDW6hoxAymQfBAUEAwf///////////38DwRABAME=) 
+BL2(BwAAAABf0AAaDW6hoxAymQfBAUEAwf///////////38DwRABAME=) 
 
 
 
@@ -2260,7 +2260,7 @@
 
 (Team Fire Rate +26%) 
 
-	BL2(BwAAAACbBgAaDW6hoxAy2QbBAUEAwf///////////38DwRABAME=) 
+BL2(BwAAAACbBgAaDW6hoxAy2QbBAUEAwf///////////38DwRABAME=) 
 
 
 
@@ -2270,7 +2270,7 @@
 
 (Team Fire Rate +26%) 
 
-	BL2(BwAAAAAWOQAaDW6hoxAyGQbBAUEAwf///////////38DgRABAME=) 
+BL2(BwAAAAAWOQAaDW6hoxAyGQbBAUEAwf///////////38DgRABAME=) 
 
 
 
@@ -2280,7 +2280,7 @@
 
 (Team Fire Rate +26%) 
 
-	BL2(BwAAAADH2wAaDW6hoxAyWQXBAUEAwf///////////38DgRABAME=) 
+BL2(BwAAAADH2wAaDW6hoxAyWQXBAUEAwf///////////38DgRABAME=) 
 
 
 
@@ -2290,7 +2290,7 @@
 
 (Shock Damage Resist +26% / Electrocute Damage +40%) 
 
-	BL2(BwAAAAAPjgADDW6hAxEyGQbBAUEAwf///////////38DQQ0BAME=) 
+BL2(BwAAAAAPjgADDW6hAxEyGQbBAUEAwf///////////38DQQ0BAME=) 
 
 
 
@@ -2300,7 +2300,7 @@
 
 (Shock Damage Resist +26% / Electrocute Damage +40%) 
 
-	BL2(BwAAAADebAADDW6hAxEyWQXBAUEAwf///////////38DQQ0BAME=) 
+BL2(BwAAAADebAADDW6hAxEyWQXBAUEAwf///////////38DQQ0BAME=) 
 
 
 
@@ -2310,7 +2310,7 @@
 
 (Shock Damage Resist +26% / Electrocute Damage +40%) 
 
-	BL2(BwAAAACFtgADDW6hAxEyGQnBAUEAwf///////////38DwQ0BAME=) 
+BL2(BwAAAACFtgADDW6hAxEyGQnBAUEAwf///////////38DwQ0BAME=) 
 
 
 
@@ -2320,7 +2320,7 @@
 
 (Shock Damage Resist +26% / Electrocute Damage +40%) 
 
-	BL2(BwAAAABBYAADDW6hAxEyWQjBAUEAwf///////////38DwQ0BAME=) 
+BL2(BwAAAABBYAADDW6hAxEyWQjBAUEAwf///////////38DwQ0BAME=) 
 
 
 
@@ -2330,7 +2330,7 @@
 
 (Shock Damage Resist +26% / Electrocute Damage +40%) 
 
-	BL2(BwAAAAAkgwADDW6hAxEymQfBAUEAwf///////////38DgQ0BAME=) 
+BL2(BwAAAAAkgwADDW6hAxEymQfBAUEAwf///////////38DgQ0BAME=) 
 
 
 
@@ -2340,7 +2340,7 @@
 
 (Shock Damage Resist +26% / Electrocute Damage +40%) 
 
-	BL2(BwAAAADgVQADDW6hAxEy2QbBAUEAwf///////////38DgQ0BAME=) 
+BL2(BwAAAADgVQADDW6hAxEy2QbBAUEAwf///////////38DgQ0BAME=) 
 
 
 
@@ -2350,7 +2350,7 @@
 
 (Grenade Damage +35% / Explosive Damage Resist +26%) 
 
-	BL2(BwAAAAAqjQAGDW6hgxAyGQnBAUEAwf///////////38DARIBAME=) 
+BL2(BwAAAAAqjQAGDW6hgxAyGQnBAUEAwf///////////38DARIBAME=) 
 
 
 
@@ -2360,7 +2360,7 @@
 
 (Grenade Damage +35% / Explosive Damage Resist +26%) 
 
-	BL2(BwAAAADuWwAGDW6hgxAyWQjBAUEAwf///////////38DARIBAME=) 
+BL2(BwAAAADuWwAGDW6hgxAyWQjBAUEAwf///////////38DARIBAME=) 
 
 
 
@@ -2370,7 +2370,7 @@
 
 (Grenade Damage +35% / Explosive Damage Resist +26%) 
 
-	BL2(BwAAAAAdZgAGDW6hgxAymQfBAUEAwf///////////38DwREBAME=) 
+BL2(BwAAAAAdZgAGDW6hgxAymQfBAUEAwf///////////38DwREBAME=) 
 
 
 
@@ -2380,7 +2380,7 @@
 
 (Grenade Damage +35% / Explosive Damage Resist +26%) 
 
-	BL2(BwAAAADZsAAGDW6hgxAy2QbBAUEAwf///////////38DwREBAME=) 
+BL2(BwAAAADZsAAGDW6hgxAy2QbBAUEAwf///////////38DwREBAME=) 
 
 
 
@@ -2390,7 +2390,7 @@
 
 (Grenade Damage +35% / Explosive Damage Resist +26%) 
 
-	BL2(BwAAAABUjwAGDW6hgxAyGQbBAUEAwf///////////38DgREBAME=) 
+BL2(BwAAAABUjwAGDW6hgxAyGQbBAUEAwf///////////38DgREBAME=) 
 
 
 
@@ -2400,7 +2400,7 @@
 
 (Grenade Damage +35% / Explosive Damage Resist +26%) 
 
-	BL2(BwAAAACFbQAGDW6hgxAyWQXBAUEAwf///////////38DgREBAME=) 
+BL2(BwAAAACFbQAGDW6hgxAyWQXBAUEAwf///////////38DgREBAME=) 
 
 
 
@@ -2410,7 +2410,7 @@
 
 (Health Regeneration +281.7 / Max Health +9015) 
 
-	BL2(BwAAAAAIZwAFDW6hAxIymQfBAUEAwf///////////38DgQ8BAME=) 
+BL2(BwAAAAAIZwAFDW6hAxIymQfBAUEAwf///////////38DgQ8BAME=) 
 
 
 
@@ -2420,7 +2420,7 @@
 
 (Health Regeneration +281.7 / Max Health +9015) 
 
-	BL2(BwAAAADMsQAFDW6hAxIy2QbBAUEAwf///////////38DgQ8BAME=) 
+BL2(BwAAAADMsQAFDW6hAxIy2QbBAUEAwf///////////38DgQ8BAME=) 
 
 
 
@@ -2430,7 +2430,7 @@
 
 (Health Regeneration +281.7 / Max Health +9015) 
 
-	BL2(BwAAAACpUgAFDW6hAxIyGQnBAUEAwf///////////38DwQ8BAME=) 
+BL2(BwAAAACpUgAFDW6hAxIyGQnBAUEAwf///////////38DwQ8BAME=) 
 
 
 
@@ -2440,7 +2440,7 @@
 
 (Health Regeneration +281.7 / Max Health +9015) 
 
-	BL2(BwAAAABthAAFDW6hAxIyWQjBAUEAwf///////////38DwQ8BAME=) 
+BL2(BwAAAABthAAFDW6hAxIyWQjBAUEAwf///////////38DwQ8BAME=) 
 
 
 
@@ -2450,7 +2450,7 @@
 
 (Health Regeneration +281.7 / Max Health +9015) 
 
-	BL2(BwAAAAAjagAFDW6hAxIyGQbBAUEAwf///////////38DQQ8BAME=) 
+BL2(BwAAAAAjagAFDW6hAxIyGQbBAUEAwf///////////38DQQ8BAME=) 
 
 
 
@@ -2460,7 +2460,7 @@
 
 (Health Regeneration +281.7 / Max Health +9015) 
 
-	BL2(BwAAAADyiAAFDW6hAxIyWQXBAUEAwf///////////38DQQ8BAME=) 
+BL2(BwAAAADyiAAFDW6hAxIyWQXBAUEAwf///////////38DQQ8BAME=) 
 
 
 
@@ -2470,7 +2470,7 @@
 
 (Assault Rifle Mazine Size +40% / Assault Rifle Damage +35%) 
 
-	BL2(BwAAAAAlSwAEDW6hQxAymQfBAUEAwf///////////38DgQ4BAME=) 
+BL2(BwAAAAAlSwAEDW6hQxAymQfBAUEAwf///////////38DgQ4BAME=) 
 
 
 
@@ -2480,7 +2480,7 @@
 
 (Assault Rifle Mazine Size +40% / Assault Rifle Damage +35%) 
 
-	BL2(BwAAAADhnQAEDW6hQxAy2QbBAUEAwf///////////38DgQ4BAME=) 
+BL2(BwAAAADhnQAEDW6hQxAy2QbBAUEAwf///////////38DgQ4BAME=) 
 
 
 
@@ -2490,7 +2490,7 @@
 
 (Assault Rifle Mazine Size +40% / Assault Rifle Damage +35%) 
 
-	BL2(BwAAAAAORgAEDW6hQxAyGQbBAUEAwf///////////38DQQ4BAME=) 
+BL2(BwAAAAAORgAEDW6hQxAyGQbBAUEAwf///////////38DQQ4BAME=) 
 
 
 
@@ -2500,7 +2500,7 @@
 
 (Assault Rifle Mazine Size +40% / Assault Rifle Damage +35%) 
 
-	BL2(BwAAAADfpAAEDW6hQxAyWQXBAUEAwf///////////38DQQ4BAME=) 
+BL2(BwAAAADfpAAEDW6hQxAyWQXBAUEAwf///////////38DQQ4BAME=) 
 
 
 
@@ -2510,7 +2510,7 @@
 
 (Assault Rifle Mazine Size +40% / Assault Rifle Damage +35%) 
 
-	BL2(BwAAAACEfgAEDW6hQxAyGQnBAUEAwf///////////38DwQ4BAME=) 
+BL2(BwAAAACEfgAEDW6hQxAyGQnBAUEAwf///////////38DwQ4BAME=) 
 
 
 
@@ -2520,7 +2520,7 @@
 
 (Assault Rifle Mazine Size +40% / Assault Rifle Damage +35%) 
 
-	BL2(BwAAAABAqAAEDW6hQxAyWQjBAUEAwf///////////38DwQ4BAME=)
+BL2(BwAAAABAqAAEDW6hQxAyWQjBAUEAwf///////////38DwQ4BAME=)
 
  
 **Efficient Tactician** 
@@ -2529,7 +2529,7 @@
 
 (Team Shield Recharge Rate +40% / Team Shield Recharge Delay -28%) 
 
-	BL2(BwAAAABruQAZDW6h4xEymQfBAUEAwf///////////38DgQsBAME=)
+BL2(BwAAAABruQAZDW6h4xEymQfBAUEAwf///////////38DgQsBAME=)
 
  
 **Efficient Tactician** 
@@ -2538,7 +2538,7 @@
 
 (Team Shield Recharge Rate +40% / Team Shield Recharge Delay -28%) 
 
-	BL2(BwAAAACvbwAZDW6h4xEy2QbBAUEAwf///////////38DgQsBAME=) 
+BL2(BwAAAACvbwAZDW6h4xEy2QbBAUEAwf///////////38DgQsBAME=) 
 
 
 
@@ -2548,7 +2548,7 @@
 
 (Team Shield Recharge Rate +40% / Team Shield Recharge Delay -28%) 
 
-	BL2(BwAAAADKjAAZDW6h4xEyGQnBAUEAwf///////////38DwQsBAME=) 
+BL2(BwAAAADKjAAZDW6h4xEyGQnBAUEAwf///////////38DwQsBAME=) 
 
 
 
@@ -2558,7 +2558,7 @@
 
 (Team Shield Recharge Rate +40% / Team Shield Recharge Delay -28%) 
 
-	BL2(BwAAAAAOWgAZDW6h4xEyWQjBAUEAwf///////////38DwQsBAME=) 
+BL2(BwAAAAAOWgAZDW6h4xEyWQjBAUEAwf///////////38DwQsBAME=) 
 
 
 
@@ -2568,7 +2568,7 @@
 
 (Team Shield Recharge Rate +40% / Team Shield Recharge Delay -28%) 
 
-	BL2(BwAAAABAtAAZDW6h4xEyGQbBAUEAwf///////////38DQQsBAME=) 
+BL2(BwAAAABAtAAZDW6h4xEyGQbBAUEAwf///////////38DQQsBAME=) 
 
 
 
@@ -2578,7 +2578,7 @@
 
 (Team Shield Recharge Rate +40% / Team Shield Recharge Delay -28%) 
 
-	BL2(BwAAAACRVgAZDW6h4xEyWQXBAUEAwf///////////38DQQsBAME=) 
+BL2(BwAAAACRVgAZDW6h4xEyWQXBAUEAwf///////////38DQQsBAME=) 
 
 
 
@@ -2588,7 +2588,7 @@
 
 (Reload Speed +31% / Magazine Size +35%) 
 
-	BL2(BwAAAADCKQABDW6hQxAyGQnBAUEAwf///////////38DwQoBAME=) 
+BL2(BwAAAADCKQABDW6hQxAyGQnBAUEAwf///////////38DwQoBAME=) 
 
 
 
@@ -2598,7 +2598,7 @@
 
 (Reload Speed +31% / Magazine Size +35%) 
 
-	BL2(BwAAAAAG/wABDW6hQxAyWQjBAUEAwf///////////38DwQoBAME=) 
+BL2(BwAAAAAG/wABDW6hQxAyWQjBAUEAwf///////////38DwQoBAME=) 
 
 
 
@@ -2608,7 +2608,7 @@
 
 (Reload Speed +31% / Magazine Size +35%) 
 
-	BL2(BwAAAABjHAABDW6hQxAymQfBAUEAwf///////////38DgQoBAME=) 
+BL2(BwAAAABjHAABDW6hQxAymQfBAUEAwf///////////38DgQoBAME=) 
 
 
 
@@ -2618,7 +2618,7 @@
 
 (Reload Speed +31% / Magazine Size +35%) 
 
-	BL2(BwAAAACnygABDW6hQxAy2QbBAUEAwf///////////38DgQoBAME=) 
+BL2(BwAAAACnygABDW6hQxAy2QbBAUEAwf///////////38DgQoBAME=) 
 
 
 
@@ -2628,7 +2628,7 @@
 
 (Reload Speed +31% / Magazine Size +35%) 
 
-	BL2(BwAAAABIEQABDW6hQxAyGQbBAUEAwf///////////38DQQoBAME=) 
+BL2(BwAAAABIEQABDW6hQxAyGQbBAUEAwf///////////38DQQoBAME=) 
 
 
 
@@ -2638,7 +2638,7 @@
 
 (Reload Speed +31% / Magazine Size +35%) 
 
-	BL2(BwAAAACZ8wABDW6hQxAyWQXBAUEAwf///////////38DQQoBAME=) 
+BL2(BwAAAACZ8wABDW6hQxAyWQXBAUEAwf///////////38DQQoBAME=) 
 
 
 
@@ -2648,7 +2648,7 @@
 
 (Cooldown Rate +35%) 
 
-	BL2(BwAAAAA5lAAmDW6hQxAyGQbBAUEAwf///////////38DgRIBAME=) 
+BL2(BwAAAAA5lAAmDW6hQxAyGQbBAUEAwf///////////38DgRIBAME=) 
 
 
 
@@ -2658,7 +2658,7 @@
 
 (Cooldown Rate +35%) 
 
-	BL2(BwAAAADodgAmDW6hQxAyWQXBAUEAwf///////////38DgRIBAME=) 
+BL2(BwAAAADodgAmDW6hQxAyWQXBAUEAwf///////////38DgRIBAME=) 
 
 
 
@@ -2668,7 +2668,7 @@
 
 (Cooldown Rate +35%) 
 
-	BL2(BwAAAACrVQAmDW6hQxAyGQnBAUEAwf///////////38DARMBAME=) 
+BL2(BwAAAACrVQAmDW6hQxAyGQnBAUEAwf///////////38DARMBAME=) 
 
 
 
@@ -2678,7 +2678,7 @@
 
 (Cooldown Rate +35%) 
 
-	BL2(BwAAAABvgwAmDW6hQxAyWQjBAUEAwf///////////38DARMBAME=) 
+BL2(BwAAAABvgwAmDW6hQxAyWQjBAUEAwf///////////38DARMBAME=) 
 
 
 
@@ -2688,7 +2688,7 @@
 
 (Cooldown Rate +35%) 
 
-	BL2(BwAAAABwfQAmDW6hQxAymQfBAUEAwf///////////38DwRIBAME=) 
+BL2(BwAAAABwfQAmDW6hQxAymQfBAUEAwf///////////38DwRIBAME=) 
 
 
 
@@ -2698,548 +2698,548 @@
 
 (Cooldown Rate +35%) 
 
-	BL2(BwAAAAC0qwAmDW6hQxAy2QbBAUEAwf///////////38DwRIBAME=)
+BL2(BwAAAAC0qwAmDW6hQxAy2QbBAUEAwf///////////38DwRIBAME=)
 
 
 
-**Chaotic Evil Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Impact Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAABEKwkJFAGwEBG9HgnBAUEAwf///////////38DgQIhAME=)
+BL2(BwAAAABEKwkJFAGwEBG9HgnBAUEAwf///////////38DgQIhAME=)
 
 
 
-**Chaotic Evil Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Impact Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAACA/QkJFAGwEBG9XgjBAUEAwf///////////38DgQIhAME=)
+BL2(BwAAAACA/QkJFAGwEBG9XgjBAUEAwf///////////38DgQIhAME=)
 
 
 
-**Chaotic Evil Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Ranger Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAADUbAkJFAGwEBG9ngfBAUEAwf///////////38DgQIhAME=)
+BL2(BwAAAADUbAkJFAGwEBG9ngfBAUEAwf///////////38DgQIhAME=)
 
 
 
-**Chaotic Evil Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Ranger Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAAAQugkJFAGwEBG93gbBAUEAwf///////////38DgQIhAME=)
+BL2(BwAAAAAQugkJFAGwEBG93gbBAUEAwf///////////38DgQIhAME=)
 
 
 
-**Chaotic Evil Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Grit Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAACs9wkJFAGwEBG9HgbBAUEAwf///////////38DgQIhAME=)
+BL2(BwAAAACs9wkJFAGwEBG9HgbBAUEAwf///////////38DgQIhAME=)
 
 
 
-**Chaotic Evil Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
 [+6 Grit Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAAB9FQkJFAGwEBG9XgXBAUEAwf///////////38DgQIhAME=)
+BL2(BwAAAAB9FQkJFAGwEBG9XgXBAUEAwf///////////38DgQIhAME=)
 
 
 
-**Chaotic Good Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+6 Impact Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAAD8IwkGFAGwEBG9HgnBAUEAwf///////////38DwQEhAME=)
+BL2(BwAAAAD8IwkGFAGwEBG9HgnBAUEAwf///////////38DwQEhAME=)
 
 
 
-**Chaotic Good Ranger**	
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-[+6 Impact Skill] [+5 Grit Skill]	
-
-	BL2(BwAAAAA49QkGFAGwEBG9XgjBAUEAwf///////////38DwQEhAME=)
-
-
-
-**Chaotic Good Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
+[+6 Impact Skill] [+5 Grit Skill]	
+
+BL2(BwAAAAA49QkGFAGwEBG9XgjBAUEAwf///////////38DwQEhAME=)
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
 [+6 Ranger Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAABsZAkGFAGwEBG9ngfBAUEAwf///////////38DwQEhAME=)
+BL2(BwAAAABsZAkGFAGwEBG9ngfBAUEAwf///////////38DwQEhAME=)
 
 
 
-**Chaotic Good Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 [+6 Ranger Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAACosgkGFAGwEBG93gbBAUEAwf///////////38DwQEhAME=)
+BL2(BwAAAACosgkGFAGwEBG93gbBAUEAwf///////////38DwQEhAME=)
 
 
 
-**Chaotic Good Ranger**	
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-[+6 Grit Skill] [+5 Impact Skill]	
-
-	BL2(BwAAAAAU/wkGFAGwEBG9HgbBAUEAwf///////////38DwQEhAME=)
-
-
-
-**Chaotic Good Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
+[+6 Grit Skill] [+5 Impact Skill]	
+
+BL2(BwAAAAAU/wkGFAGwEBG9HgbBAUEAwf///////////38DwQEhAME=)
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
 [+6 Grit Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAADFHQkGFAGwEBG9XgXBAUEAwf///////////38DwQEhAME=)
+BL2(BwAAAADFHQkGFAGwEBG9XgXBAUEAwf///////////38DwQEhAME=)
 
 
 
-**Chaotic Neutral Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+6 Impact Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAACrFwkEFAGwEBG9HgnBAUEAwf///////////38DQQEhAME=)
+BL2(BwAAAACrFwkEFAGwEBG9HgnBAUEAwf///////////38DQQEhAME=)
 
 
 
-**Chaotic Neutral Ranger**	
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-[+6 Impact Skill] [+5 Grit Skill]	
-
-	BL2(BwAAAABvwQkEFAGwEBG9XgjBAUEAwf///////////38DQQEhAME=)
-
-
-
-**Chaotic Neutral Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
+[+6 Impact Skill] [+5 Grit Skill]	
+
+BL2(BwAAAABvwQkEFAGwEBG9XgjBAUEAwf///////////38DQQEhAME=)
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
 [+6 Ranger Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAAA7UAkEFAGwEBG9ngfBAUEAwf///////////38DQQEhAME=)
+BL2(BwAAAAA7UAkEFAGwEBG9ngfBAUEAwf///////////38DQQEhAME=)
 
 
 
-**Chaotic Neutral Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 [+6 Ranger Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAAD/hgkEFAGwEBG93gbBAUEAwf///////////38DQQEhAME=)
+BL2(BwAAAAD/hgkEFAGwEBG93gbBAUEAwf///////////38DQQEhAME=)
 
 
 
-**Chaotic Neutral Ranger**	
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-[+6 Grit Skill] [+5 Impact Skill]	
-
-	BL2(BwAAAABDywkEFAGwEBG9HgbBAUEAwf///////////38DQQEhAME=)
-
-
-
-**Chaotic Neutral Ranger**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
+[+6 Grit Skill] [+5 Impact Skill]	
+
+BL2(BwAAAABDywkEFAGwEBG9HgbBAUEAwf///////////38DQQEhAME=)
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
 [+6 Grit Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAACSKQkEFAGwEBG9XgXBAUEAwf///////////38DQQEhAME=)
+BL2(BwAAAACSKQkEFAGwEBG9XgXBAUEAwf///////////38DQQEhAME=)
 
 
 
-**Lawful Evil Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Impact Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAADjzQkIFAGwEBG9HgnBAUEAwf///////////38DQQIhAME=)
+BL2(BwAAAADjzQkIFAGwEBG9HgnBAUEAwf///////////38DQQIhAME=)
 
 
 
-**Lawful Evil Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Impact Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAAAnGwkIFAGwEBG9XgjBAUEAwf///////////38DQQIhAME=)
+BL2(BwAAAAAnGwkIFAGwEBG9XgjBAUEAwf///////////38DQQIhAME=)
 
 
 
-**Lawful Evil Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Ranger Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAABzigkIFAGwEBG9ngfBAUEAwf///////////38DQQIhAME=)
+BL2(BwAAAABzigkIFAGwEBG9ngfBAUEAwf///////////38DQQIhAME=)
 
 
 
-**Lawful Evil Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Ranger Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAAC3XAkIFAGwEBG93gbBAUEAwf///////////38DQQIhAME=)
+BL2(BwAAAAC3XAkIFAGwEBG93gbBAUEAwf///////////38DQQIhAME=)
 
 
 
-**Lawful Evil Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Grit Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAAALEQkIFAGwEBG9HgbBAUEAwf///////////38DQQIhAME=)
+BL2(BwAAAAALEQkIFAGwEBG9HgbBAUEAwf///////////38DQQIhAME=)
 
 
 
-**Lawful Evil Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 [+6 Grit Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAADa8wkIFAGwEBG9XgXBAUEAwf///////////38DQQIhAME=)
+BL2(BwAAAADa8wkIFAGwEBG9XgXBAUEAwf///////////38DQQIhAME=)
 
 
 
-**Lawful Good Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Impact Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAAAM8QkFFAGwEBG9HgnBAUEAwf///////////38DgQEhAME=)
+BL2(BwAAAAAM8QkFFAGwEBG9HgnBAUEAwf///////////38DgQEhAME=)
 
 
 
-**Lawful Good Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Impact Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAADIJwkFFAGwEBG9XgjBAUEAwf///////////38DgQEhAME=)
+BL2(BwAAAADIJwkFFAGwEBG9XgjBAUEAwf///////////38DgQEhAME=)
 
 
 
-**Lawful Good Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Ranger Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAACctgkFFAGwEBG9ngfBAUEAwf///////////38DgQEhAME=)
+BL2(BwAAAACctgkFFAGwEBG9ngfBAUEAwf///////////38DgQEhAME=)
 
 
 
-**Lawful Good Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Ranger Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAABYYAkFFAGwEBG93gbBAUEAwf///////////38DgQEhAME=)
+BL2(BwAAAABYYAkFFAGwEBG93gbBAUEAwf///////////38DgQEhAME=)
 
 
 
-**Lawful Good Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Grit Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAADkLQkFFAGwEBG9HgbBAUEAwf///////////38DgQEhAME=)
+BL2(BwAAAADkLQkFFAGwEBG9HgbBAUEAwf///////////38DgQEhAME=)
 
 
 
-**Lawful Good Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 [+6 Grit Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAAA1zwkFFAGwEBG9XgXBAUEAwf///////////38DgQEhAME=)
+BL2(BwAAAAA1zwkFFAGwEBG9XgXBAUEAwf///////////38DgQEhAME=)
 
 
 
-**Lawful Neutral Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Impact Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAACPegkCFAGwEBG9HgnBAUEAwf///////////38DwQAhAME=)
+BL2(BwAAAACPegkCFAGwEBG9HgnBAUEAwf///////////38DwQAhAME=)
 
 
 
-**Lawful Neutral Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Impact Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAABLrAkCFAGwEBG9XgjBAUEAwf///////////38DwQAhAME=)
+BL2(BwAAAABLrAkCFAGwEBG9XgjBAUEAwf///////////38DwQAhAME=)
 
 
 
-**Lawful Neutral Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Ranger Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAAAfPQkCFAGwEBG9ngfBAUEAwf///////////38DwQAhAME=)
+BL2(BwAAAAAfPQkCFAGwEBG9ngfBAUEAwf///////////38DwQAhAME=)
 
 
 
-**Lawful Neutral Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Ranger Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAADb6wkCFAGwEBG93gbBAUEAwf///////////38DwQAhAME=)
+BL2(BwAAAADb6wkCFAGwEBG93gbBAUEAwf///////////38DwQAhAME=)
 
 
 
-**Lawful Neutral Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Grit Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAABnpgkCFAGwEBG9HgbBAUEAwf///////////38DwQAhAME=)
+BL2(BwAAAABnpgkCFAGwEBG9HgbBAUEAwf///////////38DwQAhAME=)
 
 
 
-**Lawful Neutral Ranger**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 [+6 Grit Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAAC2RAkCFAGwEBG9XgXBAUEAwf///////////38DwQAhAME=)
+BL2(BwAAAAC2RAkCFAGwEBG9XgXBAUEAwf///////////38DwQAhAME=)
 
 
 
-**Neutral Evil Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Impact Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAAC0+QkKFAGwEBG9HgnBAUEAwf///////////38DwQIhAME=)
+BL2(BwAAAAC0+QkKFAGwEBG9HgnBAUEAwf///////////38DwQIhAME=)
 
 
 
-**Neutral Evil Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Impact Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAABwLwkKFAGwEBG9XgjBAUEAwf///////////38DwQIhAME=)
+BL2(BwAAAABwLwkKFAGwEBG9XgjBAUEAwf///////////38DwQIhAME=)
 
 
 
-**Neutral Evil Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Ranger Skill] [+5 Impact Skill]	
 
 
-	BL2(BwAAAAAkvgkKFAGwEBG9ngfBAUEAwf///////////38DwQIhAME=)
+BL2(BwAAAAAkvgkKFAGwEBG9ngfBAUEAwf///////////38DwQIhAME=)
 
 
 
-**Neutral Evil Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Ranger Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAADgaAkKFAGwEBG93gbBAUEAwf///////////38DwQIhAME=)
+BL2(BwAAAADgaAkKFAGwEBG93gbBAUEAwf///////////38DwQIhAME=)
 
 
 
-**Neutral Evil Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Grit Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAABcJQkKFAGwEBG9HgbBAUEAwf///////////38DwQIhAME=)
+BL2(BwAAAABcJQkKFAGwEBG9HgbBAUEAwf///////////38DwQIhAME=)
 
 
 
-**Neutral Evil Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
 [+6 Grit Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAACNxwkKFAGwEBG9XgXBAUEAwf///////////38DwQIhAME=)
+BL2(BwAAAACNxwkKFAGwEBG9XgXBAUEAwf///////////38DwQIhAME=)
 
 
 
-**Neutral Good Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Impact Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAACv/wkHFAGwEBG9HgnBAUEAwf///////////38DAQIhAME=)
+BL2(BwAAAACv/wkHFAGwEBG9HgnBAUEAwf///////////38DAQIhAME=)
 
 
 
-**Neutral Good Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Impact Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAABrKQkHFAGwEBG9XgjBAUEAwf///////////38DAQIhAME=)
+BL2(BwAAAABrKQkHFAGwEBG9XgjBAUEAwf///////////38DAQIhAME=)
 
 
 
-**Neutral Good Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Ranger Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAAA/uAkHFAGwEBG9ngfBAUEAwf///////////38DAQIhAME=)
+BL2(BwAAAAA/uAkHFAGwEBG9ngfBAUEAwf///////////38DAQIhAME=)
 
 
 
-**Neutral Good Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Ranger Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAAD7bgkHFAGwEBG93gbBAUEAwf///////////38DAQIhAME=)
+BL2(BwAAAAD7bgkHFAGwEBG93gbBAUEAwf///////////38DAQIhAME=)
 
 
 
-**Neutral Good Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Grit Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAABHIwkHFAGwEBG9HgbBAUEAwf///////////38DAQIhAME=)
+BL2(BwAAAABHIwkHFAGwEBG9HgbBAUEAwf///////////38DAQIhAME=)
 
 
 
-**Neutral Good Ranger**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
 [+6 Grit Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAACWwQkHFAGwEBG9XgXBAUEAwf///////////38DAQIhAME=)
+BL2(BwAAAACWwQkHFAGwEBG9XgXBAUEAwf///////////38DAQIhAME=)
 
 
 
-**True Neutral Ranger**	
+**True $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +73%]	
 
 [+6 Impact Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAAAwZQkDFAGwEBG9HgnBAUEAwf///////////38DAQEhAME=)
+BL2(BwAAAAAwZQkDFAGwEBG9HgnBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True Neutral Ranger**	
+**True $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +73%]	
 
 [+6 Impact Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAAD0swkDFAGwEBG9XgjBAUEAwf///////////38DAQEhAME=)
+BL2(BwAAAAD0swkDFAGwEBG9XgjBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True Neutral Ranger**	
+**True $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +73%]	
 
 [+6 Ranger Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAACgIgkDFAGwEBG9ngfBAUEAwf///////////38DAQEhAME=)
+BL2(BwAAAACgIgkDFAGwEBG9ngfBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True Neutral Ranger**	
+**True $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +73%]	
 
 [+6 Ranger Skill] [+5 Grit Skill]	
 
-	BL2(BwAAAABk9AkDFAGwEBG93gbBAUEAwf///////////38DAQEhAME=)
+BL2(BwAAAABk9AkDFAGwEBG93gbBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True Neutral Ranger**	
+**True $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +73%]	
 
 [+6 Grit Skill] [+5 Impact Skill]	
 
-	BL2(BwAAAADYuQkDFAGwEBG9HgbBAUEAwf///////////38DAQEhAME=)
+BL2(BwAAAADYuQkDFAGwEBG9HgbBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True Neutral Ranger**	
+**True $${\color{grey}Neutral}$$ Ranger**	
 
 [Magazine Size +73%]	
 
 [+6 Grit Skill] [+5 Ranger Skill]	
 
-	BL2(BwAAAAAJWwkDFAGwEBG9XgXBAUEAwf///////////38DAQEhAME=)
+BL2(BwAAAAAJWwkDFAGwEBG9XgXBAUEAwf///////////38DAQEhAME=)
 
 ---
 ![lqbuz5z](https://github.com/user-attachments/assets/a6f8b88c-76f9-4e58-83ac-d3649e10fd69)
@@ -3251,25 +3251,25 @@
 
 (Cooldown Rate +40% / Fire Rate +22% / Melee Damage +36%) 
 
-	BL2(BwAAAABAbwApDYahIxAyGQXBAUEAwf///////////38DwSEBAME=) 
+BL2(BwAAAABAbwApDYahIxAyGQXBAUEAwf///////////38DwSEBAME=) 
 
 
 
 **Legendary Gunzerker**
 
-	BL2(BwAAAAAGbgoHAAkAMBBIJAXBAUEAwf///////////78EAQMgAME=)
+BL2(BwAAAAAGbgoHAAkAMBBIJAXBAUEAwf///////////78EAQMgAME=)
 
 
 
 **Legendary Titan**
 
-	BL2(BwAAAAAK9QoJAAkA8BFIJAXBAUEAwf///////////78EgQEgAME=)
+BL2(BwAAAAAK9QoJAAkA8BFIJAXBAUEAwf///////////78EgQEgAME=)
 
 
 
 **Legendary Hoarder**
 
-	BL2(BwAAAACQBQoIAAkAsBBIJAXBAUEAwf///////////78EwQEgAME=)
+BL2(BwAAAACQBQoIAAkAsBBIJAXBAUEAwf///////////78EwQEgAME=)
 
 
 
@@ -3279,7 +3279,7 @@
 
 (Burn Damage +26% / Burn Chance +26% / Max Health +8264) 
 
-	BL2(BwAAAACE+gAiDYShIxAyGQXBAUEAwf///////////38DwQkBAME=)
+BL2(BwAAAACE+gAiDYShIxAyGQXBAUEAwf///////////38DwQkBAME=)
 
 ![lKPghXJ](https://github.com/user-attachments/assets/fc835f5b-ca28-4789-ae71-ec245c01e39d)
 
@@ -3293,7 +3293,7 @@
 (Team Bullet Regeneration +2.6) 
 
 
-	BL2(BwAAAADBIQAcDYihoxAymQXBAUEAwf///////////38DASIBAME=) 
+BL2(BwAAAADBIQAcDYihoxAymQXBAUEAwf///////////38DASIBAME=) 
 
 
 
@@ -3308,7 +3308,7 @@
 (Team Bullet Regeneration +2.6) 
 
 
-	BL2(BwAAAAB5/gAcDYihoxAyGQfBAUEAwf///////////38DQSIBAME=) 
+BL2(BwAAAAB5/gAcDYihoxAyGQfBAUEAwf///////////38DQSIBAME=) 
 
 
 
@@ -3323,7 +3323,7 @@
 (Team Bullet Regeneration +2.6) 
 
 
-	BL2(BwAAAABeLQAcDYihoxAymQjBAUEAwf///////////38DgSIBAME=) 
+BL2(BwAAAABeLQAcDYihoxAymQjBAUEAwf///////////38DgSIBAME=) 
 
 
 
@@ -3338,7 +3338,7 @@
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
 
 
-	BL2(BwAAAAA/AQAPDYih4xEymQXBAUEAwf///////////38DwR0BAME=) 
+BL2(BwAAAAA/AQAPDYih4xEymQXBAUEAwf///////////38DwR0BAME=) 
 
 
 
@@ -3353,7 +3353,7 @@
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
 
 
-	BL2(BwAAAAARAAAPDYih4xEyGQfBAUEAwf///////////38DAR4BAME=) 
+BL2(BwAAAAARAAAPDYih4xEyGQfBAUEAwf///////////38DAR4BAME=) 
 
 
 
@@ -3368,7 +3368,7 @@
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
 
 
-	BL2(BwAAAABUNwAPDYih4xEymQjBAUEAwf///////////38DQR4BAME=) 
+BL2(BwAAAABUNwAPDYih4xEymQjBAUEAwf///////////38DQR4BAME=) 
 
 
 
@@ -3383,7 +3383,7 @@
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
 
 
-	BL2(BwAAAAByAAAQDYihAxIyGQfBAUEAwf///////////38DAR8BAME=) 
+BL2(BwAAAAByAAAQDYihAxIyGQfBAUEAwf///////////38DAR8BAME=) 
 
 
 
@@ -3398,7 +3398,7 @@
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
 
 
-	BL2(BwAAAAA3NwAQDYihAxIymQjBAUEAwf///////////38DQR8BAME=) 
+BL2(BwAAAAA3NwAQDYihAxIymQjBAUEAwf///////////38DQR8BAME=) 
 
 
 
@@ -3413,7 +3413,7 @@
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
 
 
-	BL2(BwAAAACwwgAQDYihAxIymQXBAUEAwf///////////38DwR4BAME=) 
+BL2(BwAAAACwwgAQDYihAxIymQXBAUEAwf///////////38DwR4BAME=) 
 
 
 
@@ -3428,7 +3428,7 @@
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
 
 
-	BL2(BwAAAAAI8QARDYihYxAymQXBAUEAwf///////////38DwR8BAME=) 
+BL2(BwAAAAAI8QARDYihYxAymQXBAUEAwf///////////38DwR8BAME=) 
 
 
 
@@ -3443,7 +3443,7 @@
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
 
 
-	BL2(BwAAAACSngARDYihYxAyGQfBAUEAwf///////////38DASABAME=) 
+BL2(BwAAAACSngARDYihYxAyGQfBAUEAwf///////////38DASABAME=) 
 
 
 
@@ -3458,7 +3458,7 @@
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
 
 
-	BL2(BwAAAADXqQARDYihYxAymQjBAUEAwf///////////38DQSABAME=) 
+BL2(BwAAAADXqQARDYihYxAymQjBAUEAwf///////////38DQSABAME=) 
 
 
 
@@ -3473,7 +3473,7 @@
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
 
 
-	BL2(BwAAAACjOgASDYihIxAymQXBAUEAwf///////////38DwSABAME=) 
+BL2(BwAAAACjOgASDYihIxAymQXBAUEAwf///////////38DwSABAME=) 
 
 
 
@@ -3488,7 +3488,7 @@
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
 
 
-	BL2(BwAAAABh+AASDYihIxAyGQfBAUEAwf///////////38DASEBAME=) 
+BL2(BwAAAABh+AASDYihIxAyGQfBAUEAwf///////////38DASEBAME=) 
 
 
 
@@ -3503,7 +3503,7 @@
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
 
 
-	BL2(BwAAAAAkzwASDYihIxAymQjBAUEAwf///////////38DQSEBAME=) 
+BL2(BwAAAAAkzwASDYihIxAymQjBAUEAwf///////////38DQSEBAME=) 
 
 
 
@@ -3518,7 +3518,7 @@
 (Team Magazine Size +40%) 
 
 
-	BL2(BwAAAAB51gAdDYihIxAymQXBAUEAwf///////////38DASMBAME=) 
+BL2(BwAAAAB51gAdDYihIxAymQXBAUEAwf///////////38DASMBAME=) 
 
 
 
@@ -3533,7 +3533,7 @@
 (Team Magazine Size +40%) 
 
 
-	BL2(BwAAAADBCQAdDYihIxAyGQfBAUEAwf///////////38DQSMBAME=) 
+BL2(BwAAAADBCQAdDYihIxAyGQfBAUEAwf///////////38DQSMBAME=) 
 
 
 
@@ -3548,7 +3548,7 @@
 (Team Magazine Size +40%) 
 
 
-	BL2(BwAAAADm2gAdDYihIxAymQjBAUEAwf///////////38DgSMBAME=) 
+BL2(BwAAAADm2gAdDYihIxAymQjBAUEAwf///////////38DgSMBAME=) 
 
 
 
@@ -3563,7 +3563,7 @@
 (Reload Speed +28% / Magazine Size +40%) 
 
 
-	BL2(BwAAAABnJAAODYihQxAymQXBAUEAwf///////////38DwRwBAME=) 
+BL2(BwAAAABnJAAODYihQxAymQXBAUEAwf///////////38DwRwBAME=) 
 
 
 
@@ -3578,7 +3578,7 @@
 (Reload Speed +28% / Magazine Size +40%) 
 
 
-	BL2(BwAAAACl5gAODYihQxAyGQfBAUEAwf///////////38DAR0BAME=) 
+BL2(BwAAAACl5gAODYihQxAyGQfBAUEAwf///////////38DAR0BAME=) 
 
 
 
@@ -3593,7 +3593,7 @@
 (Reload Speed +28% / Magazine Size +40%) 
 
 
-	BL2(BwAAAADg0QAODYihQxAymQjBAUEAwf///////////38DQR0BAME=) 
+BL2(BwAAAADg0QAODYihQxAymQjBAUEAwf///////////38DQR0BAME=) 
 
 
 
@@ -3608,7 +3608,7 @@
 (Cooldown Rate +36%) 
 
 
-	BL2(BwAAAACr2gAqDYihgxAymQXBAUEAwf///////////38DASQBAME=) 
+BL2(BwAAAACr2gAqDYihgxAymQXBAUEAwf///////////38DASQBAME=) 
 
 
 
@@ -3623,7 +3623,7 @@
 (Cooldown Rate +36%) 
 
 
-	BL2(BwAAAAATBQAqDYihgxAyGQfBAUEAwf///////////38DQSQBAME=) 
+BL2(BwAAAAATBQAqDYihgxAyGQfBAUEAwf///////////38DQSQBAME=) 
 
 
 
@@ -3638,7 +3638,7 @@
 (Cooldown Rate +36%) 
 
 
-	BL2(BwAAAAA01gAqDYihgxAymQjBAUEAwf///////////38DgSQBAME=) 
+BL2(BwAAAAA01gAqDYihgxAymQjBAUEAwf///////////38DgSQBAME=) 
 
 
 
@@ -3653,7 +3653,7 @@
 (Max Health +8294 / Reload Speed +28%) 
 
 
-	BL2(BwAAAACbzwATDYihgxAymQjBAUEAwf///////////38DgSUBAME=) 
+BL2(BwAAAACbzwATDYihgxAymQjBAUEAwf///////////38DgSUBAME=) 
 
 
 
@@ -3668,7 +3668,7 @@
 (Max Health +8294 / Reload Speed +28%) 
 
 
-	BL2(BwAAAAC8HAATDYihgxAyGQfBAUEAwf///////////38DQSUBAME=) 
+BL2(BwAAAAC8HAATDYihgxAyGQfBAUEAwf///////////38DQSUBAME=) 
 
 
 
@@ -3683,13 +3683,13 @@
 (Max Health +8294 / Reload Speed +28%) 
 
 
-	BL2(BwAAAAAEwwATDYihgxAymQXBAUEAwf///////////38DASUBAME=)
+BL2(BwAAAAAEwwATDYihgxAymQXBAUEAwf///////////38DASUBAME=)
 
 
 
 
 
-**Chaotic Evil Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -3698,13 +3698,13 @@
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAABA+QknFAewEBG9ngjBAUEAwf///////////38DQQghAME=)
+BL2(BwAAAABA+QknFAewEBG9ngjBAUEAwf///////////38DQQghAME=)
 
 
 
 
 
-**Chaotic Evil Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -3713,13 +3713,13 @@
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAA0vAknFAewEBG9HgfBAUEAwf///////////38DQQghAME=)
+BL2(BwAAAAA0vAknFAewEBG9HgfBAUEAwf///////////38DQQghAME=)
 
 
 
 
 
-**Chaotic Evil Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -3728,13 +3728,13 @@
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
 
 
-	BL2(BwAAAAC9EQknFAewEBG9ngXBAUEAwf///////////38DQQghAME=)
+BL2(BwAAAAC9EQknFAewEBG9ngXBAUEAwf///////////38DQQghAME=)
 
 
 
 
 
-**Chaotic Good Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -3743,43 +3743,43 @@
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAACURgkiFAewEBG9ngjBAUEAwf///////////38DgQkhAME=)
+BL2(BwAAAACURgkiFAewEBG9ngjBAUEAwf///////////38DgQkhAME=)
 
 
 
 
 
-**Chaotic Good Monk**	
-
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-
-[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
-
-
-	BL2(BwAAAADgAwkiFAewEBG9HgfBAUEAwf///////////38DgQkhAME=)
-
-
-
-
-
-**Chaotic Good Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 
+[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
+BL2(BwAAAADgAwkiFAewEBG9HgfBAUEAwf///////////38DgQkhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
 
 
-	BL2(BwAAAABprgkiFAewEBG9ngXBAUEAwf///////////38DgQkhAME=)
+BL2(BwAAAABprgkiFAewEBG9ngXBAUEAwf///////////38DgQkhAME=)
 
 
 
 
 
-**Chaotic Neutral Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -3788,43 +3788,43 @@
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAABklAkhFAewEBG9ngjBAUEAwf///////////38DwQkhAME=)
+BL2(BwAAAABklAkhFAewEBG9ngjBAUEAwf///////////38DwQkhAME=)
 
 
 
 
 
-**Chaotic Neutral Monk**	
-
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-
-[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
-
-
-	BL2(BwAAAAAQ0QkhFAewEBG9HgfBAUEAwf///////////38DwQkhAME=)
-
-
-
-
-
-**Chaotic Neutral Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 
+[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
+BL2(BwAAAAAQ0QkhFAewEBG9HgfBAUEAwf///////////38DwQkhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
 
 
-	BL2(BwAAAACZfAkhFAewEBG9ngXBAUEAwf///////////38DwQkhAME=)
+BL2(BwAAAACZfAkhFAewEBG9ngXBAUEAwf///////////38DwQkhAME=)
 
 
 
 
 
-**Lawful Evil Monk**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -3833,43 +3833,43 @@
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAAmvwklFAewEBG9ngjBAUEAwf///////////38DgQghAME=)
+BL2(BwAAAAAmvwklFAewEBG9ngjBAUEAwf///////////38DgQghAME=)
 
 
 
 
 
-**Lawful Evil Monk**	
-
-
-[Critical Damage +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
-
-
-	BL2(BwAAAABS+gklFAewEBG9HgfBAUEAwf///////////38DgQghAME=)
-
-
-
-
-
-**Lawful Evil Monk**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
+BL2(BwAAAABS+gklFAewEBG9HgfBAUEAwf///////////38DgQghAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+
+
+[Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
 
 
-	BL2(BwAAAADbVwklFAewEBG9ngXBAUEAwf///////////38DgQghAME=)
+BL2(BwAAAADbVwklFAewEBG9ngXBAUEAwf///////////38DgQghAME=)
 
 
 
 
 
-**Lawful Good Monk**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -3878,43 +3878,43 @@
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAAzoAkjFAewEBG9ngjBAUEAwf///////////38DQQkhAME=)
+BL2(BwAAAAAzoAkjFAewEBG9ngjBAUEAwf///////////38DQQkhAME=)
 
 
 
 
 
-**Lawful Good Monk**	
-
-
-[Reload Speed +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
-
-
-	BL2(BwAAAABH5QkjFAewEBG9HgfBAUEAwf///////////38DQQkhAME=)
-
-
-
-
-
-**Lawful Good Monk**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
+BL2(BwAAAABH5QkjFAewEBG9HgfBAUEAwf///////////38DQQkhAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+
+
+[Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
 
 
-	BL2(BwAAAADOSAkjFAewEBG9ngXBAUEAwf///////////38DQQkhAME=)
+BL2(BwAAAADOSAkjFAewEBG9ngXBAUEAwf///////////38DQQkhAME=)
 
 
 
 
 
-**Lawful Neutral Monk**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -3923,43 +3923,43 @@
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAA3SAkgFAewEBG9ngjBAUEAwf///////////38DAQohAME=)
+BL2(BwAAAAA3SAkgFAewEBG9ngjBAUEAwf///////////38DAQohAME=)
 
 
 
 
 
-**Lawful Neutral Monk**	
-
-
-[Magazine Size +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
-
-
-	BL2(BwAAAABDDQkgFAewEBG9HgfBAUEAwf///////////38DAQohAME=)
-
-
-
-
-
-**Lawful Neutral Monk**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
+BL2(BwAAAABDDQkgFAewEBG9HgfBAUEAwf///////////38DAQohAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+
+
+[Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
 
 
-	BL2(BwAAAADKoAkgFAewEBG9ngXBAUEAwf///////////38DAQohAME=)
+BL2(BwAAAADKoAkgFAewEBG9ngXBAUEAwf///////////38DAQohAME=)
 
 
 
 
 
-**Neutral Evil Monk**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -3968,13 +3968,13 @@
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAADWbQkmFAewEBG9ngjBAUEAwf///////////38DwQghAME=)
+BL2(BwAAAADWbQkmFAewEBG9ngjBAUEAwf///////////38DwQghAME=)
 
 
 
 
 
-**Neutral Evil Monk**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -3983,13 +3983,13 @@
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAACiKAkmFAewEBG9HgfBAUEAwf///////////38DwQghAME=)
+BL2(BwAAAACiKAkmFAewEBG9HgfBAUEAwf///////////38DwQghAME=)
 
 
 
 
 
-**Neutral Evil Monk**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -3998,13 +3998,13 @@
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
 
 
-	BL2(BwAAAAArhQkmFAewEBG9ngXBAUEAwf///////////38DwQghAME=)
+BL2(BwAAAAArhQkmFAewEBG9ngXBAUEAwf///////////38DwQghAME=)
 
 
 
 
 
-**Neutral Good Monk**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -4013,13 +4013,13 @@
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAACo0gkkFAewEBG9ngjBAUEAwf///////////38DAQkhAME=)
+BL2(BwAAAACo0gkkFAewEBG9ngjBAUEAwf///////////38DAQkhAME=)
 
 
 
 
 
-**Neutral Good Monk**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -4028,13 +4028,13 @@
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAADclwkkFAewEBG9HgfBAUEAwf///////////38DAQkhAME=)
+BL2(BwAAAADclwkkFAewEBG9HgfBAUEAwf///////////38DAQkhAME=)
 
 
 
 
 
-**Neutral Good Monk**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -4043,13 +4043,13 @@
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
 
 
-	BL2(BwAAAABVOgkkFAewEBG9ngXBAUEAwf///////////38DAQkhAME=)
+BL2(BwAAAABVOgkkFAewEBG9ngXBAUEAwf///////////38DAQkhAME=)
 
 
 
 
 
-**True Neutral Monk**	
+**True $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +73%]	
@@ -4058,13 +4058,13 @@
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAAyGwkfFAewEBG9ngjBAUEAwf///////////38DAQghAME=)
+BL2(BwAAAAAyGwkfFAewEBG9ngjBAUEAwf///////////38DAQghAME=)
 
 
 
 
 
-**True Neutral Monk**	
+**True $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +73%]	
@@ -4073,13 +4073,13 @@
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAABGXgkfFAewEBG9HgfBAUEAwf///////////38DAQghAME=)
+BL2(BwAAAABGXgkfFAewEBG9HgfBAUEAwf///////////38DAQghAME=)
 
 
 
 
 
-**True Neutral Monk**	
+**True $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +73%]	
@@ -4088,7 +4088,7 @@
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
 
 
-	BL2(BwAAAADP8wkfFAewEBG9ngXBAUEAwf///////////38DAQghAME=)
+BL2(BwAAAADP8wkfFAewEBG9ngXBAUEAwf///////////38DAQghAME=)
 
 
 
@@ -4109,7 +4109,7 @@
 (Team Bullet Regeneration +2.6) 
 
 
-	BL2(BwAAAAASXwAcDYqhoxAyGQbBAUEAwf///////////38DASIBAME=) 
+BL2(BwAAAAASXwAcDYqhoxAyGQbBAUEAwf///////////38DASIBAME=) 
 
 
 
@@ -4124,7 +4124,7 @@
 (Team Bullet Regeneration +2.6) 
 
 
-	BL2(BwAAAADDvQAcDYqhoxAyWQXBAUEAwf///////////38DASIBAME=) 
+BL2(BwAAAADDvQAcDYqhoxAyWQXBAUEAwf///////////38DASIBAME=) 
 
 
 
@@ -4139,7 +4139,7 @@
 (Team Bullet Regeneration +2.6) 
 
 
-	BL2(BwAAAABbtgAcDYqhoxAymQfBAUEAwf///////////38DQSIBAME=) 
+BL2(BwAAAABbtgAcDYqhoxAymQfBAUEAwf///////////38DQSIBAME=) 
 
 
 
@@ -4154,7 +4154,7 @@
 (Team Bullet Regeneration +2.6) 
 
 
-	BL2(BwAAAACfYAAcDYqhoxAy2QbBAUEAwf///////////38DQSIBAME=) 
+BL2(BwAAAACfYAAcDYqhoxAy2QbBAUEAwf///////////38DQSIBAME=) 
 
 
 
@@ -4169,7 +4169,7 @@
 (Team Bullet Regeneration +2.6) 
 
 
-	BL2(BwAAAACYZwAcDYqhoxAyGQnBAUEAwf///////////38DgSIBAME=) 
+BL2(BwAAAACYZwAcDYqhoxAyGQnBAUEAwf///////////38DgSIBAME=) 
 
 
 
@@ -4184,7 +4184,7 @@
 (Team Bullet Regeneration +2.6) 
 
 
-	BL2(BwAAAABcsQAcDYqhoxAyWQjBAUEAwf///////////38DgSIBAME=) 
+BL2(BwAAAABcsQAcDYqhoxAyWQjBAUEAwf///////////38DgSIBAME=) 
 
 
 
@@ -4199,7 +4199,7 @@
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
 
 
-	BL2(BwAAAADsfwAPDYqh4xEyGQbBAUEAwf///////////38DwR0BAME=) 
+BL2(BwAAAADsfwAPDYqh4xEyGQbBAUEAwf///////////38DwR0BAME=) 
 
 
 
@@ -4214,7 +4214,7 @@
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
 
 
-	BL2(BwAAAAA9nQAPDYqh4xEyWQXBAUEAwf///////////38DwR0BAME=) 
+BL2(BwAAAAA9nQAPDYqh4xEyWQXBAUEAwf///////////38DwR0BAME=) 
 
 
 
@@ -4229,7 +4229,7 @@
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
 
 
-	BL2(BwAAAAAzSAAPDYqh4xEymQfBAUEAwf///////////38DAR4BAME=) 
+BL2(BwAAAAAzSAAPDYqh4xEymQfBAUEAwf///////////38DAR4BAME=) 
 
 
 
@@ -4244,7 +4244,7 @@
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
 
 
-	BL2(BwAAAAD3ngAPDYqh4xEy2QbBAUEAwf///////////38DAR4BAME=) 
+BL2(BwAAAAD3ngAPDYqh4xEy2QbBAUEAwf///////////38DAR4BAME=) 
 
 
 
@@ -4259,7 +4259,7 @@
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
 
 
-	BL2(BwAAAACSfQAPDYqh4xEyGQnBAUEAwf///////////38DQR4BAME=) 
+BL2(BwAAAACSfQAPDYqh4xEyGQnBAUEAwf///////////38DQR4BAME=) 
 
 
 
@@ -4274,7 +4274,7 @@
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
 
 
-	BL2(BwAAAABWqwAPDYqh4xEyWQjBAUEAwf///////////38DQR4BAME=) 
+BL2(BwAAAABWqwAPDYqh4xEyWQjBAUEAwf///////////38DQR4BAME=) 
 
 
 
@@ -4289,7 +4289,7 @@
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
 
 
-	BL2(BwAAAABQSAAQDYqhAxIymQfBAUEAwf///////////38DAR8BAME=) 
+BL2(BwAAAABQSAAQDYqhAxIymQfBAUEAwf///////////38DAR8BAME=) 
 
 
 
@@ -4304,7 +4304,7 @@
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
 
 
-	BL2(BwAAAACUngAQDYqhAxIy2QbBAUEAwf///////////38DAR8BAME=) 
+BL2(BwAAAACUngAQDYqhAxIy2QbBAUEAwf///////////38DAR8BAME=) 
 
 
 
@@ -4319,7 +4319,7 @@
 Shield Capacity +11899 / Shield Recharge Rate +40%) 
 
 
-	BL2(BwAAAADxfQAQDYqhAxIyGQnBAUEAwf///////////38DQR8BAME=) 
+BL2(BwAAAADxfQAQDYqhAxIyGQnBAUEAwf///////////38DQR8BAME=) 
 
 
 
@@ -4334,7 +4334,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
 
 
-	BL2(BwAAAAA1qwAQDYqhAxIyWQjBAUEAwf///////////38DQR8BAME=) 
+BL2(BwAAAAA1qwAQDYqhAxIyWQjBAUEAwf///////////38DQR8BAME=) 
 
 
 
@@ -4349,7 +4349,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
 
 
-	BL2(BwAAAABjvAAQDYqhAxIyGQbBAUEAwf///////////38DwR4BAME=) 
+BL2(BwAAAABjvAAQDYqhAxIyGQbBAUEAwf///////////38DwR4BAME=) 
 
 
 
@@ -4364,7 +4364,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
 
 
-	BL2(BwAAAACyXgAQDYqhAxIyWQXBAUEAwf///////////38DwR4BAME=) 
+BL2(BwAAAACyXgAQDYqhAxIyWQXBAUEAwf///////////38DwR4BAME=) 
 
 
 
@@ -4379,7 +4379,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
 
 
-	BL2(BwAAAADbjwARDYqhYxAyGQbBAUEAwf///////////38DwR8BAME=) 
+BL2(BwAAAADbjwARDYqhYxAyGQbBAUEAwf///////////38DwR8BAME=) 
 
 
 
@@ -4394,7 +4394,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
 
 
-	BL2(BwAAAAAKbQARDYqhYxAyWQXBAUEAwf///////////38DwR8BAME=) 
+BL2(BwAAAAAKbQARDYqhYxAyWQXBAUEAwf///////////38DwR8BAME=) 
 
 
 
@@ -4409,7 +4409,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
 
 
-	BL2(BwAAAACw1gARDYqhYxAymQfBAUEAwf///////////38DASABAME=) 
+BL2(BwAAAACw1gARDYqhYxAymQfBAUEAwf///////////38DASABAME=) 
 
 
 
@@ -4424,7 +4424,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
 
 
-	BL2(BwAAAAB0AAARDYqhYxAy2QbBAUEAwf///////////38DASABAME=) 
+BL2(BwAAAAB0AAARDYqhYxAy2QbBAUEAwf///////////38DASABAME=) 
 
 
 
@@ -4439,7 +4439,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
 
 
-	BL2(BwAAAAAR4wARDYqhYxAyGQnBAUEAwf///////////38DQSABAME=) 
+BL2(BwAAAAAR4wARDYqhYxAyGQnBAUEAwf///////////38DQSABAME=) 
 
 
 
@@ -4454,7 +4454,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
 
 
-	BL2(BwAAAADVNQARDYqhYxAyWQjBAUEAwf///////////38DQSABAME=) 
+BL2(BwAAAADVNQARDYqhYxAyWQjBAUEAwf///////////38DQSABAME=) 
 
 
 
@@ -4469,7 +4469,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
 
 
-	BL2(BwAAAABwRAASDYqhIxAyGQbBAUEAwf///////////38DwSABAME=) 
+BL2(BwAAAABwRAASDYqhIxAyGQbBAUEAwf///////////38DwSABAME=) 
 
 
 
@@ -4484,7 +4484,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
 
 
-	BL2(BwAAAAChpgASDYqhIxAyWQXBAUEAwf///////////38DwSABAME=) 
+BL2(BwAAAAChpgASDYqhIxAyWQXBAUEAwf///////////38DwSABAME=) 
 
 
 
@@ -4499,7 +4499,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
 
 
-	BL2(BwAAAABDsAASDYqhIxAymQfBAUEAwf///////////38DASEBAME=) 
+BL2(BwAAAABDsAASDYqhIxAymQfBAUEAwf///////////38DASEBAME=) 
 
 
 
@@ -4514,7 +4514,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
 
 
-	BL2(BwAAAACHZgASDYqhIxAy2QbBAUEAwf///////////38DASEBAME=) 
+BL2(BwAAAACHZgASDYqhIxAy2QbBAUEAwf///////////38DASEBAME=) 
 
 
 
@@ -4529,7 +4529,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
 
 
-	BL2(BwAAAADihQASDYqhIxAyGQnBAUEAwf///////////38DQSEBAME=) 
+BL2(BwAAAADihQASDYqhIxAyGQnBAUEAwf///////////38DQSEBAME=) 
 
 
 
@@ -4544,7 +4544,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
 
 
-	BL2(BwAAAAAmUwASDYqhIxAyWQjBAUEAwf///////////38DQSEBAME=) 
+BL2(BwAAAAAmUwASDYqhIxAyWQjBAUEAwf///////////38DQSEBAME=) 
 
 
 
@@ -4559,7 +4559,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Team Magazine Size +40%) 
 
 
-	BL2(BwAAAACqqAAdDYqhIxAyGQbBAUEAwf///////////38DASMBAME=) 
+BL2(BwAAAACqqAAdDYqhIxAyGQbBAUEAwf///////////38DASMBAME=) 
 
 
 
@@ -4574,7 +4574,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Team Magazine Size +40%) 
 
 
-	BL2(BwAAAAB7SgAdDYqhIxAyWQXBAUEAwf///////////38DASMBAME=) 
+BL2(BwAAAAB7SgAdDYqhIxAyWQXBAUEAwf///////////38DASMBAME=) 
 
 
 
@@ -4589,7 +4589,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Team Magazine Size +40%) 
 
 
-	BL2(BwAAAADjQQAdDYqhIxAymQfBAUEAwf///////////38DQSMBAME=) 
+BL2(BwAAAADjQQAdDYqhIxAymQfBAUEAwf///////////38DQSMBAME=) 
 
 
 
@@ -4604,7 +4604,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Team Magazine Size +40%) 
 
 
-	BL2(BwAAAAAnlwAdDYqhIxAy2QbBAUEAwf///////////38DQSMBAME=) 
+BL2(BwAAAAAnlwAdDYqhIxAy2QbBAUEAwf///////////38DQSMBAME=) 
 
 
 
@@ -4619,7 +4619,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Team Magazine Size +40%) 
 
 
-	BL2(BwAAAAAgkAAdDYqhIxAyGQnBAUEAwf///////////38DgSMBAME=) 
+BL2(BwAAAAAgkAAdDYqhIxAyGQnBAUEAwf///////////38DgSMBAME=) 
 
 
 
@@ -4634,7 +4634,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Team Magazine Size +40%) 
 
 
-	BL2(BwAAAADkRgAdDYqhIxAyWQjBAUEAwf///////////38DgSMBAME=) 
+BL2(BwAAAADkRgAdDYqhIxAyWQjBAUEAwf///////////38DgSMBAME=) 
 
 
 
@@ -4649,7 +4649,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Reload Speed +28% / Magazine Size +40%) 
 
 
-	BL2(BwAAAAC0WgAODYqhQxAyGQbBAUEAwf///////////38DwRwBAME=) 
+BL2(BwAAAAC0WgAODYqhQxAyGQbBAUEAwf///////////38DwRwBAME=) 
 
 
 
@@ -4664,7 +4664,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Reload Speed +28% / Magazine Size +40%) 
 
 
-	BL2(BwAAAABluAAODYqhQxAyWQXBAUEAwf///////////38DwRwBAME=) 
+BL2(BwAAAABluAAODYqhQxAyWQXBAUEAwf///////////38DwRwBAME=) 
 
 
 
@@ -4679,7 +4679,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Reload Speed +28% / Magazine Size +40%) 
 
 
-	BL2(BwAAAACHrgAODYqhQxAymQfBAUEAwf///////////38DAR0BAME=) 
+BL2(BwAAAACHrgAODYqhQxAymQfBAUEAwf///////////38DAR0BAME=) 
 
 
 
@@ -4694,7 +4694,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Reload Speed +28% / Magazine Size +40%) 
 
 
-	BL2(BwAAAABDeAAODYqhQxAy2QbBAUEAwf///////////38DAR0BAME=) 
+BL2(BwAAAABDeAAODYqhQxAy2QbBAUEAwf///////////38DAR0BAME=) 
 
 
 
@@ -4709,7 +4709,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Reload Speed +28% / Magazine Size +40%) 
 
 
-	BL2(BwAAAAAmmwAODYqhQxAyGQnBAUEAwf///////////38DQR0BAME=) 
+BL2(BwAAAAAmmwAODYqhQxAyGQnBAUEAwf///////////38DQR0BAME=) 
 
 
 
@@ -4724,7 +4724,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Reload Speed +28% / Magazine Size +40%) 
 
 
-	BL2(BwAAAADiTQAODYqhQxAyWQjBAUEAwf///////////38DQR0BAME=) 
+BL2(BwAAAADiTQAODYqhQxAyWQjBAUEAwf///////////38DQR0BAME=) 
 
 
 
@@ -4739,7 +4739,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Cooldown Rate +36%) 
 
 
-	BL2(BwAAAAB4pAAqDYqhgxAyGQbBAUEAwf///////////38DASQBAME=) 
+BL2(BwAAAAB4pAAqDYqhgxAyGQbBAUEAwf///////////38DASQBAME=) 
 
 
 
@@ -4754,7 +4754,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Cooldown Rate +36%) 
 
 
-	BL2(BwAAAACpRgAqDYqhgxAyWQXBAUEAwf///////////38DASQBAME=) 
+BL2(BwAAAACpRgAqDYqhgxAyWQXBAUEAwf///////////38DASQBAME=) 
 
 
 
@@ -4769,7 +4769,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Cooldown Rate +36%) 
 
 
-	BL2(BwAAAAAxTQAqDYqhgxAymQfBAUEAwf///////////38DQSQBAME=) 
+BL2(BwAAAAAxTQAqDYqhgxAymQfBAUEAwf///////////38DQSQBAME=) 
 
 
 
@@ -4784,7 +4784,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Cooldown Rate +36%) 
 
 
-	BL2(BwAAAAD1mwAqDYqhgxAy2QbBAUEAwf///////////38DQSQBAME=) 
+BL2(BwAAAAD1mwAqDYqhgxAy2QbBAUEAwf///////////38DQSQBAME=) 
 
 
 
@@ -4799,7 +4799,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Cooldown Rate +36%) 
 
 
-	BL2(BwAAAADynAAqDYqhgxAyGQnBAUEAwf///////////38DgSQBAME=) 
+BL2(BwAAAADynAAqDYqhgxAyGQnBAUEAwf///////////38DgSQBAME=) 
 
 
 
@@ -4814,7 +4814,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Cooldown Rate +36%) 
 
 
-	BL2(BwAAAAA2SgAqDYqhgxAyWQjBAUEAwf///////////38DgSQBAME=) 
+BL2(BwAAAAA2SgAqDYqhgxAyWQjBAUEAwf///////////38DgSQBAME=) 
 
 
 
@@ -4829,7 +4829,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Max Health +8294 / Reload Speed +28%) 
 
 
-	BL2(BwAAAABdhQATDYqhgxAyGQnBAUEAwf///////////38DgSUBAME=) 
+BL2(BwAAAABdhQATDYqhgxAyGQnBAUEAwf///////////38DgSUBAME=) 
 
 
 
@@ -4844,7 +4844,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Max Health +8294 / Reload Speed +28%) 
 
 
-	BL2(BwAAAACZUwATDYqhgxAyWQjBAUEAwf///////////38DgSUBAME=) 
+BL2(BwAAAACZUwATDYqhgxAyWQjBAUEAwf///////////38DgSUBAME=) 
 
 
 
@@ -4859,7 +4859,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Max Health +8294 / Reload Speed +28%) 
 
 
-	BL2(BwAAAACeVAATDYqhgxAymQfBAUEAwf///////////38DQSUBAME=) 
+BL2(BwAAAACeVAATDYqhgxAymQfBAUEAwf///////////38DQSUBAME=) 
 
 
 
@@ -4874,7 +4874,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Max Health +8294 / Reload Speed +28%) 
 
 
-	BL2(BwAAAABaggATDYqhgxAy2QbBAUEAwf///////////38DQSUBAME=) 
+BL2(BwAAAABaggATDYqhgxAy2QbBAUEAwf///////////38DQSUBAME=) 
 
 
 
@@ -4889,7 +4889,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Max Health +8294 / Reload Speed +28%) 
 
 
-	BL2(BwAAAADXvQATDYqhgxAyGQbBAUEAwf///////////38DASUBAME=) 
+BL2(BwAAAADXvQATDYqhgxAyGQbBAUEAwf///////////38DASUBAME=) 
 
 
 
@@ -4904,13 +4904,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 (Max Health +8294 / Reload Speed +28%) 
 
 
-	BL2(BwAAAAAGXwATDYqhgxAyWQXBAUEAwf///////////38DASUBAME=)
+BL2(BwAAAAAGXwATDYqhgxAyWQXBAUEAwf///////////38DASUBAME=)
 
 
 
 
 
-**Chaotic Evil Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4919,13 +4919,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAAA4YgknFAewEBG9HgnBAUEAwf///////////38DQQghAME=)
+BL2(BwAAAAA4YgknFAewEBG9HgnBAUEAwf///////////38DQQghAME=)
 
 
 
 
 
-**Chaotic Evil Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4934,13 +4934,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAD8tAknFAewEBG9XgjBAUEAwf///////////38DQQghAME=)
+BL2(BwAAAAD8tAknFAewEBG9XgjBAUEAwf///////////38DQQghAME=)
 
 
 
 
 
-**Chaotic Evil Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4949,13 +4949,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAACoJQknFAewEBG9ngfBAUEAwf///////////38DQQghAME=)
+BL2(BwAAAACoJQknFAewEBG9ngfBAUEAwf///////////38DQQghAME=)
 
 
 
 
 
-**Chaotic Evil Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4964,13 +4964,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAABs8wknFAewEBG93gbBAUEAwf///////////38DQQghAME=)
+BL2(BwAAAABs8wknFAewEBG93gbBAUEAwf///////////38DQQghAME=)
 
 
 
 
 
-**Chaotic Evil Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4979,13 +4979,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAADQvgknFAewEBG9HgbBAUEAwf///////////38DQQghAME=)
+BL2(BwAAAADQvgknFAewEBG9HgbBAUEAwf///////////38DQQghAME=)
 
 
 
 
 
-**Chaotic Evil Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4994,13 +4994,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAAABXAknFAewEBG9XgXBAUEAwf///////////38DQQghAME=)
+BL2(BwAAAAABXAknFAewEBG9XgXBAUEAwf///////////38DQQghAME=)
 
 
 
 
 
-**Chaotic Good Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5009,13 +5009,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAADs3QkiFAewEBG9HgnBAUEAwf///////////38DgQkhAME=)
+BL2(BwAAAADs3QkiFAewEBG9HgnBAUEAwf///////////38DgQkhAME=)
 
 
 
 
 
-**Chaotic Good Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5024,13 +5024,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAAoCwkiFAewEBG9XgjBAUEAwf///////////38DgQkhAME=)
+BL2(BwAAAAAoCwkiFAewEBG9XgjBAUEAwf///////////38DgQkhAME=)
 
 
 
 
 
-**Chaotic Good Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5039,13 +5039,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAAB8mgkiFAewEBG9ngfBAUEAwf///////////38DgQkhAME=)
+BL2(BwAAAAB8mgkiFAewEBG9ngfBAUEAwf///////////38DgQkhAME=)
 
 
 
 
 
-**Chaotic Good Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5054,13 +5054,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAC4TAkiFAewEBG93gbBAUEAwf///////////38DgQkhAME=)
+BL2(BwAAAAC4TAkiFAewEBG93gbBAUEAwf///////////38DgQkhAME=)
 
 
 
 
 
-**Chaotic Good Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5069,13 +5069,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAAAEAQkiFAewEBG9HgbBAUEAwf///////////38DgQkhAME=)
+BL2(BwAAAAAEAQkiFAewEBG9HgbBAUEAwf///////////38DgQkhAME=)
 
 
 
 
 
-**Chaotic Good Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5084,13 +5084,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAADV4wkiFAewEBG9XgXBAUEAwf///////////38DgQkhAME=)
+BL2(BwAAAADV4wkiFAewEBG9XgXBAUEAwf///////////38DgQkhAME=)
 
 
 
 
 
-**Chaotic Neutral Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5099,13 +5099,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAAAcDwkhFAewEBG9HgnBAUEAwf///////////38DwQkhAME=)
+BL2(BwAAAAAcDwkhFAewEBG9HgnBAUEAwf///////////38DwQkhAME=)
 
 
 
 
 
-**Chaotic Neutral Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5114,13 +5114,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAADY2QkhFAewEBG9XgjBAUEAwf///////////38DwQkhAME=)
+BL2(BwAAAADY2QkhFAewEBG9XgjBAUEAwf///////////38DwQkhAME=)
 
 
 
 
 
-**Chaotic Neutral Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5129,13 +5129,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAACMSAkhFAewEBG9ngfBAUEAwf///////////38DwQkhAME=)
+BL2(BwAAAACMSAkhFAewEBG9ngfBAUEAwf///////////38DwQkhAME=)
 
 
 
 
 
-**Chaotic Neutral Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5144,13 +5144,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAABIngkhFAewEBG93gbBAUEAwf///////////38DwQkhAME=)
+BL2(BwAAAABIngkhFAewEBG93gbBAUEAwf///////////38DwQkhAME=)
 
 
 
 
 
-**Chaotic Neutral Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5159,13 +5159,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAAD00wkhFAewEBG9HgbBAUEAwf///////////38DwQkhAME=)
+BL2(BwAAAAD00wkhFAewEBG9HgbBAUEAwf///////////38DwQkhAME=)
 
 
 
 
 
-**Chaotic Neutral Monk**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5174,13 +5174,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAAAlMQkhFAewEBG9XgXBAUEAwf///////////38DwQkhAME=)
+BL2(BwAAAAAlMQkhFAewEBG9XgXBAUEAwf///////////38DwQkhAME=)
 
 
 
 
 
-**Lawful Evil Monk**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5189,13 +5189,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAABeJAklFAewEBG9HgnBAUEAwf///////////38DgQghAME=)
+BL2(BwAAAABeJAklFAewEBG9HgnBAUEAwf///////////38DgQghAME=)
 
 
 
 
 
-**Lawful Evil Monk**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5204,13 +5204,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAACa8gklFAewEBG9XgjBAUEAwf///////////38DgQghAME=)
+BL2(BwAAAACa8gklFAewEBG9XgjBAUEAwf///////////38DgQghAME=)
 
 
 
 
 
-**Lawful Evil Monk**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5219,13 +5219,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAADOYwklFAewEBG9ngfBAUEAwf///////////38DgQghAME=)
+BL2(BwAAAADOYwklFAewEBG9ngfBAUEAwf///////////38DgQghAME=)
 
 
 
 
 
-**Lawful Evil Monk**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5234,13 +5234,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAAKtQklFAewEBG93gbBAUEAwf///////////38DgQghAME=)
+BL2(BwAAAAAKtQklFAewEBG93gbBAUEAwf///////////38DgQghAME=)
 
 
 
 
 
-**Lawful Evil Monk**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5249,13 +5249,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAAC2+AklFAewEBG9HgbBAUEAwf///////////38DgQghAME=)
+BL2(BwAAAAC2+AklFAewEBG9HgbBAUEAwf///////////38DgQghAME=)
 
 
 
 
 
-**Lawful Evil Monk**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5264,13 +5264,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAABnGgklFAewEBG9XgXBAUEAwf///////////38DgQghAME=)
+BL2(BwAAAABnGgklFAewEBG9XgXBAUEAwf///////////38DgQghAME=)
 
 
 
 
 
-**Lawful Good Monk**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5279,13 +5279,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAABLOwkjFAewEBG9HgnBAUEAwf///////////38DQQkhAME=)
+BL2(BwAAAABLOwkjFAewEBG9HgnBAUEAwf///////////38DQQkhAME=)
 
 
 
 
 
-**Lawful Good Monk**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5294,13 +5294,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAACP7QkjFAewEBG9XgjBAUEAwf///////////38DQQkhAME=)
+BL2(BwAAAACP7QkjFAewEBG9XgjBAUEAwf///////////38DQQkhAME=)
 
 
 
 
 
-**Lawful Good Monk**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5309,13 +5309,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAADbfAkjFAewEBG9ngfBAUEAwf///////////38DQQkhAME=)
+BL2(BwAAAADbfAkjFAewEBG9ngfBAUEAwf///////////38DQQkhAME=)
 
 
 
 
 
-**Lawful Good Monk**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5324,13 +5324,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAAfqgkjFAewEBG93gbBAUEAwf///////////38DQQkhAME=)
+BL2(BwAAAAAfqgkjFAewEBG93gbBAUEAwf///////////38DQQkhAME=)
 
 
 
 
 
-**Lawful Good Monk**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5339,13 +5339,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAACj5wkjFAewEBG9HgbBAUEAwf///////////38DQQkhAME=)
+BL2(BwAAAACj5wkjFAewEBG9HgbBAUEAwf///////////38DQQkhAME=)
 
 
 
 
 
-**Lawful Good Monk**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5354,13 +5354,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAAByBQkjFAewEBG9XgXBAUEAwf///////////38DQQkhAME=)
+BL2(BwAAAAByBQkjFAewEBG9XgXBAUEAwf///////////38DQQkhAME=)
 
 
 
 
 
-**Lawful Neutral Monk**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5369,13 +5369,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAABP0wkgFAewEBG9HgnBAUEAwf///////////38DAQohAME=)
+BL2(BwAAAABP0wkgFAewEBG9HgnBAUEAwf///////////38DAQohAME=)
 
 
 
 
 
-**Lawful Neutral Monk**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5384,13 +5384,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]
 
 
-	BL2(BwAAAACLBQkgFAewEBG9XgjBAUEAwf///////////38DAQohAME=)
+BL2(BwAAAACLBQkgFAewEBG9XgjBAUEAwf///////////38DAQohAME=)
 
 
 
 
 
-**Lawful Neutral Monk**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5399,13 +5399,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAADflAkgFAewEBG9ngfBAUEAwf///////////38DAQohAME=)
+BL2(BwAAAADflAkgFAewEBG9ngfBAUEAwf///////////38DAQohAME=)
 
 
 
 
 
-**Lawful Neutral Monk**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5414,13 +5414,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAAbQgkgFAewEBG93gbBAUEAwf///////////38DAQohAME=)
+BL2(BwAAAAAbQgkgFAewEBG93gbBAUEAwf///////////38DAQohAME=)
 
 
 
 
 
-**Lawful Neutral Monk**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5429,13 +5429,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAACnDwkgFAewEBG9HgbBAUEAwf///////////38DAQohAME=)
+BL2(BwAAAACnDwkgFAewEBG9HgbBAUEAwf///////////38DAQohAME=)
 
 
 
 
 
-**Lawful Neutral Monk**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5444,13 +5444,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAAB27QkgFAewEBG9XgXBAUEAwf///////////38DAQohAME=)
+BL2(BwAAAAB27QkgFAewEBG9XgXBAUEAwf///////////38DAQohAME=)
 
 
 
 
 
-**Neutral Evil Monk**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5459,13 +5459,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAACu9gkmFAewEBG9HgnBAUEAwf///////////38DwQghAME=)
+BL2(BwAAAACu9gkmFAewEBG9HgnBAUEAwf///////////38DwQghAME=)
 
 
 
 
 
-**Neutral Evil Monk**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5474,13 +5474,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAABqIAkmFAewEBG9XgjBAUEAwf///////////38DwQghAME=)
+BL2(BwAAAABqIAkmFAewEBG9XgjBAUEAwf///////////38DwQghAME=)
 
 
 
 
 
-**Neutral Evil Monk**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5489,13 +5489,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAAA+sQkmFAewEBG9ngfBAUEAwf///////////38DwQghAME=)
+BL2(BwAAAAA+sQkmFAewEBG9ngfBAUEAwf///////////38DwQghAME=)
 
 
 
 
 
-**Neutral Evil Monk**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5504,13 +5504,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAD6ZwkmFAewEBG93gbBAUEAwf///////////38DwQghAME=)
+BL2(BwAAAAD6ZwkmFAewEBG93gbBAUEAwf///////////38DwQghAME=)
 
 
 
 
 
-**Neutral Evil Monk**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5519,13 +5519,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAABGKgkmFAewEBG9HgbBAUEAwf///////////38DwQghAME=)
+BL2(BwAAAABGKgkmFAewEBG9HgbBAUEAwf///////////38DwQghAME=)
 
 
 
 
 
-**Neutral Evil Monk**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5534,13 +5534,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAACXyAkmFAewEBG9XgXBAUEAwf///////////38DwQghAME=)
+BL2(BwAAAACXyAkmFAewEBG9XgXBAUEAwf///////////38DwQghAME=)
 
 
 
 
 
-**Neutral Good Monk**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5549,13 +5549,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAADQSQkkFAewEBG9HgnBAUEAwf///////////38DAQkhAME=)
+BL2(BwAAAADQSQkkFAewEBG9HgnBAUEAwf///////////38DAQkhAME=)
 
 
 
 
 
-**Neutral Good Monk**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5564,13 +5564,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAAUnwkkFAewEBG9XgjBAUEAwf///////////38DAQkhAME=)
+BL2(BwAAAAAUnwkkFAewEBG9XgjBAUEAwf///////////38DAQkhAME=)
 
 
 
 
 
-**Neutral Good Monk**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5579,13 +5579,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAABADgkkFAewEBG9ngfBAUEAwf///////////38DAQkhAME=)
+BL2(BwAAAABADgkkFAewEBG9ngfBAUEAwf///////////38DAQkhAME=)
 
 
 
 
 
-**Neutral Good Monk**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5594,13 +5594,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAACE2AkkFAewEBG93gbBAUEAwf///////////38DAQkhAME=)
+BL2(BwAAAACE2AkkFAewEBG93gbBAUEAwf///////////38DAQkhAME=)
 
 
 
 
 
-**Neutral Good Monk**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5609,13 +5609,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAAA4lQkkFAewEBG9HgbBAUEAwf///////////38DAQkhAME=)
+BL2(BwAAAAA4lQkkFAewEBG9HgbBAUEAwf///////////38DAQkhAME=)
 
 
 
 
 
-**Neutral Good Monk**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5624,13 +5624,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAADpdwkkFAewEBG9XgXBAUEAwf///////////38DAQkhAME=)
+BL2(BwAAAADpdwkkFAewEBG9XgXBAUEAwf///////////38DAQkhAME=)
 
 
 
 
 
-**True Neutral Monk**	
+**True $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +73%]	
@@ -5639,13 +5639,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAABKgAkfFAewEBG9HgnBAUEAwf///////////38DAQghAME=)
+BL2(BwAAAABKgAkfFAewEBG9HgnBAUEAwf///////////38DAQghAME=)
 
 
 
 
 
-**True Neutral Monk**	
+**True $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +73%]	
@@ -5654,13 +5654,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAACOVgkfFAewEBG9XgjBAUEAwf///////////38DAQghAME=)
+BL2(BwAAAACOVgkfFAewEBG9XgjBAUEAwf///////////38DAQghAME=)
 
 
 
 
 
-**True Neutral Monk**	
+**True $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +73%]	
@@ -5669,13 +5669,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAADaxwkfFAewEBG9ngfBAUEAwf///////////38DAQghAME=)
+BL2(BwAAAADaxwkfFAewEBG9ngfBAUEAwf///////////38DAQghAME=)
 
 
 
 
 
-**True Neutral Monk**	
+**True $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +73%]	
@@ -5684,13 +5684,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
 
 
-	BL2(BwAAAAAeEQkfFAewEBG93gbBAUEAwf///////////38DAQghAME=)
+BL2(BwAAAAAeEQkfFAewEBG93gbBAUEAwf///////////38DAQghAME=)
 
 
 
 
 
-**True Neutral Monk**	
+**True $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +73%]	
@@ -5699,13 +5699,13 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
 
 
-	BL2(BwAAAACiXAkfFAewEBG9HgbBAUEAwf///////////38DAQghAME=)
+BL2(BwAAAACiXAkfFAewEBG9HgbBAUEAwf///////////38DAQghAME=)
 
 
 
 
 
-**True Neutral Monk**	
+**True $${\color{grey}Neutral}$$ Monk**	
 
 
 [Magazine Size +73%]	
@@ -5714,7 +5714,7 @@ Shield Capacity +11899 / Shield Recharge Rate +40%)
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
 
 
-	BL2(BwAAAABzvgkfFAewEBG9XgXBAUEAwf///////////38DAQghAME=)
+BL2(BwAAAABzvgkfFAewEBG9XgXBAUEAwf///////////38DAQghAME=)
 
 
 
@@ -5735,7 +5735,7 @@ Legendary Siren
 (Cooldown Rate +36% / Gun Damage +26%) 
 
 
-	BL2(BwAAAADpBAAnDXihAxEqFQXBAUEAwf///////////38DgRgBAME=) 
+BL2(BwAAAADpBAAnDXihAxEqFQXBAUEAwf///////////38DgRgBAME=) 
 
 
 
@@ -5744,7 +5744,7 @@ Legendary Siren
 Legendary Nurse
 
 
-	BL2(BwAAAAAOfAoBAAMA8BFIJAXBAUEAwf///////////78EQQAgAME=)
+BL2(BwAAAAAOfAoBAAMA8BFIJAXBAUEAwf///////////78EQQAgAME=)
 
 
 
@@ -5753,7 +5753,7 @@ Legendary Nurse
 Legendary Cat
 
 
-	BL2(BwAAAADDuAoCAAMAsBBIJAXBAUEAwf///////////78EgQAgAME=)
+BL2(BwAAAADDuAoCAAMAsBBIJAXBAUEAwf///////////78EgQAgAME=)
 
 
 
@@ -5762,7 +5762,7 @@ Legendary Cat
 Legendary Binder
 
 
-	BL2(BwAAAAAgIAoAAAMAEBFIJAXBAUEAwf///////////78EAQAgAME=)
+BL2(BwAAAAAgIAoAAAMAEBFIJAXBAUEAwf///////////78EAQAgAME=)
 
 
 
@@ -5777,7 +5777,7 @@ Legendary Binder
 (Burn Damage +26% / Burn Chance + 26% / +8294) 
 
 
-	BL2(BwAAAAD98gAhDXahAxEyGQXBAUEAwf///////////38DwQkBAME=)
+BL2(BwAAAAD98gAhDXahAxEyGQXBAUEAwf///////////38DwQkBAME=)
 
 
 
@@ -5798,7 +5798,7 @@ Rebounding Warder
 (Shield Capacity +11178) 
 
 
-	BL2(BwAAAACKzgAIDXqh4xEymQXBAUEAwf///////////38DgRQBAME=) 
+BL2(BwAAAACKzgAIDXqh4xEymQXBAUEAwf///////////38DgRQBAME=) 
 
 
 
@@ -5813,7 +5813,7 @@ Scheming Warder
 (Shield Capacity +11178) 
 
 
-	BL2(BwAAAAANOwAIDXqh4xEymQjBAUEAwf///////////38DARUBAME=) 
+BL2(BwAAAAANOwAIDXqh4xEymQjBAUEAwf///////////38DARUBAME=) 
 
 
 
@@ -5828,7 +5828,7 @@ Guarded Warder
 (Shield Capacity +11178) 
 
 
-	BL2(BwAAAAAyEQAIDXqh4xEyGQfBAUEAwf///////////38DwRQBAME=) 
+BL2(BwAAAAAyEQAIDXqh4xEyGQfBAUEAwf///////////38DwRQBAME=) 
 
 
 
@@ -5843,7 +5843,7 @@ Unyielding Banshee
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
 
 
-	BL2(BwAAAADe0gANDXqhIxAymQjBAUEAwf///////////38DQRwBAME=) 
+BL2(BwAAAADe0gANDXqhIxAymQjBAUEAwf///////////38DQRwBAME=) 
 
 
 
@@ -5858,7 +5858,7 @@ Breakneck Banshee
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
 
 
-	BL2(BwAAAACb5QANDXqhIxAyGQfBAUEAwf///////////38DARwBAME=) 
+BL2(BwAAAACb5QANDXqhIxAyGQfBAUEAwf///////////38DARwBAME=) 
 
 
 
@@ -5873,7 +5873,7 @@ Scorched Banshee
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
 
 
-	BL2(BwAAAABsYwANDXqhIxAymQXBAUEAwf///////////38DwRsBAME=) 
+BL2(BwAAAABsYwANDXqhIxAymQXBAUEAwf///////////38DwRsBAME=) 
 
 
 
@@ -5888,7 +5888,7 @@ Chrono Binder
 (Team Cooldown Rate +21%) 
 
 
-	BL2(BwAAAADs+AAoDXqhAxEymQXBAUEAwf///////////38DwRoBAME=) 
+BL2(BwAAAADs+AAoDXqhAxEymQXBAUEAwf///////////38DwRoBAME=) 
 
 
 
@@ -5903,7 +5903,7 @@ Hell Binder
 (Team Cooldown Rate +21%) 
 
 
-	BL2(BwAAAAAuOgAoDXqhAxEyGQfBAUEAwf///////////38DARsBAME=) 
+BL2(BwAAAAAuOgAoDXqhAxEyGQfBAUEAwf///////////38DARsBAME=) 
 
 
 
@@ -5918,7 +5918,7 @@ Cunning Binder
 (Team Cooldown Rate +21%) 
 
 
-	BL2(BwAAAABrDQAoDXqhAxEymQjBAUEAwf///////////38DQRsBAME=) 
+BL2(BwAAAABrDQAoDXqhAxEymQjBAUEAwf///////////38DQRsBAME=) 
 
 
 
@@ -5933,7 +5933,7 @@ Angelic Nurse
 (Team Health Regeneration +247.9) 
 
 
-	BL2(BwAAAABswgAbDXqh4xEyGQfBAUEAwf///////////38DwRYBAME=) 
+BL2(BwAAAABswgAbDXqh4xEyGQfBAUEAwf///////////38DwRYBAME=) 
 
 
 
@@ -5948,7 +5948,7 @@ Merciful Nurse
 (Team Health Regeneration +247.9) 
 
 
-	BL2(BwAAAABT6AAbDXqh4xEymQjBAUEAwf///////////38DARcBAME=) 
+BL2(BwAAAABT6AAbDXqh4xEymQjBAUEAwf///////////38DARcBAME=) 
 
 
 
@@ -5963,7 +5963,7 @@ Heavenly Nurse
 (Team Health Regeneration +247.9) 
 
 
-	BL2(BwAAAADUHQAbDXqh4xEymQXBAUEAwf///////////38DgRYBAME=) 
+BL2(BwAAAADUHQAbDXqh4xEymQXBAUEAwf///////////38DgRYBAME=) 
 
 
 
@@ -5978,7 +5978,7 @@ Cunning Fox
 (Burn Chance +40% / Burn Damage +40%) 
 
 
-	BL2(BwAAAAAm+wALDXqhAxEymQXBAUEAwf///////////38DwRgBAME=) 
+BL2(BwAAAAAm+wALDXqhAxEymQXBAUEAwf///////////38DwRgBAME=) 
 
 
 
@@ -5993,7 +5993,7 @@ Plague Fox
 (Burn Chance +40% / Burn Damage +40%) 
 
 
-	BL2(BwAAAAChDgALDXqhAxEymQjBAUEAwf///////////38DQRkBAME=) 
+BL2(BwAAAAChDgALDXqhAxEymQjBAUEAwf///////////38DQRkBAME=) 
 
 
 
@@ -6008,7 +6008,7 @@ Hell Fox
 (Burn Chance +40% / Burn Damage +40%) 
 
 
-	BL2(BwAAAADkOQALDXqhAxEyGQfBAUEAwf///////////38DARkBAME=) 
+BL2(BwAAAADkOQALDXqhAxEyGQfBAUEAwf///////////38DARkBAME=) 
 
 
 
@@ -6023,7 +6023,7 @@ Blurred Trickster
 (Fire Rate +26%) 
 
 
-	BL2(BwAAAAA5tQAJDXqhoxAymQXBAUEAwf///////////38DgRUBAME=) 
+BL2(BwAAAAA5tQAJDXqhoxAymQXBAUEAwf///////////38DgRUBAME=) 
 
 
 
@@ -6038,7 +6038,7 @@ Thieving Trickster
 (Fire Rate +26%) 
 
 
-	BL2(BwAAAABSgwAJDXqhoxAymQjBAUEAwf///////////38DARYBAME=) 
+BL2(BwAAAABSgwAJDXqhoxAymQjBAUEAwf///////////38DARYBAME=) 
 
 
 
@@ -6053,7 +6053,7 @@ Mirrored Trickster
 (Fire Rate +26%) 
 
 
-	BL2(BwAAAACBagAJDXqhoxAyGQfBAUEAwf///////////38DwRUBAME=) 
+BL2(BwAAAACBagAJDXqhoxAyGQfBAUEAwf///////////38DwRUBAME=) 
 
 
 
@@ -6068,7 +6068,7 @@ Hell Witch
 (Corrode Chance +40% / Corrode Damage +40%) 
 
 
-	BL2(BwAAAACD3AAHDXqhAxEymQjBAUEAwf///////////38DARQBAME=) 
+BL2(BwAAAACD3AAHDXqhAxEymQjBAUEAwf///////////38DARQBAME=) 
 
 
 
@@ -6083,7 +6083,7 @@ Splatter Witch
 (Corrode Chance +40% / Corrode Damage +40%) 
 
 
-	BL2(BwAAAACJsgAHDXqhAxEyGQfBAUEAwf///////////38DwRMBAME=) 
+BL2(BwAAAACJsgAHDXqhAxEyGQfBAUEAwf///////////38DwRMBAME=) 
 
 
 
@@ -6098,7 +6098,7 @@ Bullet Witch
 (Corrode Chance +40% / Corrode Damage +40%) 
 
 
-	BL2(BwAAAAAxbQAHDXqhAxEymQXBAUEAwf///////////38DgRMBAME=) 
+BL2(BwAAAAAxbQAHDXqhAxEymQXBAUEAwf///////////38DgRMBAME=) 
 
 
 
@@ -6113,7 +6113,7 @@ Wild Cat
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
 
 
-	BL2(BwAAAACfjgAMDXqhwxAymQXBAUEAwf///////////38DwRkBAME=) 
+BL2(BwAAAACfjgAMDXqhwxAymQXBAUEAwf///////////38DwRkBAME=) 
 
 
 
@@ -6128,7 +6128,7 @@ Killer Cat
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
 
 
-	BL2(BwAAAAD0uAAMDXqhwxAymQjBAUEAwf///////////38DQRoBAME=) 
+BL2(BwAAAAD0uAAMDXqhwxAymQjBAUEAwf///////////38DQRoBAME=) 
 
 
 
@@ -6143,7 +6143,7 @@ Scheming Cat
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
 
 
-	BL2(BwAAAACxjwAMDXqhwxAyGQfBAUEAwf///////////38DARoBAME=) 
+BL2(BwAAAACxjwAMDXqhwxAyGQfBAUEAwf///////////38DARoBAME=) 
 
 
 
@@ -6158,7 +6158,7 @@ Relentless Matriarch
 (Max Health +9105 / Magazine Size +36%) 
 
 
-	BL2(BwAAAACG8gAKDXqhAxIyGQfBAUEAwf///////////38DwRcBAME=) 
+BL2(BwAAAACG8gAKDXqhAxIyGQfBAUEAwf///////////38DwRcBAME=) 
 
 
 
@@ -6173,7 +6173,7 @@ Leeching Matriarch
 (Max Health +9105 / Magazine Size +36%) 
 
 
-	BL2(BwAAAADiogAKDXqhAxIymQjBAUEAwf///////////38DARgBAME=) 
+BL2(BwAAAADiogAKDXqhAxIymQjBAUEAwf///////////38DARgBAME=) 
 
 
 
@@ -6188,13 +6188,13 @@ Angelic Matriarch
 (Max Health +9105 / Magazine Size +36%) 
 
 
-	BL2(BwAAAAA+LQAKDXqhAxIymQXBAUEAwf///////////38DgRcBAME=)
+BL2(BwAAAAA+LQAKDXqhAxIymQXBAUEAwf///////////38DgRcBAME=)
 
 
 
 
 
-**Chaotic Evil Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -6203,13 +6203,13 @@ Angelic Matriarch
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAAD2GAkUFAOwEBG9ngjBAUEAwf///////////38DAQUhAME=)
+BL2(BwAAAAD2GAkUFAOwEBG9ngjBAUEAwf///////////38DAQUhAME=)
 
 
 
 
 
-**Chaotic Evil Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -6218,13 +6218,13 @@ Angelic Matriarch
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAACCXQkUFAOwEBG9HgfBAUEAwf///////////38DAQUhAME=)
+BL2(BwAAAACCXQkUFAOwEBG9HgfBAUEAwf///////////38DAQUhAME=)
 
 
 
 
 
-**Chaotic Evil Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -6233,13 +6233,13 @@ Angelic Matriarch
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
 
 
-	BL2(BwAAAAAL8AkUFAOwEBG9ngXBAUEAwf///////////38DAQUhAME=)
+BL2(BwAAAAAL8AkUFAOwEBG9ngXBAUEAwf///////////38DAQUhAME=)
 
 
 
 
 
-**Chaotic Good Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -6248,43 +6248,43 @@ Angelic Matriarch
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAACFQQkQFAOwEBG9ngjBAUEAwf///////////38DAQQhAME=)
+BL2(BwAAAACFQQkQFAOwEBG9ngjBAUEAwf///////////38DAQQhAME=)
 
 
 
 
 
-**Chaotic Good Cleric**	
-
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-
-[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
-
-
-	BL2(BwAAAADxBAkQFAOwEBG9HgfBAUEAwf///////////38DAQQhAME=)
-
-
-
-
-
-**Chaotic Good Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 
+[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
+BL2(BwAAAADxBAkQFAOwEBG9HgfBAUEAwf///////////38DAQQhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
 
 
-	BL2(BwAAAAB4qQkQFAOwEBG9ngXBAUEAwf///////////38DAQQhAME=)
+BL2(BwAAAAB4qQkQFAOwEBG9ngXBAUEAwf///////////38DAQQhAME=)
 
 
 
 
 
-**Chaotic Neutral Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -6293,43 +6293,43 @@ Angelic Matriarch
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAAD1mgkPFAOwEBG9ngjBAUEAwf///////////38DwQMhAME=)
+BL2(BwAAAAD1mgkPFAOwEBG9ngjBAUEAwf///////////38DwQMhAME=)
 
 
 
 
 
-**Chaotic Neutral Cleric**	
-
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-
-[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
-
-
-	BL2(BwAAAACB3wkPFAOwEBG9HgfBAUEAwf///////////38DwQMhAME=)
-
-
-
-
-
-**Chaotic Neutral Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 
+[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
+BL2(BwAAAACB3wkPFAOwEBG9HgfBAUEAwf///////////38DwQMhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
 
 
-	BL2(BwAAAAAIcgkPFAOwEBG9ngXBAUEAwf///////////38DwQMhAME=)
+BL2(BwAAAAAIcgkPFAOwEBG9ngXBAUEAwf///////////38DwQMhAME=)
 
 
 
 
 
-**Lawful Evil Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -6338,43 +6338,43 @@ Angelic Matriarch
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAAAzGgkVFAOwEBG9ngjBAUEAwf///////////38DQQUhAME=)
+BL2(BwAAAAAzGgkVFAOwEBG9ngjBAUEAwf///////////38DQQUhAME=)
 
 
 
 
 
-**Lawful Evil Cleric**	
-
-
-[Critical Damage +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
-
-
-	BL2(BwAAAABHXwkVFAOwEBG9HgfBAUEAwf///////////38DQQUhAME=)
-
-
-
-
-
-**Lawful Evil Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
+BL2(BwAAAABHXwkVFAOwEBG9HgfBAUEAwf///////////38DQQUhAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+
+
+[Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
 
 
-	BL2(BwAAAADO8gkVFAOwEBG9ngXBAUEAwf///////////38DQQUhAME=)
+BL2(BwAAAADO8gkVFAOwEBG9ngXBAUEAwf///////////38DQQUhAME=)
 
 
 
 
 
-**Lawful Good Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -6383,43 +6383,43 @@ Angelic Matriarch
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAABAQwkRFAOwEBG9ngjBAUEAwf///////////38DQQQhAME=)
+BL2(BwAAAABAQwkRFAOwEBG9ngjBAUEAwf///////////38DQQQhAME=)
 
 
 
 
 
-**Lawful Good Cleric**	
-
-
-[Reload Speed +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
-
-
-	BL2(BwAAAAA0BgkRFAOwEBG9HgfBAUEAwf///////////38DQQQhAME=)
-
-
-
-
-
-**Lawful Good Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
+BL2(BwAAAAA0BgkRFAOwEBG9HgfBAUEAwf///////////38DQQQhAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+
+
+[Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
 
 
-	BL2(BwAAAAC9qwkRFAOwEBG9ngXBAUEAwf///////////38DQQQhAME=)
+BL2(BwAAAAC9qwkRFAOwEBG9ngXBAUEAwf///////////38DQQQhAME=)
 
 
 
 
 
-**Lawful Neutral Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -6428,43 +6428,43 @@ Angelic Matriarch
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAADxOAkNFAOwEBG9ngjBAUEAwf///////////38DgQMhAME=)
+BL2(BwAAAADxOAkNFAOwEBG9ngjBAUEAwf///////////38DgQMhAME=)
 
 
 
 
 
-**Lawful Neutral Cleric**	
-
-
-[Magazine Size +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
-
-
-	BL2(BwAAAACFfQkNFAOwEBG9HgfBAUEAwf///////////38DgQMhAME=)
-
-
-
-
-
-**Lawful Neutral Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
+BL2(BwAAAACFfQkNFAOwEBG9HgfBAUEAwf///////////38DgQMhAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+
+
+[Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
 
 
-	BL2(BwAAAAAM0AkNFAOwEBG9ngXBAUEAwf///////////38DgQMhAME=)
+BL2(BwAAAAAM0AkNFAOwEBG9ngXBAUEAwf///////////38DgQMhAME=)
 
 
 
 
 
-**Neutral Evil Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -6473,13 +6473,13 @@ Angelic Matriarch
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAAAXdwkTFAOwEBG9ngjBAUEAwf///////////38DwQQhAME=)
+BL2(BwAAAAAXdwkTFAOwEBG9ngjBAUEAwf///////////38DwQQhAME=)
 
 
 
 
 
-**Neutral Evil Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -6488,13 +6488,13 @@ Angelic Matriarch
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAABjMgkTFAOwEBG9HgfBAUEAwf///////////38DwQQhAME=)
+BL2(BwAAAABjMgkTFAOwEBG9HgfBAUEAwf///////////38DwQQhAME=)
 
 
 
 
 
-**Neutral Evil Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -6503,13 +6503,13 @@ Angelic Matriarch
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
 
 
-	BL2(BwAAAADqnwkTFAOwEBG9ngXBAUEAwf///////////38DwQQhAME=)
+BL2(BwAAAADqnwkTFAOwEBG9ngXBAUEAwf///////////38DwQQhAME=)
 
 
 
 
 
-**Neutral Good Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -6518,13 +6518,13 @@ Angelic Matriarch
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAADSdQkSFAOwEBG9ngjBAUEAwf///////////38DgQQhAME=)
+BL2(BwAAAADSdQkSFAOwEBG9ngjBAUEAwf///////////38DgQQhAME=)
 
 
 
 
 
-**Neutral Good Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -6533,13 +6533,13 @@ Angelic Matriarch
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAACmMAkSFAOwEBG9HgfBAUEAwf///////////38DgQQhAME=)
+BL2(BwAAAACmMAkSFAOwEBG9HgfBAUEAwf///////////38DgQQhAME=)
 
 
 
 
 
-**Neutral Good Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -6548,13 +6548,13 @@ Angelic Matriarch
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
 
 
-	BL2(BwAAAAAvnQkSFAOwEBG9ngXBAUEAwf///////////38DgQQhAME=)
+BL2(BwAAAAAvnQkSFAOwEBG9ngXBAUEAwf///////////38DgQQhAME=)
 
 
 
 
 
-**True Neutral Cleric**	
+**True $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +73%]	
@@ -6563,13 +6563,13 @@ Angelic Matriarch
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAABW3gkMFAOwEBG9ngjBAUEAwf///////////38DQQMhAME=)
+BL2(BwAAAABW3gkMFAOwEBG9ngjBAUEAwf///////////38DQQMhAME=)
 
 
 
 
 
-**True Neutral Cleric**	
+**True $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +73%]	
@@ -6578,13 +6578,13 @@ Angelic Matriarch
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
 
 
-	BL2(BwAAAAAimwkMFAOwEBG9HgfBAUEAwf///////////38DQQMhAME=)
+BL2(BwAAAAAimwkMFAOwEBG9HgfBAUEAwf///////////38DQQMhAME=)
 
 
 
 
 
-**True Neutral Cleric**	
+**True $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +73%]	
@@ -6593,7 +6593,7 @@ Angelic Matriarch
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
 
 
-	BL2(BwAAAACrNgkMFAOwEBG9ngXBAUEAwf///////////38DQQMhAME=)
+BL2(BwAAAACrNgkMFAOwEBG9ngXBAUEAwf///////////38DQQMhAME=)
 
 
 
@@ -6614,7 +6614,7 @@ Rebounding Warder
 (Shield Capacity +11178) 
 
 
-	BL2(BwAAAAAkEwAIDXyh4xEyGQbBAUEAwf///////////38DgRQBAME=) 
+BL2(BwAAAAAkEwAIDXyh4xEyGQbBAUEAwf///////////38DgRQBAME=) 
 
 
 
@@ -6629,7 +6629,7 @@ Rebounding Warder
 (Shield Capacity +11178) 
 
 
-	BL2(BwAAAAD18QAIDXyh4xEyWQXBAUEAwf///////////38DgRQBAME=) 
+BL2(BwAAAAD18QAIDXyh4xEyWQXBAUEAwf///////////38DgRQBAME=) 
 
 
 
@@ -6644,7 +6644,7 @@ Scheming Warder
 (Shield Capacity +11178) 
 
 
-	BL2(BwAAAAC20gAIDXyh4xEyGQnBAUEAwf///////////38DARUBAME=) 
+BL2(BwAAAAC20gAIDXyh4xEyGQnBAUEAwf///////////38DARUBAME=) 
 
 
 
@@ -6659,7 +6659,7 @@ Scheming Warder
 (Shield Capacity +11178) 
 
 
-	BL2(BwAAAAByBAAIDXyh4xEyWQjBAUEAwf///////////38DARUBAME=) 
+BL2(BwAAAAByBAAIDXyh4xEyWQjBAUEAwf///////////38DARUBAME=) 
 
 
 
@@ -6674,7 +6674,7 @@ Guarded Warder
 (Shield Capacity +11178) 
 
 
-	BL2(BwAAAABt+gAIDXyh4xEymQfBAUEAwf///////////38DwRQBAME=) 
+BL2(BwAAAABt+gAIDXyh4xEymQfBAUEAwf///////////38DwRQBAME=) 
 
 
 
@@ -6689,7 +6689,7 @@ Guarded Warder
 (Shield Capacity +11178) 
 
 
-	BL2(BwAAAACpLAAIDXyh4xEy2QbBAUEAwf///////////38DwRQBAME=) 
+BL2(BwAAAACpLAAIDXyh4xEy2QbBAUEAwf///////////38DwRQBAME=) 
 
 
 
@@ -6704,7 +6704,7 @@ Unyielding Banshee
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
 
 
-	BL2(BwAAAABlOwANDXyhIxAyGQnBAUEAwf///////////38DQRwBAME=) 
+BL2(BwAAAABlOwANDXyhIxAyGQnBAUEAwf///////////38DQRwBAME=) 
 
 
 
@@ -6719,7 +6719,7 @@ Unyielding Banshee
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
 
 
-	BL2(BwAAAACh7QANDXyhIxAyWQjBAUEAwf///////////38DQRwBAME=) 
+BL2(BwAAAACh7QANDXyhIxAyWQjBAUEAwf///////////38DQRwBAME=) 
 
 
 
@@ -6734,7 +6734,7 @@ Breakneck Banshee
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
 
 
-	BL2(BwAAAADEDgANDXyhIxAymQfBAUEAwf///////////38DARwBAME=) 
+BL2(BwAAAADEDgANDXyhIxAymQfBAUEAwf///////////38DARwBAME=) 
 
 
 
@@ -6749,7 +6749,7 @@ Breakneck Banshee
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
 
 
-	BL2(BwAAAAAA2AANDXyhIxAy2QbBAUEAwf///////////38DARwBAME=) 
+BL2(BwAAAAAA2AANDXyhIxAy2QbBAUEAwf///////////38DARwBAME=) 
 
 
 
@@ -6764,7 +6764,7 @@ Scorched Banshee
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
 
 
-	BL2(BwAAAADCvgANDXyhIxAyGQbBAUEAwf///////////38DwRsBAME=) 
+BL2(BwAAAADCvgANDXyhIxAyGQbBAUEAwf///////////38DwRsBAME=) 
 
 
 
@@ -6779,7 +6779,7 @@ Scorched Banshee
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
 
 
-	BL2(BwAAAAATXAANDXyhIxAyWQXBAUEAwf///////////38DwRsBAME=) 
+BL2(BwAAAAATXAANDXyhIxAyWQXBAUEAwf///////////38DwRsBAME=) 
 
 
 
@@ -6794,7 +6794,7 @@ Chrono Binder
 (Team Cooldown Rate +21%) 
 
 
-	BL2(BwAAAABCJQAoDXyhAxEyGQbBAUEAwf///////////38DwRoBAME=) 
+BL2(BwAAAABCJQAoDXyhAxEyGQbBAUEAwf///////////38DwRoBAME=) 
 
 
 
@@ -6809,7 +6809,7 @@ Chrono Binder
 (Team Cooldown Rate +21%) 
 
 
-	BL2(BwAAAACTxwAoDXyhAxEyWQXBAUEAwf///////////38DwRoBAME=) 
+BL2(BwAAAACTxwAoDXyhAxEyWQXBAUEAwf///////////38DwRoBAME=) 
 
 
 
@@ -6824,7 +6824,7 @@ Hell Binder
 (Team Cooldown Rate +21%) 
 
 
-	BL2(BwAAAABx0QAoDXyhAxEymQfBAUEAwf///////////38DARsBAME=) 
+BL2(BwAAAABx0QAoDXyhAxEymQfBAUEAwf///////////38DARsBAME=) 
 
 
 
@@ -6839,7 +6839,7 @@ Hell Binder
 (Team Cooldown Rate +21%) 
 
 
-	BL2(BwAAAAC1BwAoDXyhAxEy2QbBAUEAwf///////////38DARsBAME=) 
+BL2(BwAAAAC1BwAoDXyhAxEy2QbBAUEAwf///////////38DARsBAME=) 
 
 
 
@@ -6854,7 +6854,7 @@ Cunning Binder
 (Team Cooldown Rate +21%) 
 
 
-	BL2(BwAAAADQ5AAoDXyhAxEyGQnBAUEAwf///////////38DQRsBAME=) 
+BL2(BwAAAADQ5AAoDXyhAxEyGQnBAUEAwf///////////38DQRsBAME=) 
 
 
 
@@ -6869,7 +6869,7 @@ Cunning Binder
 (Team Cooldown Rate +21%) 
 
 
-	BL2(BwAAAAAUMgAoDXyhAxEyWQjBAUEAwf///////////38DQRsBAME=) 
+BL2(BwAAAAAUMgAoDXyhAxEyWQjBAUEAwf///////////38DQRsBAME=) 
 
 
 
@@ -6884,7 +6884,7 @@ Angelic Nurse
 (Team Health Regeneration +247.9) 
 
 
-	BL2(BwAAAAAzKQAbDXyh4xEymQfBAUEAwf///////////38DwRYBAME=) 
+BL2(BwAAAAAzKQAbDXyh4xEymQfBAUEAwf///////////38DwRYBAME=) 
 
 
 
@@ -6899,7 +6899,7 @@ Angelic Nurse
 (Team Health Regeneration +247.9) 
 
 
-	BL2(BwAAAAD3/wAbDXyh4xEy2QbBAUEAwf///////////38DwRYBAME=) 
+BL2(BwAAAAD3/wAbDXyh4xEy2QbBAUEAwf///////////38DwRYBAME=) 
 
 
 
@@ -6914,7 +6914,7 @@ Merciful Nurse
 (Team Health Regeneration +247.9) 
 
 
-	BL2(BwAAAADoAQAbDXyh4xEyGQnBAUEAwf///////////38DARcBAME=) 
+BL2(BwAAAADoAQAbDXyh4xEyGQnBAUEAwf///////////38DARcBAME=) 
 
 
 
@@ -6929,7 +6929,7 @@ Merciful Nurse
 (Team Health Regeneration +247.9) 
 
 
-	BL2(BwAAAAAs1wAbDXyh4xEyWQjBAUEAwf///////////38DARcBAME=) 
+BL2(BwAAAAAs1wAbDXyh4xEyWQjBAUEAwf///////////38DARcBAME=) 
 
 
 
@@ -6944,7 +6944,7 @@ Heavenly Nurse
 (Team Health Regeneration +247.9) 
 
 
-	BL2(BwAAAAB6wAAbDXyh4xEyGQbBAUEAwf///////////38DgRYBAME=) 
+BL2(BwAAAAB6wAAbDXyh4xEyGQbBAUEAwf///////////38DgRYBAME=) 
 
 
 
@@ -6959,7 +6959,7 @@ Heavenly Nurse
 (Team Health Regeneration +247.9) 
 
 
-	BL2(BwAAAACrIgAbDXyh4xEyWQXBAUEAwf///////////38DgRYBAME=) 
+BL2(BwAAAACrIgAbDXyh4xEyWQXBAUEAwf///////////38DgRYBAME=) 
 
 
 
@@ -6974,7 +6974,7 @@ Cunning Fox
 (Burn Chance +40% / Burn Damage +40%) 
 
 
-	BL2(BwAAAACIJgALDXyhAxEyGQbBAUEAwf///////////38DwRgBAME=) 
+BL2(BwAAAACIJgALDXyhAxEyGQbBAUEAwf///////////38DwRgBAME=) 
 
 
 
@@ -6989,7 +6989,7 @@ Cunning Fox
 (Burn Chance +40% / Burn Damage +40%) 
 
 
-	BL2(BwAAAABZxAALDXyhAxEyWQXBAUEAwf///////////38DwRgBAME=) 
+BL2(BwAAAABZxAALDXyhAxEyWQXBAUEAwf///////////38DwRgBAME=) 
 
 
 
@@ -7004,7 +7004,7 @@ Plague Fox
 (Burn Chance +40% / Burn Damage +40%) 
 
 
-	BL2(BwAAAAAa5wALDXyhAxEyGQnBAUEAwf///////////38DQRkBAME=) 
+BL2(BwAAAAAa5wALDXyhAxEyGQnBAUEAwf///////////38DQRkBAME=) 
 
 
 
@@ -7019,7 +7019,7 @@ Plague Fox
 (Burn Chance +40% / Burn Damage +40%) 
 
 
-	BL2(BwAAAADeMQALDXyhAxEyWQjBAUEAwf///////////38DQRkBAME=) 
+BL2(BwAAAADeMQALDXyhAxEyWQjBAUEAwf///////////38DQRkBAME=) 
 
 
 
@@ -7034,7 +7034,7 @@ Hell Fox
 (Burn Chance +40% / Burn Damage +40%) 
 
 
-	BL2(BwAAAAC70gALDXyhAxEymQfBAUEAwf///////////38DARkBAME=) 
+BL2(BwAAAAC70gALDXyhAxEymQfBAUEAwf///////////38DARkBAME=) 
 
 
 
@@ -7049,7 +7049,7 @@ Hell Fox
 (Burn Chance +40% / Burn Damage +40%) 
 
 
-	BL2(BwAAAAB/BAALDXyhAxEy2QbBAUEAwf///////////38DARkBAME=) 
+BL2(BwAAAAB/BAALDXyhAxEy2QbBAUEAwf///////////38DARkBAME=) 
 
 
 
@@ -7064,7 +7064,7 @@ Blurred Trickster
 (Fire Rate +26%) 
 
 
-	BL2(BwAAAACXaAAJDXyhoxAyGQbBAUEAwf///////////38DgRUBAME=) 
+BL2(BwAAAACXaAAJDXyhoxAyGQbBAUEAwf///////////38DgRUBAME=) 
 
 
 
@@ -7079,7 +7079,7 @@ Blurred Trickster
 (Fire Rate +26%) 
 
 
-	BL2(BwAAAABGigAJDXyhoxAyWQXBAUEAwf///////////38DgRUBAME=) 
+BL2(BwAAAABGigAJDXyhoxAyWQXBAUEAwf///////////38DgRUBAME=) 
 
 
 
@@ -7094,7 +7094,7 @@ Thieving Trickster
 (Fire Rate +26%) 
 
 
-	BL2(BwAAAADpagAJDXyhoxAyGQnBAUEAwf///////////38DARYBAME=) 
+BL2(BwAAAADpagAJDXyhoxAyGQnBAUEAwf///////////38DARYBAME=) 
 
 
 
@@ -7109,7 +7109,7 @@ Thieving Trickster
 (Fire Rate +26%) 
 
 
-	BL2(BwAAAAAtvAAJDXyhoxAyWQjBAUEAwf///////////38DARYBAME=) 
+BL2(BwAAAAAtvAAJDXyhoxAyWQjBAUEAwf///////////38DARYBAME=) 
 
 
 
@@ -7124,7 +7124,7 @@ Mirrored Trickster
 (Fire Rate +26%) 
 
 
-	BL2(BwAAAADegQAJDXyhoxAymQfBAUEAwf///////////38DwRUBAME=) 
+BL2(BwAAAADegQAJDXyhoxAymQfBAUEAwf///////////38DwRUBAME=) 
 
 
 
@@ -7139,7 +7139,7 @@ Mirrored Trickster
 (Fire Rate +26%) 
 
 
-	BL2(BwAAAAAaVwAJDXyhoxAy2QbBAUEAwf///////////38DwRUBAME=) 
+BL2(BwAAAAAaVwAJDXyhoxAy2QbBAUEAwf///////////38DwRUBAME=) 
 
 
 
@@ -7154,7 +7154,7 @@ Hell Witch
 (Corrode Chance +40% / Corrode Damage +40%) 
 
 
-	BL2(BwAAAAA4NQAHDXyhAxEyGQnBAUEAwf///////////38DARQBAME=) 
+BL2(BwAAAAA4NQAHDXyhAxEyGQnBAUEAwf///////////38DARQBAME=) 
 
 
 
@@ -7169,7 +7169,7 @@ Hell Witch
 (Corrode Chance +40% / Corrode Damage +40%) 
 
 
-	BL2(BwAAAAD84wAHDXyhAxEyWQjBAUEAwf///////////38DARQBAME=) 
+BL2(BwAAAAD84wAHDXyhAxEyWQjBAUEAwf///////////38DARQBAME=) 
 
 
 
@@ -7184,7 +7184,7 @@ Splatter Witch
 (Corrode Chance +40% / Corrode Damage +40%) 
 
 
-	BL2(BwAAAADWWQAHDXyhAxEymQfBAUEAwf///////////38DwRMBAME=) 
+BL2(BwAAAADWWQAHDXyhAxEymQfBAUEAwf///////////38DwRMBAME=) 
 
 
 
@@ -7199,7 +7199,7 @@ Splatter Witch
 (Corrode Chance +40% / Corrode Damage +40%) 
 
 
-	BL2(BwAAAAASjwAHDXyhAxEy2QbBAUEAwf///////////38DwRMBAME=) 
+BL2(BwAAAAASjwAHDXyhAxEy2QbBAUEAwf///////////38DwRMBAME=) 
 
 
 
@@ -7214,7 +7214,7 @@ Bullet Witch
 (Corrode Chance +40% / Corrode Damage +40%) 
 
 
-	BL2(BwAAAACfsAAHDXyhAxEyGQbBAUEAwf///////////38DgRMBAME=) 
+BL2(BwAAAACfsAAHDXyhAxEyGQbBAUEAwf///////////38DgRMBAME=) 
 
 
 
@@ -7229,7 +7229,7 @@ Bullet Witch
 (Corrode Chance +40% / Corrode Damage +40%) 
 
 
-	BL2(BwAAAABOUgAHDXyhAxEyWQXBAUEAwf///////////38DgRMBAME=) 
+BL2(BwAAAABOUgAHDXyhAxEyWQXBAUEAwf///////////38DgRMBAME=) 
 
 
 
@@ -7244,7 +7244,7 @@ Wild Cat
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
 
 
-	BL2(BwAAAAAxUwAMDXyhwxAyGQbBAUEAwf///////////38DwRkBAME=) 
+BL2(BwAAAAAxUwAMDXyhwxAyGQbBAUEAwf///////////38DwRkBAME=) 
 
 
 
@@ -7256,7 +7256,7 @@ Wild Cat (Accelerate +6 / Wreck +5)
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
 
 
-	BL2(BwAAAADgsQAMDXyhwxAyWQXBAUEAwf///////////38DwRkBAME=) 
+BL2(BwAAAADgsQAMDXyhwxAyWQXBAUEAwf///////////38DwRkBAME=) 
 
 
 
@@ -7271,7 +7271,7 @@ Killer Cat
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
 
 
-	BL2(BwAAAABPUQAMDXyhwxAyGQnBAUEAwf///////////38DQRoBAME=) 
+BL2(BwAAAABPUQAMDXyhwxAyGQnBAUEAwf///////////38DQRoBAME=) 
 
 
 
@@ -7286,7 +7286,7 @@ Killer Cat
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
 
 
-	BL2(BwAAAACLhwAMDXyhwxAyWQjBAUEAwf///////////38DQRoBAME=) 
+BL2(BwAAAACLhwAMDXyhwxAyWQjBAUEAwf///////////38DQRoBAME=) 
 
 
 
@@ -7301,7 +7301,7 @@ Scheming Cat
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
 
 
-	BL2(BwAAAADuZAAMDXyhwxAymQfBAUEAwf///////////38DARoBAME=) 
+BL2(BwAAAADuZAAMDXyhwxAymQfBAUEAwf///////////38DARoBAME=) 
 
 
 
@@ -7316,7 +7316,7 @@ Scheming Cat
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
 
 
-	BL2(BwAAAAAqsgAMDXyhwxAy2QbBAUEAwf///////////38DARoBAME=) 
+BL2(BwAAAAAqsgAMDXyhwxAy2QbBAUEAwf///////////38DARoBAME=) 
 
 
 
@@ -7331,7 +7331,7 @@ Relentless Matriarch
 (Max Health +9105 / Magazine Size +36%) 
 
 
-	BL2(BwAAAADZGQAKDXyhAxIymQfBAUEAwf///////////38DwRcBAME=) 
+BL2(BwAAAADZGQAKDXyhAxIymQfBAUEAwf///////////38DwRcBAME=) 
 
 
 
@@ -7346,7 +7346,7 @@ Relentless Matriarch
 (Max Health +9105 / Magazine Size +36%) 
 
 
-	BL2(BwAAAAAdzwAKDXyhAxIy2QbBAUEAwf///////////38DwRcBAME=) 
+BL2(BwAAAAAdzwAKDXyhAxIy2QbBAUEAwf///////////38DwRcBAME=) 
 
 
 
@@ -7361,7 +7361,7 @@ Leeching Matriarch
 (Max Health +9105 / Magazine Size +36%) 
 
 
-	BL2(BwAAAABZSwAKDXyhAxIyGQnBAUEAwf///////////38DARgBAME=) 
+BL2(BwAAAABZSwAKDXyhAxIyGQnBAUEAwf///////////38DARgBAME=) 
 
 
 
@@ -7376,7 +7376,7 @@ Leeching Matriarch
 (Max Health +9105 / Magazine Size +36%) 
 
 
-	BL2(BwAAAACdnQAKDXyhAxIyWQjBAUEAwf///////////38DARgBAME=) 
+BL2(BwAAAACdnQAKDXyhAxIyWQjBAUEAwf///////////38DARgBAME=) 
 
 
 
@@ -7391,7 +7391,7 @@ Angelic Matriarch
 (Max Health +9105 / Magazine Size +36%) 
 
 
-	BL2(BwAAAACQ8AAKDXyhAxIyGQbBAUEAwf///////////38DgRcBAME=) 
+BL2(BwAAAACQ8AAKDXyhAxIyGQbBAUEAwf///////////38DgRcBAME=) 
 
 
 
@@ -7406,13 +7406,13 @@ Angelic Matriarch
 (Max Health +9105 / Magazine Size +36%) 
 
 
-	BL2(BwAAAABBEgAKDXyhAxIyWQXBAUEAwf///////////38DgRcBAME=)
+BL2(BwAAAABBEgAKDXyhAxIyWQXBAUEAwf///////////38DgRcBAME=)
 
 
 
 
 
-**Chaotic Evil Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7421,13 +7421,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAACOgwkUFAOwEBG9HgnBAUEAwf///////////38DAQUhAME=)
+BL2(BwAAAACOgwkUFAOwEBG9HgnBAUEAwf///////////38DAQUhAME=)
 
 
 
 
 
-**Chaotic Evil Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7436,13 +7436,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAABKVQkUFAOwEBG9XgjBAUEAwf///////////38DAQUhAME=)
+BL2(BwAAAABKVQkUFAOwEBG9XgjBAUEAwf///////////38DAQUhAME=)
 
 
 
 
 
-**Chaotic Evil Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7451,13 +7451,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAAAexAkUFAOwEBG9ngfBAUEAwf///////////38DAQUhAME=)
+BL2(BwAAAAAexAkUFAOwEBG9ngfBAUEAwf///////////38DAQUhAME=)
 
 
 
 
 
-**Chaotic Evil Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7466,13 +7466,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAADaEgkUFAOwEBG93gbBAUEAwf///////////38DAQUhAME=)
+BL2(BwAAAADaEgkUFAOwEBG93gbBAUEAwf///////////38DAQUhAME=)
 
 
 
 
 
-**Chaotic Evil Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7481,13 +7481,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAABmXwkUFAOwEBG9HgbBAUEAwf///////////38DAQUhAME=)
+BL2(BwAAAABmXwkUFAOwEBG9HgbBAUEAwf///////////38DAQUhAME=)
 
 
 
 
 
-**Chaotic Evil Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7496,13 +7496,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAAC3vQkUFAOwEBG9XgXBAUEAwf///////////38DAQUhAME=)
+BL2(BwAAAAC3vQkUFAOwEBG9XgXBAUEAwf///////////38DAQUhAME=)
 
 
 
 
 
-**Chaotic Good Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -7511,43 +7511,43 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAAD92gkQFAOwEBG9HgnBAUEAwf///////////38DAQQhAME=)
+BL2(BwAAAAD92gkQFAOwEBG9HgnBAUEAwf///////////38DAQQhAME=)
 
 
 
 
 
-**Chaotic Good Cleric**	
-
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-
-[+6 Suspension Skill] [+5 Life Tap Skill]	
-
-
-	BL2(BwAAAAA5DAkQFAOwEBG9XgjBAUEAwf///////////38DAQQhAME=)
-
-
-
-
-
-**Chaotic Good Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 
+[+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
+BL2(BwAAAAA5DAkQFAOwEBG9XgjBAUEAwf///////////38DAQQhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAABtnQkQFAOwEBG9ngfBAUEAwf///////////38DAQQhAME=)
+BL2(BwAAAABtnQkQFAOwEBG9ngfBAUEAwf///////////38DAQQhAME=)
 
 
 
 
 
-**Chaotic Good Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -7556,43 +7556,43 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAACpSwkQFAOwEBG93gbBAUEAwf///////////38DAQQhAME=)
+BL2(BwAAAACpSwkQFAOwEBG93gbBAUEAwf///////////38DAQQhAME=)
 
 
 
 
 
-**Chaotic Good Cleric**	
-
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-
-[+6 Life Tap Skill] [+5 Suspension Skill]	
-
-
-	BL2(BwAAAAAVBgkQFAOwEBG9HgbBAUEAwf///////////38DAQQhAME=)
-
-
-
-
-
-**Chaotic Good Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 
+[+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
+BL2(BwAAAAAVBgkQFAOwEBG9HgbBAUEAwf///////////38DAQQhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAADE5AkQFAOwEBG9XgXBAUEAwf///////////38DAQQhAME=)
+BL2(BwAAAADE5AkQFAOwEBG9XgXBAUEAwf///////////38DAQQhAME=)
 
 
 
 
 
-**Chaotic Neutral Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -7601,43 +7601,43 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAACNAQkPFAOwEBG9HgnBAUEAwf///////////38DwQMhAME=)
+BL2(BwAAAACNAQkPFAOwEBG9HgnBAUEAwf///////////38DwQMhAME=)
 
 
 
 
 
-**Chaotic Neutral Cleric**	
-
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-
-[+6 Suspension Skill] [+5 Life Tap Skill]	
-
-
-	BL2(BwAAAABJ1wkPFAOwEBG9XgjBAUEAwf///////////38DwQMhAME=)
-
-
-
-
-
-**Chaotic Neutral Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 
+[+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
+BL2(BwAAAABJ1wkPFAOwEBG9XgjBAUEAwf///////////38DwQMhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAAAdRgkPFAOwEBG9ngfBAUEAwf///////////38DwQMhAME=)
+BL2(BwAAAAAdRgkPFAOwEBG9ngfBAUEAwf///////////38DwQMhAME=)
 
 
 
 
 
-**Chaotic Neutral Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -7646,43 +7646,43 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAADZkAkPFAOwEBG93gbBAUEAwf///////////38DwQMhAME=)
+BL2(BwAAAADZkAkPFAOwEBG93gbBAUEAwf///////////38DwQMhAME=)
 
 
 
 
 
-**Chaotic Neutral Cleric**	
-
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-
-[+6 Life Tap Skill] [+5 Suspension Skill]	
-
-
-	BL2(BwAAAABl3QkPFAOwEBG9HgbBAUEAwf///////////38DwQMhAME=)
-
-
-
-
-
-**Chaotic Neutral Cleric**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 
+[+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
+BL2(BwAAAABl3QkPFAOwEBG9HgbBAUEAwf///////////38DwQMhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAAC0PwkPFAOwEBG9XgXBAUEAwf///////////38DwQMhAME=)
+BL2(BwAAAAC0PwkPFAOwEBG9XgXBAUEAwf///////////38DwQMhAME=)
 
 
 
 
 
-**Lawful Evil Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7691,13 +7691,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAABLgQkVFAOwEBG9HgnBAUEAwf///////////38DQQUhAME=)
+BL2(BwAAAABLgQkVFAOwEBG9HgnBAUEAwf///////////38DQQUhAME=)
 
 
 
 
 
-**Lawful Evil Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7706,13 +7706,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAACPVwkVFAOwEBG9XgjBAUEAwf///////////38DQQUhAME=)
+BL2(BwAAAACPVwkVFAOwEBG9XgjBAUEAwf///////////38DQQUhAME=)
 
 
 
 
 
-**Lawful Evil Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7721,13 +7721,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAADbxgkVFAOwEBG9ngfBAUEAwf///////////38DQQUhAME=)
+BL2(BwAAAADbxgkVFAOwEBG9ngfBAUEAwf///////////38DQQUhAME=)
 
 
 
 
 
-**Lawful Evil Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7736,13 +7736,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAAAfEAkVFAOwEBG93gbBAUEAwf///////////38DQQUhAME=)
+BL2(BwAAAAAfEAkVFAOwEBG93gbBAUEAwf///////////38DQQUhAME=)
 
 
 
 
 
-**Lawful Evil Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7751,13 +7751,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAACjXQkVFAOwEBG9HgbBAUEAwf///////////38DQQUhAME=)
+BL2(BwAAAACjXQkVFAOwEBG9HgbBAUEAwf///////////38DQQUhAME=)
 
 
 
 
 
-**Lawful Evil Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7766,13 +7766,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAAByvwkVFAOwEBG9XgXBAUEAwf///////////38DQQUhAME=)
+BL2(BwAAAAByvwkVFAOwEBG9XgXBAUEAwf///////////38DQQUhAME=)
 
 
 
 
 
-**Lawful Good Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7781,13 +7781,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAAA42AkRFAOwEBG9HgnBAUEAwf///////////38DQQQhAME=)
+BL2(BwAAAAA42AkRFAOwEBG9HgnBAUEAwf///////////38DQQQhAME=)
 
 
 
 
 
-**Lawful Good Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7796,13 +7796,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAAD8DgkRFAOwEBG9XgjBAUEAwf///////////38DQQQhAME=)
+BL2(BwAAAAD8DgkRFAOwEBG9XgjBAUEAwf///////////38DQQQhAME=)
 
 
 
 
 
-**Lawful Good Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7811,13 +7811,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAAConwkRFAOwEBG9ngfBAUEAwf///////////38DQQQhAME=)
+BL2(BwAAAAConwkRFAOwEBG9ngfBAUEAwf///////////38DQQQhAME=)
 
 
 
 
 
-**Lawful Good Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7826,13 +7826,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAABsSQkRFAOwEBG93gbBAUEAwf///////////38DQQQhAME=)
+BL2(BwAAAABsSQkRFAOwEBG93gbBAUEAwf///////////38DQQQhAME=)
 
 
 
 
 
-**Lawful Good Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7841,13 +7841,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAADQBAkRFAOwEBG9HgbBAUEAwf///////////38DQQQhAME=)
+BL2(BwAAAADQBAkRFAOwEBG9HgbBAUEAwf///////////38DQQQhAME=)
 
 
 
 
 
-**Lawful Good Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7856,13 +7856,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAAAB5gkRFAOwEBG9XgXBAUEAwf///////////38DQQQhAME=)
+BL2(BwAAAAAB5gkRFAOwEBG9XgXBAUEAwf///////////38DQQQhAME=)
 
 
 
 
 
-**Lawful Neutral Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7871,13 +7871,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAACJowkNFAOwEBG9HgnBAUEAwf///////////38DgQMhAME=)
+BL2(BwAAAACJowkNFAOwEBG9HgnBAUEAwf///////////38DgQMhAME=)
 
 
 
 
 
-**Lawful Neutral Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7886,13 +7886,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAABNdQkNFAOwEBG9XgjBAUEAwf///////////38DgQMhAME=)
+BL2(BwAAAABNdQkNFAOwEBG9XgjBAUEAwf///////////38DgQMhAME=)
 
 
 
 
 
-**Lawful Neutral Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7901,13 +7901,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAAAZ5AkNFAOwEBG9ngfBAUEAwf///////////38DgQMhAME=)
+BL2(BwAAAAAZ5AkNFAOwEBG9ngfBAUEAwf///////////38DgQMhAME=)
 
 
 
 
 
-**Lawful Neutral Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7916,13 +7916,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAADdMgkNFAOwEBG93gbBAUEAwf///////////38DgQMhAME=)
+BL2(BwAAAADdMgkNFAOwEBG93gbBAUEAwf///////////38DgQMhAME=)
 
 
 
 
 
-**Lawful Neutral Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7931,13 +7931,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAABhfwkNFAOwEBG9HgbBAUEAwf///////////38DgQMhAME=)
+BL2(BwAAAABhfwkNFAOwEBG9HgbBAUEAwf///////////38DgQMhAME=)
 
 
 
 
 
-**Lawful Neutral Cleric**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7946,13 +7946,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAACwnQkNFAOwEBG9XgXBAUEAwf///////////38DgQMhAME=)
+BL2(BwAAAACwnQkNFAOwEBG9XgXBAUEAwf///////////38DgQMhAME=)
 
 
 
 
 
-**Neutral Evil Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -7961,13 +7961,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAABv7AkTFAOwEBG9HgnBAUEAwf///////////38DwQQhAME=)
+BL2(BwAAAABv7AkTFAOwEBG9HgnBAUEAwf///////////38DwQQhAME=)
 
 
 
 
 
-**Neutral Evil Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -7976,13 +7976,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAACrOgkTFAOwEBG9XgjBAUEAwf///////////38DwQQhAME=)
+BL2(BwAAAACrOgkTFAOwEBG9XgjBAUEAwf///////////38DwQQhAME=)
 
 
 
 
 
-**Neutral Evil Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -7991,13 +7991,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAAD/qwkTFAOwEBG9ngfBAUEAwf///////////38DwQQhAME=)
+BL2(BwAAAAD/qwkTFAOwEBG9ngfBAUEAwf///////////38DwQQhAME=)
 
 
 
 
 
-**Neutral Evil Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8006,13 +8006,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAAA7fQkTFAOwEBG93gbBAUEAwf///////////38DwQQhAME=)
+BL2(BwAAAAA7fQkTFAOwEBG93gbBAUEAwf///////////38DwQQhAME=)
 
 
 
 
 
-**Neutral Evil Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8021,13 +8021,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAACHMAkTFAOwEBG9HgbBAUEAwf///////////38DwQQhAME=)
+BL2(BwAAAACHMAkTFAOwEBG9HgbBAUEAwf///////////38DwQQhAME=)
 
 
 
 
 
-**Neutral Evil Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8036,13 +8036,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAABW0gkTFAOwEBG9XgXBAUEAwf///////////38DwQQhAME=)
+BL2(BwAAAABW0gkTFAOwEBG9XgXBAUEAwf///////////38DwQQhAME=)
 
 
 
 
 
-**Neutral Good Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8051,13 +8051,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAACq7gkSFAOwEBG9HgnBAUEAwf///////////38DgQQhAME=)
+BL2(BwAAAACq7gkSFAOwEBG9HgnBAUEAwf///////////38DgQQhAME=)
 
 
 
 
 
-**Neutral Good Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8066,13 +8066,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAABuOAkSFAOwEBG9XgjBAUEAwf///////////38DgQQhAME=)
+BL2(BwAAAABuOAkSFAOwEBG9XgjBAUEAwf///////////38DgQQhAME=)
 
 
 
 
 
-**Neutral Good Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8081,13 +8081,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAAA6qQkSFAOwEBG9ngfBAUEAwf///////////38DgQQhAME=)
+BL2(BwAAAAA6qQkSFAOwEBG9ngfBAUEAwf///////////38DgQQhAME=)
 
 
 
 
 
-**Neutral Good Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8096,13 +8096,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAAD+fwkSFAOwEBG93gbBAUEAwf///////////38DgQQhAME=)
+BL2(BwAAAAD+fwkSFAOwEBG93gbBAUEAwf///////////38DgQQhAME=)
 
 
 
 
 
-**Neutral Good Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8111,13 +8111,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAABCMgkSFAOwEBG9HgbBAUEAwf///////////38DgQQhAME=)
+BL2(BwAAAABCMgkSFAOwEBG9HgbBAUEAwf///////////38DgQQhAME=)
 
 
 
 
 
-**Neutral Good Cleric**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8126,13 +8126,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAACT0AkSFAOwEBG9XgXBAUEAwf///////////38DgQQhAME=)
+BL2(BwAAAACT0AkSFAOwEBG9XgXBAUEAwf///////////38DgQQhAME=)
 
 
 
 
 
-**True Neutral Cleric**	
+**True $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8141,13 +8141,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAAAuRQkMFAOwEBG9HgnBAUEAwf///////////38DQQMhAME=)
+BL2(BwAAAAAuRQkMFAOwEBG9HgnBAUEAwf///////////38DQQMhAME=)
 
 
 
 
 
-**True Neutral Cleric**	
+**True $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8156,13 +8156,13 @@ Angelic Matriarch
 [+6 Suspension Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAADqkwkMFAOwEBG9XgjBAUEAwf///////////38DQQMhAME=)
+BL2(BwAAAADqkwkMFAOwEBG9XgjBAUEAwf///////////38DQQMhAME=)
 
 
 
 
 
-**True Neutral Cleric**	
+**True $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8171,13 +8171,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAAC+AgkMFAOwEBG9ngfBAUEAwf///////////38DQQMhAME=)
+BL2(BwAAAAC+AgkMFAOwEBG9ngfBAUEAwf///////////38DQQMhAME=)
 
 
 
 
 
-**True Neutral Cleric**	
+**True $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8186,13 +8186,13 @@ Angelic Matriarch
 [+6 Restoration Skill] [+5 Life Tap Skill]	
 
 
-	BL2(BwAAAAB61AkMFAOwEBG93gbBAUEAwf///////////38DQQMhAME=)
+BL2(BwAAAAB61AkMFAOwEBG93gbBAUEAwf///////////38DQQMhAME=)
 
 
 
 
 
-**True Neutral Cleric**	
+**True $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8201,13 +8201,13 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Suspension Skill]	
 
 
-	BL2(BwAAAADGmQkMFAOwEBG9HgbBAUEAwf///////////38DQQMhAME=)
+BL2(BwAAAADGmQkMFAOwEBG9HgbBAUEAwf///////////38DQQMhAME=)
 
 
 
 
 
-**True Neutral Cleric**	
+**True $${\color{grey}Neutral}$$ Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8216,7 +8216,7 @@ Angelic Matriarch
 [+6 Life Tap Skill] [+5 Restoration Skill]	
 
 
-	BL2(BwAAAAAXewkMFAOwEBG9XgXBAUEAwf///////////38DQQMhAME=)
+BL2(BwAAAAAXewkMFAOwEBG9XgXBAUEAwf///////////38DQQMhAME=)
 
 
 
@@ -8237,7 +8237,7 @@ Legendary Mechromancer
 (Cooldown Rate +35%) 
 
 
-	BL2(BwAAAACI7AIKAQUI0BAyGQXBAUEAwf///////////38DQQsgAME=) 
+BL2(BwAAAACI7AIKAQUI0BAyGQXBAUEAwf///////////38DQQsgAME=) 
 
 
 
@@ -8246,7 +8246,7 @@ Legendary Mechromancer
 Legendary Roboteer
 
 
-	BL2(BwAAAACZAQoWAA0AsBBIJAXBAUEAwf///////////78EQQMgAME=)
+BL2(BwAAAACZAQoWAA0AsBBIJAXBAUEAwf///////////78EQQMgAME=)
 
 
 
@@ -8255,7 +8255,7 @@ Legendary Roboteer
 Legendary Catalyst
 
 
-	BL2(BwAAAAC/mwoVAA0AEBFIJAXBAUEAwf///////////78EgQMgAME=)
+BL2(BwAAAAC/mwoVAA0AEBFIJAXBAUEAwf///////////78EgQMgAME=)
 
 
 
@@ -8264,7 +8264,7 @@ Legendary Catalyst
 Legendary Anarchist
 
 
-	BL2(BwAAAADONQoUAA0AsBBIJAXBAUEAwf///////////78EwQMgAME=)
+BL2(BwAAAADONQoUAA0AsBBIJAXBAUEAwf///////////78EwQMgAME=)
 
 
 
@@ -8279,7 +8279,7 @@ Legendary Anarchist
 (Burn Damage +26% / Burn Chance +26% / Max Health +8294) 
 
 
-	BL2(BwAAAAAiwAIBAQMIEBEyGQXBAUEAwf///////////38DwQkBAME=)
+BL2(BwAAAAAiwAIBAQMIEBEyGQXBAUEAwf///////////38DwQkBAME=)
 
 
 
@@ -8300,7 +8300,7 @@ Improved Jill Of All Trades
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
 
 
-	BL2(BwAAAACojgIDAQcI8BAyGQfBAUEAwf///////////38DgQMgAME=) 
+BL2(BwAAAACojgIDAQcI8BAyGQfBAUEAwf///////////38DgQMgAME=) 
 
 
 
@@ -8315,7 +8315,7 @@ Speedy Jill Of All Trades
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
 
 
-	BL2(BwAAAABytQIDAQcI8BAymQXBAUEAwf///////////38DQQMgAME=) 
+BL2(BwAAAABytQIDAQcI8BAymQXBAUEAwf///////////38DQQMgAME=) 
 
 
 
@@ -8330,7 +8330,7 @@ Peppy Jill Of All Trades
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
 
 
-	BL2(BwAAAADtuQIDAQcI8BAymQjBAUEAwf///////////38DwQMgAME=) 
+BL2(BwAAAADtuQIDAQcI8BAymQjBAUEAwf///////////38DwQMgAME=) 
 
 
 
@@ -8345,7 +8345,7 @@ Peppy Prodigy
 (Weapon Accuracy +26% / Reload Speed +45%) 
 
 
-	BL2(BwAAAABCcAIHAQcIUBAymQXBAUEAwf///////////38DQQggAME=) 
+BL2(BwAAAABCcAIHAQcIUBAymQXBAUEAwf///////////38DQQggAME=) 
 
 
 
@@ -8360,7 +8360,7 @@ Superior Prodigy
 (Weapon Accuracy +26% / Reload Speed +45%) 
 
 
-	BL2(BwAAAACYSwIHAQcIUBAyGQfBAUEAwf///////////38DgQggAME=) 
+BL2(BwAAAACYSwIHAQcIUBAyGQfBAUEAwf///////////38DgQggAME=) 
 
 
 
@@ -8375,7 +8375,7 @@ Patient Prodigy
 (Weapon Accuracy +26% / Reload Speed +45%) 
 
 
-	BL2(BwAAAADdfAIHAQcIUBAymQjBAUEAwf///////////38DwQggAME=) 
+BL2(BwAAAADdfAIHAQcIUBAymQjBAUEAwf///////////38DwQggAME=) 
 
 
 
@@ -8390,7 +8390,7 @@ Speedy Punk
 (Fire Rate +20% / Magazine Size -20%) 
 
 
-	BL2(BwAAAABgAAIEAQcIMBAyGQfBAUEAwf///////////38DwQQgAME=) 
+BL2(BwAAAABgAAIEAQcIMBAyGQfBAUEAwf///////////38DwQQgAME=) 
 
 
 
@@ -8405,7 +8405,7 @@ Paranoid Punk
 (Fire Rate +20% / Magazine Size -20%) 
 
 
-	BL2(BwAAAACbXAIEAQcIMBAymQXBAUEAwf///////////38DgQsgAME=) 
+BL2(BwAAAACbXAIEAQcIMBAymQXBAUEAwf///////////38DgQsgAME=) 
 
 
 
@@ -8420,7 +8420,7 @@ Superior Punk
 (Fire Rate +20% / Magazine Size -20%) 
 
 
-	BL2(BwAAAADFLgIEAQcIMBAymQjBAUEAwf///////////38DAQ4gAME=) 
+BL2(BwAAAADFLgIEAQcIMBAymQjBAUEAwf///////////38DAQ4gAME=) 
 
 
 
@@ -8435,7 +8435,7 @@ Stern Roboteer
 (Cooldown Rate +20% / Melee Damage +35%) 
 
 
-	BL2(BwAAAAAPgQIAAQcI0BAymQXBAUEAwf///////////38DAQIgAME=) 
+BL2(BwAAAAAPgQIAAQcI0BAymQXBAUEAwf///////////38DAQIgAME=) 
 
 
 
@@ -8450,7 +8450,7 @@ Potent Roboteer
 (Cooldown Rate +20% / Melee Damage +35%) 
 
 
-	BL2(BwAAAAAhgAIAAQcI0BAyGQfBAUEAwf///////////38DwQEgAME=) 
+BL2(BwAAAAAhgAIAAQcI0BAyGQfBAUEAwf///////////38DwQEgAME=) 
 
 
 
@@ -8465,7 +8465,7 @@ Tenacious Roboteer
 (Cooldown Rate +20% / Melee Damage +35%) 
 
 
-	BL2(BwAAAAD6hQIAAQcI0BAymQjBAUEAwf///////////38DwQwgAME=) 
+BL2(BwAAAAD6hQIAAQcI0BAymQjBAUEAwf///////////38DwQwgAME=) 
 
 
 
@@ -8480,7 +8480,7 @@ Wired Zapper
 (Electrocute Damage +26% / Chance To Shock +26%) 
 
 
-	BL2(BwAAAADalAICAQcIEBEyGQfBAUEAwf///////////38DgQIgAME=) 
+BL2(BwAAAADalAICAQcIEBEyGQfBAUEAwf///////////38DgQIgAME=) 
 
 
 
@@ -8495,7 +8495,7 @@ Scorching Zapper
 (Electrocute Damage +26% / Chance To Shock +26%) 
 
 
-	BL2(BwAAAAC7zAICAQcIEBEymQXBAUEAwf///////////38DwQYgAME=) 
+BL2(BwAAAAC7zAICAQcIEBEymQXBAUEAwf///////////38DwQYgAME=) 
 
 
 
@@ -8510,7 +8510,7 @@ Peppy Zapper
 (Electrocute Damage +26% / Chance To Shock +26%) 
 
 
-	BL2(BwAAAACfowICAQcIEBEymQjBAUEAwf///////////38DwQIgAME=) 
+BL2(BwAAAACfowICAQcIEBEymQjBAUEAwf///////////38DwQIgAME=) 
 
 
 
@@ -8525,7 +8525,7 @@ Wired Catalyst
 (Team Elemental Effect Damage +40%) 
 
 
-	BL2(BwAAAADnNwIIAQcIEBEymQjBAUEAwf///////////38DwQkgAME=) 
+BL2(BwAAAADnNwIIAQcIEBEymQjBAUEAwf///////////38DwQkgAME=) 
 
 
 
@@ -8540,7 +8540,7 @@ Ionized Catalyst
 (Team Elemental Effect Damage +40%) 
 
 
-	BL2(BwAAAAB4OwIIAQcIEBEymQXBAUEAwf///////////38DQQkgAME=) 
+BL2(BwAAAAB4OwIIAQcIEBEymQXBAUEAwf///////////38DQQkgAME=) 
 
 
 
@@ -8555,7 +8555,7 @@ Evil Catalyst
 (Team Elemental Effect Damage +40%) 
 
 
-	BL2(BwAAAACiAAIIAQcIEBEyGQfBAUEAwf///////////38DgQkgAME=) 
+BL2(BwAAAACiAAIIAQcIEBEyGQfBAUEAwf///////////38DgQkgAME=) 
 
 
 
@@ -8570,7 +8570,7 @@ Swift Anarchist
 (Gun Damage +40% / Weapon Accuracy -35%) 
 
 
-	BL2(BwAAAAD3yAIFAQcIsBAymQjBAUEAwf///////////38DwQsgAME=) 
+BL2(BwAAAAD3yAIFAQcIsBAymQjBAUEAwf///////////38DwQsgAME=) 
 
 
 
@@ -8585,7 +8585,7 @@ Calculating Anarchist
 (Gun Damage +40% / Weapon Accuracy -35%) 
 
 
-	BL2(BwAAAADM1AIFAQcIsBAyGQfBAUEAwf///////////38DQQwgAME=) 
+BL2(BwAAAADM1AIFAQcIsBAyGQfBAUEAwf///////////38DQQwgAME=) 
 
 
 
@@ -8600,7 +8600,7 @@ Airborne Anarchist
 (Gun Damage +40% / Weapon Accuracy -35%) 
 
 
-	BL2(BwAAAADuDwIFAQcIsBAymQXBAUEAwf///////////38DAQcgAME=) 
+BL2(BwAAAADuDwIFAQcIsBAymQXBAUEAwf///////////38DAQcgAME=) 
 
 
 
@@ -8615,7 +8615,7 @@ Calculating Technophile
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
 
 
-	BL2(BwAAAADuHQIGAQcIEBIyGQfBAUEAwf///////////38DgQcgAME=) 
+BL2(BwAAAADuHQIGAQcIEBIyGQfBAUEAwf///////////38DgQcgAME=) 
 
 
 
@@ -8630,7 +8630,7 @@ Tenacious Technophile
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
 
 
-	BL2(BwAAAAAAXAIGAQcIEBIymQjBAUEAwf///////////38DgQwgAME=) 
+BL2(BwAAAAAAXAIGAQcIEBIymQjBAUEAwf///////////38DgQwgAME=) 
 
 
 
@@ -8645,7 +8645,7 @@ Manic Technophile
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
 
 
-	BL2(BwAAAAA0JgIGAQcIEBIymQXBAUEAwf///////////38DQQcgAME=) 
+BL2(BwAAAAA0JgIGAQcIEBIymQXBAUEAwf///////////38DQQcgAME=) 
 
 
 
@@ -8660,7 +8660,7 @@ Peppy Sweetheart
 (Team Max Health +6310) 
 
 
-	BL2(BwAAAAB2qgILAQcI8BEymQjBAUEAwf///////////38DQQ0gAME=) 
+BL2(BwAAAAB2qgILAQcI8BEymQjBAUEAwf///////////38DQQ0gAME=) 
 
 
 
@@ -8675,7 +8675,7 @@ Patient Sweetheart
 (Team Max Health +6310) 
 
 
-	BL2(BwAAAABReQILAQcI8BEyGQfBAUEAwf///////////38DgQ0gAME=) 
+BL2(BwAAAABReQILAQcI8BEyGQfBAUEAwf///////////38DgQ0gAME=) 
 
 
 
@@ -8690,13 +8690,13 @@ Superior Sweetheart
 (Team Max Health +6310) 
 
 
-	BL2(BwAAAADppgILAQcI8BEymQXBAUEAwf///////////38DwQ0gAME=)
+BL2(BwAAAADppgILAQcI8BEymQXBAUEAwf///////////38DwQ0gAME=)
 
 
 
 
 
-**Chaotic Evil Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -8705,13 +8705,13 @@ Superior Sweetheart
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAADN6QkvFAmwEBG9ngjBAUEAwf///////////38DgQohAME=)
+BL2(BwAAAADN6QkvFAmwEBG9ngjBAUEAwf///////////38DgQohAME=)
 
 
 
 
 
-**Chaotic Evil Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -8720,13 +8720,13 @@ Superior Sweetheart
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAC5rAkvFAmwEBG9HgfBAUEAwf///////////38DgQohAME=)
+BL2(BwAAAAC5rAkvFAmwEBG9HgfBAUEAwf///////////38DgQohAME=)
 
 
 
 
 
-**Chaotic Evil Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -8735,13 +8735,13 @@ Superior Sweetheart
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAAwAQkvFAmwEBG9ngXBAUEAwf///////////38DgQohAME=)
+BL2(BwAAAAAwAQkvFAmwEBG9ngXBAUEAwf///////////38DgQohAME=)
 
 
 
 
 
-**Chaotic Good Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -8750,43 +8750,43 @@ Superior Sweetheart
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAAlwgksFAmwEBG9ngjBAUEAwf///////////38DwQshAME=)
+BL2(BwAAAAAlwgksFAmwEBG9ngjBAUEAwf///////////38DwQshAME=)
 
 
 
 
 
-**Chaotic Good Necromancer**	
-
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-
-[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
-
-
-	BL2(BwAAAABRhwksFAmwEBG9HgfBAUEAwf///////////38DwQshAME=)
-
-
-
-
-
-**Chaotic Good Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 
+[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
+BL2(BwAAAABRhwksFAmwEBG9HgfBAUEAwf///////////38DwQshAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAADYKgksFAmwEBG9ngXBAUEAwf///////////38DwQshAME=)
+BL2(BwAAAADYKgksFAmwEBG9ngXBAUEAwf///////////38DwQshAME=)
 
 
 
 
 
-**Chaotic Neutral Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -8795,43 +8795,43 @@ Superior Sweetheart
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAAFmQkqFAmwEBG9ngjBAUEAwf///////////38DAQwhAME=)
+BL2(BwAAAAAFmQkqFAmwEBG9ngjBAUEAwf///////////38DAQwhAME=)
 
 
 
 
 
-**Chaotic Neutral Necromancer**	
-
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-
-[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
-
-
-	BL2(BwAAAABx3AkqFAmwEBG9HgfBAUEAwf///////////38DAQwhAME=)
-
-
-
-
-
-**Chaotic Neutral Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 
+[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
+BL2(BwAAAABx3AkqFAmwEBG9HgfBAUEAwf///////////38DAQwhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAD4cQkqFAmwEBG9ngXBAUEAwf///////////38DAQwhAME=)
+BL2(BwAAAAD4cQkqFAmwEBG9ngXBAUEAwf///////////38DAQwhAME=)
 
 
 
 
 
-**Lawful Evil Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -8840,43 +8840,43 @@ Superior Sweetheart
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAADyawkwFAmwEBG9ngjBAUEAwf///////////38DwQohAME=)
+BL2(BwAAAADyawkwFAmwEBG9ngjBAUEAwf///////////38DwQohAME=)
 
 
 
 
 
-**Lawful Evil Necromancer**	
-
-
-[Critical Damage +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
-
-
-	BL2(BwAAAACGLgkwFAmwEBG9HgfBAUEAwf///////////38DwQohAME=)
-
-
-
-
-
-**Lawful Evil Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
+BL2(BwAAAACGLgkwFAmwEBG9HgfBAUEAwf///////////38DwQohAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+
+
+[Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAAPgwkwFAmwEBG9ngXBAUEAwf///////////38DwQohAME=)
+BL2(BwAAAAAPgwkwFAmwEBG9ngXBAUEAwf///////////38DwQohAME=)
 
 
 
 
 
-**Lawful Good Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -8885,43 +8885,43 @@ Superior Sweetheart
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAC+sAkrFAmwEBG9ngjBAUEAwf///////////38DgQshAME=)
+BL2(BwAAAAC+sAkrFAmwEBG9ngjBAUEAwf///////////38DgQshAME=)
 
 
 
 
 
-**Lawful Good Necromancer**	
-
-
-[Reload Speed +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
-
-
-	BL2(BwAAAADK9QkrFAmwEBG9HgfBAUEAwf///////////38DgQshAME=)
-
-
-
-
-
-**Lawful Good Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
+BL2(BwAAAADK9QkrFAmwEBG9HgfBAUEAwf///////////38DgQshAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+
+
+[Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAABDWAkrFAmwEBG9ngXBAUEAwf///////////38DgQshAME=)
+BL2(BwAAAABDWAkrFAmwEBG9ngXBAUEAwf///////////38DgQshAME=)
 
 
 
 
 
-**Lawful Neutral Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -8930,43 +8930,43 @@ Superior Sweetheart
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAD1SwkpFAmwEBG9ngjBAUEAwf///////////38DQQwhAME=)
+BL2(BwAAAAD1SwkpFAmwEBG9ngjBAUEAwf///////////38DQQwhAME=)
 
 
 
 
 
-**Lawful Neutral Necromancer**	
-
-
-[Magazine Size +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
-
-
-	BL2(BwAAAACBDgkpFAmwEBG9HgfBAUEAwf///////////38DQQwhAME=)
-
-
-
-
-
-**Lawful Neutral Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
+BL2(BwAAAACBDgkpFAmwEBG9HgfBAUEAwf///////////38DQQwhAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+
+
+[Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAAIowkpFAmwEBG9ngXBAUEAwf///////////38DQQwhAME=)
+BL2(BwAAAAAIowkpFAmwEBG9ngXBAUEAwf///////////38DQQwhAME=)
 
 
 
 
 
-**Neutral Evil Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8975,13 +8975,13 @@ Superior Sweetheart
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAABDhAkuFAmwEBG9ngjBAUEAwf///////////38DAQshAME=)
+BL2(BwAAAABDhAkuFAmwEBG9ngjBAUEAwf///////////38DAQshAME=)
 
 
 
 
 
-**Neutral Evil Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8990,13 +8990,13 @@ Superior Sweetheart
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAA3wQkuFAmwEBG9HgfBAUEAwf///////////38DAQshAME=)
+BL2(BwAAAAA3wQkuFAmwEBG9HgfBAUEAwf///////////38DAQshAME=)
 
 
 
 
 
-**Neutral Evil Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -9005,13 +9005,13 @@ Superior Sweetheart
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAC+bAkuFAmwEBG9ngXBAUEAwf///////////38DAQshAME=)
+BL2(BwAAAAC+bAkuFAmwEBG9ngXBAUEAwf///////////38DAQshAME=)
 
 
 
 
 
-**Neutral Good Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -9020,13 +9020,13 @@ Superior Sweetheart
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAACzVgktFAmwEBG9ngjBAUEAwf///////////38DQQshAME=)
+BL2(BwAAAACzVgktFAmwEBG9ngjBAUEAwf///////////38DQQshAME=)
 
 
 
 
 
-**Neutral Good Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -9035,13 +9035,13 @@ Superior Sweetheart
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAADHEwktFAmwEBG9HgfBAUEAwf///////////38DQQshAME=)
+BL2(BwAAAADHEwktFAmwEBG9HgfBAUEAwf///////////38DQQshAME=)
 
 
 
 
 
-**Neutral Good Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -9050,13 +9050,13 @@ Superior Sweetheart
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAABOvgktFAmwEBG9ngXBAUEAwf///////////38DQQshAME=)
+BL2(BwAAAABOvgktFAmwEBG9ngXBAUEAwf///////////38DQQshAME=)
 
 
 
 
 
-**True Neutral Necromancer**	
+**True $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -9065,13 +9065,13 @@ Superior Sweetheart
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAA0fwkoFAmwEBG9ngjBAUEAwf///////////38DQQohAME=)
+BL2(BwAAAAA0fwkoFAmwEBG9ngjBAUEAwf///////////38DQQohAME=)
 
 
 
 
 
-**True Neutral Necromancer**	
+**True $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -9080,13 +9080,13 @@ Superior Sweetheart
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAABAOgkoFAmwEBG9HgfBAUEAwf///////////38DQQohAME=)
+BL2(BwAAAABAOgkoFAmwEBG9HgfBAUEAwf///////////38DQQohAME=)
 
 
 
 
 
-**True Neutral Necromancer**	
+**True $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -9095,7 +9095,7 @@ Superior Sweetheart
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAADJlwkoFAmwEBG9ngXBAUEAwf///////////38DQQohAME=)
+BL2(BwAAAADJlwkoFAmwEBG9ngXBAUEAwf///////////38DQQohAME=)
 
 
 
@@ -9116,7 +9116,7 @@ Improved Jill Of All Trades
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
 
 
-	BL2(BwAAAADREgIDAQkI8BAymQfBAUEAwf///////////38DgQMgAME=) 
+BL2(BwAAAADREgIDAQkI8BAymQfBAUEAwf///////////38DgQMgAME=) 
 
 
 
@@ -9131,7 +9131,7 @@ Improved Jill Of All Trades
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
 
 
-	BL2(BwAAAAAVxAIDAQkI8BAy2QbBAUEAwf///////////38DgQMgAME=) 
+BL2(BwAAAAAVxAIDAQkI8BAy2QbBAUEAwf///////////38DgQMgAME=) 
 
 
 
@@ -9146,7 +9146,7 @@ Speedy Jill Of All Trades
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
 
 
-	BL2(BwAAAAD6HwIDAQkI8BAyGQbBAUEAwf///////////38DQQMgAME=) 
+BL2(BwAAAAD6HwIDAQkI8BAyGQbBAUEAwf///////////38DQQMgAME=) 
 
 
 
@@ -9161,7 +9161,7 @@ Speedy Jill Of All Trades
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
 
 
-	BL2(BwAAAAAr/QIDAQkI8BAyWQXBAUEAwf///////////38DQQMgAME=) 
+BL2(BwAAAAAr/QIDAQkI8BAyWQXBAUEAwf///////////38DQQMgAME=) 
 
 
 
@@ -9176,7 +9176,7 @@ Peppy Jill Of All Trades
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
 
 
-	BL2(BwAAAABwJwIDAQkI8BAyGQnBAUEAwf///////////38DwQMgAME=) 
+BL2(BwAAAABwJwIDAQkI8BAyGQnBAUEAwf///////////38DwQMgAME=) 
 
 
 
@@ -9191,7 +9191,7 @@ Peppy Jill Of All Trades
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
 
 
-	BL2(BwAAAAC08QIDAQkI8BAyWQjBAUEAwf///////////38DwQMgAME=) 
+BL2(BwAAAAC08QIDAQkI8BAyWQjBAUEAwf///////////38DwQMgAME=) 
 
 
 
@@ -9206,7 +9206,7 @@ Peppy Prodigy
 (Weapon Accuracy +26% / Reload Speed +45%) 
 
 
-	BL2(BwAAAADK2gIHAQkIUBAyGQbBAUEAwf///////////38DQQggAME=) 
+BL2(BwAAAADK2gIHAQkIUBAyGQbBAUEAwf///////////38DQQggAME=) 
 
 
 
@@ -9221,7 +9221,7 @@ Peppy Prodigy
 (Weapon Accuracy +26% / Reload Speed +45%) 
 
 
-	BL2(BwAAAAAbOAIHAQkIUBAyWQXBAUEAwf///////////38DQQggAME=) 
+BL2(BwAAAAAbOAIHAQkIUBAyWQXBAUEAwf///////////38DQQggAME=) 
 
 
 
@@ -9236,7 +9236,7 @@ Superior Prodigy
 (Weapon Accuracy +26% / Reload Speed +45%) 
 
 
-	BL2(BwAAAADh1wIHAQkIUBAymQfBAUEAwf///////////38DgQggAME=) 
+BL2(BwAAAADh1wIHAQkIUBAymQfBAUEAwf///////////38DgQggAME=) 
 
 
 
@@ -9251,7 +9251,7 @@ Superior Prodigy
 (Weapon Accuracy +26% / Reload Speed +45%) 
 
 
-	BL2(BwAAAAAlAQIHAQkIUBAy2QbBAUEAwf///////////38DgQggAME=) 
+BL2(BwAAAAAlAQIHAQkIUBAy2QbBAUEAwf///////////38DgQggAME=) 
 
 
 
@@ -9266,7 +9266,7 @@ Patient Prodigy
 (Weapon Accuracy +26% / Reload Speed +45%) 
 
 
-	BL2(BwAAAABA4gIHAQkIUBAyGQnBAUEAwf///////////38DwQggAME=) 
+BL2(BwAAAABA4gIHAQkIUBAyGQnBAUEAwf///////////38DwQggAME=) 
 
 
 
@@ -9281,7 +9281,7 @@ Patient Prodigy
 (Weapon Accuracy +26% / Reload Speed +45%) 
 
 
-	BL2(BwAAAACENAIHAQkIUBAyWQjBAUEAwf///////////38DwQggAME=) 
+BL2(BwAAAACENAIHAQkIUBAyWQjBAUEAwf///////////38DwQggAME=) 
 
 
 
@@ -9296,7 +9296,7 @@ Speedy Punk
 (Fire Rate +20% / Magazine Size -20%) 
 
 
-	BL2(BwAAAAAZnAIEAQkIMBAymQfBAUEAwf///////////38DwQQgAME=) 
+BL2(BwAAAAAZnAIEAQkIMBAymQfBAUEAwf///////////38DwQQgAME=) 
 
 
 
@@ -9311,7 +9311,7 @@ Speedy Punk
 (Fire Rate +20% / Magazine Size -20%) 
 
 
-	BL2(BwAAAADdSgIEAQkIMBAy2QbBAUEAwf///////////38DwQQgAME=) 
+BL2(BwAAAADdSgIEAQkIMBAy2QbBAUEAwf///////////38DwQQgAME=) 
 
 
 
@@ -9326,7 +9326,7 @@ Paranoid Punk
 (Fire Rate +20% / Magazine Size -20%) 
 
 
-	BL2(BwAAAAAT9gIEAQkIMBAyGQbBAUEAwf///////////38DgQsgAME=) 
+BL2(BwAAAAAT9gIEAQkIMBAyGQbBAUEAwf///////////38DgQsgAME=) 
 
 
 
@@ -9341,7 +9341,7 @@ Paranoid Punk
 (Fire Rate +20% / Magazine Size -20%) 
 
 
-	BL2(BwAAAADCFAIEAQkIMBAyWQXBAUEAwf///////////38DgQsgAME=) 
+BL2(BwAAAADCFAIEAQkIMBAyWQXBAUEAwf///////////38DgQsgAME=) 
 
 
 
@@ -9356,7 +9356,7 @@ Superior Punk
 (Fire Rate +20% / Magazine Size -20%) 
 
 
-	BL2(BwAAAABYsAIEAQkIMBAyGQnBAUEAwf///////////38DAQ4gAME=) 
+BL2(BwAAAABYsAIEAQkIMBAyGQnBAUEAwf///////////38DAQ4gAME=) 
 
 
 
@@ -9371,7 +9371,7 @@ Superior Punk
 (Fire Rate +20% / Magazine Size -20%) 
 
 
-	BL2(BwAAAACcZgIEAQkIMBAyWQjBAUEAwf///////////38DAQ4gAME=) 
+BL2(BwAAAACcZgIEAQkIMBAyWQjBAUEAwf///////////38DAQ4gAME=) 
 
 
 
@@ -9386,7 +9386,7 @@ Stern Roboteer
 (Cooldown Rate +20% / Melee Damage +35%) 
 
 
-	BL2(BwAAAACHKwIAAQkI0BAyGQbBAUEAwf///////////38DAQIgAME=) 
+BL2(BwAAAACHKwIAAQkI0BAyGQbBAUEAwf///////////38DAQIgAME=) 
 
 
 
@@ -9401,7 +9401,7 @@ Stern Roboteer
 (Cooldown Rate +20% / Melee Damage +35%) 
 
 
-	BL2(BwAAAABWyQIAAQkI0BAyWQXBAUEAwf///////////38DAQIgAME=) 
+BL2(BwAAAABWyQIAAQkI0BAyWQXBAUEAwf///////////38DAQIgAME=) 
 
 
 
@@ -9416,7 +9416,7 @@ Potent Roboteer
 (Cooldown Rate +20% / Melee Damage +35%) 
 
 
-	BL2(BwAAAABYHAIAAQkI0BAymQfBAUEAwf///////////38DwQEgAME=) 
+BL2(BwAAAABYHAIAAQkI0BAymQfBAUEAwf///////////38DwQEgAME=) 
 
 
 
@@ -9431,7 +9431,7 @@ Potent Roboteer
 (Cooldown Rate +20% / Melee Damage +35%) 
 
 
-	BL2(BwAAAACcygIAAQkI0BAy2QbBAUEAwf///////////38DwQEgAME=) 
+BL2(BwAAAACcygIAAQkI0BAy2QbBAUEAwf///////////38DwQEgAME=) 
 
 
 
@@ -9446,7 +9446,7 @@ Tenacious Roboteer
 (Cooldown Rate +20% / Melee Damage +35%) 
 
 
-	BL2(BwAAAABnGwIAAQkI0BAyGQnBAUEAwf///////////38DwQwgAME=) 
+BL2(BwAAAABnGwIAAQkI0BAyGQnBAUEAwf///////////38DwQwgAME=) 
 
 
 
@@ -9461,7 +9461,7 @@ Tenacious Roboteer
 (Cooldown Rate +20% / Melee Damage +35%) 
 
 
-	BL2(BwAAAACjzQIAAQkI0BAyWQjBAUEAwf///////////38DwQwgAME=) 
+BL2(BwAAAACjzQIAAQkI0BAyWQjBAUEAwf///////////38DwQwgAME=) 
 
 
 
@@ -9476,7 +9476,7 @@ Wired Zapper
 (Electrocute Damage +26% / Chance To Shock +26%) 
 
 
-	BL2(BwAAAACjCAICAQkIEBEymQfBAUEAwf///////////38DgQIgAME=) 
+BL2(BwAAAACjCAICAQkIEBEymQfBAUEAwf///////////38DgQIgAME=) 
 
 
 
@@ -9491,7 +9491,7 @@ Wired Zapper
 (Electrocute Damage +26% / Chance To Shock +26%) 
 
 
-	BL2(BwAAAABn3gICAQkIEBEy2QbBAUEAwf///////////38DgQIgAME=) 
+BL2(BwAAAABn3gICAQkIEBEy2QbBAUEAwf///////////38DgQIgAME=) 
 
 
 
@@ -9506,7 +9506,7 @@ Scorching Zapper
 (Electrocute Damage +26% / Chance To Shock +26%) 
 
 
-	BL2(BwAAAAAzZgICAQkIEBEyGQbBAUEAwf///////////38DwQYgAME=) 
+BL2(BwAAAAAzZgICAQkIEBEyGQbBAUEAwf///////////38DwQYgAME=) 
 
 
 
@@ -9521,7 +9521,7 @@ Scorching Zapper
 (Electrocute Damage +26% / Chance To Shock +26%) 
 
 
-	BL2(BwAAAADihAICAQkIEBEyWQXBAUEAwf///////////38DwQYgAME=) 
+BL2(BwAAAADihAICAQkIEBEyWQXBAUEAwf///////////38DwQYgAME=) 
 
 
 
@@ -9536,7 +9536,7 @@ Peppy Zapper
 (Electrocute Damage +26% / Chance To Shock +26%) 
 
 
-	BL2(BwAAAAACPQICAQkIEBEyGQnBAUEAwf///////////38DwQIgAME=) 
+BL2(BwAAAAACPQICAQkIEBEyGQnBAUEAwf///////////38DwQIgAME=) 
 
 
 
@@ -9551,7 +9551,7 @@ Peppy Zapper
 (Electrocute Damage +26% / Chance To Shock +26%) 
 
 
-	BL2(BwAAAADG6wICAQkIEBEyWQjBAUEAwf///////////38DwQIgAME=) 
+BL2(BwAAAADG6wICAQkIEBEyWQjBAUEAwf///////////38DwQIgAME=) 
 
 
 
@@ -9566,7 +9566,7 @@ Wired Catalyst
 (Team Elemental Effect Damage +40%) 
 
 
-	BL2(BwAAAAB6qQIIAQkIEBEyGQnBAUEAwf///////////38DwQkgAME=) 
+BL2(BwAAAAB6qQIIAQkIEBEyGQnBAUEAwf///////////38DwQkgAME=) 
 
 
 
@@ -9581,7 +9581,7 @@ Wired Catalyst
 (Team Elemental Effect Damage +40%) 
 
 
-	BL2(BwAAAAC+fwIIAQkIEBEyWQjBAUEAwf///////////38DwQkgAME=) 
+BL2(BwAAAAC+fwIIAQkIEBEyWQjBAUEAwf///////////38DwQkgAME=) 
 
 
 
@@ -9596,7 +9596,7 @@ Ionized Catalyst
 (Team Elemental Effect Damage +40%) 
 
 
-	BL2(BwAAAADwkQIIAQkIEBEyGQbBAUEAwf///////////38DQQkgAME=) 
+BL2(BwAAAADwkQIIAQkIEBEyGQbBAUEAwf///////////38DQQkgAME=) 
 
 
 
@@ -9611,7 +9611,7 @@ Ionized Catalyst
 (Team Elemental Effect Damage +40%) 
 
 
-	BL2(BwAAAAAhcwIIAQkIEBEyWQXBAUEAwf///////////38DQQkgAME=) 
+BL2(BwAAAAAhcwIIAQkIEBEyWQXBAUEAwf///////////38DQQkgAME=) 
 
 
 
@@ -9626,7 +9626,7 @@ Evil Catalyst
 (Team Elemental Effect Damage +40%) 
 
 
-	BL2(BwAAAADbnAIIAQkIEBEymQfBAUEAwf///////////38DgQkgAME=) 
+BL2(BwAAAADbnAIIAQkIEBEymQfBAUEAwf///////////38DgQkgAME=) 
 
 
 
@@ -9641,7 +9641,7 @@ Evil Catalyst
 (Team Elemental Effect Damage +40%) 
 
 
-	BL2(BwAAAAAfSgIIAQkIEBEy2QbBAUEAwf///////////38DgQkgAME=) 
+BL2(BwAAAAAfSgIIAQkIEBEy2QbBAUEAwf///////////38DgQkgAME=) 
 
 
 
@@ -9656,7 +9656,7 @@ Swift Anarchist
 (Gun Damage +40% / Weapon Accuracy -35%) 
 
 
-	BL2(BwAAAABqVgIFAQkIsBAyGQnBAUEAwf///////////38DwQsgAME=) 
+BL2(BwAAAABqVgIFAQkIsBAyGQnBAUEAwf///////////38DwQsgAME=) 
 
 
 
@@ -9668,7 +9668,7 @@ Swift Anarchist (Annoyed Android +6 / Death From Above +5)
 (Gun Damage +40% / Weapon Accuracy -35%) 
 
 
-	BL2(BwAAAACugAIFAQkIsBAyWQjBAUEAwf///////////38DwQsgAME=) 
+BL2(BwAAAACugAIFAQkIsBAyWQjBAUEAwf///////////38DwQsgAME=) 
 
 
 
@@ -9683,7 +9683,7 @@ Calculating Anarchist
 (Gun Damage +40% / Weapon Accuracy -35%) 
 
 
-	BL2(BwAAAAC1SAIFAQkIsBAymQfBAUEAwf///////////38DQQwgAME=) 
+BL2(BwAAAAC1SAIFAQkIsBAymQfBAUEAwf///////////38DQQwgAME=) 
 
 
 
@@ -9698,7 +9698,7 @@ Calculating Anarchist
 (Gun Damage +40% / Weapon Accuracy -35%) 
 
 
-	BL2(BwAAAABxngIFAQkIsBAy2QbBAUEAwf///////////38DQQwgAME=) 
+BL2(BwAAAABxngIFAQkIsBAy2QbBAUEAwf///////////38DQQwgAME=) 
 
 
 
@@ -9713,7 +9713,7 @@ Airborne Anarchist
 (Gun Damage +40% / Weapon Accuracy -35%) 
 
 
-	BL2(BwAAAABmpQIFAQkIsBAyGQbBAUEAwf///////////38DAQcgAME=) 
+BL2(BwAAAABmpQIFAQkIsBAyGQbBAUEAwf///////////38DAQcgAME=) 
 
 
 
@@ -9728,7 +9728,7 @@ Airborne Anarchist
 (Gun Damage +40% / Weapon Accuracy -35%) 
 
 
-	BL2(BwAAAAC3RwIFAQkIsBAyWQXBAUEAwf///////////38DAQcgAME=) 
+BL2(BwAAAAC3RwIFAQkIsBAyWQXBAUEAwf///////////38DAQcgAME=) 
 
 
 
@@ -9743,7 +9743,7 @@ Calculating Technophile
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
 
 
-	BL2(BwAAAACXgQIGAQkIEBIymQfBAUEAwf///////////38DgQcgAME=) 
+BL2(BwAAAACXgQIGAQkIEBIymQfBAUEAwf///////////38DgQcgAME=) 
 
 
 
@@ -9758,7 +9758,7 @@ Calculating Technophile
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
 
 
-	BL2(BwAAAABTVwIGAQkIEBIy2QbBAUEAwf///////////38DgQcgAME=) 
+BL2(BwAAAABTVwIGAQkIEBIy2QbBAUEAwf///////////38DgQcgAME=) 
 
 
 
@@ -9770,7 +9770,7 @@ Tenacious Technophile (Strength Of 5 Gorillas +6 / Fancy Mathematics +5)
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
 
 
-	BL2(BwAAAACdwgIGAQkIEBIyGQnBAUEAwf///////////38DgQwgAME=) 
+BL2(BwAAAACdwgIGAQkIEBIyGQnBAUEAwf///////////38DgQwgAME=) 
 
 
 
@@ -9785,7 +9785,7 @@ Tenacious Technophile
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
 
 
-	BL2(BwAAAABZFAIGAQkIEBIyWQjBAUEAwf///////////38DgQwgAME=) 
+BL2(BwAAAABZFAIGAQkIEBIyWQjBAUEAwf///////////38DgQwgAME=) 
 
 
 
@@ -9800,7 +9800,7 @@ Manic Technophile
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
 
 
-	BL2(BwAAAAC8jAIGAQkIEBIyGQbBAUEAwf///////////38DQQcgAME=) 
+BL2(BwAAAAC8jAIGAQkIEBIyGQbBAUEAwf///////////38DQQcgAME=) 
 
 
 
@@ -9815,7 +9815,7 @@ Manic Techonphile
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
 
 
-	BL2(BwAAAABtbgIGAQkIEBIyWQXBAUEAwf///////////38DQQcgAME=) 
+BL2(BwAAAABtbgIGAQkIEBIyWQXBAUEAwf///////////38DQQcgAME=) 
 
 
 
@@ -9827,7 +9827,7 @@ Peppy Sweetheart (More Pep +6 / Cooking Up Trouble +5)
 (Team Max Health +6310) 
 
 
-	BL2(BwAAAADrNAILAQkI8BEyGQnBAUEAwf///////////38DQQ0gAME=) 
+BL2(BwAAAADrNAILAQkI8BEyGQnBAUEAwf///////////38DQQ0gAME=) 
 
 
 
@@ -9842,7 +9842,7 @@ Peppy Sweetheart
 (Team Max Health +6310) 
 
 
-	BL2(BwAAAAAv4gILAQkI8BEyWQjBAUEAwf///////////38DQQ0gAME=) 
+BL2(BwAAAAAv4gILAQkI8BEyWQjBAUEAwf///////////38DQQ0gAME=) 
 
 
 
@@ -9857,7 +9857,7 @@ Patient Sweetheart
 (Team Max Health +6310) 
 
 
-	BL2(BwAAAAAo5QILAQkI8BEymQfBAUEAwf///////////38DgQ0gAME=) 
+BL2(BwAAAAAo5QILAQkI8BEymQfBAUEAwf///////////38DgQ0gAME=) 
 
 
 
@@ -9872,7 +9872,7 @@ Patient Sweetheart
 (Team Max Health +6310) 
 
 
-	BL2(BwAAAADsMwILAQkI8BEy2QbBAUEAwf///////////38DgQ0gAME=) 
+BL2(BwAAAADsMwILAQkI8BEy2QbBAUEAwf///////////38DgQ0gAME=) 
 
 
 
@@ -9887,7 +9887,7 @@ Superior Sweetheart
 (Team Max Health +6310) 
 
 
-	BL2(BwAAAABhDAILAQkI8BEyGQbBAUEAwf///////////38DwQ0gAME=) 
+BL2(BwAAAABhDAILAQkI8BEyGQbBAUEAwf///////////38DwQ0gAME=) 
 
 
 
@@ -9902,13 +9902,13 @@ Superior Sweetheart
 (Team Max Health +6310) 
 
 
-	BL2(BwAAAACw7gILAQkI8BEyWQXBAUEAwf///////////38DwQ0gAME=)
+BL2(BwAAAACw7gILAQkI8BEyWQXBAUEAwf///////////38DwQ0gAME=)
 
 
 
 
 
-**Chaotic Evil Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9917,13 +9917,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAC1cgkvFAmwEBG9HgnBAUEAwf///////////38DgQohAME=)
+BL2(BwAAAAC1cgkvFAmwEBG9HgnBAUEAwf///////////38DgQohAME=)
 
 
 
 
 
-**Chaotic Evil Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9932,13 +9932,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAABxpAkvFAmwEBG9XgjBAUEAwf///////////38DgQohAME=)
+BL2(BwAAAABxpAkvFAmwEBG9XgjBAUEAwf///////////38DgQohAME=)
 
 
 
 
 
-**Chaotic Evil Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9947,13 +9947,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAAAlNQkvFAmwEBG9ngfBAUEAwf///////////38DgQohAME=)
+BL2(BwAAAAAlNQkvFAmwEBG9ngfBAUEAwf///////////38DgQohAME=)
 
 
 
 
 
-**Chaotic Evil Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9962,13 +9962,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAADh4wkvFAmwEBG93gbBAUEAwf///////////38DgQohAME=)
+BL2(BwAAAADh4wkvFAmwEBG93gbBAUEAwf///////////38DgQohAME=)
 
 
 
 
 
-**Chaotic Evil Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9977,13 +9977,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAABdrgkvFAmwEBG9HgbBAUEAwf///////////38DgQohAME=)
+BL2(BwAAAABdrgkvFAmwEBG9HgbBAUEAwf///////////38DgQohAME=)
 
 
 
 
 
-**Chaotic Evil Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9992,13 +9992,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAACMTAkvFAmwEBG9XgXBAUEAwf///////////38DgQohAME=)
+BL2(BwAAAACMTAkvFAmwEBG9XgXBAUEAwf///////////38DgQohAME=)
 
 
 
 
 
-**Chaotic Good Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -10007,43 +10007,43 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAABdWQksFAmwEBG9HgnBAUEAwf///////////38DwQshAME=)
+BL2(BwAAAABdWQksFAmwEBG9HgnBAUEAwf///////////38DwQshAME=)
 
 
 
 
 
-**Chaotic Good Necromancer**	
-
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-
-[+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
-
-
-	BL2(BwAAAACZjwksFAmwEBG9XgjBAUEAwf///////////38DwQshAME=)
-
-
-
-
-
-**Chaotic Good Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 
+[+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
+BL2(BwAAAACZjwksFAmwEBG9XgjBAUEAwf///////////38DwQshAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAADNHgksFAmwEBG9ngfBAUEAwf///////////38DwQshAME=)
+BL2(BwAAAADNHgksFAmwEBG9ngfBAUEAwf///////////38DwQshAME=)
 
 
 
 
 
-**Chaotic Good Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -10052,43 +10052,43 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAAJyAksFAmwEBG93gbBAUEAwf///////////38DwQshAME=)
+BL2(BwAAAAAJyAksFAmwEBG93gbBAUEAwf///////////38DwQshAME=)
 
 
 
 
 
-**Chaotic Good Necromancer**	
-
-
-[Reload Speed +45%] [Fire Rate +31%]	
-
-
-[+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
-
-
-	BL2(BwAAAAC1hQksFAmwEBG9HgbBAUEAwf///////////38DwQshAME=)
-
-
-
-
-
-**Chaotic Good Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
 
+[+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
+BL2(BwAAAAC1hQksFAmwEBG9HgbBAUEAwf///////////38DwQshAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAABkZwksFAmwEBG9XgXBAUEAwf///////////38DwQshAME=)
+BL2(BwAAAABkZwksFAmwEBG9XgXBAUEAwf///////////38DwQshAME=)
 
 
 
 
 
-**Chaotic Neutral Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -10097,43 +10097,43 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAB9AgkqFAmwEBG9HgnBAUEAwf///////////38DAQwhAME=)
+BL2(BwAAAAB9AgkqFAmwEBG9HgnBAUEAwf///////////38DAQwhAME=)
 
 
 
 
 
-**Chaotic Neutral Necromancer**	
-
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-
-[+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
-
-
-	BL2(BwAAAAC51AkqFAmwEBG9XgjBAUEAwf///////////38DAQwhAME=)
-
-
-
-
-
-**Chaotic Neutral Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 
+[+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
+BL2(BwAAAAC51AkqFAmwEBG9XgjBAUEAwf///////////38DAQwhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAADtRQkqFAmwEBG9ngfBAUEAwf///////////38DAQwhAME=)
+BL2(BwAAAADtRQkqFAmwEBG9ngfBAUEAwf///////////38DAQwhAME=)
 
 
 
 
 
-**Chaotic Neutral Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -10142,43 +10142,43 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAApkwkqFAmwEBG93gbBAUEAwf///////////38DAQwhAME=)
+BL2(BwAAAAApkwkqFAmwEBG93gbBAUEAwf///////////38DAQwhAME=)
 
 
 
 
 
-**Chaotic Neutral Necromancer**	
-
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-
-[+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
-
-
-	BL2(BwAAAACV3gkqFAmwEBG9HgbBAUEAwf///////////38DAQwhAME=)
-
-
-
-
-
-**Chaotic Neutral Necromancer**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 
+[+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
+BL2(BwAAAACV3gkqFAmwEBG9HgbBAUEAwf///////////38DAQwhAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAABEPAkqFAmwEBG9XgXBAUEAwf///////////38DAQwhAME=)
+BL2(BwAAAABEPAkqFAmwEBG9XgXBAUEAwf///////////38DAQwhAME=)
 
 
 
 
 
-**Lawful Evil Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10187,13 +10187,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAACK8AkwFAmwEBG9HgnBAUEAwf///////////38DwQohAME=)
+BL2(BwAAAACK8AkwFAmwEBG9HgnBAUEAwf///////////38DwQohAME=)
 
 
 
 
 
-**Lawful Evil Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10202,13 +10202,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAABOJgkwFAmwEBG9XgjBAUEAwf///////////38DwQohAME=)
+BL2(BwAAAABOJgkwFAmwEBG9XgjBAUEAwf///////////38DwQohAME=)
 
 
 
 
 
-**Lawful Evil Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10217,13 +10217,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAAAatwkwFAmwEBG9ngfBAUEAwf///////////38DwQohAME=)
+BL2(BwAAAAAatwkwFAmwEBG9ngfBAUEAwf///////////38DwQohAME=)
 
 
 
 
 
-**Lawful Evil Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10232,13 +10232,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAADeYQkwFAmwEBG93gbBAUEAwf///////////38DwQohAME=)
+BL2(BwAAAADeYQkwFAmwEBG93gbBAUEAwf///////////38DwQohAME=)
 
 
 
 
 
-**Lawful Evil Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10247,13 +10247,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAABiLAkwFAmwEBG9HgbBAUEAwf///////////38DwQohAME=)
+BL2(BwAAAABiLAkwFAmwEBG9HgbBAUEAwf///////////38DwQohAME=)
 
 
 
 
 
-**Lawful Evil Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10262,13 +10262,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAACzzgkwFAmwEBG9XgXBAUEAwf///////////38DwQohAME=)
+BL2(BwAAAACzzgkwFAmwEBG9XgXBAUEAwf///////////38DwQohAME=)
 
 
 
 
 
-**Lawful Good Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10277,13 +10277,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAADGKwkrFAmwEBG9HgnBAUEAwf///////////38DgQshAME=)
+BL2(BwAAAADGKwkrFAmwEBG9HgnBAUEAwf///////////38DgQshAME=)
 
 
 
 
 
-**Lawful Good Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10292,13 +10292,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAAC/QkrFAmwEBG9XgjBAUEAwf///////////38DgQshAME=)
+BL2(BwAAAAAC/QkrFAmwEBG9XgjBAUEAwf///////////38DgQshAME=)
 
 
 
 
 
-**Lawful Good Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10307,13 +10307,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAABWbAkrFAmwEBG9ngfBAUEAwf///////////38DgQshAME=)
+BL2(BwAAAABWbAkrFAmwEBG9ngfBAUEAwf///////////38DgQshAME=)
 
 
 
 
 
-**Lawful Good Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10322,13 +10322,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAACSugkrFAmwEBG93gbBAUEAwf///////////38DgQshAME=)
+BL2(BwAAAACSugkrFAmwEBG93gbBAUEAwf///////////38DgQshAME=)
 
 
 
 
 
-**Lawful Good Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10337,13 +10337,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAAAu9wkrFAmwEBG9HgbBAUEAwf///////////38DgQshAME=)
+BL2(BwAAAAAu9wkrFAmwEBG9HgbBAUEAwf///////////38DgQshAME=)
 
 
 
 
 
-**Lawful Good Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10352,13 +10352,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAD/FQkrFAmwEBG9XgXBAUEAwf///////////38DgQshAME=)
+BL2(BwAAAAD/FQkrFAmwEBG9XgXBAUEAwf///////////38DgQshAME=)
 
 
 
 
 
-**Lawful Neutral Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10367,13 +10367,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAACN0AkpFAmwEBG9HgnBAUEAwf///////////38DQQwhAME=)
+BL2(BwAAAACN0AkpFAmwEBG9HgnBAUEAwf///////////38DQQwhAME=)
 
 
 
 
 
-**Lawful Neutral Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10382,13 +10382,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAABJBgkpFAmwEBG9XgjBAUEAwf///////////38DQQwhAME=)
+BL2(BwAAAABJBgkpFAmwEBG9XgjBAUEAwf///////////38DQQwhAME=)
 
 
 
 
 
-**Lawful Neutral Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10397,13 +10397,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAAAdlwkpFAmwEBG9ngfBAUEAwf///////////38DQQwhAME=)
+BL2(BwAAAAAdlwkpFAmwEBG9ngfBAUEAwf///////////38DQQwhAME=)
 
 
 
 
 
-**Lawful Neutral Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10412,13 +10412,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAADZQQkpFAmwEBG93gbBAUEAwf///////////38DQQwhAME=)
+BL2(BwAAAADZQQkpFAmwEBG93gbBAUEAwf///////////38DQQwhAME=)
 
 
 
 
 
-**Lawful Neutral Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10427,13 +10427,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAABlDAkpFAmwEBG9HgbBAUEAwf///////////38DQQwhAME=)
+BL2(BwAAAABlDAkpFAmwEBG9HgbBAUEAwf///////////38DQQwhAME=)
 
 
 
 
 
-**Lawful Neutral Necromancer**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10442,13 +10442,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAC07gkpFAmwEBG9XgXBAUEAwf///////////38DQQwhAME=)
+BL2(BwAAAAC07gkpFAmwEBG9XgXBAUEAwf///////////38DQQwhAME=)
 
 
 
 
 
-**Neutral Evil Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10457,13 +10457,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAA7HwkuFAmwEBG9HgnBAUEAwf///////////38DAQshAME=)
+BL2(BwAAAAA7HwkuFAmwEBG9HgnBAUEAwf///////////38DAQshAME=)
 
 
 
 
 
-**Neutral Evil Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10472,13 +10472,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAD/yQkuFAmwEBG9XgjBAUEAwf///////////38DAQshAME=)
+BL2(BwAAAAD/yQkuFAmwEBG9XgjBAUEAwf///////////38DAQshAME=)
 
 
 
 
 
-**Neutral Evil Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10487,13 +10487,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAACrWAkuFAmwEBG9ngfBAUEAwf///////////38DAQshAME=)
+BL2(BwAAAACrWAkuFAmwEBG9ngfBAUEAwf///////////38DAQshAME=)
 
 
 
 
 
-**Neutral Evil Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10502,13 +10502,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAABvjgkuFAmwEBG93gbBAUEAwf///////////38DAQshAME=)
+BL2(BwAAAABvjgkuFAmwEBG93gbBAUEAwf///////////38DAQshAME=)
 
 
 
 
 
-**Neutral Evil Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10517,13 +10517,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAADTwwkuFAmwEBG9HgbBAUEAwf///////////38DAQshAME=)
+BL2(BwAAAADTwwkuFAmwEBG9HgbBAUEAwf///////////38DAQshAME=)
 
 
 
 
 
-**Neutral Evil Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10532,13 +10532,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAACIQkuFAmwEBG9XgXBAUEAwf///////////38DAQshAME=)
+BL2(BwAAAAACIQkuFAmwEBG9XgXBAUEAwf///////////38DAQshAME=)
 
 
 
 
 
-**Neutral Good Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10547,13 +10547,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAADLzQktFAmwEBG9HgnBAUEAwf///////////38DQQshAME=)
+BL2(BwAAAADLzQktFAmwEBG9HgnBAUEAwf///////////38DQQshAME=)
 
 
 
 
 
-**Neutral Good Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10562,13 +10562,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAAPGwktFAmwEBG9XgjBAUEAwf///////////38DQQshAME=)
+BL2(BwAAAAAPGwktFAmwEBG9XgjBAUEAwf///////////38DQQshAME=)
 
 
 
 
 
-**Neutral Good Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10577,13 +10577,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAABbigktFAmwEBG9ngfBAUEAwf///////////38DQQshAME=)
+BL2(BwAAAABbigktFAmwEBG9ngfBAUEAwf///////////38DQQshAME=)
 
 
 
 
 
-**Neutral Good Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10592,13 +10592,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAACfXAktFAmwEBG93gbBAUEAwf///////////38DQQshAME=)
+BL2(BwAAAACfXAktFAmwEBG93gbBAUEAwf///////////38DQQshAME=)
 
 
 
 
 
-**Neutral Good Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10607,13 +10607,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAAAjEQktFAmwEBG9HgbBAUEAwf///////////38DQQshAME=)
+BL2(BwAAAAAjEQktFAmwEBG9HgbBAUEAwf///////////38DQQshAME=)
 
 
 
 
 
-**Neutral Good Necromancer**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10622,13 +10622,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAADy8wktFAmwEBG9XgXBAUEAwf///////////38DQQshAME=)
+BL2(BwAAAADy8wktFAmwEBG9XgXBAUEAwf///////////38DQQshAME=)
 
 
 
 
 
-**True Neutral Necromancer**	
+**True $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10637,13 +10637,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAABM5AkoFAmwEBG9HgnBAUEAwf///////////38DQQohAME=)
+BL2(BwAAAABM5AkoFAmwEBG9HgnBAUEAwf///////////38DQQohAME=)
 
 
 
 
 
-**True Neutral Necromancer**	
+**True $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10652,13 +10652,13 @@ Superior Sweetheart
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAACIMgkoFAmwEBG9XgjBAUEAwf///////////38DQQohAME=)
+BL2(BwAAAACIMgkoFAmwEBG9XgjBAUEAwf///////////38DQQohAME=)
 
 
 
 
 
-**True Neutral Necromancer**	
+**True $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10667,13 +10667,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAADcowkoFAmwEBG9ngfBAUEAwf///////////38DQQohAME=)
+BL2(BwAAAADcowkoFAmwEBG9ngfBAUEAwf///////////38DQQohAME=)
 
 
 
 
 
-**True Neutral Necromancer**	
+**True $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10682,13 +10682,13 @@ Superior Sweetheart
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
 
 
-	BL2(BwAAAAAYdQkoFAmwEBG93gbBAUEAwf///////////38DQQohAME=)
+BL2(BwAAAAAYdQkoFAmwEBG93gbBAUEAwf///////////38DQQohAME=)
 
 
 
 
 
-**True Neutral Necromancer**	
+**True $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10697,13 +10697,13 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
 
 
-	BL2(BwAAAACkOAkoFAmwEBG9HgbBAUEAwf///////////38DQQohAME=)
+BL2(BwAAAACkOAkoFAmwEBG9HgbBAUEAwf///////////38DQQohAME=)
 
 
 
 
 
-**True Neutral Necromancer**	
+**True $${\color{grey}Neutral}$$ Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10712,7 +10712,7 @@ Superior Sweetheart
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
 
 
-	BL2(BwAAAAB12gkoFAmwEBG9XgXBAUEAwf///////////38DQQohAME=)
+BL2(BwAAAAB12gkoFAmwEBG9XgXBAUEAwf///////////38DQQohAME=)
 
 
 
@@ -10733,7 +10733,7 @@ Legendary Psycho
 (Burn Damage +31% / Magazine Size +31% / Shield Recharge Delay +1.50) 
 
 
-	BL2(BwAAAACDDQYLAAMAMBA9AAXBAUEAwf///////////38DQQkgAME=) 
+BL2(BwAAAACDDQYLAAMAMBA9AAXBAUEAwf///////////38DQQkgAME=) 
 
 
 
@@ -10741,7 +10741,7 @@ Legendary Psycho
 
 **Legendary Torch**
 
-	BL2(BwAAAAAjUwoZAA8AMBBIJAXBAUEAwf///////////78EQQQgAME=)
+BL2(BwAAAAAjUwoZAA8AMBBIJAXBAUEAwf///////////78EQQQgAME=)
 
 
 
@@ -10749,7 +10749,7 @@ Legendary Psycho
 
 **Legendary Sickle**
 
-	BL2(BwAAAACEtQoYAA8AMBBIJAXBAUEAwf///////////78EgQQgAME=)
+BL2(BwAAAACEtQoYAA8AMBBIJAXBAUEAwf///////////78EgQQgAME=)
 
 
 
@@ -10757,7 +10757,7 @@ Legendary Psycho
 
 **Legendary Reaper**
 
-	BL2(BwAAAACbEQoXAA8AMBBIJAXBAUEAwf///////////78EAQQgAME=)
+BL2(BwAAAACbEQoXAA8AMBBIJAXBAUEAwf///////////78EAQQgAME=)
 
 
 
@@ -10772,7 +10772,7 @@ Legendary Psycho
 (Burn Damage +29% / Burn Chance +29% / Max Health +31813) 
 
 
-	BL2(BwAAAAAYDAYKAAEAEBE9AAXBAUEAwf///////////38DAQkgAME=)
+BL2(BwAAAAAYDAYKAAEAEBE9AAXBAUEAwf///////////38DAQkgAME=)
 
 
 
@@ -10793,7 +10793,7 @@ Legendary Psycho
 (Grenade Capacity +6 / Kill Skill Duration +66%) 
 
 
-	BL2(BwAAAAAkPgYHAAUAMBAymQXBAUEAwf///////////38DAQcgAME=) 
+BL2(BwAAAAAkPgYHAAUAMBAymQXBAUEAwf///////////38DAQcgAME=) 
 
 
 
@@ -10808,7 +10808,7 @@ Legendary Psycho
 (Grenade Capacity +6 / Kill Skill Duration +66%) 
 
 
-	BL2(BwAAAAC7MgYHAAUAMBAymQjBAUEAwf///////////38DgQcgAME=) 
+BL2(BwAAAAC7MgYHAAUAMBAymQjBAUEAwf///////////38DgQcgAME=) 
 
 
 
@@ -10823,7 +10823,7 @@ Legendary Psycho
 (Grenade Capacity +6 / Kill Skill Duration +66%) 
 
 
-	BL2(BwAAAACc4QYHAAUAMBAyGQfBAUEAwf///////////38DQQcgAME=) 
+BL2(BwAAAACc4QYHAAUAMBAyGQfBAUEAwf///////////38DQQcgAME=) 
 
 
 
@@ -10838,7 +10838,7 @@ Legendary Psycho
 (Explosive Damage +40%) 
 
 
-	BL2(BwAAAAB6kAYCAAUAMBAymQXBAUEAwf///////////38DAQIgAME=) 
+BL2(BwAAAAB6kAYCAAUAMBAymQXBAUEAwf///////////38DAQIgAME=) 
 
 
 
@@ -10853,7 +10853,7 @@ Legendary Psycho
 (Explosive Damage +40%) 
 
 
-	BL2(BwAAAADCTwYCAAUAMBAyGQfBAUEAwf///////////38DQQIgAME=) 
+BL2(BwAAAADCTwYCAAUAMBAyGQfBAUEAwf///////////38DQQIgAME=) 
 
 
 
@@ -10868,7 +10868,7 @@ Legendary Psycho
 (Explosive Damage +40%) 
 
 
-	BL2(BwAAAADlnAYCAAUAMBAymQjBAUEAwf///////////38DgQIgAME=) 
+BL2(BwAAAADlnAYCAAUAMBAymQjBAUEAwf///////////38DgQIgAME=) 
 
 
 
@@ -10883,7 +10883,7 @@ Legendary Psycho
 (Fire rate after kill +30%) 
 
 
-	BL2(BwAAAAAUOAYGAAUAMBAymQjBAUEAwf///////////38DgQkgAME=) 
+BL2(BwAAAAAUOAYGAAUAMBAymQjBAUEAwf///////////38DgQkgAME=) 
 
 
 
@@ -10898,7 +10898,7 @@ Legendary Psycho
 (Fire rate after kill +30%) 
 
 
-	BL2(BwAAAAAj/gYGAAUAMBAyGQfBAUEAwf///////////38DgQYgAME=) 
+BL2(BwAAAAAj/gYGAAUAMBAyGQfBAUEAwf///////////38DgQYgAME=) 
 
 
 
@@ -10913,7 +10913,7 @@ Legendary Psycho
 (Fire rate after kill +30%) 
 
 
-	BL2(BwAAAACbIQYGAAUAMBAymQXBAUEAwf///////////38DwQYgAME=) 
+BL2(BwAAAACbIQYGAAUAMBAymQXBAUEAwf///////////38DwQYgAME=) 
 
 
 
@@ -10928,7 +10928,7 @@ Legendary Psycho
 (Max Health +9015) 
 
 
-	BL2(BwAAAACjgwYAAAUAMBAymQXBAUEAwf///////////38DAQAgAME=) 
+BL2(BwAAAACjgwYAAAUAMBAymQXBAUEAwf///////////38DAQAgAME=) 
 
 
 
@@ -10943,7 +10943,7 @@ Legendary Psycho
 (Max Health +9015) 
 
 
-	BL2(BwAAAAA8jwYAAAUAMBAymQjBAUEAwf///////////38DgQAgAME=) 
+BL2(BwAAAAA8jwYAAAUAMBAymQjBAUEAwf///////////38DgQAgAME=) 
 
 
 
@@ -10958,7 +10958,7 @@ Legendary Psycho
 (Max Health +9015) 
 
 
-	BL2(BwAAAAAbXAYAAAUAMBAyGQfBAUEAwf///////////38DQQAgAME=) 
+BL2(BwAAAAAbXAYAAAUAMBAyGQfBAUEAwf///////////38DQQAgAME=) 
 
 
 
@@ -10973,7 +10973,7 @@ Legendary Psycho
 (Melee Damage +40%) 
 
 
-	BL2(BwAAAABF8gYFAAUAMBAyGQfBAUEAwf///////////38DQQUgAME=) 
+BL2(BwAAAABF8gYFAAUAMBAyGQfBAUEAwf///////////38DQQUgAME=) 
 
 
 
@@ -10988,7 +10988,7 @@ Legendary Psycho
 (Melee Damage +40%) 
 
 
-	BL2(BwAAAAD9LQYFAAUAMBAymQXBAUEAwf///////////38DAQUgAME=) 
+BL2(BwAAAAD9LQYFAAUAMBAymQXBAUEAwf///////////38DAQUgAME=) 
 
 
 
@@ -11003,7 +11003,7 @@ Legendary Psycho
 (Melee Damage +40%) 
 
 
-	BL2(BwAAAABiIQYFAAUAMBAymQjBAUEAwf///////////38DgQUgAME=) 
+BL2(BwAAAABiIQYFAAUAMBAymQjBAUEAwf///////////38DgQUgAME=) 
 
 
 
@@ -11018,7 +11018,7 @@ Legendary Psycho
 (Team Kill Skill Duration +66%) 
 
 
-	BL2(BwAAAACF8QYIAAUAMBAymQjBAUEAwf///////////38DgQggAME=) 
+BL2(BwAAAACF8QYIAAUAMBAymQjBAUEAwf///////////38DgQggAME=) 
 
 
 
@@ -11033,7 +11033,7 @@ Legendary Psycho
 (Team Kill Skill Duration +66%) 
 
 
-	BL2(BwAAAACiIgYIAAUAMBAyGQfBAUEAwf///////////38DQQggAME=) 
+BL2(BwAAAACiIgYIAAUAMBAyGQfBAUEAwf///////////38DQQggAME=) 
 
 
 
@@ -11048,7 +11048,7 @@ Legendary Psycho
 (Team Kill Skill Duration +66%) 
 
 
-	BL2(BwAAAAAa/QYIAAUAMBAymQXBAUEAwf///////////38DAQggAME=) 
+BL2(BwAAAAAa/QYIAAUAMBAymQXBAUEAwf///////////38DAQggAME=) 
 
 
 
@@ -11063,7 +11063,7 @@ Legendary Psycho
 (Health Regeneration +394.4 / Shield Recharge Delay +1.50) 
 
 
-	BL2(BwAAAAD31QYBAAUAMBAyGQfBAUEAwf///////////38DQQEgAME=) 
+BL2(BwAAAAD31QYBAAUAMBAyGQfBAUEAwf///////////38DQQEgAME=) 
 
 
 
@@ -11078,7 +11078,7 @@ Legendary Psycho
 (Health Regeneration +394.4 / Shield Recharge Delay +1.50) 
 
 
-	BL2(BwAAAADQBgYBAAUAMBAymQjBAUEAwf///////////38DgQEgAME=) 
+BL2(BwAAAADQBgYBAAUAMBAymQjBAUEAwf///////////38DgQEgAME=) 
 
 
 
@@ -11093,7 +11093,7 @@ Legendary Psycho
 (Health Regeneration +394.4 / Shield Recharge Delay +1.50) 
 
 
-	BL2(BwAAAABPCgYBAAUAMBAymQXBAUEAwf///////////38DAQEgAME=) 
+BL2(BwAAAABPCgYBAAUAMBAymQXBAUEAwf///////////38DAQEgAME=) 
 
 
 
@@ -11108,7 +11108,7 @@ Legendary Psycho
 (Burn Damage +45%) 
 
 
-	BL2(BwAAAABCMgYEAAUAMBAymQXBAUEAwf///////////38DwQQgAME=) 
+BL2(BwAAAABCMgYEAAUAMBAymQXBAUEAwf///////////38DwQQgAME=) 
 
 
 
@@ -11123,7 +11123,7 @@ Legendary Psycho
 (Burn Damage +45%) 
 
 
-	BL2(BwAAAAD67QYEAAUAMBAyGQfBAUEAwf///////////38DgQQgAME=) 
+BL2(BwAAAAD67QYEAAUAMBAyGQfBAUEAwf///////////38DgQQgAME=) 
 
 
 
@@ -11138,7 +11138,7 @@ Legendary Psycho
 (Burn Damage +45%) 
 
 
-	BL2(BwAAAADdPgYEAAUAMBAymQjBAUEAwf///////////38DQQQgAME=) 
+BL2(BwAAAADdPgYEAAUAMBAymQjBAUEAwf///////////38DQQQgAME=) 
 
 
 
@@ -11153,7 +11153,7 @@ Legendary Psycho
 (Burn Chance +65% / Magazine Size +40%) 
 
 
-	BL2(BwAAAACWGQYDAAUAMBAymQXBAUEAwf///////////38DAQMgAME=) 
+BL2(BwAAAACWGQYDAAUAMBAymQXBAUEAwf///////////38DAQMgAME=) 
 
 
 
@@ -11168,7 +11168,7 @@ Legendary Psycho
 (Burn Chance +65% / Magazine Size +40%) 
 
 
-	BL2(BwAAAAAuxgYDAAUAMBAyGQfBAUEAwf///////////38DQQMgAME=) 
+BL2(BwAAAAAuxgYDAAUAMBAyGQfBAUEAwf///////////38DQQMgAME=) 
 
 
 
@@ -11183,13 +11183,13 @@ Legendary Psycho
 (Burn Chance +65% / Magazine Size +40%) 
 
 
-	BL2(BwAAAAAJFQYDAAUAMBAymQjBAUEAwf///////////38DgQMgAME=)
+BL2(BwAAAAAJFQYDAAUAMBAymQjBAUEAwf///////////38DgQMgAME=)
 
 
 
 
 
-**Chaotic Evil Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -11198,13 +11198,13 @@ Legendary Psycho
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
 
 
-	BL2(BwAAAACbbgk6FAuwEBG9ngjBAUEAwf///////////38DwQwhAME=)
+BL2(BwAAAACbbgk6FAuwEBG9ngjBAUEAwf///////////38DwQwhAME=)
 
 
 
 
 
-**Chaotic Evil Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -11213,13 +11213,13 @@ Legendary Psycho
 [+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAADvKwk6FAuwEBG9HgfBAUEAwf///////////38DwQwhAME=)
+BL2(BwAAAADvKwk6FAuwEBG9HgfBAUEAwf///////////38DwQwhAME=)
 
 
 
 
 
-**Chaotic Evil Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -11228,13 +11228,13 @@ Legendary Psycho
 [+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]
 
 
-	BL2(BwAAAABmhgk6FAuwEBG9ngXBAUEAwf///////////38DwQwhAME=)
+BL2(BwAAAABmhgk6FAuwEBG9ngXBAUEAwf///////////38DwQwhAME=)
 
 
 
 
 
-**Chaotic Good Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}$${\color{green}Good}$$}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -11243,13 +11243,13 @@ Legendary Psycho
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAABZewk1FAuwEBG9ngjBAUEAwf///////////38DAQ4hAME=)
+BL2(BwAAAABZewk1FAuwEBG9ngjBAUEAwf///////////38DAQ4hAME=)
 
 
 
 
 
-**Chaotic Good Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -11258,13 +11258,13 @@ Legendary Psycho
 [+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAAtPgk1FAuwEBG9HgfBAUEAwf///////////38DAQ4hAME=)
+BL2(BwAAAAAtPgk1FAuwEBG9HgfBAUEAwf///////////38DAQ4hAME=)
 
 
 
 
 
-**Chaotic Good Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -11273,13 +11273,13 @@ Legendary Psycho
 [+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
 
 
-	BL2(BwAAAACkkwk1FAuwEBG9ngXBAUEAwf///////////38DAQ4hAME=)
+BL2(BwAAAACkkwk1FAuwEBG9ngXBAUEAwf///////////38DAQ4hAME=)
 
 
 
 
 
-**Chaotic Neutral Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -11288,43 +11288,43 @@ Legendary Psycho
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAACceQk0FAuwEBG9ngjBAUEAwf///////////38DQQ4hAME=)
+BL2(BwAAAACceQk0FAuwEBG9ngjBAUEAwf///////////38DQQ4hAME=)
 
 
 
 
 
-**Chaotic Neutral Barbarian**	
-
-
-[Magazine Size +45%] [Fire Rate +31%]	
-
-
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
-
-
-	BL2(BwAAAADoPAk0FAuwEBG9HgfBAUEAwf///////////38DQQ4hAME=)
-
-
-
-
-
-**Chaotic Neutral Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
 
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
+BL2(BwAAAADoPAk0FAuwEBG9HgfBAUEAwf///////////38DQQ4hAME=)
+
+
+
+
+
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
 
 
-	BL2(BwAAAABhkQk0FAuwEBG9ngXBAUEAwf///////////38DQQ4hAME=)
+BL2(BwAAAABhkQk0FAuwEBG9ngXBAUEAwf///////////38DQQ4hAME=)
 
 
 
 
 
-**Lawful Evil Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -11333,43 +11333,43 @@ Legendary Psycho
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAARoQk5FAuwEBG9ngjBAUEAwf///////////38DAQ0hAME=)
+BL2(BwAAAAARoQk5FAuwEBG9ngjBAUEAwf///////////38DAQ0hAME=)
 
 
 
 
 
-**Lawful Evil Barbarian**	
-
-
-[Critical Damage +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
-
-
-	BL2(BwAAAABl5Ak5FAuwEBG9HgfBAUEAwf///////////38DAQ0hAME=)
-
-
-
-
-
-**Lawful Evil Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
+BL2(BwAAAABl5Ak5FAuwEBG9HgfBAUEAwf///////////38DAQ0hAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+
+
+[Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
 
 
-	BL2(BwAAAADsSQk5FAuwEBG9ngXBAUEAwf///////////38DAQ0hAME=)
+BL2(BwAAAADsSQk5FAuwEBG9ngXBAUEAwf///////////38DAQ0hAME=)
 
 
 
 
 
-**Lawful Good Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -11378,43 +11378,43 @@ Legendary Psycho
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAA/dwk2FAuwEBG9ngjBAUEAwf///////////38DwQ0hAME=)
+BL2(BwAAAAA/dwk2FAuwEBG9ngjBAUEAwf///////////38DwQ0hAME=)
 
 
 
 
 
-**Lawful Good Barbarian**	
-
-
-[Reload Speed +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
-
-
-	BL2(BwAAAABLMgk2FAuwEBG9HgfBAUEAwf///////////38DwQ0hAME=)
-
-
-
-
-
-**Lawful Good Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
+BL2(BwAAAABLMgk2FAuwEBG9HgfBAUEAwf///////////38DwQ0hAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+
+
+[Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
 
 
-	BL2(BwAAAADCnwk2FAuwEBG9ngXBAUEAwf///////////38DwQ0hAME=)
+BL2(BwAAAADCnwk2FAuwEBG9ngXBAUEAwf///////////38DwQ0hAME=)
 
 
 
 
 
-**Lawful Neutral Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -11423,43 +11423,43 @@ Legendary Psycho
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAABl7wkzFAuwEBG9ngjBAUEAwf///////////38DgQ4hAME=)
+BL2(BwAAAABl7wkzFAuwEBG9ngjBAUEAwf///////////38DgQ4hAME=)
 
 
 
 
 
-**Lawful Neutral Barbarian**	
-
-
-[Magazine Size +45%] [Weapon Accuracy +31%]	
-
-
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
-
-
-	BL2(BwAAAAARqgkzFAuwEBG9HgfBAUEAwf///////////38DgQ4hAME=)
-
-
-
-
-
-**Lawful Neutral Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
 
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
+BL2(BwAAAAARqgkzFAuwEBG9HgfBAUEAwf///////////38DgQ4hAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+
+
+[Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
 
 
-	BL2(BwAAAACYBwkzFAuwEBG9ngXBAUEAwf///////////38DgQ4hAME=)
+BL2(BwAAAACYBwkzFAuwEBG9ngXBAUEAwf///////////38DgQ4hAME=)
 
 
 
 
 
-**Neutral Evil Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -11468,13 +11468,13 @@ Legendary Psycho
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAADUowk4FAuwEBG9ngjBAUEAwf///////////38DQQ0hAME=)
+BL2(BwAAAADUowk4FAuwEBG9ngjBAUEAwf///////////38DQQ0hAME=)
 
 
 
 
 
-**Neutral Evil Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -11483,13 +11483,13 @@ Legendary Psycho
 [+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAACg5gk4FAuwEBG9HgfBAUEAwf///////////38DQQ0hAME=)
+BL2(BwAAAACg5gk4FAuwEBG9HgfBAUEAwf///////////38DQQ0hAME=)
 
 
 
 
 
-**Neutral Evil Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -11498,13 +11498,13 @@ Legendary Psycho
 [+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
 
 
-	BL2(BwAAAAApSwk4FAuwEBG9ngXBAUEAwf///////////38DQQ0hAME=)
+BL2(BwAAAAApSwk4FAuwEBG9ngXBAUEAwf///////////38DQQ0hAME=)
 
 
 
 
 
-**Neutral Good Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -11513,13 +11513,13 @@ Legendary Psycho
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAD6dQk3FAuwEBG9ngjBAUEAwf///////////38DgQ0hAME=)
+BL2(BwAAAAD6dQk3FAuwEBG9ngjBAUEAwf///////////38DgQ0hAME=)
 
 
 
 
 
-**Neutral Good Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -11528,13 +11528,13 @@ Legendary Psycho
 [+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAACOMAk3FAuwEBG9HgfBAUEAwf///////////38DgQ0hAME=)
+BL2(BwAAAACOMAk3FAuwEBG9HgfBAUEAwf///////////38DgQ0hAME=)
 
 
 
 
 
-**Neutral Good Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -11543,13 +11543,13 @@ Legendary Psycho
 [+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
 
 
-	BL2(BwAAAAAHnQk3FAuwEBG9ngXBAUEAwf///////////38DgQ0hAME=)
+BL2(BwAAAAAHnQk3FAuwEBG9ngXBAUEAwf///////////38DgQ0hAME=)
 
 
 
 
 
-**True Neutral Barbarian**	
+**True $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -11558,13 +11558,13 @@ Legendary Psycho
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAB9XAkyFAuwEBG9ngjBAUEAwf///////////38DgQwhAME=)
+BL2(BwAAAAB9XAkyFAuwEBG9ngjBAUEAwf///////////38DgQwhAME=)
 
 
 
 
 
-**True Neutral Barbarian**	
+**True $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -11573,13 +11573,13 @@ Legendary Psycho
 [+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAAJGQkyFAuwEBG9HgfBAUEAwf///////////38DgQwhAME=)
+BL2(BwAAAAAJGQkyFAuwEBG9HgfBAUEAwf///////////38DgQwhAME=)
 
 
 
 
 
-**True Neutral Barbarian**	
+**True $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -11588,7 +11588,7 @@ Legendary Psycho
 [+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
 
 
-	BL2(BwAAAACAtAkyFAuwEBG9ngXBAUEAwf///////////38DgQwhAME=)
+BL2(BwAAAACAtAkyFAuwEBG9ngXBAUEAwf///////////38DgQwhAME=)
 
 
 
@@ -11609,7 +11609,7 @@ Legendary Psycho
 [+6 Fuel the Blood Skill] [+5 Blood Overdrive Skill]	
 
 
-	BL2(BwAAAAAOMgYHAAcAMBC9HgnBAUEAwf///////////38DgQcgAME=)
+BL2(BwAAAAAOMgYHAAcAMBC9HgnBAUEAwf///////////38DgQcgAME=)
 
 
 
@@ -11624,7 +11624,7 @@ Legendary Psycho
 [+6 Fuel the Blood Skill] [+5 Blood Bath Skill]	
 
 
-	BL2(BwAAAADK5AYHAAcAMBC9XgjBAUEAwf///////////38DgQcgAME=)
+BL2(BwAAAADK5AYHAAcAMBC9XgjBAUEAwf///////////38DgQcgAME=)
 
 
 
@@ -11639,7 +11639,7 @@ Legendary Psycho
 [+6 Blood Overdrive Skill] [+5 Fuel the Blood Skill]	
 
 
-	BL2(BwAAAADN4wYHAAcAMBC9ngfBAUEAwf///////////38DQQcgAME=)
+BL2(BwAAAADN4wYHAAcAMBC9ngfBAUEAwf///////////38DQQcgAME=)
 
 
 
@@ -11654,7 +11654,7 @@ Legendary Psycho
 [+6 Blood Overdrive Skill] [+5 Blood Bath Skill]	
 
 
-	BL2(BwAAAAAJNQYHAAcAMBC93gbBAUEAwf///////////38DQQcgAME=)
+BL2(BwAAAAAJNQYHAAcAMBC93gbBAUEAwf///////////38DQQcgAME=)
 
 
 
@@ -11669,7 +11669,7 @@ Legendary Psycho
 [+6 Blood Bath Skill] [+5 Fuel the Blood Skill]	
 
 
-	BL2(BwAAAACECgYHAAcAMBC9HgbBAUEAwf///////////38DAQcgAME=)
+BL2(BwAAAACECgYHAAcAMBC9HgbBAUEAwf///////////38DAQcgAME=)
 
 
 
@@ -11684,7 +11684,7 @@ Legendary Psycho
 [+6 Blood Bath Skill] [+5 Blood Overdrive Skill]	
 
 
-	BL2(BwAAAABV6AYHAAcAMBC9XgXBAUEAwf///////////38DAQcgAME=)
+BL2(BwAAAABV6AYHAAcAMBC9XgXBAUEAwf///////////38DAQcgAME=)
 
 
 
@@ -11699,7 +11699,7 @@ Legendary Psycho
 [+6 Taste of Blood Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAABQnAYCAAcAMBC9HgnBAUEAwf///////////38DgQIgAME=)
+BL2(BwAAAABQnAYCAAcAMBC9HgnBAUEAwf///////////38DgQIgAME=)
 
 
 
@@ -11714,7 +11714,7 @@ Legendary Psycho
 [+6 Taste of Blood Skill] [+5 Strip the Flesh]	
 
 
-	BL2(BwAAAACUSgYCAAcAMBC9XgjBAUEAwf///////////38DgQIgAME=)
+BL2(BwAAAACUSgYCAAcAMBC9XgjBAUEAwf///////////38DgQIgAME=)
 
 
 
@@ -11729,7 +11729,7 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Taste of Blood Skill]	
 
 
-	BL2(BwAAAACTTQYCAAcAMBC9ngfBAUEAwf///////////38DQQIgAME=)
+BL2(BwAAAACTTQYCAAcAMBC9ngfBAUEAwf///////////38DQQIgAME=)
 
 
 
@@ -11744,7 +11744,7 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Strip the Flesh]	
 
 
-	BL2(BwAAAABXmwYCAAcAMBC93gbBAUEAwf///////////38DQQIgAME=)
+BL2(BwAAAABXmwYCAAcAMBC93gbBAUEAwf///////////38DQQIgAME=)
 
 
 
@@ -11759,7 +11759,7 @@ Legendary Psycho
 [+6 Strip the Flesh] [+5 Taste of Blood Skill]	
 
 
-	BL2(BwAAAADapAYCAAcAMBC9HgbBAUEAwf///////////38DAQIgAME=)
+BL2(BwAAAADapAYCAAcAMBC9HgbBAUEAwf///////////38DAQIgAME=)
 
 
 
@@ -11774,7 +11774,7 @@ Legendary Psycho
 [+6 Strip the Flesh] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAAALRgYCAAcAMBC9XgXBAUEAwf///////////38DAQIgAME=)
+BL2(BwAAAAALRgYCAAcAMBC9XgXBAUEAwf///////////38DAQIgAME=)
 
 
 
@@ -11789,7 +11789,7 @@ Legendary Psycho
 [+6 Empty the Rage Skill] [+5 Embrace the Pain Skill]	
 
 
-	BL2(BwAAAABlBgYBAAcAMBC9HgnBAUEAwf///////////38DgQEgAME=)
+BL2(BwAAAABlBgYBAAcAMBC9HgnBAUEAwf///////////38DgQEgAME=)
 
 
 
@@ -11804,7 +11804,7 @@ Legendary Psycho
 [+6 Empty the Rage Skill] [+5 Salt The Wound]	
 
 
-	BL2(BwAAAACh0AYBAAcAMBC9XgjBAUEAwf///////////38DgQEgAME=)
+BL2(BwAAAACh0AYBAAcAMBC9XgjBAUEAwf///////////38DgQEgAME=)
 
 
 
@@ -11819,7 +11819,7 @@ Legendary Psycho
 [+6 Embrace the Pain Skill] [+5 Empty the Rage Skill]	
 
 
-	BL2(BwAAAACm1wYBAAcAMBC9ngfBAUEAwf///////////38DQQEgAME=)
+BL2(BwAAAACm1wYBAAcAMBC9ngfBAUEAwf///////////38DQQEgAME=)
 
 
 
@@ -11834,7 +11834,7 @@ Legendary Psycho
 [+6 Embrace the Pain Skill] [+5 Salt The Wound]	
 
 
-	BL2(BwAAAABiAQYBAAcAMBC93gbBAUEAwf///////////38DQQEgAME=)
+BL2(BwAAAABiAQYBAAcAMBC93gbBAUEAwf///////////38DQQEgAME=)
 
 
 
@@ -11849,7 +11849,7 @@ Legendary Psycho
 [+6 Salt The Wound] [+5 Empty the Rage Skill]	
 
 
-	BL2(BwAAAADvPgYBAAcAMBC9HgbBAUEAwf///////////38DAQEgAME=)
+BL2(BwAAAADvPgYBAAcAMBC9HgbBAUEAwf///////////38DAQEgAME=)
 
 
 
@@ -11864,7 +11864,7 @@ Legendary Psycho
 [+6 Salt The Wound] [+5 Embrace the Pain Skill]	
 
 
-	BL2(BwAAAAA+3AYBAAcAMBC9XgXBAUEAwf///////////38DAQEgAME=)
+BL2(BwAAAAA+3AYBAAcAMBC9XgXBAUEAwf///////////38DAQEgAME=)
 
 
 
@@ -11879,7 +11879,7 @@ Legendary Psycho
 [+6 Blood Twitch Skill] [+5 Fuel the Fire Skill]	
 
 
-	BL2(BwAAAAAw8QYIAAcAMBC9HgnBAUEAwf///////////38DgQggAME=)
+BL2(BwAAAAAw8QYIAAcAMBC9HgnBAUEAwf///////////38DgQggAME=)
 
 
 
@@ -11894,7 +11894,7 @@ Legendary Psycho
 [+6 Blood Twitch Skill] [+5 Blood Overdrive Skill]	
 
 
-	BL2(BwAAAAD0JwYIAAcAMBC9XgjBAUEAwf///////////38DgQggAME=)
+BL2(BwAAAAD0JwYIAAcAMBC9XgjBAUEAwf///////////38DgQggAME=)
 
 
 
@@ -11909,7 +11909,7 @@ Legendary Psycho
 [+6 Fuel the Fire Skill] [+5 Blood Twitch Skill]	
 
 
-	BL2(BwAAAADzIAYIAAcAMBC9ngfBAUEAwf///////////38DQQggAME=)
+BL2(BwAAAADzIAYIAAcAMBC9ngfBAUEAwf///////////38DQQggAME=)
 
 
 
@@ -11924,7 +11924,7 @@ Legendary Psycho
 [+6 Fuel the Fire Skill] [+5 Blood Overdrive Skill]	
 
 
-	BL2(BwAAAAA39gYIAAcAMBC93gbBAUEAwf///////////38DQQggAME=)
+BL2(BwAAAAA39gYIAAcAMBC93gbBAUEAwf///////////38DQQggAME=)
 
 
 
@@ -11939,7 +11939,7 @@ Legendary Psycho
 [+6 Blood Overdrive Skill] [+5 Blood Twitch Skill]	
 
 
-	BL2(BwAAAAC6yQYIAAcAMBC9HgbBAUEAwf///////////38DAQggAME=)
+BL2(BwAAAAC6yQYIAAcAMBC9HgbBAUEAwf///////////38DAQggAME=)
 
 
 
@@ -11954,7 +11954,7 @@ Legendary Psycho
 [+6 Blood Overdrive Skill] [+5 Fuel the Fire Skill]	
 
 
-	BL2(BwAAAABrKwYIAAcAMBC9XgXBAUEAwf///////////38DAQggAME=)
+BL2(BwAAAABrKwYIAAcAMBC9XgXBAUEAwf///////////38DAQggAME=)
 
 
 
@@ -11969,7 +11969,7 @@ Legendary Psycho
 [+6 Empty the Rage Skill] [+5 Fuel the Blood Skill]	
 
 
-	BL2(BwAAAADXIQYFAAcAMBC9HgnBAUEAwf///////////38DgQUgAME=)
+BL2(BwAAAADXIQYFAAcAMBC9HgnBAUEAwf///////////38DgQUgAME=)
 
 
 
@@ -11984,7 +11984,7 @@ Legendary Psycho
 [+6 Empty the Rage Skill] [+5 Silence the Voices Skill]	
 
 
-	BL2(BwAAAAAT9wYFAAcAMBC9XgjBAUEAwf///////////38DgQUgAME=)
+BL2(BwAAAAAT9wYFAAcAMBC9XgjBAUEAwf///////////38DgQUgAME=)
 
 
 
@@ -11999,7 +11999,7 @@ Legendary Psycho
 [+6 Fuel the Blood Skill] [+5 Empty the Rage Skill]	
 
 
-	BL2(BwAAAAAU8AYFAAcAMBC9ngfBAUEAwf///////////38DQQUgAME=)
+BL2(BwAAAAAU8AYFAAcAMBC9ngfBAUEAwf///////////38DQQUgAME=)
 
 
 
@@ -12014,7 +12014,7 @@ Legendary Psycho
 [+6 Fuel the Blood Skill] [+5 Silence the Voices Skill]	
 
 
-	BL2(BwAAAADQJgYFAAcAMBC93gbBAUEAwf///////////38DQQUgAME=)
+BL2(BwAAAADQJgYFAAcAMBC93gbBAUEAwf///////////38DQQUgAME=)
 
 
 
@@ -12029,7 +12029,7 @@ Legendary Psycho
 [+6 Silence the Voices Skill] [+5 Empty the Rage Skill]	
 
 
-	BL2(BwAAAABdGQYFAAcAMBC9HgbBAUEAwf///////////38DAQUgAME=)
+BL2(BwAAAABdGQYFAAcAMBC9HgbBAUEAwf///////////38DAQUgAME=)
 
 
 
@@ -12044,7 +12044,7 @@ Legendary Psycho
 [+6 Silence the Voices Skill] [+5 Fuel the Blood Skill]	
 
 
-	BL2(BwAAAACM+wYFAAcAMBC9XgXBAUEAwf///////////38DAQUgAME=)
+BL2(BwAAAACM+wYFAAcAMBC9XgXBAUEAwf///////////38DAQUgAME=)
 
 
 
@@ -12059,7 +12059,7 @@ Legendary Psycho
 [+6 Thrill of the Kill Skill] [+5 Fuel the Rampage Skill]	
 
 
-	BL2(BwAAAACJjwYAAAcAMBC9HgnBAUEAwf///////////38DgQAgAME=)
+BL2(BwAAAACJjwYAAAcAMBC9HgnBAUEAwf///////////38DgQAgAME=)
 
 
 
@@ -12074,7 +12074,7 @@ Legendary Psycho
 [+6 Thrill of the Kill Skill] [+5 Feed the MeatSkill]	
 
 
-	BL2(BwAAAABNWQYAAAcAMBC9XgjBAUEAwf///////////38DgQAgAME=)
+BL2(BwAAAABNWQYAAAcAMBC9XgjBAUEAwf///////////38DgQAgAME=)
 
 
 
@@ -12089,7 +12089,7 @@ Legendary Psycho
 [+6 Fuel the Rampage Skill] [+5 Thrill of the Kill Skill]	
 
 
-	BL2(BwAAAABKXgYAAAcAMBC9ngfBAUEAwf///////////38DQQAgAME=)
+BL2(BwAAAABKXgYAAAcAMBC9ngfBAUEAwf///////////38DQQAgAME=)
 
 
 
@@ -12104,7 +12104,7 @@ Legendary Psycho
 [+6 Fuel the Rampage Skill] [+5 Feed the MeatSkill]	
 
 
-	BL2(BwAAAACOiAYAAAcAMBC93gbBAUEAwf///////////38DQQAgAME=)
+BL2(BwAAAACOiAYAAAcAMBC93gbBAUEAwf///////////38DQQAgAME=)
 
 
 
@@ -12119,7 +12119,7 @@ Legendary Psycho
 [+6 Feed the MeatSkill] [+5 Thrill of the Kill Skill]	
 
 
-	BL2(BwAAAAADtwYAAAcAMBC9HgbBAUEAwf///////////38DAQAgAME=)
+BL2(BwAAAAADtwYAAAcAMBC9HgbBAUEAwf///////////38DAQAgAME=)
 
 
 
@@ -12134,7 +12134,7 @@ Legendary Psycho
 [+6 Feed the MeatSkill] [+5 Fuel the Rampage Skill]	
 
 
-	BL2(BwAAAADSVQYAAAcAMBC9XgXBAUEAwf///////////38DAQAgAME=)
+BL2(BwAAAADSVQYAAAcAMBC9XgXBAUEAwf///////////38DAQAgAME=)
 
 
 
@@ -12149,7 +12149,7 @@ Legendary Psycho
 [+6 Pain is Power Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAAC8FQYDAAcAMBC9HgnBAUEAwf///////////38DgQMgAME=)
+BL2(BwAAAAC8FQYDAAcAMBC9HgnBAUEAwf///////////38DgQMgAME=)
 
 
 
@@ -12164,7 +12164,7 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Pain is Power Skill]	
 
 
-	BL2(BwAAAAB/xAYDAAcAMBC9ngfBAUEAwf///////////38DQQMgAME=)
+BL2(BwAAAAB/xAYDAAcAMBC9ngfBAUEAwf///////////38DQQMgAME=)
 
 
 
@@ -12179,7 +12179,7 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Elemental Elation Skill]	
 
 
-	BL2(BwAAAAC7EgYDAAcAMBC93gbBAUEAwf///////////38DQQMgAME=)
+BL2(BwAAAAC7EgYDAAcAMBC93gbBAUEAwf///////////38DQQMgAME=)
 
 
 
@@ -12194,7 +12194,7 @@ Legendary Psycho
 [+6 Elemental Elation Skill] [+5 Pain is Power Skill]	
 
 
-	BL2(BwAAAAA2LQYDAAcAMBC9HgbBAUEAwf///////////38DAQMgAME=)
+BL2(BwAAAAA2LQYDAAcAMBC9HgbBAUEAwf///////////38DAQMgAME=)
 
 
 
@@ -12209,7 +12209,7 @@ Legendary Psycho
 [+6 Elemental Elation Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAADnzwYDAAcAMBC9XgXBAUEAwf///////////38DAQMgAME=)
+BL2(BwAAAADnzwYDAAcAMBC9XgXBAUEAwf///////////38DAQMgAME=)
 
 
 
@@ -12224,7 +12224,7 @@ Legendary Psycho
 [+6 Burn, Baby, Burn Skill] [+5 Fuel the Fire Skill]	
 
 
-	BL2(BwAAAABoPgYEAAcAMBC9HgnBAUEAwf///////////38DQQQgAME=)
+BL2(BwAAAABoPgYEAAcAMBC9HgnBAUEAwf///////////38DQQQgAME=)
 
 
 
@@ -12239,7 +12239,7 @@ Legendary Psycho
 [+6 Burn, Baby, Burn Skill] [+5 Flame Flare Skill]	
 
 
-	BL2(BwAAAACs6AYEAAcAMBC9XgjBAUEAwf///////////38DQQQgAME=)
+BL2(BwAAAACs6AYEAAcAMBC9XgjBAUEAwf///////////38DQQQgAME=)
 
 
 
@@ -12254,7 +12254,7 @@ Legendary Psycho
 [+6 Fuel the Fire Skill] [+5 Burn, Baby, Burn Skill]	
 
 
-	BL2(BwAAAACr7wYEAAcAMBC9ngfBAUEAwf///////////38DgQQgAME=)
+BL2(BwAAAACr7wYEAAcAMBC9ngfBAUEAwf///////////38DgQQgAME=)
 
 
 
@@ -12269,7 +12269,7 @@ Legendary Psycho
 [+6 Fuel the Fire Skill] [+5 Flame Flare Skill]	
 
 
-	BL2(BwAAAABvOQYEAAcAMBC93gbBAUEAwf///////////38DgQQgAME=)
+BL2(BwAAAABvOQYEAAcAMBC93gbBAUEAwf///////////38DgQQgAME=)
 
 
 
@@ -12284,7 +12284,7 @@ Legendary Psycho
 [+6 Flame Flare Skill] [+5 Burn, Baby, Burn Skill]	
 
 
-	BL2(BwAAAADiBgYEAAcAMBC9HgbBAUEAwf///////////38DwQQgAME=)
+BL2(BwAAAADiBgYEAAcAMBC9HgbBAUEAwf///////////38DwQQgAME=)
 
 
 
@@ -12299,7 +12299,7 @@ Legendary Psycho
 [+6 Flame Flare Skill] [+5 Fuel the Fire Skill]	
 
 
-	BL2(BwAAAAAz5AYEAAcAMBC9XgXBAUEAwf///////////38DwQQgAME=)
+BL2(BwAAAAAz5AYEAAcAMBC9XgXBAUEAwf///////////38DwQQgAME=)
 
 
 
@@ -12314,7 +12314,7 @@ Legendary Psycho
 [+6 Blood Twitch Skill] [+5 Taste of Blood Skill]	
 
 
-	BL2(BwAAAAChOAYGAAcAMBC9HgnBAUEAwf///////////38DgQkgAME=)
+BL2(BwAAAAChOAYGAAcAMBC9HgnBAUEAwf///////////38DgQkgAME=)
 
 
 
@@ -12329,7 +12329,7 @@ Legendary Psycho
 [+6 Blood Twitch Skill] [+5 Boiling Blood Skill]	
 
 
-	BL2(BwAAAABl7gYGAAcAMBC9XgjBAUEAwf///////////38DgQkgAME=)
+BL2(BwAAAABl7gYGAAcAMBC9XgjBAUEAwf///////////38DgQkgAME=)
 
 
 
@@ -12344,7 +12344,7 @@ Legendary Psycho
 [+6 Taste of Blood Skill] [+5 Blood Twitch Skill]	
 
 
-	BL2(BwAAAABy/AYGAAcAMBC9ngfBAUEAwf///////////38DgQYgAME=)
+BL2(BwAAAABy/AYGAAcAMBC9ngfBAUEAwf///////////38DgQYgAME=)
 
 
 
@@ -12359,7 +12359,7 @@ Legendary Psycho
 [+6 Taste of Blood Skill] [+5 Boiling Blood Skill]	
 
 
-	BL2(BwAAAAC2KgYGAAcAMBC93gbBAUEAwf///////////38DgQYgAME=)
+BL2(BwAAAAC2KgYGAAcAMBC93gbBAUEAwf///////////38DgQYgAME=)
 
 
 
@@ -12374,7 +12374,7 @@ Legendary Psycho
 [+6 Boiling Blood Skill] [+5 Blood Twitch Skill]	
 
 
-	BL2(BwAAAAA7FQYGAAcAMBC9HgbBAUEAwf///////////38DwQYgAME=)
+BL2(BwAAAAA7FQYGAAcAMBC9HgbBAUEAwf///////////38DwQYgAME=)
 
 
 
@@ -12389,13 +12389,13 @@ Legendary Psycho
 [+6 Boiling Blood Skill] [+5 Taste of Blood Skill]	
 
 
-	BL2(BwAAAADq9wYGAAcAMBC9XgXBAUEAwf///////////38DwQYgAME=)
+BL2(BwAAAADq9wYGAAcAMBC9XgXBAUEAwf///////////38DwQYgAME=)
 
 
 
 
 
-**Chaotic Evil Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12404,13 +12404,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAADj9Qk6FAuwEBG9HgnBAUEAwf///////////38DwQwhAME=)
+BL2(BwAAAADj9Qk6FAuwEBG9HgnBAUEAwf///////////38DwQwhAME=)
 
 
 
 
 
-**Chaotic Evil Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12419,13 +12419,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAAnIwk6FAuwEBG9XgjBAUEAwf///////////38DwQwhAME=)
+BL2(BwAAAAAnIwk6FAuwEBG9XgjBAUEAwf///////////38DwQwhAME=)
 
 
 
 
 
-**Chaotic Evil Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12434,13 +12434,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAABzsgk6FAuwEBG9ngfBAUEAwf///////////38DwQwhAME=)
+BL2(BwAAAABzsgk6FAuwEBG9ngfBAUEAwf///////////38DwQwhAME=)
 
 
 
 
 
-**Chaotic Evil Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12449,13 +12449,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAC3ZAk6FAuwEBG93gbBAUEAwf///////////38DwQwhAME=)
+BL2(BwAAAAC3ZAk6FAuwEBG93gbBAUEAwf///////////38DwQwhAME=)
 
 
 
 
 
-**Chaotic Evil Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12464,13 +12464,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAAALKQk6FAuwEBG9HgbBAUEAwf///////////38DwQwhAME=)
+BL2(BwAAAAALKQk6FAuwEBG9HgbBAUEAwf///////////38DwQwhAME=)
 
 
 
 
 
-**Chaotic Evil Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12479,13 +12479,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAADaywk6FAuwEBG9XgXBAUEAwf///////////38DwQwhAME=)
+BL2(BwAAAADaywk6FAuwEBG9XgXBAUEAwf///////////38DwQwhAME=)
 
 
 
 
 
-**Chaotic Good Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12494,13 +12494,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAAAh4Ak1FAuwEBG9HgnBAUEAwf///////////38DAQ4hAME=)
+BL2(BwAAAAAh4Ak1FAuwEBG9HgnBAUEAwf///////////38DAQ4hAME=)
 
 
 
 
 
-**Chaotic Good Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12509,13 +12509,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAADlNgk1FAuwEBG9XgjBAUEAwf///////////38DAQ4hAME=)
+BL2(BwAAAADlNgk1FAuwEBG9XgjBAUEAwf///////////38DAQ4hAME=)
 
 
 
 
 
-**Chaotic Good Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12524,13 +12524,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAACxpwk1FAuwEBG9ngfBAUEAwf///////////38DAQ4hAME=)
+BL2(BwAAAACxpwk1FAuwEBG9ngfBAUEAwf///////////38DAQ4hAME=)
 
 
 
 
 
-**Chaotic Good Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12539,13 +12539,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAB1cQk1FAuwEBG93gbBAUEAwf///////////38DAQ4hAME=)
+BL2(BwAAAAB1cQk1FAuwEBG93gbBAUEAwf///////////38DAQ4hAME=)
 
 
 
 
 
-**Chaotic Good Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12554,13 +12554,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAADJPAk1FAuwEBG9HgbBAUEAwf///////////38DAQ4hAME=)
+BL2(BwAAAADJPAk1FAuwEBG9HgbBAUEAwf///////////38DAQ4hAME=)
 
 
 
 
 
-**Chaotic Good Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12569,13 +12569,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAAAY3gk1FAuwEBG9XgXBAUEAwf///////////38DAQ4hAME=)
+BL2(BwAAAAAY3gk1FAuwEBG9XgXBAUEAwf///////////38DAQ4hAME=)
 
 
 
 
 
-**Chaotic Neutral Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12584,13 +12584,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAADk4gk0FAuwEBG9HgnBAUEAwf///////////38DQQ4hAME=)
+BL2(BwAAAADk4gk0FAuwEBG9HgnBAUEAwf///////////38DQQ4hAME=)
 
 
 
 
 
-**Chaotic Neutral Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12599,13 +12599,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAAgNAk0FAuwEBG9XgjBAUEAwf///////////38DQQ4hAME=)
+BL2(BwAAAAAgNAk0FAuwEBG9XgjBAUEAwf///////////38DQQ4hAME=)
 
 
 
 
 
-**Chaotic Neutral Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12614,13 +12614,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAAB0pQk0FAuwEBG9ngfBAUEAwf///////////38DQQ4hAME=)
+BL2(BwAAAAB0pQk0FAuwEBG9ngfBAUEAwf///////////38DQQ4hAME=)
 
 
 
 
 
-**Chaotic Neutral Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12629,13 +12629,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAACwcwk0FAuwEBG93gbBAUEAwf///////////38DQQ4hAME=)
+BL2(BwAAAACwcwk0FAuwEBG93gbBAUEAwf///////////38DQQ4hAME=)
 
 
 
 
 
-**Chaotic Neutral Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12644,13 +12644,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAAAMPgk0FAuwEBG9HgbBAUEAwf///////////38DQQ4hAME=)
+BL2(BwAAAAAMPgk0FAuwEBG9HgbBAUEAwf///////////38DQQ4hAME=)
 
 
 
 
 
-**Chaotic Neutral Barbarian**	
+**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12659,13 +12659,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAADd3Ak0FAuwEBG9XgXBAUEAwf///////////38DQQ4hAME=)
+BL2(BwAAAADd3Ak0FAuwEBG9XgXBAUEAwf///////////38DQQ4hAME=)
 
 
 
 
 
-**Lawful Evil Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12674,13 +12674,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAABpOgk5FAuwEBG9HgnBAUEAwf///////////38DAQ0hAME=)
+BL2(BwAAAABpOgk5FAuwEBG9HgnBAUEAwf///////////38DAQ0hAME=)
 
 
 
 
 
-**Lawful Evil Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12689,43 +12689,43 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Salt The WoundSkill]
 
 
-	BL2(BwAAAACt7Ak5FAuwEBG9XgjBAUEAwf///////////38DAQ0hAME=)
+BL2(BwAAAACt7Ak5FAuwEBG9XgjBAUEAwf///////////38DAQ0hAME=)
 
 
 
 
 
-**Lawful Evil Barbarian**	
-
-
-[Critical Damage +45%] [Weapon Accuracy +31%]	
-
-
-[+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
-
-
-	BL2(BwAAAAD5fQk5FAuwEBG9ngfBAUEAwf///////////38DAQ0hAME=)
-
-
-
-
-
-**Lawful Evil Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
 
+[+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
+BL2(BwAAAAD5fQk5FAuwEBG9ngfBAUEAwf///////////38DAQ0hAME=)
+
+
+
+
+
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+
+
+[Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAA9qwk5FAuwEBG93gbBAUEAwf///////////38DAQ0hAME=)
+BL2(BwAAAAA9qwk5FAuwEBG93gbBAUEAwf///////////38DAQ0hAME=)
 
 
 
 
 
-**Lawful Evil Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12734,13 +12734,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAACB5gk5FAuwEBG9HgbBAUEAwf///////////38DAQ0hAME=)
+BL2(BwAAAACB5gk5FAuwEBG9HgbBAUEAwf///////////38DAQ0hAME=)
 
 
 
 
 
-**Lawful Evil Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12749,13 +12749,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAABQBAk5FAuwEBG9XgXBAUEAwf///////////38DAQ0hAME=)
+BL2(BwAAAABQBAk5FAuwEBG9XgXBAUEAwf///////////38DAQ0hAME=)
 
 
 
 
 
-**Lawful Good Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12764,13 +12764,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAABH7Ak2FAuwEBG9HgnBAUEAwf///////////38DwQ0hAME=)
+BL2(BwAAAABH7Ak2FAuwEBG9HgnBAUEAwf///////////38DwQ0hAME=)
 
 
 
 
 
-**Lawful Good Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12779,13 +12779,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAACDOgk2FAuwEBG9XgjBAUEAwf///////////38DwQ0hAME=)
+BL2(BwAAAACDOgk2FAuwEBG9XgjBAUEAwf///////////38DwQ0hAME=)
 
 
 
 
 
-**Lawful Good Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12794,13 +12794,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAADXqwk2FAuwEBG9ngfBAUEAwf///////////38DwQ0hAME=)
+BL2(BwAAAADXqwk2FAuwEBG9ngfBAUEAwf///////////38DwQ0hAME=)
 
 
 
 
 
-**Lawful Good Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12809,13 +12809,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAATfQk2FAuwEBG93gbBAUEAwf///////////38DwQ0hAME=)
+BL2(BwAAAAATfQk2FAuwEBG93gbBAUEAwf///////////38DwQ0hAME=)
 
 
 
 
 
-**Lawful Good Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12824,13 +12824,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAACvMAk2FAuwEBG9HgbBAUEAwf///////////38DwQ0hAME=)
+BL2(BwAAAACvMAk2FAuwEBG9HgbBAUEAwf///////////38DwQ0hAME=)
 
 
 
 
 
-**Lawful Good Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12839,13 +12839,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAAB+0gk2FAuwEBG9XgXBAUEAwf///////////38DwQ0hAME=)
+BL2(BwAAAAB+0gk2FAuwEBG9XgXBAUEAwf///////////38DwQ0hAME=)
 
 
 
 
 
-**Lawful Neutral Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12854,13 +12854,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAAAddAkzFAuwEBG9HgnBAUEAwf///////////38DgQ4hAME=)
+BL2(BwAAAAAddAkzFAuwEBG9HgnBAUEAwf///////////38DgQ4hAME=)
 
 
 
 
 
-**Lawful Neutral Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12869,13 +12869,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAADZogkzFAuwEBG9XgjBAUEAwf///////////38DgQ4hAME=)
+BL2(BwAAAADZogkzFAuwEBG9XgjBAUEAwf///////////38DgQ4hAME=)
 
 
 
 
 
-**Lawful Neutral Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12884,13 +12884,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAACNMwkzFAuwEBG9ngfBAUEAwf///////////38DgQ4hAME=)
+BL2(BwAAAACNMwkzFAuwEBG9ngfBAUEAwf///////////38DgQ4hAME=)
 
 
 
 
 
-**Lawful Neutral Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12899,13 +12899,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAABJ5QkzFAuwEBG93gbBAUEAwf///////////38DgQ4hAME=)
+BL2(BwAAAABJ5QkzFAuwEBG93gbBAUEAwf///////////38DgQ4hAME=)
 
 
 
 
 
-**Lawful Neutral Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12914,13 +12914,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAAD1qAkzFAuwEBG9HgbBAUEAwf///////////38DgQ4hAME=)
+BL2(BwAAAAD1qAkzFAuwEBG9HgbBAUEAwf///////////38DgQ4hAME=)
 
 
 
 
 
-**Lawful Neutral Barbarian**	
+**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12929,13 +12929,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAAAkSgkzFAuwEBG9XgXBAUEAwf///////////38DgQ4hAME=)
+BL2(BwAAAAAkSgkzFAuwEBG9XgXBAUEAwf///////////38DgQ4hAME=)
 
 
 
 
 
-**Neutral Evil Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -12944,13 +12944,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAACsOAk4FAuwEBG9HgnBAUEAwf///////////38DQQ0hAME=)
+BL2(BwAAAACsOAk4FAuwEBG9HgnBAUEAwf///////////38DQQ0hAME=)
 
 
 
 
 
-**Neutral Evil Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -12959,13 +12959,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAABo7gk4FAuwEBG9XgjBAUEAwf///////////38DQQ0hAME=)
+BL2(BwAAAABo7gk4FAuwEBG9XgjBAUEAwf///////////38DQQ0hAME=)
 
 
 
 
 
-**Neutral Evil Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -12974,13 +12974,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAAA8fwk4FAuwEBG9ngfBAUEAwf///////////38DQQ0hAME=)
+BL2(BwAAAAA8fwk4FAuwEBG9ngfBAUEAwf///////////38DQQ0hAME=)
 
 
 
 
 
-**Neutral Evil Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -12989,13 +12989,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAAD4qQk4FAuwEBG93gbBAUEAwf///////////38DQQ0hAME=)
+BL2(BwAAAAD4qQk4FAuwEBG93gbBAUEAwf///////////38DQQ0hAME=)
 
 
 
 
 
-**Neutral Evil Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -13004,13 +13004,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAABE5Ak4FAuwEBG9HgbBAUEAwf///////////38DQQ0hAME=)
+BL2(BwAAAABE5Ak4FAuwEBG9HgbBAUEAwf///////////38DQQ0hAME=)
 
 
 
 
 
-**Neutral Evil Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -13019,13 +13019,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAACVBgk4FAuwEBG9XgXBAUEAwf///////////38DQQ0hAME=)
+BL2(BwAAAACVBgk4FAuwEBG9XgXBAUEAwf///////////38DQQ0hAME=)
 
 
 
 
 
-**Neutral Good Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13034,13 +13034,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAACC7gk3FAuwEBG9HgnBAUEAwf///////////38DgQ0hAME=)
+BL2(BwAAAACC7gk3FAuwEBG9HgnBAUEAwf///////////38DgQ0hAME=)
 
 
 
 
 
-**Neutral Good Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13049,13 +13049,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAABGOAk3FAuwEBG9XgjBAUEAwf///////////38DgQ0hAME=)
+BL2(BwAAAABGOAk3FAuwEBG9XgjBAUEAwf///////////38DgQ0hAME=)
 
 
 
 
 
-**Neutral Good Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13064,13 +13064,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAAASqQk3FAuwEBG9ngfBAUEAwf///////////38DgQ0hAME=)
+BL2(BwAAAAASqQk3FAuwEBG9ngfBAUEAwf///////////38DgQ0hAME=)
 
 
 
 
 
-**Neutral Good Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13079,13 +13079,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAADWfwk3FAuwEBG93gbBAUEAwf///////////38DgQ0hAME=)
+BL2(BwAAAADWfwk3FAuwEBG93gbBAUEAwf///////////38DgQ0hAME=)
 
 
 
 
 
-**Neutral Good Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13094,13 +13094,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAABqMgk3FAuwEBG9HgbBAUEAwf///////////38DgQ0hAME=)
+BL2(BwAAAABqMgk3FAuwEBG9HgbBAUEAwf///////////38DgQ0hAME=)
 
 
 
 
 
-**Neutral Good Barbarian**	
+**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13109,13 +13109,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAAC70Ak3FAuwEBG9XgXBAUEAwf///////////38DgQ0hAME=)
+BL2(BwAAAAC70Ak3FAuwEBG9XgXBAUEAwf///////////38DgQ0hAME=)
 
 
 
 
 
-**True Neutral Barbarian**	
+**True $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13124,13 +13124,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAAAFxwkyFAuwEBG9HgnBAUEAwf///////////38DgQwhAME=)
+BL2(BwAAAAAFxwkyFAuwEBG9HgnBAUEAwf///////////38DgQwhAME=)
 
 
 
 
 
-**True Neutral Barbarian**	
+**True $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13139,13 +13139,13 @@ Legendary Psycho
 [+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAADBEQkyFAuwEBG9XgjBAUEAwf///////////38DgQwhAME=)
+BL2(BwAAAADBEQkyFAuwEBG9XgjBAUEAwf///////////38DgQwhAME=)
 
 
 
 
 
-**True Neutral Barbarian**	
+**True $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13154,13 +13154,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAACVgAkyFAuwEBG9ngfBAUEAwf///////////38DgQwhAME=)
+BL2(BwAAAACVgAkyFAuwEBG9ngfBAUEAwf///////////38DgQwhAME=)
 
 
 
 
 
-**True Neutral Barbarian**	
+**True $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13169,13 +13169,13 @@ Legendary Psycho
 [+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
 
 
-	BL2(BwAAAABRVgkyFAuwEBG93gbBAUEAwf///////////38DgQwhAME=)
+BL2(BwAAAABRVgkyFAuwEBG93gbBAUEAwf///////////38DgQwhAME=)
 
 
 
 
 
-**True Neutral Barbarian**	
+**True $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13184,13 +13184,13 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
 
 
-	BL2(BwAAAADtGwkyFAuwEBG9HgbBAUEAwf///////////38DgQwhAME=)
+BL2(BwAAAADtGwkyFAuwEBG9HgbBAUEAwf///////////38DgQwhAME=)
 
 
 
 
 
-**True Neutral Barbarian**	
+**True $${\color{grey}Neutral}$$ Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13199,4 +13199,4 @@ Legendary Psycho
 [+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
 
 
-	BL2(BwAAAAA8+QkyFAuwEBG9XgXBAUEAwf///////////38DgQwhAME=)
+BL2(BwAAAAA8+QkyFAuwEBG9XgXBAUEAwf///////////38DgQwhAME=)
