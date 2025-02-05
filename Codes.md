@@ -104,46 +104,25 @@ BL2(BwAAAAArxwMBGgM4ERAAwA==)Sully The Stabber's Head'
 
 BL2(BwAAAADrYgEADRugAxAAwA==)Eridium Bar (FireWater Mission)
 
-
-
 Weapons/shields/all
-
-
 
 Boss Hammer Buster: BL2(hwAAAABVLACCRgM/BiGTzWIYxNCLgQEDIob//xUY/v/7YijDcIzh)
 
-
-
 Stabbing Kerblaster: BL2(hwAAAADvigCDZgM/CCGT1WIgxPCLYQFDIob//xQY/v8DY1DBgIzh)
-
-
 
 Onslaught Veruc: BL2(hwAAAACrsgCBJgM/BCGTaWIQxLCLIQHDIYYGDBgY/v/zYmjCYIzh)
 
-
-
 Nassty Madhous!: BL2(hwAAAAB/GgCABgM/AiGTxWIYxJCLAQGDIQYHDBUY/v/rYhjDQIzh)
-
-
 
 Expansive Shredifier: BL2(hwAAAACz6ACEhgM/CiGT3WIoxBCMQQGDIoYGDBgY/v8LY4DCoIzh)
 
-
-
 Double Penetrating Unkempt Harold: BL2(hwAAAAAp3ACFBwVACCGT2cN4hWEQwwHG/////xow/v8fxECCcRHj)
-
-
 
 Evisceration Thunderball Fists: BL2(hwAAAACksgCGJwVAECGTucOAhUEQ4wHG/38KGBgw/v8XxJiBYRHj)
 
-
-
 Marxmans Gub: BL2(hwAAAABH0ACAhwRAAiGTicNYhcEPQwHG//8KGBsw/v/3w1iCERHj)
 
-
-
 Jam Packed Gunerang: BL2(hwAAAABMZgCDpwRADiGTycNghbEQYwHG/38JGBww/v8zxMiCsRHj)
-
 
 Dynamic Logan’s Gun: BL2(hwAAAACphQCCZwVADCGTocOQhQEQIwLG//8JGB4w/v8HxECDQRHj)
 
@@ -526,6 +505,7 @@ Tumtum Elephant Gun
 BL2(hwAAAABUvgSECIAJByGTEaBcADOAshdMBZj//2Bg/v8LoNQDA4Dy)
 
 Legendary/unique:
+
 Boss Bekah
 
 BL2(hwAAAADVxwqCRoAAB4FEJgAcxHAAkAHDIYb//xUY/v8jACzDYADw)
