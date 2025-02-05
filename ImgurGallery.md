@@ -1,6 +1,6 @@
-Blue Legendary Class Mods
+# Blue Legendary Class Mods
 
-Legendary Hunter Class Mod
+Legendary Hunter
 ![VTtOZR8](https://github.com/user-attachments/assets/5a0b1f5d-c256-4685-a1e9-4b7830b9de95)
 
         BL2(BwAAAACf9wArDTIQZBBQKAnBAUEAwf///////////78EASYBAME=)
@@ -238,3 +238,468 @@ Legendary Reaper
         BL2(BwAAAACBVwoXAAMIEBFQ6AbBAUEAwf///////////78EAQQgAME=)
         BL2(BwAAAAA9GgoXAAMIEBFQKAbBAUEAwf///////////78EAQQgAME=)
         BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
+        
+# Class Mods
+## Zer0
+![JXihvfg](https://github.com/user-attachments/assets/c36af0c5-0777-4aee-bfba-4dbff08a9d18)
+
+**Legendary Hunter** 
+
+(Headsh0t/Fast Hands/C0unter Strike/Killing Bl0w/Ir0n Hand +5 All) 
+
+(Cooldown Rate +35% / Critical Damage +29% / Reload Speed +16%) 
+
+        BL2(BwAAAADTlAArDZShYxAyGQXBAUEAwf///////////38DASYBAME=) 
+
+**Legendary Sniper**
+
+        BL2(BwAAAACxTgoMAAsAsBBIJAXBAUEAwf///////////78EwQIgAME=)
+
+**Legendary Ninja**
+
+        BL2(BwAAAADNBgoLAAsAEBFIJAXBAUEAwf///////////78EQQIgAME=)
+
+**Legendary Killer**
+
+        BL2(BwAAAACBvgoKAAsA8BFIJAXBAUEAwf///////////78EgQIgAME=)
+
+**Slayer Of Terramorphous** 
+
+(Headsh0t/0ptics/Fast Hands/C0unter Strike/Ir0n Hand +4 All) 
+
+(Burn Damage +26% / Burn Chance +26% / Max Health +8294) 
+
+        BL2(BwAAAADVKQAjDZKhYxAyGQXBAUEAwf///////////38DwQkBAME=)
+
+![2qqzb3i](https://github.com/user-attachments/assets/731673ff-5aa5-4d4f-a33f-1bd610787b5f)
+
+**Bloodied Survivor**
+
+(Resurgence +5 / Ambush +4 / Rising Sh0t +4) 
+
+(Max Health +9015 / Health Regeneration + 236.6) 
+
+        BL2(BwAAAAADAQAUDZahIxAymQXBAUEAwf///////////38DQSYBAME=) 
+
+**Disturbed Survivor**
+
+(Rising Sh0t +5 / Resurgence +4 / Ambush +4) 
+
+(Max Health +9015 / Health Regeneration + 236.6) 
+
+        BL2(BwAAAADZOgAUDZahIxAyGQfBAUEAwf///////////38DgSYBAME=) 
+
+**Contemptible Survivor**
+(Ambush +5 / Rising Sh0t +4 / Resurgence +4) 
+
+(Max Health +9015 / Health Regeneration + 236.6) 
+
+        BL2(BwAAAACcDQAUDZahIxAymQjBAUEAwf///////////38DwSYBAME=) 
+
+**Contemptible Killer**
+
+(Ambush +5 / Killer +4 / Fearless +4) 
+
+(Team Critical Damage +40%) 
+
+        BL2(BwAAAACDigAfDZahwxAymQXBAQEBwf///////////38DQS0BAME=) 
+
+**Unpredictable Killer**
+
+(Fearless +5 / Ambush +4 / Killer +4) 
+
+(Team Critical Damage +40%) 
+
+        BL2(BwAAAAAchgAfDZahwxAymQjBAQEBwf///////////38DwS0BAME=)
+
+**The Killer** 
+
+(Killer +5 / Ambush +4 / Fearless +4) 
+
+(Team Critical Damage +40%) 
+
+        BL2(BwAAAAC+gAAfDZahwxAyGQfBAUEAwf///////////38DgS0BAME=)
+
+**Tricky Spy**
+
+(Unf0rseen +5 / Ambush +4 / Vel0city +4) 
+
+(Cooldown Rate +13%) 
+
+        BL2(BwAAAAD7OQAsDZahAxEymQXBAUEAwf///////////38DQSgBAME=) 
+
+**Swift Spy** 
+
+(Vel0city +5 / Unf0rseen +4 / Ambush +4) 
+
+(Cooldown Rate +13%) 
+
+        BL2(BwAAAABkNQAsDZahAxEymQjBAUEAwf///////////38DwSgBAME=) 
+
+**Contemptible Spy**
+
+(Ambush +5 / Vel0city +4 / Unf0rseen +4) 
+
+(Cooldown Rate +13%) 
+
+        BL2(BwAAAAAhAgAsDZahAxEyGQfBAUEAwf///////////38DgSgBAME=) 
+
+**Razored Stalker**
+
+(C0unter Strike +5 / Rising Sh0t +4 / F0ll0wthr0ugh +4) 
+
+(Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
+
+        BL2(BwAAAAC79gAVDZahoxAymQXBAUEAwf///////////38DQScBAME=) 
+
+**Shadow Stalker** 
+
+(F0llowthr0ugh +5 / C0unter Strike +4 / Rising Sh0t +4) 
+
+(Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
+
+        BL2(BwAAAABhzQAVDZahoxAyGQfBAUEAwf///////////38DgScBAME=)
+
+**Disturbed Stalker**
+
+(Rising Sh0t +5 / F0ll0wthr0ugh +4 / C0unter Strike +4) 
+
+(Pistol Fire Rate +26% / Pistol Magazine Size +36% / Shield Recharge Rate +35%) 
+
+        BL2(BwAAAAAk+gAVDZahoxAymQjBAUEAwf///////////38DwScBAME=)
+
+**Tranquil Sniper**
+
+(Precisi0n +5 / 0ne Sh0t 0ne Kill +4 / Headsh0t +4) 
+
+(Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
+
+        BL2(BwAAAADAYQAWDZahYxAymQjBAUEAwf///////////38DwSkBAME=) 
+
+**One Shot Sniper** 
+
+(0ne Sh0t 0ne Kill +5 / Headsh0t +4 / Precisi0n +4) 
+
+(Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
+
+        BL2(BwAAAACFVgAWDZahYxAyGQfBAUEAwf///////////38DgSkBAME=) 
+
+**Deadly Sniper**
+
+(Headsh0t +5 / 0ne Sh0t 0ne Kill +4 / Precisi0n +4) 
+
+(Sniper Rifle Damage +36% / Sniper Rifle Critical Damage +36% / Shield Capacity -8294) 
+
+        BL2(BwAAAABfbQAWDZahYxAymQXBAUEAwf///////////38DQSkBAME=) 
+
+**Sure Shot** 
+
+(Precisi0n +5 / Kill C0nfirmed +4 / 0ptics +4) 
+
+(Team Accuracy +28%) 
+
+        BL2(BwAAAABnTQAeDZahwxAyGQfBAUEAwf///////////38DgSoBAME=) 
+
+**True Shot**
+
+(Kill C0nfirmed +5 / Precisi0n +4 / 0ptics +4) 
+
+(Team Accuracy +28%) 
+
+        BL2(BwAAAAC9dgAeDZahwxAymQXBAUEAwf///////////38DQSoBAME=) 
+
+**Long Shot**
+
+(0ptics +5 / Precisi0n +4 / Kill C0nfirmed +4) 
+
+(Team Accuracy +28%) 
+
+        BL2(BwAAAAAiegAeDZahwxAymQjBAUEAwf///////////38DwSoBAME=) 
+
+**Succinct Professional** 
+
+(Ambush +5 / Killer +4 / Tw0 Fang +4) 
+
+(Reload Speed +29% / Shield Capacity +793) 
+
+        BL2(BwAAAADSwQAXDZahQxAymQXBAUEAwf///////////38DQSsBAME=) 
+
+**The Professional**
+
+(Killer +5 / Ambush +4 / Tw0 Fang +4) 
+
+(Reload Speed +29% / Shield Capacity +793) 
+
+        BL2(BwAAAAAI+gAXDZahQxAyGQfBAUEAwf///////////38DgSsBAME=)
+
+**Unequaled Professional** 
+
+(Tw0 Fang +5 / Killer +4 / Ambush +4) 
+
+(Reload Speed +29% / Shield Capacity +793) 
+
+        BL2(BwAAAABNzQAXDZahQxAymQjBAUEAwf///////////38DwSsBAME=) 
+
+**Lethal Ninja**
+
+(Killing Bl0w +5 / Resurgence +4 / Backstab +4) 
+
+(Melee Damage +46%) 
+
+        BL2(BwAAAADdzgAYDZahAxEymQXBAUEAwf///////////38DQSwBAME=) 
+
+**Bloodied Ninja**
+
+(Resurgence +5 / Killing Bl0w +4 / Backstab +4) 
+
+(Melee Damage +46%) 
+
+        BL2(BwAAAAAH9QAYDZahAxEyGQfBAUEAwf///////////38DgSwBAME=) 
+
+**Shadow Ninja**
+
+(Backstab +5 / Killing Bl0w +4 / Resurgence +4) 
+
+(Melee Damage +46%) 
+
+        BL2(BwAAAABCwgAYDZahAxEymQjBAUEAwf///////////38DwSwBAME=) 
+
+**Rugged Infiltrator**
+
+(Ir0n Hand +5 / Unf0rseen +4 / Be Like Water +4) 
+
+(Fire Rate +26% / Melee Damage +36%) 
+
+        BL2(BwAAAAAtbwAgDZahQxAymQXBAUEAwf///////////38DQS4BAME=) 
+
+Tricky Infiltrator 
+
+(Unf0rseen +5 / Ir0n Hand +4 / Be Like Water +4) 
+
+(Fire Rate +26% / Melee Damage +36%) 
+
+        BL2(BwAAAAD3VAAgDZahQxAyGQfBAUEAwf///////////38DgS4BAME=) 
+
+Graceful Infiltrator 
+
+(Be Like Water +5 / Unf0rseen +4 / Ir0n Hand +4) 
+
+(Fire Rate +26% / Melee Damage +36%) 
+
+        BL2(BwAAAACyYwAgDZahQxAymQjBAUEAwf///////////38DwS4BAME=)
+
+Chaotic Evil Rogue Class Mod	
+
+[Critical Damage +45%] [Fire Rate +31%]	
+
+[+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAAAO6QkcFAWwEBG9ngjBAUEAwf///////////38DAQchAME=)
+
+Chaotic Evil Rogue Class Mod	
+
+[Critical Damage +45%] [Fire Rate +31%]	
+
+[+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAAB6rAkcFAWwEBG9HgfBAUEAwf///////////38DAQchAME=)
+
+Chaotic Evil Rogue Class Mod	
+
+[Critical Damage +45%] [Fire Rate +31%]	
+
+[+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
+
+        BL2(BwAAAADzAQkcFAWwEBG9ngXBAUEAwf///////////38DAQchAME=)
+
+Chaotic Good Rogue Class Mod	
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+[+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAADvhgkbFAWwEBG9ngjBAUEAwf///////////38DwQYhAME=)
+
+Chaotic Good Rogue Class Mod	
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+[+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAACbwwkbFAWwEBG9HgfBAUEAwf///////////38DwQYhAME=)
+
+Chaotic Good Rogue Class Mod	
+
+[Reload Speed +45%] [Fire Rate +31%]	
+
+[+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
+
+        BL2(BwAAAAASbgkbFAWwEBG9ngXBAUEAwf///////////38DwQYhAME=)
+
+Chaotic Neutral Rogue Class Mod	
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+[+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAAB9sAkYFAWwEBG9ngjBAUEAwf///////////38DAQYhAME=)
+
+Chaotic Neutral Rogue Class Mod	
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+[+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAAAJ9QkYFAWwEBG9HgfBAUEAwf///////////38DAQYhAME=)
+
+Chaotic Neutral Rogue Class Mod	
+
+[Magazine Size +45%] [Fire Rate +31%]	
+
+[+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
+
+        BL2(BwAAAACAWAkYFAWwEBG9ngXBAUEAwf///////////38DAQYhAME=)
+
+Lawful Evil Rogue Class Mod	
+
+[Critical Damage +45%] [Weapon Accuracy +31%]	
+
+[+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAABZ3QkeFAWwEBG9ngjBAUEAwf///////////38DgQchAME=)
+
+Lawful Evil Rogue Class Mod	
+
+[Critical Damage +45%] [Weapon Accuracy +31%]	
+
+[+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAAAtmAkeFAWwEBG9HgfBAUEAwf///////////38DgQchAME=)
+
+Lawful Evil Rogue Class Mod	
+
+[Critical Damage +45%] [Weapon Accuracy +31%]	
+
+[+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
+
+        BL2(BwAAAACkNQkeFAWwEBG9ngXBAUEAwf///////////38DgQchAME=)
+
+Lawful Good Rogue Class Mod	
+
+[Reload Speed +45%] [Weapon Accuracy +31%]	
+
+[+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAAC4sgkZFAWwEBG9ngjBAUEAwf///////////38DQQYhAME=)
+
+Lawful Good Rogue Class Mod	
+
+[Reload Speed +45%] [Weapon Accuracy +31%]	
+
+[+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAADM9wkZFAWwEBG9HgfBAUEAwf///////////38DQQYhAME=)
+
+Lawful Good Rogue Class Mod	
+
+[Reload Speed +45%] [Weapon Accuracy +31%]	
+
+[+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
+
+        BL2(BwAAAABFWgkZFAWwEBG9ngXBAUEAwf///////////38DQQYhAME=)
+
+Lawful Neutral Rogue Class Mod	
+
+[Magazine Size +45%] [Weapon Accuracy +31%]	
+
+[+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAACnXAkXFAWwEBG9ngjBAUEAwf///////////38DwQUhAME=)
+
+Lawful Neutral Rogue Class Mod	
+
+[Magazine Size +45%] [Weapon Accuracy +31%]	
+
+[+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAADTGQkXFAWwEBG9HgfBAUEAwf///////////38DwQUhAME=)
+
+Lawful Neutral Rogue Class Mod	
+
+[Magazine Size +45%] [Weapon Accuracy +31%]	
+
+[+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
+
+        BL2(BwAAAABatAkXFAWwEBG9ngXBAUEAwf///////////38DwQUhAME=)
+
+Neutral Evil Rogue Class Mod	
+
+[Critical Damage +45%] [Magazine Size +45%]	
+
+[+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAADL6wkdFAWwEBG9ngjBAUEAwf///////////38DQQchAME=)
+
+Neutral Evil Rogue Class Mod	
+
+[Critical Damage +45%] [Magazine Size +45%]	
+
+[+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAAC/rgkdFAWwEBG9HgfBAUEAwf///////////38DQQchAME=)
+
+Neutral Evil Rogue Class Mod	
+
+[Critical Damage +45%] [Magazine Size +45%]	
+
+[+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
+
+        BL2(BwAAAAA2AwkdFAWwEBG9ngXBAUEAwf///////////38DQQchAME=)
+
+Neutral Good Rogue Class Mod	
+
+[Reload Speed +45% ] [Magazine Size +45%]	
+
+[+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAAAqhAkaFAWwEBG9ngjBAUEAwf///////////38DgQYhAME=)
+
+Neutral Good Rogue Class Mod	
+
+[Reload Speed +45% ] [Magazine Size +45%]	
+
+[+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAABewQkaFAWwEBG9HgfBAUEAwf///////////38DgQYhAME=)
+
+Neutral Good Rogue Class Mod	
+
+[Reload Speed +45% ] [Magazine Size +45%]	
+
+[+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
+
+        BL2(BwAAAADXbAkaFAWwEBG9ngXBAUEAwf///////////38DgQYhAME=)
+
+True Neutral Rogue Class Mod	
+
+[Magazine Size +73%]	
+
+[+5 Vel0city Skill] [+4 Tw0 Fang Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAABiXgkWFAWwEBG9ngjBAUEAwf///////////38DgQUhAME=)
+
+True Neutral Rogue Class Mod	
+
+[Magazine Size +73%]	
+
+[+5 Tw0 Fang Skill] [+4 Vel0city Skill] [+4 Like The Wind Skill]	
+
+        BL2(BwAAAAAWGwkWFAWwEBG9HgfBAUEAwf///////////38DgQUhAME=)
+
+True Neutral Rogue Class Mod	
+
+[Magazine Size +73%]	
+
+[+5 Like The Wind Skill] [+4 Vel0city Skill] [+4 Tw0 Fang Skill]	
+
+        BL2(BwAAAACftgkWFAWwEBG9ngXBAUEAwf///////////38DgQUhAME=)
