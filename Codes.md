@@ -1,76 +1,149 @@
 BL2(BwAAAACFfAAbEQDwQBAAwA==)IED Booster
+
 BL2(BwAAAAD1FAAAEEygQxAAwA==)Shield Booster
+
 BL2(BwAAAABoEAAADCChAxIAwA==)Turtle Up!
+
 BL2(BwAAAACxoQMDEAfoEBAAwA==)Moxxi Portrait,1
+
 BL2(BwAAAAD50gMBEAPoEBAAwA==)Moxxi Portrait,2
+
 BL2(BwAAAAD7AAMCEAXoEBAAwA==)Moxxi Portrait,3
+
 BL2(BwAAAADDngAADhqgAwAAgANCAsI=)Eridium Stack
+
 BL2(BwAAAAASHQAEDhqhAwAAgANCAsI=)Eridium Bar
+
 BL2(BwAAAABOZgMACAFgkBAAwA==)Torgue Token
+
 BL2(BwAAAAD+nQMACQOAMIAAwA==)Seraph Crystal (Iris)
+
 BL2(BwAAAABXuAABDCKh4xEAwA==)Rejuvenator!
+
 BL2(BwAAAABVagACDCSh4xEAwA==)Health Now!
+
 BL2(BwAAAAD8FwABYgKQ4xEAwA==)Personal diary recording
+
 BL2(BwAAAAD1SQACYgSQIxAAwA==)Echo recorder
+
 BL2(BwAAAAACGgAAYgCQQxAAwA==)Survelliance recording
+
 BL2(BwAAAABfOgADYgaQAxEAwA==)Helmet data rec0rding
+
 BL2(BwAAAACmGgAAEgCgAxAAwA==)Weapon equip slot (Put in bank)
+
 Candy:
+
 BL2(BwAAAABv0AUEAAkAEBBQqAPg////////////////////fwPg) red/Damage
+
 BL2(BwAAAADBrAUFAAsAEBBQKATg////////////////////vwTg) blue/Melee
+
 BL2(BwAAAAAhAQUCAAcAEBBQ6ALg////////////////////PwPg) green/Rock
+
 BL2(BwAAAACTbQUDAAUAEBBQ6APg////////////////////fwTg) yellow/Haste
+
 Wisp:
+
 BL2(BwAAAAAuIAUAAAEAEBBQaAHg/////////////////////wGgAOA=) blue/shock
+
 BL2(BwAAAACpWAUAAAEAEBBQKAHg////////////////////PwKgAOA=) red/fire
+
 BL2(BwAAAABnyQUAAAEAEBBQ6ADg////////////////////vwGgAOA=) yellow/explosive
+
 BL2(BwAAAACQ6wUAAAEAEBBQKADg////////////////////fwCgAOA=) green/toxic
+
 BL2(BwAAAADfWQACFhqgAxAAwA==)Eridium Shard
+
 BL2(BwAAAABYCwAARxqgAxAAwA==)Moxxi's Pizza
+
 BL2(BwAAAAAJRAABOgQ4AhAAwA==)Moxxi's Camera
+
 BL2(BwAAAADlTQABKRqgAxAAwA==)Injector
+
 BL2(BwAAAAC+PQAARhqgAxAAwA==)Hammerlock's Arm
+
 BL2(BwAAAACGcwAAXABYAxAAwA==)"Ellie Bellie" Doll
+
 BL2(BwAAAADyqQAAVgAoAxAAwA==)Spiderant Part
+
 BL2(BwAAAAD4zgABPBqgAxAAwA==)Zaford Emblem
+
 BL2(BwAAAAAMvgAAPBqgAxAAwA==)RedNeck Emblem
+
 BL2(BwAAAACidQAANQAQAhAAwA==)Bomb Cart
+
 BL2(BwAAAAAeJwAASQCwAhAAwA==)Bile Bomb
+
 BL2(BwAAAAChtgACRRqgAxAAwA==)Skag on a Stick
+
 BL2(BwAAAABWVAACSQSwAhAAwA==)"Dumper Pumper" Laxative
+
 BL2(BwAAAABUhgABSQKwAhAAwA==)Bank Loot
+
 BL2(BwAAAABcbgACGRqgAxAAwA==)Badonkadonk
+
 BL2(BwAAAACdzgABGRqgAxAAwA==)Tina's Dansel
+
 BL2(BwAAAAAXUwAAHBqgAxAAwA==)Feather
+
 BL2(BwAAAADjIwABHBqgAxAAwA==)Slag Sample
+
 BL2(BwAAAAAigwACHBqgAxAAwA==)Claptrap Upgrade
+
 BL2(BwAAAAB7+gABThqgAxAAwA==)Laney Flower
+
 BL2(BwAAAAC6WgACThqgAxAAwA==)Nudie Mag
+
 BL2(hwAAAADRoxMBMIADDQEA/A==)Lootmidget
+
 BL2(BwAAAABSYQAACQDQABAAwA==)Teddy Bear Head
+
 BL2(BwAAAAD+oAABCRqgAxAAwA==)Teddy Bear Body
+
 BL2(BwAAAAArxwMBGgM4ERAAwA==)Sully The Stabber's Head'
+
 BL2(BwAAAADrYgEADRugAxAAwA==)Eridium Bar (FireWater Mission)
+
+
 
 Weapons/shields/all
 
+
+
 Boss Hammer Buster: BL2(hwAAAABVLACCRgM/BiGTzWIYxNCLgQEDIob//xUY/v/7YijDcIzh)
+
+
 
 Stabbing Kerblaster: BL2(hwAAAADvigCDZgM/CCGT1WIgxPCLYQFDIob//xQY/v8DY1DBgIzh)
 
+
+
 Onslaught Veruc: BL2(hwAAAACrsgCBJgM/BCGTaWIQxLCLIQHDIYYGDBgY/v/zYmjCYIzh)
+
+
 
 Nassty Madhous!: BL2(hwAAAAB/GgCABgM/AiGTxWIYxJCLAQGDIQYHDBUY/v/rYhjDQIzh)
 
+
+
 Expansive Shredifier: BL2(hwAAAACz6ACEhgM/CiGT3WIoxBCMQQGDIoYGDBgY/v8LY4DCoIzh)
+
+
 
 Double Penetrating Unkempt Harold: BL2(hwAAAAAp3ACFBwVACCGT2cN4hWEQwwHG/////xow/v8fxECCcRHj)
 
+
+
 Evisceration Thunderball Fists: BL2(hwAAAACksgCGJwVAECGTucOAhUEQ4wHG/38KGBgw/v8XxJiBYRHj)
+
+
 
 Marxmans Gub: BL2(hwAAAABH0ACAhwRAAiGTicNYhcEPQwHG//8KGBsw/v/3w1iCERHj)
 
+
+
 Jam Packed Gunerang: BL2(hwAAAABMZgCDpwRADiGTycNghbEQYwHG/38JGBww/v8zxMiCsRHj)
+
 
 Dynamic Logan’s Gun: BL2(hwAAAACphQCCZwVADCGTocOQhQEQIwLG//8JGB4w/v8HxECDQRHj)
 
