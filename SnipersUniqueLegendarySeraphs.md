@@ -1,4 +1,3 @@
-
 Skookum Godfinger
 
 	BL2(hwAAAADdJAqEKIAAB4FELgBcAEMA0AVMBZj//2Rg/v8XAHQEMwDw)
@@ -26,10 +25,6 @@ Hyiu Godfinger
 Tl’kope Godfinger
 
 	BL2(hwAAAACf5AqEKIAAB4FELgBcAEMA0AVMBZj//15g/v8XAIQDMwDw)
-
-Barking-hwAAAADdeQiD6AAAEYFElgBcAGMCsAWMBZgbMGRg-DAHwEMwHw-Sublime-Melee-hwAAAACfuQiD6AAAEYFElgBcAGMCsAWMBZgbMF5g-DAIwDMwHw-D
-
-Barking-hwAAAADdeQiD6AAAEYFElgBcAGMCsAWMBZgbMGRg-DAHwEMwHw-Sublime-Melee-hwAAAACfuQiD6AAAEYFElgBcAGMCsAWMBZgbMF5g-DAIwDMwHw-D
 
 Barking Storm (Damage)
 
