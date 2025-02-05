@@ -1618,7 +1618,7 @@ BL2(BwAAAACwjQoEAAcAEBJIJAXBAUEAwf///////////78EAQEgAME=)
 
 BL2(BwAAAACRxQoFAAcAEBFIJAXBAUEAwf///////////78EwQAgAME=)
 
-**Legendary Soldier Slayer Of Terramorphous** 
+**Slayer Of Terramorphous** 
 
 (Sentry / Ready / Impact / Expertise / Healthy +4 All) 
 
@@ -3283,3310 +3283,9920 @@ BL2(BwAAAACE+gAiDYShIxAyGQXBAUEAwf///////////38DwQkBAME=)
 
 ![lKPghXJ](https://github.com/user-attachments/assets/fc835f5b-ca28-4789-ae71-ec245c01e39d)
 
-Loaded Hoarder 
+
+**Loaded Hoarder**
+
+
 (Filled To The Brim +5 / 5 Shots or 6 +4 / Lay Waste +4) 
+
+
 (Team Bullet Regeneration +2.6) 
+
+
 BL2(BwAAAADBIQAcDYihoxAymQXBAUEAwf///////////38DASIBAME=) 
 
-Lucky Hoarder 
+
+
+
+
+**Lucky Hoarder**
+
+
 (5 Shots or 6 +5 / Lay Waste +4 / Filled To The Brim +4) 
+
+
 (Team Bullet Regeneration +2.6) 
+
+
 BL2(BwAAAAB5/gAcDYihoxAyGQfBAUEAwf///////////38DQSIBAME=) 
 
-Unhinged Hoarder 
+
+
+
+
+**Unhinged Hoarder**
+
+
 (Lay Waste +5 / 5 Shots or 6 +4 / Filled To The Brim +4) 
+
+
 (Team Bullet Regeneration +2.6) 
+
+
 BL2(BwAAAABeLQAcDYihoxAymQjBAUEAwf///////////38DgSIBAME=) 
 
-Armored Titan 
+
+
+
+
+**Armored Titan**
+
+
 (I'm The Juggernaut +5 / Out of Bubblegum +4 / Hard To Kill +4) 
+
+
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
+
+
 BL2(BwAAAAA/AQAPDYih4xEymQXBAUEAwf///////////38DwR0BAME=) 
 
-Grand Titan 
+
+
+
+
+**Grand Titan**
+
+
 (Out of Bubblegum +5 / I'm The Juggernaut +4 / Hard To Kill +4) 
+
+
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
+
+
 BL2(BwAAAAARAAAPDYih4xEyGQfBAUEAwf///////////38DAR4BAME=) 
 
-Hulking Titan 
+
+
+
+
+**Hulking Titan**
+
+
 (Hard To Kill +5 / I'm The Juggernaut +4 / Out of Bubblegum +4) 
+
+
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
+
+
 BL2(BwAAAABUNwAPDYih4xEymQjBAUEAwf///////////38DQR4BAME=) 
 
-Hulking Tank 
+
+
+
+
+**Hulking Tank**
+
+
 (Hard To Kill +5 / Asbestos +4 / I'm The Juggernaut +4) 
+
+
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
+
+
 BL2(BwAAAAByAAAQDYihAxIyGQfBAUEAwf///////////38DAR8BAME=) 
 
-Armored Tank 
+
+
+
+
+**Armored Tank**
+
+
 (I'm The Juggernaut +5 / Hard To Kill +4 / Asbestos +4) 
+
+
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
+
+
 BL2(BwAAAAA3NwAQDYihAxIymQjBAUEAwf///////////38DQR8BAME=) 
 
-Impervious Tank 
+
+
+
+
+**Impervious Tank**
+
+
 (Asbestos +5 / I'm The Juggernaut +4 / Hard To Kill +4) 
+
+
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
+
+
 BL2(BwAAAACwwgAQDYihAxIymQXBAUEAwf///////////38DwR4BAME=) 
 
-Cocky Renegade 
+
+
+
+
+**Cocky Renegade**
+
+
 (All I Need Is One +5 / Incite +4 / I'm Your Huckleberry +4) 
+
+
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
+
+
 BL2(BwAAAAAI8QARDYihYxAymQXBAUEAwf///////////38DwR8BAME=) 
 
-Vengeful Renegade 
+
+
+
+
+**Vengeful Renegade**
+
+
 (Incite +5 / All I Need Is One +4 / I'm Your Huckleberry +4) 
+
+
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
+
+
 BL2(BwAAAACSngARDYihYxAyGQfBAUEAwf///////////38DASABAME=) 
 
-Suave Renegade 
+
+
+
+
+**Suave Renegade**
+
+
 (I'm Your Huckleberry +5 / Incite +4 / All I Need Is One +4) 
+
+
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
+
+
 BL2(BwAAAADXqQARDYihYxAymQjBAUEAwf///////////38DQSABAME=) 
 
-Vengeful Raider 
+
+
+
+
+**Vengeful Raider**
+
+
 (Incite +5 / Locked And Loaded +4 / Money Shot +4) 
+
+
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
+
+
 BL2(BwAAAACjOgASDYihIxAymQXBAUEAwf///////////38DwSABAME=) 
 
-Auspicious Raider 
+
+
+
+
+**Auspicious Raider**
+
+
 (Money Shot +5 / Incite +4 / Locked And Loaded +4) 
+
+
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
+
+
 BL2(BwAAAABh+AASDYihIxAyGQfBAUEAwf///////////38DASEBAME=) 
 
-Cocky Raider 
+
+
+
+
+**Cocky Raider**
+
+
 (Locked And Loaded +5 / Incite +4 / Money Shot +4) 
+
+
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
+
+
 BL2(BwAAAAAkzwASDYihIxAymQjBAUEAwf///////////38DQSEBAME=) 
 
-Pragmatic Devastator 
+
+
+
+
+**Pragmatic Devastator**
+
+
 (Divergent Likeness +5 / Just Got Real +4 / Filled To The Brim +4) 
+
+
 (Team Magazine Size +40%) 
+
+
 BL2(BwAAAAB51gAdDYihIxAymQXBAUEAwf///////////38DASMBAME=) 
 
-Savage Devastator 
+
+
+
+
+**Savage Devastator**
+
+
 (Just Got Real +5 / Divergent Likeness +4 / Filled To The Brim +4) 
+
+
 (Team Magazine Size +40%) 
+
+
 BL2(BwAAAADBCQAdDYihIxAyGQfBAUEAwf///////////38DQSMBAME=) 
 
-Hoarding Devastator 
+
+
+
+
+**Hoarding Devastator**
+
+
 (Filled To The Brim +5 / Divergent Likeness +4 / Just Got Real +4) 
+
+
 (Team Magazine Size +40%) 
+
+
 BL2(BwAAAADm2gAdDYihIxAymQjBAUEAwf///////////38DgSMBAME=) 
 
-Hoarding War Dog 
+
+
+
+
+**Hoarding War Dog**
+
+
 (Filled To The Brim +5 / Out Of Bubblegum +4 / 5 Shots or 6 +4) 
+
+
 (Reload Speed +28% / Magazine Size +40%) 
+
+
 BL2(BwAAAABnJAAODYihQxAymQXBAUEAwf///////////38DwRwBAME=) 
 
-Determined War Dog 
+
+
+
+
+**Determined War Dog**
+
+
 (Out of Bubblegum +5 / Filled To The Brim +4 / 5 Shots or 6 +4) 
+
+
 (Reload Speed +28% / Magazine Size +40%) 
+
+
 BL2(BwAAAACl5gAODYihQxAyGQfBAUEAwf///////////38DAR0BAME=) 
 
-Lucky War Dog 
+
+
+
+
+**Lucky War Dog**
+
+
 (5 Shots or 6 +5 / Out of Bubblegum +4 / Filled To The Brim +4) 
+
+
 (Reload Speed +28% / Magazine Size +40%) 
+
+
 BL2(BwAAAADg0QAODYihQxAymQjBAUEAwf///////////38DQR0BAME=) 
 
-Unstoppable Berserker 
+
+
+
+
+**Unstoppable Berserker**
+
+
 (Yippee Ki Yay +5 / Last Longer +4 / Lay Waste +4) 
+
+
 (Cooldown Rate +36%) 
+
+
 BL2(BwAAAACr2gAqDYihgxAymQXBAUEAwf///////////38DASQBAME=) 
 
-Two Gun Berserker 
+
+
+
+
+**Two Gun Berserker**
+
+
 (Last Longer / Yippee Ki Yay +4 / Lay Waste +4) 
+
+
 (Cooldown Rate +36%) 
+
+
 BL2(BwAAAAATBQAqDYihgxAyGQfBAUEAwf///////////38DQSQBAME=) 
 
-Unhinged Berserker 
+
+
+
+
+**Unhinged Berserker**
+
+
 (Lay Waste +5 / Last Longer +4 / Yippee Ki Yay +4) 
+
+
 (Cooldown Rate +36%) 
+
+
 BL2(BwAAAAA01gAqDYihgxAymQjBAUEAwf///////////38DgSQBAME=) 
 
-Savage Beast 
+
+
+
+
+**Savage Beast**
+
+
 (Just Got Real +5 / Incite +4 / Sexual Tyrannosaurus +4) 
+
+
 (Max Health +8294 / Reload Speed +28%) 
+
+
 BL2(BwAAAACbzwATDYihgxAymQjBAUEAwf///////////38DgSUBAME=) 
 
-Vengeful Beast 
+
+
+
+
+**Vengeful Beast**
+
+
 (Incite +5 / Just Got Real +4 / Sexual Tyrannosaurus +4) 
+
+
 (Max Health +8294 / Reload Speed +28%) 
+
+
 BL2(BwAAAAC8HAATDYihgxAyGQfBAUEAwf///////////38DQSUBAME=) 
 
-Altered Beast 
+
+
+
+
+**Altered Beast**
+
+
 (Sexual Tyrannosaurus +5 / Incite +4 / Just Got Real +4) 
+
+
 (Max Health +8294 / Reload Speed +28%) 
+
+
 BL2(BwAAAAAEwwATDYihgxAymQXBAUEAwf///////////38DASUBAME=)
 
-Chaotic Evil Monk Class Mod	
+
+
+
+
+**Chaotic Evil Monk**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAABA+QknFAewEBG9ngjBAUEAwf///////////38DQQghAME=)
 
-Chaotic Evil Monk Class Mod	
+
+
+
+
+**Chaotic Evil Monk**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAA0vAknFAewEBG9HgfBAUEAwf///////////38DQQghAME=)
 
-Chaotic Evil Monk Class Mod	
+
+
+
+
+**Chaotic Evil Monk**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
+
+
 BL2(BwAAAAC9EQknFAewEBG9ngXBAUEAwf///////////38DQQghAME=)
 
-Chaotic Good Monk Class Mod	
+
+
+
+
+**Chaotic Good Monk**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAACURgkiFAewEBG9ngjBAUEAwf///////////38DgQkhAME=)
 
-Chaotic Good Monk Class Mod	
+
+
+
+
+**Chaotic Good Monk**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAADgAwkiFAewEBG9HgfBAUEAwf///////////38DgQkhAME=)
 
-Chaotic Good Monk Class Mod	
+
+
+
+
+**Chaotic Good Monk**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
+
+
 BL2(BwAAAABprgkiFAewEBG9ngXBAUEAwf///////////38DgQkhAME=)
 
-Chaotic Neutral Monk Class Mod	
+
+
+
+
+**Chaotic Neutral Monk**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAABklAkhFAewEBG9ngjBAUEAwf///////////38DwQkhAME=)
 
-Chaotic Neutral Monk Class Mod	
+
+
+
+
+**Chaotic Neutral Monk**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAQ0QkhFAewEBG9HgfBAUEAwf///////////38DwQkhAME=)
 
-Chaotic Neutral Monk Class Mod	
+
+
+
+
+**Chaotic Neutral Monk**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
+
+
 BL2(BwAAAACZfAkhFAewEBG9ngXBAUEAwf///////////38DwQkhAME=)
 
-Lawful Evil Monk Class Mod	
+
+
+
+
+**Lawful Evil Monk**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAmvwklFAewEBG9ngjBAUEAwf///////////38DgQghAME=)
 
-Lawful Evil Monk Class Mod	
+
+
+
+
+**Lawful Evil Monk**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAABS+gklFAewEBG9HgfBAUEAwf///////////38DgQghAME=)
 
-Lawful Evil Monk Class Mod	
+
+
+
+
+**Lawful Evil Monk**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
+
+
 BL2(BwAAAADbVwklFAewEBG9ngXBAUEAwf///////////38DgQghAME=)
 
-Lawful Good Monk Class Mod	
+
+
+
+
+**Lawful Good Monk**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAzoAkjFAewEBG9ngjBAUEAwf///////////38DQQkhAME=)
 
-Lawful Good Monk Class Mod	
+
+
+
+
+**Lawful Good Monk**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAABH5QkjFAewEBG9HgfBAUEAwf///////////38DQQkhAME=)
 
-Lawful Good Monk Class Mod	
+
+
+
+
+**Lawful Good Monk**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
+
+
 BL2(BwAAAADOSAkjFAewEBG9ngXBAUEAwf///////////38DQQkhAME=)
 
-Lawful Neutral Monk Class Mod	
+
+
+
+
+**Lawful Neutral Monk**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAA3SAkgFAewEBG9ngjBAUEAwf///////////38DAQohAME=)
 
-Lawful Neutral Monk Class Mod	
+
+
+
+
+**Lawful Neutral Monk**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAABDDQkgFAewEBG9HgfBAUEAwf///////////38DAQohAME=)
 
-Lawful Neutral Monk Class Mod	
+
+
+
+
+**Lawful Neutral Monk**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
+
+
 BL2(BwAAAADKoAkgFAewEBG9ngXBAUEAwf///////////38DAQohAME=)
 
-Neutral Evil Monk Class Mod	
+
+
+
+
+**Neutral Evil Monk**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAADWbQkmFAewEBG9ngjBAUEAwf///////////38DwQghAME=)
 
-Neutral Evil Monk Class Mod	
+
+
+
+
+**Neutral Evil Monk**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAACiKAkmFAewEBG9HgfBAUEAwf///////////38DwQghAME=)
 
-Neutral Evil Monk Class Mod	
+
+
+
+
+**Neutral Evil Monk**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
+
+
 BL2(BwAAAAArhQkmFAewEBG9ngXBAUEAwf///////////38DwQghAME=)
 
-Neutral Good Monk Class Mod	
+
+
+
+
+**Neutral Good Monk**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAACo0gkkFAewEBG9ngjBAUEAwf///////////38DAQkhAME=)
 
-Neutral Good Monk Class Mod	
+
+
+
+
+**Neutral Good Monk**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAADclwkkFAewEBG9HgfBAUEAwf///////////38DAQkhAME=)
 
-Neutral Good Monk Class Mod	
+
+
+
+
+**Neutral Good Monk**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
+
+
 BL2(BwAAAABVOgkkFAewEBG9ngXBAUEAwf///////////38DAQkhAME=)
 
-True Neutral Monk Class Mod	
+
+
+
+
+**True Neutral Monk**	
+
+
 [Magazine Size +73%]	
+
+
 [+5 Money Shot Skill] [+4 Asbestos Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAyGwkfFAewEBG9ngjBAUEAwf///////////38DAQghAME=)
 
-True Neutral Monk Class Mod	
+
+
+
+
+**True Neutral Monk**	
+
+
 [Magazine Size +73%]	
+
+
 [+5 Asbestos Skill] [+4 Money Shot Skill] [+4 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAABGXgkfFAewEBG9HgfBAUEAwf///////////38DAQghAME=)
 
-True Neutral Monk Class Mod	
+
+
+
+
+**True Neutral Monk**	
+
+
 [Magazine Size +73%]	
+
+
 [+5 Sexual Tyrannosaurus Skill] [+4 Money Shot Skill] [+4 Asbestos Skill]	
+
+
 BL2(BwAAAADP8wkfFAewEBG9ngXBAUEAwf///////////38DAQghAME=)
+
+
+
+
 
 ![01zUEsW](https://github.com/user-attachments/assets/4ccddf11-42f3-4335-bc08-5c5211d4043d)
 
-Loaded Hoarder 
+
+
+
+
+**Loaded Hoarder**
+
+
 (Filled To The Brim +6 / Lay Waste +5) 
+
+
 (Team Bullet Regeneration +2.6) 
+
+
 BL2(BwAAAAASXwAcDYqhoxAyGQbBAUEAwf///////////38DASIBAME=) 
 
-Loaded Hoarder 
+
+
+
+
+**Loaded Hoarder**
+
+
 (Filled To The Brim +6 / 5 Shots or 6 +5) 
+
+
 (Team Bullet Regeneration +2.6) 
+
+
 BL2(BwAAAADDvQAcDYqhoxAyWQXBAUEAwf///////////38DASIBAME=) 
 
-Lucky Hoarder 
+
+
+
+
+**Lucky Hoarder**
+
+
 (5 Shots or 6 +6 / Lay Waste +5) 
+
+
 (Team Bullet Regeneration +2.6) 
+
+
 BL2(BwAAAABbtgAcDYqhoxAymQfBAUEAwf///////////38DQSIBAME=) 
 
-Lucky Hoarder 
+
+
+
+
+**Lucky Hoarder**
+
+
 (5 Shots or 6 +6 / Filled To The Brim +5) 
+
+
 (Team Bullet Regeneration +2.6) 
+
+
 BL2(BwAAAACfYAAcDYqhoxAy2QbBAUEAwf///////////38DQSIBAME=) 
 
-Unhinged Hoarder 
+
+
+
+
+**Unhinged Hoarder**
+
+
 (Lay Waste +6 / 5 Shots or 6 +5) 
+
+
 (Team Bullet Regeneration +2.6) 
+
+
 BL2(BwAAAACYZwAcDYqhoxAyGQnBAUEAwf///////////38DgSIBAME=) 
 
-Unhinged Hoarder 
+
+
+
+
+**Unhinged Hoarder**
+
+
 (Lay Waste +6 / Filled To The Brim +5) 
+
+
 (Team Bullet Regeneration +2.6) 
+
+
 BL2(BwAAAABcsQAcDYqhoxAyWQjBAUEAwf///////////38DgSIBAME=) 
 
-Armored Titan 
+
+
+
+
+**Armored Titan**
+
+
 (I'm The Juggernaut +6 / Hard To Kill +5) 
+
+
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
+
+
 BL2(BwAAAADsfwAPDYqh4xEyGQbBAUEAwf///////////38DwR0BAME=) 
 
-Armored Titan 
+
+
+
+
+**Armored Titan**
+
+
 (I'm The Juggernaut +6 / Out of Bubblegum +5) 
+
+
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
+
+
 BL2(BwAAAAA9nQAPDYqh4xEyWQXBAUEAwf///////////38DwR0BAME=) 
 
-Grand Titan 
+
+
+
+
+**Grand Titan**
+
+
 (Out of Bubblegum +6 / Hard To Kill +5) 
+
+
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
+
+
 BL2(BwAAAAAzSAAPDYqh4xEymQfBAUEAwf///////////38DAR4BAME=) 
 
-Grand Titan 
+
+
+
+
+**Grand Titan**
+
+
 (Out of Bubblegum +6 / I'm The Juggernaut +5) 
+
+
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
+
+
 BL2(BwAAAAD3ngAPDYqh4xEy2QbBAUEAwf///////////38DAR4BAME=) 
 
-Hulking Titan 
+
+
+
+
+**Hulking Titan**
+
+
 (Hard To Kill +6 / Out of Bubblegum +5) 
+
+
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
+
+
 BL2(BwAAAACSfQAPDYqh4xEyGQnBAUEAwf///////////38DQR4BAME=) 
 
-Hulking Titan 
+
+
+
+
+**Hulking Titan**
+
+
 (Hard To Kill +6 / I'm The Juggernaut +5) 
+
+
 (Health Regeneration +236.6 / Gun Damage +40% / Shield Capacity -5409) 
+
+
 BL2(BwAAAABWqwAPDYqh4xEyWQjBAUEAwf///////////38DQR4BAME=) 
 
-Hulking Tank 
+
+
+
+
+**Hulking Tank**
+
+
 (Hard To Kill +6 / I'm The Juggernaut +5) 
+
+
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
+
+
 BL2(BwAAAABQSAAQDYqhAxIymQfBAUEAwf///////////38DAR8BAME=) 
 
-Hulking Tank 
+
+
+
+
+**Hulking Tank**
+
+
 (Hard To Kill +6 / Asbestos +5) 
+
+
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
+
+
 BL2(BwAAAACUngAQDYqhAxIy2QbBAUEAwf///////////38DAR8BAME=) 
 
-Armored Tank 
+
+
+
+
+**Armored Tank**
+
+
 (I'm The Juggernaut +6 / Hard To Kill +5) 
+
+
 Shield Capacity +11899 / Shield Recharge Rate +40%) 
+
+
 BL2(BwAAAADxfQAQDYqhAxIyGQnBAUEAwf///////////38DQR8BAME=) 
 
-Armored Tank 
+
+
+
+
+**Armored Tank**
+
+
 (I'm The Juggernaut +6 / Asbestos +5) 
+
+
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
+
+
 BL2(BwAAAAA1qwAQDYqhAxIyWQjBAUEAwf///////////38DQR8BAME=) 
 
-Impervious Tank 
+
+
+
+
+**Impervious Tank**
+
+
 (Asbestos +6 / I'm The Juggernaut +5) 
+
+
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
+
+
 BL2(BwAAAABjvAAQDYqhAxIyGQbBAUEAwf///////////38DwR4BAME=) 
 
-Impervious Tank 
+
+
+
+
+**Impervious Tank**
+
+
 (Asbestos +6 / Hard To Kill +5) 
+
+
 (Shield Capacity +11899 / Shield Recharge Rate +40%) 
+
+
 BL2(BwAAAACyXgAQDYqhAxIyWQXBAUEAwf///////////38DwR4BAME=) 
 
-Cocky Renegade 
+
+
+
+
+**Cocky Renegade**
+
+
 (All I Need Is One +6 / I'm Your Huckleberry +5) 
+
+
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
+
+
 BL2(BwAAAADbjwARDYqhYxAyGQbBAUEAwf///////////38DwR8BAME=) 
 
-Cocky Renegade 
+
+
+
+
+**Cocky Renegade**
+
+
 (All I Need Is One +6 / Incite +5) 
+
+
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
+
+
 BL2(BwAAAAAKbQARDYqhYxAyWQXBAUEAwf///////////38DwR8BAME=) 
 
-Vengeful Renegade 
+
+
+
+
+**Vengeful Renegade**
+
+
 (Incite +6 / I'm Your Huckleberry +5) 
+
+
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
+
+
 BL2(BwAAAACw1gARDYqhYxAymQfBAUEAwf///////////38DASABAME=) 
 
-Vengeful Renegade 
+
+
+
+
+**Vengeful Renegade**
+
+
 (Incite +6 / All I Need Is One +5) 
+
+
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
+
+
 BL2(BwAAAAB0AAARDYqhYxAy2QbBAUEAwf///////////38DASABAME=) 
 
-Suave Renegade 
+
+
+
+
+**Suave Renegade**
+
+
 (I'm Your Huckleberry +6 / Incite +5) 
+
+
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
+
+
 BL2(BwAAAAAR4wARDYqhYxAyGQnBAUEAwf///////////38DQSABAME=) 
 
-Suave Renegade 
+
+
+
+
+**Suave Renegade**
+
+
 (I'm Your Huckleberry +6 / All I Need Is One +5) 
+
+
 (Pistol Gun Damage +40% / Pistol Accuracy -15%) 
+
+
 BL2(BwAAAADVNQARDYqhYxAyWQjBAUEAwf///////////38DQSABAME=) 
 
-Vengeful Raider 
+
+
+
+
+**Vengeful Raider**
+
+
 (Incite +6 / Locked And Loaded +5) 
+
+
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
+
+
 BL2(BwAAAABwRAASDYqhIxAyGQbBAUEAwf///////////38DwSABAME=) 
 
-Vengeful Raider 
+
+
+
+
+**Vengeful Raider**
+
+
 (Incite +6 / Money Shot +5) 
+
+
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
+
+
 BL2(BwAAAAChpgASDYqhIxAyWQXBAUEAwf///////////38DwSABAME=) 
 
-Auspicious Raider 
+
+
+
+
+**Auspicious Raider**
+
+
 (Money Shot +6 / Locked And Loaded +5) 
+
+
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
+
+
 BL2(BwAAAABDsAASDYqhIxAymQfBAUEAwf///////////38DASEBAME=) 
 
-Auspicious Raider 
+
+
+
+
+**Auspicious Raider**
+
+
 (Money Shot +6 / Incite +5) 
+
+
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
+
+
 BL2(BwAAAACHZgASDYqhIxAy2QbBAUEAwf///////////38DASEBAME=) 
 
-Cocky Raider 
+
+
+
+
+**Cocky Raider**
+
+
 (Locked And Loaded +6 / Money Shot +5) 
+
+
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
+
+
 BL2(BwAAAADihQASDYqhIxAyGQnBAUEAwf///////////38DQSEBAME=) 
 
-Cocky Raider 
+
+
+
+
+**Cocky Raider**
+
+
 (Locked And Loaded +6 / Incite +5) 
+
+
 (Assault Rifle Accuracy +44% / Shield Capacity -2524) 
+
+
 BL2(BwAAAAAmUwASDYqhIxAyWQjBAUEAwf///////////38DQSEBAME=) 
 
-Pragmatic Devastator 
+
+
+
+
+**Pragmatic Devastator**
+
+
 (Divergent +6 / Filled To The Brim +5) 
+
+
 (Team Magazine Size +40%) 
+
+
 BL2(BwAAAACqqAAdDYqhIxAyGQbBAUEAwf///////////38DASMBAME=) 
 
-Pragmatic Devastator 
+
+
+
+
+**Pragmatic Devastator**
+
+
 (Divergent +6 / Just Got Real +5) 
+
+
 (Team Magazine Size +40%) 
+
+
 BL2(BwAAAAB7SgAdDYqhIxAyWQXBAUEAwf///////////38DASMBAME=) 
 
-Savage Devastator 
+
+
+
+
+**Savage Devastator**
+
+
 (Just Got Real +6 / Filled To The Brim +5) 
+
+
 (Team Magazine Size +40%) 
+
+
 BL2(BwAAAADjQQAdDYqhIxAymQfBAUEAwf///////////38DQSMBAME=) 
 
-Savage Devastator 
+
+
+
+
+**Savage Devastator**
+
+
 (Just Got Real +6 / Divergent +5) 
+
+
 (Team Magazine Size +40%) 
+
+
 BL2(BwAAAAAnlwAdDYqhIxAy2QbBAUEAwf///////////38DQSMBAME=) 
 
-Hoarding Devastator 
+
+
+
+
+**Hoarding Devastator**
+
+
 (Filled To The Brim +6 / Just got Real +5) 
+
+
 (Team Magazine Size +40%) 
+
+
 BL2(BwAAAAAgkAAdDYqhIxAyGQnBAUEAwf///////////38DgSMBAME=) 
 
-Hoarding Devastator 
+
+
+
+
+**Hoarding Devastator**
+
+
 (Filled To The Brim +6 / Divergent +5) 
+
+
 (Team Magazine Size +40%) 
+
+
 BL2(BwAAAADkRgAdDYqhIxAyWQjBAUEAwf///////////38DgSMBAME=) 
 
-Hoarding War Dog 
+
+
+
+
+**Hoarding War Dog**
+
+
 (Filled To The Brim +6 / 5 Shots or 6 +5) 
+
+
 (Reload Speed +28% / Magazine Size +40%) 
+
+
 BL2(BwAAAAC0WgAODYqhQxAyGQbBAUEAwf///////////38DwRwBAME=) 
 
-Hoarding War Dog 
+
+
+
+
+**Hoarding War Dog**
+
+
 (Filled To The Brim +6 / Out of Bubblegum +5) 
+
+
 (Reload Speed +28% / Magazine Size +40%) 
+
+
 BL2(BwAAAABluAAODYqhQxAyWQXBAUEAwf///////////38DwRwBAME=) 
 
-Determined War Dog 
+
+
+
+
+**Determined War Dog**
+
+
 (Out of Bubblegum +6 / 5 Shots or 6 +5) 
+
+
 (Reload Speed +28% / Magazine Size +40%) 
+
+
 BL2(BwAAAACHrgAODYqhQxAymQfBAUEAwf///////////38DAR0BAME=) 
 
-Determined War Dog 
+
+
+
+
+**Determined War Dog**
+
+
 (Out of Bubblegum +6 / Filled To The Brim +5) 
+
+
 (Reload Speed +28% / Magazine Size +40%) 
+
+
 BL2(BwAAAABDeAAODYqhQxAy2QbBAUEAwf///////////38DAR0BAME=) 
 
-Lucky War Dog 
+
+
+
+
+**Lucky War Dog**
+
+
 (5 Shots or 6 +6 / Out of Bubblegum +5) 
+
+
 (Reload Speed +28% / Magazine Size +40%) 
+
+
 BL2(BwAAAAAmmwAODYqhQxAyGQnBAUEAwf///////////38DQR0BAME=) 
 
-Lucky War Dog 
+
+
+
+
+**Lucky War Dog**
+
+
 (5 Shots or 6 +6 / Filled To The Brim +5) 
+
+
 (Reload Speed +28% / Magazine Size +40%) 
+
+
 BL2(BwAAAADiTQAODYqhQxAyWQjBAUEAwf///////////38DQR0BAME=) 
 
-Unstoppable Berserker 
+
+
+
+
+**Unstoppable Berserker**
+
+
 (Yippee Ki Yay +6 / Lay Waste +5) 
+
+
 (Cooldown Rate +36%) 
+
+
 BL2(BwAAAAB4pAAqDYqhgxAyGQbBAUEAwf///////////38DASQBAME=) 
 
-Unstoppable Berserker 
+
+
+
+
+**Unstoppable Berserker**
+
+
 (Yippee Ki Yay +6 / Last Longer +5) 
+
+
 (Cooldown Rate +36%) 
+
+
 BL2(BwAAAACpRgAqDYqhgxAyWQXBAUEAwf///////////38DASQBAME=) 
 
-Two Gun Berserker 
+
+
+
+
+**Two Gun Berserker**
+
+
 (Last Longer +6 / Lay Waste +5) 
+
+
 (Cooldown Rate +36%) 
+
+
 BL2(BwAAAAAxTQAqDYqhgxAymQfBAUEAwf///////////38DQSQBAME=) 
 
-Two Gun Berserker 
+
+
+
+
+**Two Gun Berserker**
+
+
 (Last Longer +6 / Yippee Ki Yay +5) 
+
+
 (Cooldown Rate +36%) 
+
+
 BL2(BwAAAAD1mwAqDYqhgxAy2QbBAUEAwf///////////38DQSQBAME=) 
 
-Unhinged Berserker 
+
+
+
+
+**Unhinged Berserker**
+
+
 (Lay Waste +6 / Last Longer +5) 
+
+
 (Cooldown Rate +36%) 
+
+
 BL2(BwAAAADynAAqDYqhgxAyGQnBAUEAwf///////////38DgSQBAME=) 
 
-Unhinged Berserker 
+
+
+
+
+**Unhinged Berserker**
+
+
 (Lay Waste +6 / Yippee Ki Yay +5) 
+
+
 (Cooldown Rate +36%) 
+
+
 BL2(BwAAAAA2SgAqDYqhgxAyWQjBAUEAwf///////////38DgSQBAME=) 
 
-Savage Beast 
+
+
+
+
+**Savage Beast**
+
+
 (Just Got Real +6 / Incite +5) 
+
+
 (Max Health +8294 / Reload Speed +28%) 
+
+
 BL2(BwAAAABdhQATDYqhgxAyGQnBAUEAwf///////////38DgSUBAME=) 
 
-Savage Beast 
+
+
+
+
+**Savage Beast**
+
+
 (Just Got Real +6 / Sexual Tyrannosaurus +5) 
+
+
 (Max Health +8294 / Reload Speed +28%) 
+
+
 BL2(BwAAAACZUwATDYqhgxAyWQjBAUEAwf///////////38DgSUBAME=) 
 
-Vengeful Beast 
+
+
+
+
+**Vengeful Beast**
+
+
 (Incite +6 / Just Got Real +5) 
+
+
 (Max Health +8294 / Reload Speed +28%) 
+
+
 BL2(BwAAAACeVAATDYqhgxAymQfBAUEAwf///////////38DQSUBAME=) 
 
-Vengeful Beast 
+
+
+
+
+**Vengeful Beast**
+
+
 (Incite +6 / Sexual Tyrannosaurus +5) 
+
+
 (Max Health +8294 / Reload Speed +28%) 
+
+
 BL2(BwAAAABaggATDYqhgxAy2QbBAUEAwf///////////38DQSUBAME=) 
 
-Altered Beast 
+
+
+
+
+**Altered Beast**
+
+
 (Sexual Tyrannosaurus +6 / Just Got Real +5) 
+
+
 (Max Health +8294 / Reload Speed +28%) 
+
+
 BL2(BwAAAADXvQATDYqhgxAyGQbBAUEAwf///////////38DASUBAME=) 
 
-Altered Beast 
+
+
+
+
+**Altered Beast**
+
+
 (Sexual Tyrannosaurus +6 / Incite +5) 
+
+
 (Max Health +8294 / Reload Speed +28%) 
+
+
 BL2(BwAAAAAGXwATDYqhgxAyWQXBAUEAwf///////////38DASUBAME=)
 
-Chaotic Evil Monk Class Mod	
+
+
+
+
+**Chaotic Evil Monk**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAAA4YgknFAewEBG9HgnBAUEAwf///////////38DQQghAME=)
 
-Chaotic Evil Monk Class Mod	
+
+
+
+
+**Chaotic Evil Monk**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAD8tAknFAewEBG9XgjBAUEAwf///////////38DQQghAME=)
 
-Chaotic Evil Monk Class Mod	
+
+
+
+
+**Chaotic Evil Monk**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAACoJQknFAewEBG9ngfBAUEAwf///////////38DQQghAME=)
 
-Chaotic Evil Monk Class Mod	
+
+
+
+
+**Chaotic Evil Monk**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAABs8wknFAewEBG93gbBAUEAwf///////////38DQQghAME=)
 
-Chaotic Evil Monk Class Mod	
+
+
+
+
+**Chaotic Evil Monk**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAADQvgknFAewEBG9HgbBAUEAwf///////////38DQQghAME=)
 
-Chaotic Evil Monk Class Mod	
+
+
+
+
+**Chaotic Evil Monk**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAAABXAknFAewEBG9XgXBAUEAwf///////////38DQQghAME=)
 
-Chaotic Good Monk Class Mod	
+
+
+
+
+**Chaotic Good Monk**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAADs3QkiFAewEBG9HgnBAUEAwf///////////38DgQkhAME=)
 
-Chaotic Good Monk Class Mod	
+
+
+
+
+**Chaotic Good Monk**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAoCwkiFAewEBG9XgjBAUEAwf///////////38DgQkhAME=)
 
-Chaotic Good Monk Class Mod	
+
+
+
+
+**Chaotic Good Monk**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAAB8mgkiFAewEBG9ngfBAUEAwf///////////38DgQkhAME=)
 
-Chaotic Good Monk Class Mod	
+
+
+
+
+**Chaotic Good Monk**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAC4TAkiFAewEBG93gbBAUEAwf///////////38DgQkhAME=)
 
-Chaotic Good Monk Class Mod	
+
+
+
+
+**Chaotic Good Monk**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAAAEAQkiFAewEBG9HgbBAUEAwf///////////38DgQkhAME=)
 
-Chaotic Good Monk Class Mod	
+
+
+
+
+**Chaotic Good Monk**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAADV4wkiFAewEBG9XgXBAUEAwf///////////38DgQkhAME=)
 
-Chaotic Neutral Monk Class Mod	
+
+
+
+
+**Chaotic Neutral Monk**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAAAcDwkhFAewEBG9HgnBAUEAwf///////////38DwQkhAME=)
 
-Chaotic Neutral Monk Class Mod	
+
+
+
+
+**Chaotic Neutral Monk**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAADY2QkhFAewEBG9XgjBAUEAwf///////////38DwQkhAME=)
 
-Chaotic Neutral Monk Class Mod	
+
+
+
+
+**Chaotic Neutral Monk**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAACMSAkhFAewEBG9ngfBAUEAwf///////////38DwQkhAME=)
 
-Chaotic Neutral Monk Class Mod	
+
+
+
+
+**Chaotic Neutral Monk**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAABIngkhFAewEBG93gbBAUEAwf///////////38DwQkhAME=)
 
-Chaotic Neutral Monk Class Mod	
+
+
+
+
+**Chaotic Neutral Monk**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAAD00wkhFAewEBG9HgbBAUEAwf///////////38DwQkhAME=)
 
-Chaotic Neutral Monk Class Mod	
+
+
+
+
+**Chaotic Neutral Monk**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAAAlMQkhFAewEBG9XgXBAUEAwf///////////38DwQkhAME=)
 
-Lawful Evil Monk Class Mod	
+
+
+
+
+**Lawful Evil Monk**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAABeJAklFAewEBG9HgnBAUEAwf///////////38DgQghAME=)
 
-Lawful Evil Monk Class Mod	
+
+
+
+
+**Lawful Evil Monk**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAACa8gklFAewEBG9XgjBAUEAwf///////////38DgQghAME=)
 
-Lawful Evil Monk Class Mod	
+
+
+
+
+**Lawful Evil Monk**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAADOYwklFAewEBG9ngfBAUEAwf///////////38DgQghAME=)
 
-Lawful Evil Monk Class Mod	
+
+
+
+
+**Lawful Evil Monk**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAKtQklFAewEBG93gbBAUEAwf///////////38DgQghAME=)
 
-Lawful Evil Monk Class Mod	
+
+
+
+
+**Lawful Evil Monk**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAAC2+AklFAewEBG9HgbBAUEAwf///////////38DgQghAME=)
 
-Lawful Evil Monk Class Mod	
+
+
+
+
+**Lawful Evil Monk**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAABnGgklFAewEBG9XgXBAUEAwf///////////38DgQghAME=)
 
-Lawful Good Monk Class Mod	
+
+
+
+
+**Lawful Good Monk**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAABLOwkjFAewEBG9HgnBAUEAwf///////////38DQQkhAME=)
 
-Lawful Good Monk Class Mod	
+
+
+
+
+**Lawful Good Monk**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAACP7QkjFAewEBG9XgjBAUEAwf///////////38DQQkhAME=)
 
-Lawful Good Monk Class Mod	
+
+
+
+
+**Lawful Good Monk**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAADbfAkjFAewEBG9ngfBAUEAwf///////////38DQQkhAME=)
 
-Lawful Good Monk Class Mod	
+
+
+
+
+**Lawful Good Monk**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAfqgkjFAewEBG93gbBAUEAwf///////////38DQQkhAME=)
 
-Lawful Good Monk Class Mod	
+
+
+
+
+**Lawful Good Monk**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAACj5wkjFAewEBG9HgbBAUEAwf///////////38DQQkhAME=)
 
-Lawful Good Monk Class Mod	
+
+
+
+
+**Lawful Good Monk**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAAByBQkjFAewEBG9XgXBAUEAwf///////////38DQQkhAME=)
 
-Lawful Neutral Monk Class Mod	
+
+
+
+
+**Lawful Neutral Monk**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAABP0wkgFAewEBG9HgnBAUEAwf///////////38DAQohAME=)
 
-Lawful Neutral Monk Class Mod	
+
+
+
+
+**Lawful Neutral Monk**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]
+
+
 BL2(BwAAAACLBQkgFAewEBG9XgjBAUEAwf///////////38DAQohAME=)
 
-Lawful Neutral Monk Class Mod	
+
+
+
+
+**Lawful Neutral Monk**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAADflAkgFAewEBG9ngfBAUEAwf///////////38DAQohAME=)
 
-Lawful Neutral Monk Class Mod	
+
+
+
+
+**Lawful Neutral Monk**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAbQgkgFAewEBG93gbBAUEAwf///////////38DAQohAME=)
 
-Lawful Neutral Monk Class Mod	
+
+
+
+
+**Lawful Neutral Monk**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAACnDwkgFAewEBG9HgbBAUEAwf///////////38DAQohAME=)
 
-Lawful Neutral Monk Class Mod	
+
+
+
+
+**Lawful Neutral Monk**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAAB27QkgFAewEBG9XgXBAUEAwf///////////38DAQohAME=)
 
-Neutral Evil Monk Class Mod	
+
+
+
+
+**Neutral Evil Monk**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAACu9gkmFAewEBG9HgnBAUEAwf///////////38DwQghAME=)
 
-Neutral Evil Monk Class Mod	
+
+
+
+
+**Neutral Evil Monk**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAABqIAkmFAewEBG9XgjBAUEAwf///////////38DwQghAME=)
 
-Neutral Evil Monk Class Mod	
+
+
+
+
+**Neutral Evil Monk**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAAA+sQkmFAewEBG9ngfBAUEAwf///////////38DwQghAME=)
 
-Neutral Evil Monk Class Mod	
+
+
+
+
+**Neutral Evil Monk**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAD6ZwkmFAewEBG93gbBAUEAwf///////////38DwQghAME=)
 
-Neutral Evil Monk Class Mod	
+
+
+
+
+**Neutral Evil Monk**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAABGKgkmFAewEBG9HgbBAUEAwf///////////38DwQghAME=)
 
-Neutral Evil Monk Class Mod	
+
+
+
+
+**Neutral Evil Monk**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAACXyAkmFAewEBG9XgXBAUEAwf///////////38DwQghAME=)
 
-Neutral Good Monk Class Mod	
+
+
+
+
+**Neutral Good Monk**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAADQSQkkFAewEBG9HgnBAUEAwf///////////38DAQkhAME=)
 
-Neutral Good Monk Class Mod	
+
+
+
+
+**Neutral Good Monk**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAUnwkkFAewEBG9XgjBAUEAwf///////////38DAQkhAME=)
 
-Neutral Good Monk Class Mod	
+
+
+
+
+**Neutral Good Monk**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAABADgkkFAewEBG9ngfBAUEAwf///////////38DAQkhAME=)
 
-Neutral Good Monk Class Mod	
+
+
+
+
+**Neutral Good Monk**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAACE2AkkFAewEBG93gbBAUEAwf///////////38DAQkhAME=)
 
-Neutral Good Monk Class Mod	
+
+
+
+
+**Neutral Good Monk**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAAA4lQkkFAewEBG9HgbBAUEAwf///////////38DAQkhAME=)
 
-Neutral Good Monk Class Mod	
+
+
+
+
+**Neutral Good Monk**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAADpdwkkFAewEBG9XgXBAUEAwf///////////38DAQkhAME=)
 
-True Neutral Monk Class Mod	
+
+
+
+
+**True Neutral Monk**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Money Shot Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAABKgAkfFAewEBG9HgnBAUEAwf///////////38DAQghAME=)
 
-True Neutral Monk Class Mod	
+
+
+
+
+**True Neutral Monk**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Money Shot Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAACOVgkfFAewEBG9XgjBAUEAwf///////////38DAQghAME=)
 
-True Neutral Monk Class Mod	
+
+
+
+
+**True Neutral Monk**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Asbestos Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAADaxwkfFAewEBG9ngfBAUEAwf///////////38DAQghAME=)
 
-True Neutral Monk Class Mod	
+
+
+
+
+**True Neutral Monk**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Asbestos Skill] [+5 Sexual Tyrannosaurus Skill]	
+
+
 BL2(BwAAAAAeEQkfFAewEBG93gbBAUEAwf///////////38DAQghAME=)
 
-True Neutral Monk Class Mod	
+
+
+
+
+**True Neutral Monk**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Money Shot Skill]	
+
+
 BL2(BwAAAACiXAkfFAewEBG9HgbBAUEAwf///////////38DAQghAME=)
 
-True Neutral Monk Class Mod	
+
+
+
+
+**True Neutral Monk**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Sexual Tyrannosaurus Skill] [+5 Asbestos Skill]	
+
+
 BL2(BwAAAABzvgkfFAewEBG9XgXBAUEAwf///////////38DAQghAME=)
+
+
+
+
 
 ![JMWGHei](https://github.com/user-attachments/assets/c58c4105-1fbc-46a4-993d-0372fb75bc71)
 
+
+
+
+
 Legendary Siren 
+
+
 (Ward / Accelerate / Mind's Eye / Foresight / Flicker +5 All) 
+
+
 (Cooldown Rate +36% / Gun Damage +26%) 
+
+
 BL2(BwAAAADpBAAnDXihAxEqFQXBAUEAwf///////////38DgRgBAME=) 
 
+
+
+
+
 Legendary Nurse
+
+
 BL2(BwAAAAAOfAoBAAMA8BFIJAXBAUEAwf///////////78EQQAgAME=)
 
+
+
+
+
 Legendary Cat
+
+
 BL2(BwAAAADDuAoCAAMAsBBIJAXBAUEAwf///////////78EgQAgAME=)
 
+
+
+
+
 Legendary Binder
+
+
 BL2(BwAAAAAgIAoAAAMAEBFIJAXBAUEAwf///////////78EAQAgAME=)
 
-Slayer Of Terramorphous 
+
+
+
+
+**Slayer Of Terramorphous**
+
+
 (Ward / Accelerate / Mind's Eye / Sweet Release / Flicker +4 All) 
+
+
 (Burn Damage +26% / Burn Chance + 26% / +8294) 
+
+
 BL2(BwAAAAD98gAhDXahAxEyGQXBAUEAwf///////////38DwQkBAME=)
+
+
+
+
 
 ![ZbupSqQ](https://github.com/user-attachments/assets/9a3f921a-0c75-424c-9a13-33cbc361e681)
 
+
+
+
+
 Rebounding Warder 
+
+
 (Recompense +5 / Ward +4 / Wreck +4) 
+
+
 (Shield Capacity +11178) 
+
+
 BL2(BwAAAACKzgAIDXqh4xEymQXBAUEAwf///////////38DgRQBAME=) 
 
+
+
+
+
 Scheming Warder 
+
+
 (Wreck +5 / Ward +4 / Recompense +4) 
+
+
 (Shield Capacity +11178) 
+
+
 BL2(BwAAAAANOwAIDXqh4xEymQjBAUEAwf///////////38DARUBAME=) 
 
+
+
+
+
 Guarded Warder 
+
+
 (Ward +5 / Recompense +4 / Wreck +4) 
+
+
 (Shield Capacity +11178) 
+
+
 BL2(BwAAAAAyEQAIDXqh4xEyGQfBAUEAwf///////////38DwRQBAME=) 
 
+
+
+
+
 Unyielding Banshee 
+
+
 (Immolate +5 / Fleet +4 / Backdraft +4) 
+
+
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
+
+
 BL2(BwAAAADe0gANDXqhIxAymQjBAUEAwf///////////38DQRwBAME=) 
 
+
+
+
+
 Breakneck Banshee 
+
+
 (Fleet +5 / Immolate +4 / Backdraft +4) 
+
+
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
+
+
 BL2(BwAAAACb5QANDXqhIxAyGQfBAUEAwf///////////38DARwBAME=) 
 
+
+
+
+
 Scorched Banshee 
+
+
 (Backdraft +5 / Fleet +4 / Immolate +4) 
+
+
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
+
+
 BL2(BwAAAABsYwANDXqhIxAymQXBAUEAwf///////////38DwRsBAME=) 
 
+
+
+
+
 Chrono Binder 
-(Suspension +5 / Reaper +4 / Helios +4) 
+
+
+(Suspension +5 / Reaper+4 / Helios +4) 
+
+
 (Team Cooldown Rate +21%) 
+
+
 BL2(BwAAAADs+AAoDXqhAxEymQXBAUEAwf///////////38DwRoBAME=) 
 
+
+
+
+
 Hell Binder 
-(Helios +5 / Suspension +4 / Reaper +4) 
+
+
+(Helios +5 / Suspension +4 / Reaper+4) 
+
+
 (Team Cooldown Rate +21%) 
+
+
 BL2(BwAAAAAuOgAoDXqhAxEyGQfBAUEAwf///////////38DARsBAME=) 
 
+
+
+
+
 Cunning Binder 
-(Reaper +5 / Helios +4 / Suspension +4) 
+
+
+(Reaper+5 / Helios +4 / Suspension +4) 
+
+
 (Team Cooldown Rate +21%) 
+
+
 BL2(BwAAAABrDQAoDXqhAxEymQjBAUEAwf///////////38DQRsBAME=) 
 
+
+
+
+
 Angelic Nurse 
+
+
 (Elated +5 / Sweet Release +4 / Restoration +4) 
+
+
 (Team Health Regeneration +247.9) 
+
+
 BL2(BwAAAABswgAbDXqh4xEyGQfBAUEAwf///////////38DwRYBAME=) 
 
+
+
+
+
 Merciful Nurse 
+
+
 (Restoration +5 / Elated +4 / Sweet Release +4) 
+
+
 (Team Health Regeneration +247.9) 
+
+
 BL2(BwAAAABT6AAbDXqh4xEymQjBAUEAwf///////////38DARcBAME=) 
 
+
+
+
+
 Heavenly Nurse 
+
+
 (Sweet Release +5 / Restoration +4 / Elated +4) 
+
+
 (Team Health Regeneration +247.9) 
+
+
 BL2(BwAAAADUHQAbDXqh4xEymQXBAUEAwf///////////38DgRYBAME=) 
 
+
+
+
+
 Cunning Fox 
-(Reaper +5 / Blight Phoenix +4 / Helios +4) 
+
+
+(Reaper+5 / Blight Phoenix +4 / Helios +4) 
+
+
 (Burn Chance +40% / Burn Damage +40%) 
+
+
 BL2(BwAAAAAm+wALDXqhAxEymQXBAUEAwf///////////38DwRgBAME=) 
 
+
+
+
+
 Plague Fox 
-(Blight Phoenix +5 / Reaper +4 / Helios +4) 
+
+
+(Blight Phoenix +5 / Reaper+4 / Helios +4) 
+
+
 (Burn Chance +40% / Burn Damage +40%) 
+
+
 BL2(BwAAAAChDgALDXqhAxEymQjBAUEAwf///////////38DQRkBAME=) 
 
+
+
+
+
 Hell Fox 
-(Helios +5 / Reaper +4 / Blight Phoenix +4) 
+
+
+(Helios +5 / Reaper+4 / Blight Phoenix +4) 
+
+
 (Burn Chance +40% / Burn Damage +40%) 
+
+
 BL2(BwAAAADkOQALDXqhAxEyGQfBAUEAwf///////////38DARkBAME=) 
 
+
+
+
+
 Blurred Trickster 
+
+
 (Chain Reaction +5 / Kinetic Reflection +4 / Life Tap +4) 
+
+
 (Fire Rate +26%) 
+
+
 BL2(BwAAAAA5tQAJDXqhoxAymQXBAUEAwf///////////38DgRUBAME=) 
 
+
+
+
+
 Thieving Trickster 
+
+
 (Life Tap +5 / Chain Reaction +4 / Kinetic Reflection +4) 
+
+
 (Fire Rate +26%) 
+
+
 BL2(BwAAAABSgwAJDXqhoxAymQjBAUEAwf///////////38DARYBAME=) 
 
+
+
+
+
 Mirrored Trickster 
+
+
 (Kinetic Reflection +5 / Life Tap +4 / Chain Reaction +4) 
+
+
 (Fire Rate +26%) 
+
+
 BL2(BwAAAACBagAJDXqhoxAyGQfBAUEAwf///////////38DwRUBAME=) 
 
+
+
+
+
 Hell Witch 
+
+
 (Helios +5 / Flicker +4 / Kinetic Reflection +4) 
+
+
 (Corrode Chance +40% / Corrode Damage +40%) 
+
+
 BL2(BwAAAACD3AAHDXqhAxEymQjBAUEAwf///////////38DARQBAME=) 
 
+
+
+
+
 Splatter Witch 
+
+
 (Flicker +5 / Helios +4 / Kinetic Reflection +4) 
+
+
 (Corrode Chance +40% / Corrode Damage +40%) 
+
+
 BL2(BwAAAACJsgAHDXqhAxEyGQfBAUEAwf///////////38DwRMBAME=) 
 
+
+
+
+
 Bullet Witch 
+
+
 (Kinetic Reflection +5 / Flicker +4 / Helios +4) 
+
+
 (Corrode Chance +40% / Corrode Damage +40%) 
+
+
 BL2(BwAAAAAxbQAHDXqhAxEymQXBAUEAwf///////////38DgRMBAME=) 
 
+
+
+
+
 Wild Cat 
+
+
 (Accelerate +5 / Wreck +4 / Mind's Eye +4) 
+
+
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
+
+
 BL2(BwAAAACfjgAMDXqhwxAymQXBAUEAwf///////////38DwRkBAME=) 
 
+
+
+
+
 Killer Cat 
+
+
 (Mind's Eye +5 / Wreck +4 / Accelerate +4) 
+
+
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
+
+
 BL2(BwAAAAD0uAAMDXqhwxAymQjBAUEAwf///////////38DQRoBAME=) 
 
+
+
+
+
 Scheming Cat 
+
+
 (Wreck +5 / Accelerate +4 / Mind's Eye +4) 
+
+
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
+
+
 BL2(BwAAAACxjwAMDXqhwxAyGQfBAUEAwf///////////38DARoBAME=) 
 
+
+
+
+
 Relentless Matriarch 
+
+
 (Sustenance +5 / Life Tap +4 / Elated +4) 
+
+
 (Max Health +9105 / Magazine Size +36%) 
+
+
 BL2(BwAAAACG8gAKDXqhAxIyGQfBAUEAwf///////////38DwRcBAME=) 
 
+
+
+
+
 Leeching Matriarch 
+
+
 (Life Tap +5 / Sustenance +4 / Elated +4) 
+
+
 (Max Health +9105 / Magazine Size +36%) 
+
+
 BL2(BwAAAADiogAKDXqhAxIymQjBAUEAwf///////////38DARgBAME=) 
 
+
+
+
+
 Angelic Matriarch 
+
+
 (Elated +5 / Life Tap +4 / Sustenance +4) 
+
+
 (Max Health +9105 / Magazine Size +36%) 
+
+
 BL2(BwAAAAA+LQAKDXqhAxIymQXBAUEAwf///////////38DgRcBAME=)
 
-Chaotic Evil Cleric Class Mod	
+
+
+
+
+**Chaotic Evil Cleric**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAAD2GAkUFAOwEBG9ngjBAUEAwf///////////38DAQUhAME=)
 
-Chaotic Evil Cleric Class Mod	
+
+
+
+
+**Chaotic Evil Cleric**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAACCXQkUFAOwEBG9HgfBAUEAwf///////////38DAQUhAME=)
 
-Chaotic Evil Cleric Class Mod	
+
+
+
+
+**Chaotic Evil Cleric**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
+
+
 BL2(BwAAAAAL8AkUFAOwEBG9ngXBAUEAwf///////////38DAQUhAME=)
 
-Chaotic Good Cleric Class Mod	
+
+
+
+
+**Chaotic Good Cleric**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAACFQQkQFAOwEBG9ngjBAUEAwf///////////38DAQQhAME=)
 
-Chaotic Good Cleric Class Mod	
+
+
+
+
+**Chaotic Good Cleric**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAADxBAkQFAOwEBG9HgfBAUEAwf///////////38DAQQhAME=)
 
-Chaotic Good Cleric Class Mod	
+
+
+
+
+**Chaotic Good Cleric**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
+
+
 BL2(BwAAAAB4qQkQFAOwEBG9ngXBAUEAwf///////////38DAQQhAME=)
 
-Chaotic Neutral Cleric Class Mod	
+
+
+
+
+**Chaotic Neutral Cleric**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAAD1mgkPFAOwEBG9ngjBAUEAwf///////////38DwQMhAME=)
 
-Chaotic Neutral Cleric Class Mod	
+
+
+
+
+**Chaotic Neutral Cleric**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAACB3wkPFAOwEBG9HgfBAUEAwf///////////38DwQMhAME=)
 
-Chaotic Neutral Cleric Class Mod	
+
+
+
+
+**Chaotic Neutral Cleric**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
+
+
 BL2(BwAAAAAIcgkPFAOwEBG9ngXBAUEAwf///////////38DwQMhAME=)
 
-Lawful Evil Cleric Class Mod	
+
+
+
+
+**Lawful Evil Cleric**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAAAzGgkVFAOwEBG9ngjBAUEAwf///////////38DQQUhAME=)
 
-Lawful Evil Cleric Class Mod	
+
+
+
+
+**Lawful Evil Cleric**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAABHXwkVFAOwEBG9HgfBAUEAwf///////////38DQQUhAME=)
 
-Lawful Evil Cleric Class Mod	
+
+
+
+
+**Lawful Evil Cleric**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
+
+
 BL2(BwAAAADO8gkVFAOwEBG9ngXBAUEAwf///////////38DQQUhAME=)
 
-Lawful Good Cleric Class Mod	
+
+
+
+
+**Lawful Good Cleric**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAABAQwkRFAOwEBG9ngjBAUEAwf///////////38DQQQhAME=)
 
-Lawful Good Cleric Class Mod	
+
+
+
+
+**Lawful Good Cleric**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAAA0BgkRFAOwEBG9HgfBAUEAwf///////////38DQQQhAME=)
 
-Lawful Good Cleric Class Mod	
+
+
+
+
+**Lawful Good Cleric**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
+
+
 BL2(BwAAAAC9qwkRFAOwEBG9ngXBAUEAwf///////////38DQQQhAME=)
 
-Lawful Neutral Cleric Class Mod	
+
+
+
+
+**Lawful Neutral Cleric**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAADxOAkNFAOwEBG9ngjBAUEAwf///////////38DgQMhAME=)
 
-Lawful Neutral Cleric Class Mod	
+
+
+
+
+**Lawful Neutral Cleric**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAACFfQkNFAOwEBG9HgfBAUEAwf///////////38DgQMhAME=)
 
-Lawful Neutral Cleric Class Mod	
+
+
+
+
+**Lawful Neutral Cleric**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
+
+
 BL2(BwAAAAAM0AkNFAOwEBG9ngXBAUEAwf///////////38DgQMhAME=)
 
-Neutral Evil Cleric Class Mod	
+
+
+
+
+**Neutral Evil Cleric**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAAAXdwkTFAOwEBG9ngjBAUEAwf///////////38DwQQhAME=)
 
-Neutral Evil Cleric Class Mod	
+
+
+
+
+**Neutral Evil Cleric**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAABjMgkTFAOwEBG9HgfBAUEAwf///////////38DwQQhAME=)
 
-Neutral Evil Cleric Class Mod	
+
+
+
+
+**Neutral Evil Cleric**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
+
+
 BL2(BwAAAADqnwkTFAOwEBG9ngXBAUEAwf///////////38DwQQhAME=)
 
-Neutral Good Cleric Class Mod	
+
+
+
+
+**Neutral Good Cleric**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAADSdQkSFAOwEBG9ngjBAUEAwf///////////38DgQQhAME=)
 
-Neutral Good Cleric Class Mod	
+
+
+
+
+**Neutral Good Cleric**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAACmMAkSFAOwEBG9HgfBAUEAwf///////////38DgQQhAME=)
 
-Neutral Good Cleric Class Mod	
+
+
+
+
+**Neutral Good Cleric**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
+
+
 BL2(BwAAAAAvnQkSFAOwEBG9ngXBAUEAwf///////////38DgQQhAME=)
 
-True Neutral Cleric Class Mod	
+
+
+
+
+**True Neutral Cleric**	
+
+
 [Magazine Size +73%]	
+
+
 [+5 Suspension Skill] [+4 Restoration Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAABW3gkMFAOwEBG9ngjBAUEAwf///////////38DQQMhAME=)
 
-True Neutral Cleric Class Mod	
+
+
+
+
+**True Neutral Cleric**	
+
+
 [Magazine Size +73%]	
+
+
 [+5 Restoration Skill] [+4 Suspension Skill] [+4 Life Tap Skill]	
+
+
 BL2(BwAAAAAimwkMFAOwEBG9HgfBAUEAwf///////////38DQQMhAME=)
 
-True Neutral Cleric Class Mod	
+
+
+
+
+**True Neutral Cleric**	
+
+
 [Magazine Size +73%]	
+
+
 [+5 Life Tap Skill] [+4 Suspension Skill] [+4 Restoration Skill]	
+
+
 BL2(BwAAAACrNgkMFAOwEBG9ngXBAUEAwf///////////38DQQMhAME=)
+
+
+
+
 
 ![ts9M7O1](https://github.com/user-attachments/assets/f7913f6b-ea1c-4365-b2a2-c4d8126ac39f)
 
+
+
+
+
 Rebounding Warder 
+
+
 (Recompense +6 / Wreck +5) 
+
+
 (Shield Capacity +11178) 
+
+
 BL2(BwAAAAAkEwAIDXyh4xEyGQbBAUEAwf///////////38DgRQBAME=) 
 
+
+
+
+
 Rebounding Warder 
+
+
 (Recompense +6 / Ward +5) 
+
+
 (Shield Capacity +11178) 
+
+
 BL2(BwAAAAD18QAIDXyh4xEyWQXBAUEAwf///////////38DgRQBAME=) 
 
+
+
+
+
 Scheming Warder 
+
+
 (Wreck +6 / Ward +5) 
+
+
 (Shield Capacity +11178) 
+
+
 BL2(BwAAAAC20gAIDXyh4xEyGQnBAUEAwf///////////38DARUBAME=) 
 
+
+
+
+
 Scheming Warder 
+
+
 (Wreck +6 / Recompense +5) 
+
+
 (Shield Capacity +11178) 
+
+
 BL2(BwAAAAByBAAIDXyh4xEyWQjBAUEAwf///////////38DARUBAME=) 
 
+
+
+
+
 Guarded Warder 
+
+
 (Ward +6 / Wreck +5) 
+
+
 (Shield Capacity +11178) 
+
+
 BL2(BwAAAABt+gAIDXyh4xEymQfBAUEAwf///////////38DwRQBAME=) 
 
+
+
+
+
 Guarded Warder 
+
+
 (Ward +6 / Recompense +5) 
+
+
 (Shield Capacity +11178) 
+
+
 BL2(BwAAAACpLAAIDXyh4xEy2QbBAUEAwf///////////38DwRQBAME=) 
 
+
+
+
+
 Unyielding Banshee 
+
+
 (Immolate +6 / Fleet +5) 
+
+
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
+
+
 BL2(BwAAAABlOwANDXyhIxAyGQnBAUEAwf///////////38DQRwBAME=) 
 
+
+
+
+
 Unyielding Banshee 
+
+
 (Immolate +6 / Backdraft +5) 
+
+
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
+
+
 BL2(BwAAAACh7QANDXyhIxAyWQjBAUEAwf///////////38DQRwBAME=) 
 
+
+
+
+
 Breakneck Banshee 
+
+
 (Fleet +6 / Immolate +5) 
+
+
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
+
+
 BL2(BwAAAADEDgANDXyhIxAymQfBAUEAwf///////////38DARwBAME=) 
 
+
+
+
+
 Breakneck Banshee 
+
+
 (Fleet +6 / Backdraft +5) 
+
+
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
+
+
 BL2(BwAAAAAA2AANDXyhIxAy2QbBAUEAwf///////////38DARwBAME=) 
 
+
+
+
+
 Scorched Banshee 
+
+
 (Backdraft +6 / Immolate +5) 
+
+
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
+
+
 BL2(BwAAAADCvgANDXyhIxAyGQbBAUEAwf///////////38DwRsBAME=) 
 
+
+
+
+
 Scorched Banshee 
+
+
 (Backdraft +6 / Fleet +5) 
+
+
 (Shield Recharge Rate +46% / Shield Recharge Delay -32% / Max Health -8113) 
+
+
 BL2(BwAAAAATXAANDXyhIxAyWQXBAUEAwf///////////38DwRsBAME=) 
 
+
+
+
+
 Chrono Binder 
-(Suspension +6 / Reaper +5) 
+
+
+(Suspension +6 / Reaper+5) 
+
+
 (Team Cooldown Rate +21%) 
+
+
 BL2(BwAAAABCJQAoDXyhAxEyGQbBAUEAwf///////////38DwRoBAME=) 
 
+
+
+
+
 Chrono Binder 
+
+
 (Suspension +6 / Helios +5) 
+
+
 (Team Cooldown Rate +21%) 
+
+
 BL2(BwAAAACTxwAoDXyhAxEyWQXBAUEAwf///////////38DwRoBAME=) 
 
+
+
+
+
 Hell Binder 
-(Helios +6 / Reaper +5) 
+
+
+(Helios +6 / Reaper+5) 
+
+
 (Team Cooldown Rate +21%) 
+
+
 BL2(BwAAAABx0QAoDXyhAxEymQfBAUEAwf///////////38DARsBAME=) 
 
+
+
+
+
 Hell Binder 
+
+
 (Helios +6 / Suspension +5) 
+
+
 (Team Cooldown Rate +21%) 
+
+
 BL2(BwAAAAC1BwAoDXyhAxEy2QbBAUEAwf///////////38DARsBAME=) 
 
+
+
+
+
 Cunning Binder 
-(Reaper +6 / Helios +5) 
+
+
+(Reaper+6 / Helios +5) 
+
+
 (Team Cooldown Rate +21%) 
+
+
 BL2(BwAAAADQ5AAoDXyhAxEyGQnBAUEAwf///////////38DQRsBAME=) 
 
+
+
+
+
 Cunning Binder 
-(Reaper +6 / Suspension +5) 
+
+
+(Reaper+6 / Suspension +5) 
+
+
 (Team Cooldown Rate +21%) 
+
+
 BL2(BwAAAAAUMgAoDXyhAxEyWQjBAUEAwf///////////38DQRsBAME=) 
 
+
+
+
+
 Angelic Nurse 
+
+
 (Elated +6 / Restoration +5) 
+
+
 (Team Health Regeneration +247.9) 
+
+
 BL2(BwAAAAAzKQAbDXyh4xEymQfBAUEAwf///////////38DwRYBAME=) 
 
+
+
+
+
 Angelic Nurse 
+
+
 (Elated +6 / Sweet Release +5) 
+
+
 (Team Health Regeneration +247.9) 
+
+
 BL2(BwAAAAD3/wAbDXyh4xEy2QbBAUEAwf///////////38DwRYBAME=) 
 
+
+
+
+
 Merciful Nurse 
+
+
 (Restoration +6 / Elated +5) 
+
+
 (Team Health Regeneration +247.9) 
+
+
 BL2(BwAAAADoAQAbDXyh4xEyGQnBAUEAwf///////////38DARcBAME=) 
 
+
+
+
+
 Merciful Nurse 
+
+
 (Restoration +6 / Sweet Release +5) 
+
+
 (Team Health Regeneration +247.9) 
+
+
 BL2(BwAAAAAs1wAbDXyh4xEyWQjBAUEAwf///////////38DARcBAME=) 
 
+
+
+
+
 Heavenly Nurse 
+
+
 (Sweet Release +6 / Restoration +5) 
+
+
 (Team Health Regeneration +247.9) 
+
+
 BL2(BwAAAAB6wAAbDXyh4xEyGQbBAUEAwf///////////38DgRYBAME=) 
 
+
+
+
+
 Heavenly Nurse 
+
+
 (Sweet Release +6 / Elated +5) 
+
+
 (Team Health Regeneration +247.9) 
+
+
 BL2(BwAAAACrIgAbDXyh4xEyWQXBAUEAwf///////////38DgRYBAME=) 
 
+
+
+
+
 Cunning Fox 
-(Reaper +6 / Blight Phoenix +5) 
+
+
+(Reaper+6 / Blight Phoenix +5) 
+
+
 (Burn Chance +40% / Burn Damage +40%) 
+
+
 BL2(BwAAAACIJgALDXyhAxEyGQbBAUEAwf///////////38DwRgBAME=) 
 
+
+
+
+
 Cunning Fox 
-(Reaper +6 / Helios +5) 
+
+
+(Reaper+6 / Helios +5) 
+
+
 (Burn Chance +40% / Burn Damage +40%) 
+
+
 BL2(BwAAAABZxAALDXyhAxEyWQXBAUEAwf///////////38DwRgBAME=) 
 
+
+
+
+
 Plague Fox 
+
+
 (Blight Phoenix +6 / Helios +5) 
+
+
 (Burn Chance +40% / Burn Damage +40%) 
+
+
 BL2(BwAAAAAa5wALDXyhAxEyGQnBAUEAwf///////////38DQRkBAME=) 
 
+
+
+
+
 Plague Fox 
-(Blight Phoenix +6 / Reaper +5) 
+
+
+(Blight Phoenix +6 / Reaper+5) 
+
+
 (Burn Chance +40% / Burn Damage +40%) 
+
+
 BL2(BwAAAADeMQALDXyhAxEyWQjBAUEAwf///////////38DQRkBAME=) 
 
+
+
+
+
 Hell Fox 
+
+
 (Helios +6 / Blight Phoenix +5) 
+
+
 (Burn Chance +40% / Burn Damage +40%) 
+
+
 BL2(BwAAAAC70gALDXyhAxEymQfBAUEAwf///////////38DARkBAME=) 
 
+
+
+
+
 Hell Fox 
-(Helios +6 / Reaper +5) 
+
+
+(Helios +6 / Reaper+5) 
+
+
 (Burn Chance +40% / Burn Damage +40%) 
+
+
 BL2(BwAAAAB/BAALDXyhAxEy2QbBAUEAwf///////////38DARkBAME=) 
 
+
+
+
+
 Blurred Trickster 
+
+
 (Chain Reaction +6 / Life Tap +5) 
+
+
 (Fire Rate +26%) 
+
+
 BL2(BwAAAACXaAAJDXyhoxAyGQbBAUEAwf///////////38DgRUBAME=) 
 
+
+
+
+
 Blurred Trickster 
+
+
 (Chain Reaction +6 / Kinetic Reflection +5) 
+
+
 (Fire Rate +26%) 
+
+
 BL2(BwAAAABGigAJDXyhoxAyWQXBAUEAwf///////////38DgRUBAME=) 
 
+
+
+
+
 Thieving Trickster 
+
+
 (Life Tap +6 / Kinetic Reflection +5) 
+
+
 (Fire Rate +26%) 
+
+
 BL2(BwAAAADpagAJDXyhoxAyGQnBAUEAwf///////////38DARYBAME=) 
 
+
+
+
+
 Thieving Trickster 
+
+
 (Life Tap +6 / Chain Reaction +5) 
+
+
 (Fire Rate +26%) 
+
+
 BL2(BwAAAAAtvAAJDXyhoxAyWQjBAUEAwf///////////38DARYBAME=) 
 
+
+
+
+
 Mirrored Trickster 
+
+
 (Kinetic Reflection +6 / LifeTap +5) 
+
+
 (Fire Rate +26%) 
+
+
 BL2(BwAAAADegQAJDXyhoxAymQfBAUEAwf///////////38DwRUBAME=) 
 
+
+
+
+
 Mirrored Trickster 
+
+
 (Kinetic Reflection +6 / Chain Reaction +5) 
+
+
 (Fire Rate +26%) 
+
+
 BL2(BwAAAAAaVwAJDXyhoxAy2QbBAUEAwf///////////38DwRUBAME=) 
 
+
+
+
+
 Hell Witch 
+
+
 (Helios +6 / Flicker +5) 
+
+
 (Corrode Chance +40% / Corrode Damage +40%) 
+
+
 BL2(BwAAAAA4NQAHDXyhAxEyGQnBAUEAwf///////////38DARQBAME=) 
 
+
+
+
+
 Hell Witch 
+
+
 (Helios +6 / Kinetic Reflection +5) 
+
+
 (Corrode Chance +40% / Corrode Damage +40%) 
+
+
 BL2(BwAAAAD84wAHDXyhAxEyWQjBAUEAwf///////////38DARQBAME=) 
 
+
+
+
+
 Splatter Witch 
+
+
 (Flicker +6 / Helios +5) 
+
+
 (Corrode Chance +40% / Corrode Damage +40%) 
+
+
 BL2(BwAAAADWWQAHDXyhAxEymQfBAUEAwf///////////38DwRMBAME=) 
 
+
+
+
+
 Splatter Witch 
+
+
 (Flicker +6 / Kinetic Reflection +5) 
+
+
 (Corrode Chance +40% / Corrode Damage +40%) 
+
+
 BL2(BwAAAAASjwAHDXyhAxEy2QbBAUEAwf///////////38DwRMBAME=) 
 
+
+
+
+
 Bullet Witch 
+
+
 (Kinetic Reflection +6 / Helios +5) 
+
+
 (Corrode Chance +40% / Corrode Damage +40%) 
+
+
 BL2(BwAAAACfsAAHDXyhAxEyGQbBAUEAwf///////////38DgRMBAME=) 
 
+
+
+
+
 Bullet Witch 
+
+
 (Kinetic Reflection +6 / Flicker +5) 
+
+
 (Corrode Chance +40% / Corrode Damage +40%) 
+
+
 BL2(BwAAAABOUgAHDXyhAxEyWQXBAUEAwf///////////38DgRMBAME=) 
 
+
+
+
+
 Wild Cat 
+
+
 (Accelerate +6 / Mind's Eye +5) 
+
+
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
+
+
 BL2(BwAAAAAxUwAMDXyhwxAyGQbBAUEAwf///////////38DwRkBAME=) 
 
+
+
+
+
 Wild Cat (Accelerate +6 / Wreck +5) 
+
+
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
+
+
 BL2(BwAAAADgsQAMDXyhwxAyWQXBAUEAwf///////////38DwRkBAME=) 
 
+
+
+
+
 Killer Cat 
+
+
 (Mind's Eye +6 / Wreck +5) 
+
+
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
+
+
 BL2(BwAAAABPUQAMDXyhwxAyGQnBAUEAwf///////////38DQRoBAME=) 
 
+
+
+
+
 Killer Cat 
+
+
 (Mind's Eye +6 / Accelerate +5) 
+
+
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
+
+
 BL2(BwAAAACLhwAMDXyhwxAyWQjBAUEAwf///////////38DQRoBAME=) 
 
+
+
+
+
 Scheming Cat 
+
+
 (Wreck +6 / Mind's Eye +5) 
+
+
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
+
+
 BL2(BwAAAADuZAAMDXyhwxAymQfBAUEAwf///////////38DARoBAME=) 
 
+
+
+
+
 Scheming Cat 
+
+
 (Wreck +6 / Accelerate +5) 
+
+
 (SMG Gun Damage +95% / SMG Accuracy -24%) 
+
+
 BL2(BwAAAAAqsgAMDXyhwxAy2QbBAUEAwf///////////38DARoBAME=) 
 
+
+
+
+
 Relentless Matriarch 
+
+
 (Sustenance +6 / Life Tap +5) 
+
+
 (Max Health +9105 / Magazine Size +36%) 
+
+
 BL2(BwAAAADZGQAKDXyhAxIymQfBAUEAwf///////////38DwRcBAME=) 
 
+
+
+
+
 Relentless Matriarch 
+
+
 (Sustenance +6 / Elated +5) 
+
+
 (Max Health +9105 / Magazine Size +36%) 
+
+
 BL2(BwAAAAAdzwAKDXyhAxIy2QbBAUEAwf///////////38DwRcBAME=) 
 
+
+
+
+
 Leeching Matriarch 
+
+
 (Life Tap +6 / Sustenance +5) 
+
+
 (Max Health +9105 / Magazine Size +36%) 
+
+
 BL2(BwAAAABZSwAKDXyhAxIyGQnBAUEAwf///////////38DARgBAME=) 
 
+
+
+
+
 Leeching Matriarch 
+
+
 (Life Tap +6 / Elated +5) 
+
+
 (Max Health +9105 / Magazine Size +36%) 
+
+
 BL2(BwAAAACdnQAKDXyhAxIyWQjBAUEAwf///////////38DARgBAME=) 
 
+
+
+
+
 Angelic Matriarch 
+
+
 (Elated +6 / Life Tap +5) 
+
+
 (Max Health +9105 / Magazine Size +36%) 
+
+
 BL2(BwAAAACQ8AAKDXyhAxIyGQbBAUEAwf///////////38DgRcBAME=) 
 
+
+
+
+
 Angelic Matriarch 
+
+
 (Elated +6 / Sustenance +5) 
+
+
 (Max Health +9105 / Magazine Size +36%) 
+
+
 BL2(BwAAAABBEgAKDXyhAxIyWQXBAUEAwf///////////38DgRcBAME=)
 
-Chaotic Evil Cleric Class Mod	
+
+
+
+
+**Chaotic Evil Cleric**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Suspension Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAACOgwkUFAOwEBG9HgnBAUEAwf///////////38DAQUhAME=)
 
-Chaotic Evil Cleric Class Mod	
+
+
+
+
+**Chaotic Evil Cleric**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAABKVQkUFAOwEBG9XgjBAUEAwf///////////38DAQUhAME=)
 
-Chaotic Evil Cleric Class Mod	
+
+
+
+
+**Chaotic Evil Cleric**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAAAexAkUFAOwEBG9ngfBAUEAwf///////////38DAQUhAME=)
 
-Chaotic Evil Cleric Class Mod	
+
+
+
+
+**Chaotic Evil Cleric**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Restoration Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAADaEgkUFAOwEBG93gbBAUEAwf///////////38DAQUhAME=)
 
-Chaotic Evil Cleric Class Mod	
+
+
+
+
+**Chaotic Evil Cleric**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAABmXwkUFAOwEBG9HgbBAUEAwf///////////38DAQUhAME=)
 
-Chaotic Evil Cleric Class Mod	
+
+
+
+
+**Chaotic Evil Cleric**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAAC3vQkUFAOwEBG9XgXBAUEAwf///////////38DAQUhAME=)
 
-Chaotic Good Cleric Class Mod	
+
+
+
+
+**Chaotic Good Cleric**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Suspension Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAAD92gkQFAOwEBG9HgnBAUEAwf///////////38DAQQhAME=)
 
-Chaotic Good Cleric Class Mod	
+
+
+
+
+**Chaotic Good Cleric**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAAA5DAkQFAOwEBG9XgjBAUEAwf///////////38DAQQhAME=)
 
-Chaotic Good Cleric Class Mod	
+
+
+
+
+**Chaotic Good Cleric**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAABtnQkQFAOwEBG9ngfBAUEAwf///////////38DAQQhAME=)
 
-Chaotic Good Cleric Class Mod	
+
+
+
+
+**Chaotic Good Cleric**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Restoration Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAACpSwkQFAOwEBG93gbBAUEAwf///////////38DAQQhAME=)
 
-Chaotic Good Cleric Class Mod	
+
+
+
+
+**Chaotic Good Cleric**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAAAVBgkQFAOwEBG9HgbBAUEAwf///////////38DAQQhAME=)
 
-Chaotic Good Cleric Class Mod	
+
+
+
+
+**Chaotic Good Cleric**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAADE5AkQFAOwEBG9XgXBAUEAwf///////////38DAQQhAME=)
 
-Chaotic Neutral Cleric Class Mod	
+
+
+
+
+**Chaotic Neutral Cleric**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Suspension Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAACNAQkPFAOwEBG9HgnBAUEAwf///////////38DwQMhAME=)
 
-Chaotic Neutral Cleric Class Mod	
+
+
+
+
+**Chaotic Neutral Cleric**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAABJ1wkPFAOwEBG9XgjBAUEAwf///////////38DwQMhAME=)
 
-Chaotic Neutral Cleric Class Mod	
+
+
+
+
+**Chaotic Neutral Cleric**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAAAdRgkPFAOwEBG9ngfBAUEAwf///////////38DwQMhAME=)
 
-Chaotic Neutral Cleric Class Mod	
+
+
+
+
+**Chaotic Neutral Cleric**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Restoration Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAADZkAkPFAOwEBG93gbBAUEAwf///////////38DwQMhAME=)
 
-Chaotic Neutral Cleric Class Mod	
+
+
+
+
+**Chaotic Neutral Cleric**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAABl3QkPFAOwEBG9HgbBAUEAwf///////////38DwQMhAME=)
 
-Chaotic Neutral Cleric Class Mod	
+
+
+
+
+**Chaotic Neutral Cleric**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAAC0PwkPFAOwEBG9XgXBAUEAwf///////////38DwQMhAME=)
 
-Lawful Evil Cleric Class Mod	
+
+
+
+
+**Lawful Evil Cleric**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Suspension Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAABLgQkVFAOwEBG9HgnBAUEAwf///////////38DQQUhAME=)
 
-Lawful Evil Cleric Class Mod	
+
+
+
+
+**Lawful Evil Cleric**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAACPVwkVFAOwEBG9XgjBAUEAwf///////////38DQQUhAME=)
 
-Lawful Evil Cleric Class Mod	
+
+
+
+
+**Lawful Evil Cleric**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAADbxgkVFAOwEBG9ngfBAUEAwf///////////38DQQUhAME=)
 
-Lawful Evil Cleric Class Mod	
+
+
+
+
+**Lawful Evil Cleric**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Restoration Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAAAfEAkVFAOwEBG93gbBAUEAwf///////////38DQQUhAME=)
 
-Lawful Evil Cleric Class Mod	
+
+
+
+
+**Lawful Evil Cleric**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAACjXQkVFAOwEBG9HgbBAUEAwf///////////38DQQUhAME=)
 
-Lawful Evil Cleric Class Mod	
+
+
+
+
+**Lawful Evil Cleric**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAAByvwkVFAOwEBG9XgXBAUEAwf///////////38DQQUhAME=)
 
-Lawful Good Cleric Class Mod	
+
+
+
+
+**Lawful Good Cleric**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Suspension Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAAA42AkRFAOwEBG9HgnBAUEAwf///////////38DQQQhAME=)
 
-Lawful Good Cleric Class Mod	
+
+
+
+
+**Lawful Good Cleric**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAAD8DgkRFAOwEBG9XgjBAUEAwf///////////38DQQQhAME=)
 
-Lawful Good Cleric Class Mod	
+
+
+
+
+**Lawful Good Cleric**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAAConwkRFAOwEBG9ngfBAUEAwf///////////38DQQQhAME=)
 
-Lawful Good Cleric Class Mod	
+
+
+
+
+**Lawful Good Cleric**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Restoration Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAABsSQkRFAOwEBG93gbBAUEAwf///////////38DQQQhAME=)
 
-Lawful Good Cleric Class Mod	
+
+
+
+
+**Lawful Good Cleric**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAADQBAkRFAOwEBG9HgbBAUEAwf///////////38DQQQhAME=)
 
-Lawful Good Cleric Class Mod	
+
+
+
+
+**Lawful Good Cleric**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAAAB5gkRFAOwEBG9XgXBAUEAwf///////////38DQQQhAME=)
 
-Lawful Neutral Cleric Class Mod	
+
+
+
+
+**Lawful Neutral Cleric**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Suspension Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAACJowkNFAOwEBG9HgnBAUEAwf///////////38DgQMhAME=)
 
-Lawful Neutral Cleric Class Mod	
+
+
+
+
+**Lawful Neutral Cleric**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAABNdQkNFAOwEBG9XgjBAUEAwf///////////38DgQMhAME=)
 
-Lawful Neutral Cleric Class Mod	
+
+
+
+
+**Lawful Neutral Cleric**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAAAZ5AkNFAOwEBG9ngfBAUEAwf///////////38DgQMhAME=)
 
-Lawful Neutral Cleric Class Mod	
+
+
+
+
+**Lawful Neutral Cleric**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Restoration Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAADdMgkNFAOwEBG93gbBAUEAwf///////////38DgQMhAME=)
 
-Lawful Neutral Cleric Class Mod	
+
+
+
+
+**Lawful Neutral Cleric**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAABhfwkNFAOwEBG9HgbBAUEAwf///////////38DgQMhAME=)
 
-Lawful Neutral Cleric Class Mod	
+
+
+
+
+**Lawful Neutral Cleric**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAACwnQkNFAOwEBG9XgXBAUEAwf///////////38DgQMhAME=)
 
-Neutral Evil Cleric Class Mod	
+
+
+
+
+**Neutral Evil Cleric**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Suspension Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAABv7AkTFAOwEBG9HgnBAUEAwf///////////38DwQQhAME=)
 
-Neutral Evil Cleric Class Mod	
+
+
+
+
+**Neutral Evil Cleric**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAACrOgkTFAOwEBG9XgjBAUEAwf///////////38DwQQhAME=)
 
-Neutral Evil Cleric Class Mod	
+
+
+
+
+**Neutral Evil Cleric**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAAD/qwkTFAOwEBG9ngfBAUEAwf///////////38DwQQhAME=)
 
-Neutral Evil Cleric Class Mod	
+
+
+
+
+**Neutral Evil Cleric**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Restoration Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAAA7fQkTFAOwEBG93gbBAUEAwf///////////38DwQQhAME=)
 
-Neutral Evil Cleric Class Mod	
+
+
+
+
+**Neutral Evil Cleric**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAACHMAkTFAOwEBG9HgbBAUEAwf///////////38DwQQhAME=)
 
-Neutral Evil Cleric Class Mod	
+
+
+
+
+**Neutral Evil Cleric**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAABW0gkTFAOwEBG9XgXBAUEAwf///////////38DwQQhAME=)
 
-Neutral Good Cleric Class Mod	
+
+
+
+
+**Neutral Good Cleric**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Suspension Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAACq7gkSFAOwEBG9HgnBAUEAwf///////////38DgQQhAME=)
 
-Neutral Good Cleric Class Mod	
+
+
+
+
+**Neutral Good Cleric**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAABuOAkSFAOwEBG9XgjBAUEAwf///////////38DgQQhAME=)
 
-Neutral Good Cleric Class Mod	
+
+
+
+
+**Neutral Good Cleric**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAAA6qQkSFAOwEBG9ngfBAUEAwf///////////38DgQQhAME=)
 
-Neutral Good Cleric Class Mod	
+
+
+
+
+**Neutral Good Cleric**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Restoration Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAAD+fwkSFAOwEBG93gbBAUEAwf///////////38DgQQhAME=)
 
-Neutral Good Cleric Class Mod	
+
+
+
+
+**Neutral Good Cleric**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAABCMgkSFAOwEBG9HgbBAUEAwf///////////38DgQQhAME=)
 
-Neutral Good Cleric Class Mod	
+
+
+
+
+**Neutral Good Cleric**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAACT0AkSFAOwEBG9XgXBAUEAwf///////////38DgQQhAME=)
 
-True Neutral Cleric Class Mod	
+
+
+
+
+**True Neutral Cleric**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Suspension Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAAAuRQkMFAOwEBG9HgnBAUEAwf///////////38DQQMhAME=)
 
-True Neutral Cleric Class Mod	
+
+
+
+
+**True Neutral Cleric**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Suspension Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAADqkwkMFAOwEBG9XgjBAUEAwf///////////38DQQMhAME=)
 
-True Neutral Cleric Class Mod	
+
+
+
+
+**True Neutral Cleric**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Restoration Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAAC+AgkMFAOwEBG9ngfBAUEAwf///////////38DQQMhAME=)
 
-True Neutral Cleric Class Mod	
+
+
+
+
+**True Neutral Cleric**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Restoration Skill] [+5 Life Tap Skill]	
+
+
 BL2(BwAAAAB61AkMFAOwEBG93gbBAUEAwf///////////38DQQMhAME=)
 
-True Neutral Cleric Class Mod	
+
+
+
+
+**True Neutral Cleric**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Life Tap Skill] [+5 Suspension Skill]	
+
+
 BL2(BwAAAADGmQkMFAOwEBG9HgbBAUEAwf///////////38DQQMhAME=)
 
-True Neutral Cleric Class Mod	
+
+
+
+
+**True Neutral Cleric**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Life Tap Skill] [+5 Restoration Skill]	
+
+
 BL2(BwAAAAAXewkMFAOwEBG9XgXBAUEAwf///////////38DQQMhAME=)
+
+
+
+
 
 ![TKBTKFK](https://github.com/user-attachments/assets/2ab8868d-0f95-41f4-8ddd-d79094d0234f)
 
+
+
+
+
 Legendary Mechromancer 
+
+
 (Cooking Up Trouble / The Better Half / 20% Cooler / More Pep / Strength of Five Gorillas / Smaller, Lighter, Faster) 
+
+
 (Cooldown Rate +35%) 
+
+
 BL2(BwAAAACI7AIKAQUI0BAyGQXBAUEAwf///////////38DQQsgAME=) 
 
+
+
+
+
 Legendary Roboteer
+
+
 BL2(BwAAAACZAQoWAA0AsBBIJAXBAUEAwf///////////78EQQMgAME=)
 
+
+
+
+
 Legendary Catalyst
+
+
 BL2(BwAAAAC/mwoVAA0AEBFIJAXBAUEAwf///////////78EgQMgAME=)
 
+
+
+
+
 Legendary Anarchist
+
+
 BL2(BwAAAADONQoUAA0AsBBIJAXBAUEAwf///////////78EwQMgAME=)
 
-Slayer Of Terramorphous 
+
+
+
+
+**Slayer Of Terramorphous**
+
+
 (Fancy Mathematics / Made of Sterner Stuff / Evil Enchantress / Interspersed Outburst / Preshrunk Cyberpunk) 
+
+
 (Burn Damage +26% / Burn Chance +26% / Max Health +8294) 
+
+
 BL2(BwAAAAAiwAIBAQMIEBEyGQXBAUEAwf///////////38DwQkBAME=)
+
+
+
+
 
 ![LnYGOgL](https://github.com/user-attachments/assets/f5223648-0ee8-46c3-9579-08da3e7bd0c5)
 
+
+
+
+
 Improved Jill Of All Trades 
+
+
 (The Better Half +5 / More Pep +4 / Smaller, Lighter, Faster +4) 
+
+
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
+
+
 BL2(BwAAAACojgIDAQcI8BAyGQfBAUEAwf///////////38DgQMgAME=) 
 
+
+
+
+
 Speedy Jill Of All Trades 
+
+
 (Smaller, Lighter, Faster +5 / The Better Half +4 / More Pep +4) 
+
+
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
+
+
 BL2(BwAAAABytQIDAQcI8BAymQXBAUEAwf///////////38DQQMgAME=) 
 
+
+
+
+
 Peppy Jill Of All Trades 
+
+
 (More Pep +5 / Smaller, Lighter, Faster +4 / The Better Half +4) 
+
+
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
+
+
 BL2(BwAAAADtuQIDAQcI8BAymQjBAUEAwf///////////38DwQMgAME=) 
 
+
+
+
+
 Peppy Prodigy 
+
+
 (More Pep +5 / The Better Half +4 / Cooking Up Trouble +4) 
+
+
 (Weapon Accuracy +26% / Reload Speed +45%) 
+
+
 BL2(BwAAAABCcAIHAQcIUBAymQXBAUEAwf///////////38DQQggAME=) 
 
+
+
+
+
 Superior Prodigy 
+
+
 (The Better Half +5 / More Pep +4 / Cooking Up Trouble +4) 
+
+
 (Weapon Accuracy +26% / Reload Speed +45%) 
+
+
 BL2(BwAAAACYSwIHAQcIUBAyGQfBAUEAwf///////////38DgQggAME=) 
 
+
+
+
+
 Patient Prodigy 
+
+
 (Cooking Up Trouble +5 / More Pep +4 / The Better Half +4) 
+
+
 (Weapon Accuracy +26% / Reload Speed +45%) 
+
+
 BL2(BwAAAADdfAIHAQcIUBAymQjBAUEAwf///////////38DwQggAME=) 
 
+
+
+
+
 Speedy Punk 
+
+
 (Smaller, Lighter, Faster +5 / Annoyed Android +4 / The Better Half +4) 
+
+
 (Fire Rate +20% / Magazine Size -20%) 
+
+
 BL2(BwAAAABgAAIEAQcIMBAyGQfBAUEAwf///////////38DwQQgAME=) 
 
+
+
+
+
 Paranoid Punk 
+
+
 (Annoyed Android +5 / Smaller, Lighter, Faster +4 / The Better Half +4) 
+
+
 (Fire Rate +20% / Magazine Size -20%) 
+
+
 BL2(BwAAAACbXAIEAQcIMBAymQXBAUEAwf///////////38DgQsgAME=) 
 
+
+
+
+
 Superior Punk 
+
+
 (The Better Half +5 / Annoyed Android +4 / Smaller, Lighter, Faster +4) 
+
+
 (Fire Rate +20% / Magazine Size -20%) 
+
+
 BL2(BwAAAADFLgIEAQcIMBAymQjBAUEAwf///////////38DAQ4gAME=) 
 
+
+
+
+
 Stern Roboteer 
+
+
 (Made Of Sterner Stuff +5 / Potent As A Pony +4 / Strength Of Five Gorillas +4) 
+
+
 (Cooldown Rate +20% / Melee Damage +35%) 
+
+
 BL2(BwAAAAAPgQIAAQcI0BAymQXBAUEAwf///////////38DAQIgAME=) 
 
+
+
+
+
 Potent Roboteer 
+
+
 (Potent As A Pony +5 / Made Of Sterner Stuff +4 / Strength Of Five Gorillas +4) 
+
+
 (Cooldown Rate +20% / Melee Damage +35%) 
+
+
 BL2(BwAAAAAhgAIAAQcI0BAyGQfBAUEAwf///////////38DwQEgAME=) 
 
+
+
+
+
 Tenacious Roboteer 
+
+
 (Strength Of Five Gorillas +5 / Made Of Sterner Stuff +4 / Potent As A Pony +4) 
+
+
 (Cooldown Rate +20% / Melee Damage +35%) 
+
+
 BL2(BwAAAAD6hQIAAQcI0BAymQjBAUEAwf///////////38DwQwgAME=) 
 
+
+
+
+
 Wired Zapper 
+
+
 (Wires Don't Talk +5 / Electrical Burn +4 / More Pep +4) 
+
+
 (Electrocute Damage +26% / Chance To Shock +26%) 
+
+
 BL2(BwAAAADalAICAQcIEBEyGQfBAUEAwf///////////38DgQIgAME=) 
 
+
+
+
+
 Scorching Zapper 
+
+
 (Electrical Burn +5 / More Pep +4 / Wires Don't Talk +4) 
+
+
 (Electrocute Damage +26% / Chance To Shock +26%) 
+
+
 BL2(BwAAAAC7zAICAQcIEBEymQXBAUEAwf///////////38DwQYgAME=) 
 
+
+
+
+
 Peppy Zapper 
+
+
 (More Pep +5 / Electrical Burn +4 / Wires Don't Talk +4) 
+
+
 (Electrocute Damage +26% / Chance To Shock +26%) 
+
+
 BL2(BwAAAACfowICAQcIEBEymQjBAUEAwf///////////38DwQIgAME=) 
 
+
+
+
+
 Wired Catalyst 
+
+
 (Wires Don't Talk +5 / Evil Enchantress +4 / Shock Storm +4) 
+
+
 (Team Elemental Effect Damage +40%) 
+
+
 BL2(BwAAAADnNwIIAQcIEBEymQjBAUEAwf///////////38DwQkgAME=) 
 
+
+
+
+
 Ionized Catalyst 
+
+
 (Shock Storm +5 / Wires Don't Talk +4 / Evil Enchantress +4) 
+
+
 (Team Elemental Effect Damage +40%) 
+
+
 BL2(BwAAAAB4OwIIAQcIEBEymQXBAUEAwf///////////38DQQkgAME=) 
 
+
+
+
+
 Evil Catalyst 
+
+
 (Evil Enchantress +5 / Shock Storm +4 / Wires Don't Talk +4) 
+
+
 (Team Elemental Effect Damage +40%) 
+
+
 BL2(BwAAAACiAAIIAQcIEBEyGQfBAUEAwf///////////38DgQkgAME=) 
 
+
+
+
+
 Swift Anarchist 
+
+
 (Annoyed Android +5 / Death From Above +4 / Fancy Mathematics +4) 
+
+
 (Gun Damage +40% / Weapon Accuracy -35%) 
+
+
 BL2(BwAAAAD3yAIFAQcIsBAymQjBAUEAwf///////////38DwQsgAME=) 
 
+
+
+
+
 Calculating Anarchist 
+
+
 (Fancy Mathematics +5 / Death From Above +4 / Annoyed Android +4) 
+
+
 (Gun Damage +40% / Weapon Accuracy -35%) 
+
+
 BL2(BwAAAADM1AIFAQcIsBAyGQfBAUEAwf///////////38DQQwgAME=) 
 
+
+
+
+
 Airborne Anarchist 
+
+
 (Death From Above +5 / Annoyed Android +4 / Fancy Mathematics +4) 
+
+
 (Gun Damage +40% / Weapon Accuracy -35%) 
+
+
 BL2(BwAAAADuDwIFAQcIsBAymQXBAUEAwf///////////38DAQcgAME=) 
 
+
+
+
+
 Calculating Technophile 
+
+
 (Fancy Mathematics +5 / Strength Of Five Gorillas +4 / Interspersed Outburst +4) 
+
+
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
+
+
 BL2(BwAAAADuHQIGAQcIEBIyGQfBAUEAwf///////////38DgQcgAME=) 
 
+
+
+
+
 Tenacious Technophile 
+
+
 (Strength Of Five Gorillas +5 / Fancy Mathematics +4 / Interspersed Outburst +4) 
+
+
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
+
+
 BL2(BwAAAAAAXAIGAQcIEBIymQjBAUEAwf///////////38DgQwgAME=) 
 
+
+
+
+
 Manic Technophile 
+
+
 (Interspersed Outburst +5 / Strength Of Five Gorillas +4 / Fancy Mathematics +4) 
+
+
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
+
+
 BL2(BwAAAAA0JgIGAQcIEBIymQXBAUEAwf///////////38DQQcgAME=) 
 
+
+
+
+
 Peppy Sweetheart 
+
+
 (More Pep +5 / Cooking Up Trouble +4 / The Better Half +4) 
+
+
 (Team Max Health +6310) 
+
+
 BL2(BwAAAAB2qgILAQcI8BEymQjBAUEAwf///////////38DQQ0gAME=) 
 
+
+
+
+
 Patient Sweetheart 
+
+
 (Cooking Up Trouble +5 / More Pep +4 / The Better Half +4) 
+
+
 (Team Max Health +6310) 
+
+
 BL2(BwAAAABReQILAQcI8BEyGQfBAUEAwf///////////38DgQ0gAME=) 
 
+
+
+
+
 Superior Sweetheart 
+
+
 (The Better Half +5 / Cooking Up Trouble +4 / More Pep +4) 
+
+
 (Team Max Health +6310) 
+
+
 BL2(BwAAAADppgILAQcI8BEymQXBAUEAwf///////////38DwQ0gAME=)
 
-Chaotic Evil Necromancer Class Mod	
+
+
+
+
+**Chaotic Evil Necromancer**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAADN6QkvFAmwEBG9ngjBAUEAwf///////////38DgQohAME=)
 
-Chaotic Evil Necromancer Class Mod	
+
+
+
+
+**Chaotic Evil Necromancer**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAC5rAkvFAmwEBG9HgfBAUEAwf///////////38DgQohAME=)
 
-Chaotic Evil Necromancer Class Mod	
+
+
+
+
+**Chaotic Evil Necromancer**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAAwAQkvFAmwEBG9ngXBAUEAwf///////////38DgQohAME=)
 
-Chaotic Good Necromancer Class Mod	
+
+
+
+
+**Chaotic Good Necromancer**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAAlwgksFAmwEBG9ngjBAUEAwf///////////38DwQshAME=)
 
-Chaotic Good Necromancer Class Mod	
+
+
+
+
+**Chaotic Good Necromancer**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAABRhwksFAmwEBG9HgfBAUEAwf///////////38DwQshAME=)
 
-Chaotic Good Necromancer Class Mod	
+
+
+
+
+**Chaotic Good Necromancer**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAADYKgksFAmwEBG9ngXBAUEAwf///////////38DwQshAME=)
 
-Chaotic Neutral Necromancer Class Mod	
+
+
+
+
+**Chaotic Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAAFmQkqFAmwEBG9ngjBAUEAwf///////////38DAQwhAME=)
 
-Chaotic Neutral Necromancer Class Mod	
+
+
+
+
+**Chaotic Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAABx3AkqFAmwEBG9HgfBAUEAwf///////////38DAQwhAME=)
 
-Chaotic Neutral Necromancer Class Mod	
+
+
+
+
+**Chaotic Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAD4cQkqFAmwEBG9ngXBAUEAwf///////////38DAQwhAME=)
 
-Lawful Evil Necromancer Class Mod	
+
+
+
+
+**Lawful Evil Necromancer**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAADyawkwFAmwEBG9ngjBAUEAwf///////////38DwQohAME=)
 
-Lawful Evil Necromancer Class Mod	
+
+
+
+
+**Lawful Evil Necromancer**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAACGLgkwFAmwEBG9HgfBAUEAwf///////////38DwQohAME=)
 
-Lawful Evil Necromancer Class Mod	
+
+
+
+
+**Lawful Evil Necromancer**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAAPgwkwFAmwEBG9ngXBAUEAwf///////////38DwQohAME=)
 
-Lawful Good Necromancer Class Mod	
+
+
+
+
+**Lawful Good Necromancer**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAC+sAkrFAmwEBG9ngjBAUEAwf///////////38DgQshAME=)
 
-Lawful Good Necromancer Class Mod	
+
+
+
+
+**Lawful Good Necromancer**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAADK9QkrFAmwEBG9HgfBAUEAwf///////////38DgQshAME=)
 
-Lawful Good Necromancer Class Mod	
+
+
+
+
+**Lawful Good Necromancer**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAABDWAkrFAmwEBG9ngXBAUEAwf///////////38DgQshAME=)
 
-Lawful Neutral Necromancer Class Mod	
+
+
+
+
+**Lawful Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAD1SwkpFAmwEBG9ngjBAUEAwf///////////38DQQwhAME=)
 
-Lawful Neutral Necromancer Class Mod	
+
+
+
+
+**Lawful Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAACBDgkpFAmwEBG9HgfBAUEAwf///////////38DQQwhAME=)
 
-Lawful Neutral Necromancer Class Mod	
+
+
+
+
+**Lawful Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAAIowkpFAmwEBG9ngXBAUEAwf///////////38DQQwhAME=)
 
-Neutral Evil Necromancer Class Mod	
+
+
+
+
+**Neutral Evil Necromancer**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAABDhAkuFAmwEBG9ngjBAUEAwf///////////38DAQshAME=)
 
-Neutral Evil Necromancer Class Mod	
+
+
+
+
+**Neutral Evil Necromancer**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAA3wQkuFAmwEBG9HgfBAUEAwf///////////38DAQshAME=)
 
-Neutral Evil Necromancer Class Mod	
+
+
+
+
+**Neutral Evil Necromancer**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAC+bAkuFAmwEBG9ngXBAUEAwf///////////38DAQshAME=)
 
-Neutral Good Necromancer Class Mod	
+
+
+
+
+**Neutral Good Necromancer**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAACzVgktFAmwEBG9ngjBAUEAwf///////////38DQQshAME=)
 
-Neutral Good Necromancer Class Mod	
+
+
+
+
+**Neutral Good Necromancer**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAADHEwktFAmwEBG9HgfBAUEAwf///////////38DQQshAME=)
 
-Neutral Good Necromancer Class Mod	
+
+
+
+
+**Neutral Good Necromancer**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAABOvgktFAmwEBG9ngXBAUEAwf///////////38DQQshAME=)
 
-True Neutral Necromancer Class Mod	
+
+
+
+
+**True Neutral Necromancer**	
+
+
 [Magazine Size +73%]	
+
+
 [+5 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAA0fwkoFAmwEBG9ngjBAUEAwf///////////38DQQohAME=)
 
-True Neutral Necromancer Class Mod	
+
+
+
+
+**True Neutral Necromancer**	
+
+
 [Magazine Size +73%]	
+
+
 [+5 Wires Don't Talk Skill] [+4 Strength of 5 Gorillas Skill] [+4 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAABAOgkoFAmwEBG9HgfBAUEAwf///////////38DQQohAME=)
 
-True Neutral Necromancer Class Mod	
+
+
+
+
+**True Neutral Necromancer**	
+
+
 [Magazine Size +73%]	
+
+
 [+5 Made of Sterner Stuff Skill] [+4 Strength of 5 Gorillas Skill] [+4 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAADJlwkoFAmwEBG9ngXBAUEAwf///////////38DQQohAME=)
+
+
+
+
 
 ![cwofTPU](https://github.com/user-attachments/assets/dce24a50-5e30-4459-9faa-204817e7f074)
 
+
+
+
+
 Improved Jill Of All Trades 
+
+
 (The Better Half +6 / More Pep +5) 
+
+
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
+
+
 BL2(BwAAAADREgIDAQkI8BAymQfBAUEAwf///////////38DgQMgAME=) 
 
+
+
+
+
 Improved Jill Of All Trades 
+
+
 (The Better Half +6 / Smaller, Lighter, Faster +5) 
+
+
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
+
+
 BL2(BwAAAAAVxAIDAQkI8BAy2QbBAUEAwf///////////38DgQMgAME=) 
 
+
+
+
+
 Speedy Jill Of All Trades 
+
+
 (Smaller, Lighter, Faster +6 / More Pep +5) 
+
+
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
+
+
 BL2(BwAAAAD6HwIDAQkI8BAyGQbBAUEAwf///////////38DQQMgAME=) 
 
+
+
+
+
 Speedy Jill Of All Trades 
+
+
 (Smaller, Lighter, Faster +6 / The Better half +5) 
+
+
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
+
+
 BL2(BwAAAAAr/QIDAQkI8BAyWQXBAUEAwf///////////38DQQMgAME=) 
 
+
+
+
+
 Peppy Jill Of All Trades 
+
+
 (More Pep +6 / The Better Half +5) 
+
+
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
+
+
 BL2(BwAAAABwJwIDAQkI8BAyGQnBAUEAwf///////////38DwQMgAME=) 
 
+
+
+
+
 Peppy Jill Of All Trades 
+
+
 (More Pep +6 / Smaller, Lighter, Faster +5) 
+
+
 (Assault Rifle Damage +36% / Assault Rifle Magazine Size +40%) 
+
+
 BL2(BwAAAAC08QIDAQkI8BAyWQjBAUEAwf///////////38DwQMgAME=) 
 
+
+
+
+
 Peppy Prodigy 
+
+
 (More Pep +6 / Cooking Up Trouble +5) 
+
+
 (Weapon Accuracy +26% / Reload Speed +45%) 
+
+
 BL2(BwAAAADK2gIHAQkIUBAyGQbBAUEAwf///////////38DQQggAME=) 
 
+
+
+
+
 Peppy Prodigy 
+
+
 (More Pep +6 / The Better Half +5) 
+
+
 (Weapon Accuracy +26% / Reload Speed +45%) 
+
+
 BL2(BwAAAAAbOAIHAQkIUBAyWQXBAUEAwf///////////38DQQggAME=) 
 
+
+
+
+
 Superior Prodigy 
+
+
 (The Better Half +6 / Cooking Up Trouble +5) 
+
+
 (Weapon Accuracy +26% / Reload Speed +45%) 
+
+
 BL2(BwAAAADh1wIHAQkIUBAymQfBAUEAwf///////////38DgQggAME=) 
 
+
+
+
+
 Superior Prodigy 
+
+
 (The Better Half +6 / More Pep +5) 
+
+
 (Weapon Accuracy +26% / Reload Speed +45%) 
+
+
 BL2(BwAAAAAlAQIHAQkIUBAy2QbBAUEAwf///////////38DgQggAME=) 
 
+
+
+
+
 Patient Prodigy 
+
+
 (Cooking Up Trouble +6 / The Better Half +5) 
+
+
 (Weapon Accuracy +26% / Reload Speed +45%) 
+
+
 BL2(BwAAAABA4gIHAQkIUBAyGQnBAUEAwf///////////38DwQggAME=) 
 
+
+
+
+
 Patient Prodigy 
+
+
 (Cooking Up Trouble +6 / More Pep +5) 
+
+
 (Weapon Accuracy +26% / Reload Speed +45%) 
+
+
 BL2(BwAAAACENAIHAQkIUBAyWQjBAUEAwf///////////38DwQggAME=) 
 
+
+
+
+
 Speedy Punk 
+
+
 (Smaller, Lighter, Faster +6 / The Better Half +5) 
+
+
 (Fire Rate +20% / Magazine Size -20%) 
+
+
 BL2(BwAAAAAZnAIEAQkIMBAymQfBAUEAwf///////////38DwQQgAME=) 
 
+
+
+
+
 Speedy Punk 
+
+
 (Smaller, Lighter, Faster +6 / Annoyed Android +5) 
+
+
 (Fire Rate +20% / Magazine Size -20%) 
+
+
 BL2(BwAAAADdSgIEAQkIMBAy2QbBAUEAwf///////////38DwQQgAME=) 
 
+
+
+
+
 Paranoid Punk 
+
+
 (Annoyed Android +6 / The Better Half +5) 
+
+
 (Fire Rate +20% / Magazine Size -20%) 
+
+
 BL2(BwAAAAAT9gIEAQkIMBAyGQbBAUEAwf///////////38DgQsgAME=) 
 
+
+
+
+
 Paranoid Punk 
+
+
 (Annoyed Android +6 / Smaller, Lighter, Faster +5) 
+
+
 (Fire Rate +20% / Magazine Size -20%) 
+
+
 BL2(BwAAAADCFAIEAQkIMBAyWQXBAUEAwf///////////38DgQsgAME=) 
 
+
+
+
+
 Superior Punk 
+
+
 (The Better Half +6 / Smaller, Lighter, Faster +5) 
+
+
 (Fire Rate +20% / Magazine Size -20%) 
+
+
 BL2(BwAAAABYsAIEAQkIMBAyGQnBAUEAwf///////////38DAQ4gAME=) 
 
+
+
+
+
 Superior Punk 
+
+
 (The Better Half +6 / Annoyed Android +5) 
+
+
 (Fire Rate +20% / Magazine Size -20%) 
+
+
 BL2(BwAAAACcZgIEAQkIMBAyWQjBAUEAwf///////////38DAQ4gAME=) 
 
+
+
+
+
 Stern Roboteer 
+
+
 (Made Of Sterner Stuff +6 / Strength Of 5 Gorillas +5) 
+
+
 (Cooldown Rate +20% / Melee Damage +35%) 
+
+
 BL2(BwAAAACHKwIAAQkI0BAyGQbBAUEAwf///////////38DAQIgAME=) 
 
+
+
+
+
 Stern Roboteer 
+
+
 (Made Of Sterner Stuff +6 / Potent As A Pony +5) 
+
+
 (Cooldown Rate +20% / Melee Damage +35%) 
+
+
 BL2(BwAAAABWyQIAAQkI0BAyWQXBAUEAwf///////////38DAQIgAME=) 
 
+
+
+
+
 Potent Roboteer 
+
+
 (Potent As A Pony +6 / Strength Of 5 Gorillas +5) 
+
+
 (Cooldown Rate +20% / Melee Damage +35%) 
+
+
 BL2(BwAAAABYHAIAAQkI0BAymQfBAUEAwf///////////38DwQEgAME=) 
 
+
+
+
+
 Potent Roboteer 
+
+
 (Potent As A Pony +6 / Made Of Sterner Stuff +5) 
+
+
 (Cooldown Rate +20% / Melee Damage +35%) 
+
+
 BL2(BwAAAACcygIAAQkI0BAy2QbBAUEAwf///////////38DwQEgAME=) 
 
+
+
+
+
 Tenacious Roboteer 
+
+
 (Strength Of 5 Gorillas +6 / Potent As A Pony +5) 
+
+
 (Cooldown Rate +20% / Melee Damage +35%) 
+
+
 BL2(BwAAAABnGwIAAQkI0BAyGQnBAUEAwf///////////38DwQwgAME=) 
 
+
+
+
+
 Tenacious Roboteer 
+
+
 (Strength Of 5 Gorillas +6 / Made Of Sterner Stuff +5) 
+
+
 (Cooldown Rate +20% / Melee Damage +35%) 
+
+
 BL2(BwAAAACjzQIAAQkI0BAyWQjBAUEAwf///////////38DwQwgAME=) 
 
+
+
+
+
 Wired Zapper 
+
+
 (Wires Don't Talk +6 / More Pep +5) 
+
+
 (Electrocute Damage +26% / Chance To Shock +26%) 
+
+
 BL2(BwAAAACjCAICAQkIEBEymQfBAUEAwf///////////38DgQIgAME=) 
 
+
+
+
+
 Wired Zapper 
+
+
 (Wires Don't Talk +6 / Electrical Burn +5) 
+
+
 (Electrocute Damage +26% / Chance To Shock +26%) 
+
+
 BL2(BwAAAABn3gICAQkIEBEy2QbBAUEAwf///////////38DgQIgAME=) 
 
+
+
+
+
 Scorching Zapper 
+
+
 (Electrical Burn +6 / More Pep +5) 
+
+
 (Electrocute Damage +26% / Chance To Shock +26%) 
+
+
 BL2(BwAAAAAzZgICAQkIEBEyGQbBAUEAwf///////////38DwQYgAME=) 
 
+
+
+
+
 Scorching Zapper 
+
+
 (Electrical Burn +6 / Wires Don't Talk +5) 
+
+
 (Electrocute Damage +26% / Chance To Shock +26%) 
+
+
 BL2(BwAAAADihAICAQkIEBEyWQXBAUEAwf///////////38DwQYgAME=) 
 
+
+
+
+
 Peppy Zapper 
+
+
 (More Pep +6 / Wires Don't Talk +5) 
+
+
 (Electrocute Damage +26% / Chance To Shock +26%) 
+
+
 BL2(BwAAAAACPQICAQkIEBEyGQnBAUEAwf///////////38DwQIgAME=) 
 
+
+
+
+
 Peppy Zapper 
+
+
 (More Pep +6 / Electrical Burn +5) 
+
+
 (Electrocute Damage +26% / Chance To Shock +26%) 
+
+
 BL2(BwAAAADG6wICAQkIEBEyWQjBAUEAwf///////////38DwQIgAME=) 
 
+
+
+
+
 Wired Catalyst 
+
+
 (Wires Don't Talk +6 / Evil Enchantress +5) 
+
+
 (Team Elemental Effect Damage +40%) 
+
+
 BL2(BwAAAAB6qQIIAQkIEBEyGQnBAUEAwf///////////38DwQkgAME=) 
 
+
+
+
+
 Wired Catalyst 
+
+
 (Wires Don't Talk +6 / Shock Storm +5) 
+
+
 (Team Elemental Effect Damage +40%) 
+
+
 BL2(BwAAAAC+fwIIAQkIEBEyWQjBAUEAwf///////////38DwQkgAME=) 
 
+
+
+
+
 Ionized Catalyst 
+
+
 (Shock Storm +6 / Wires Don't Talk +5) 
+
+
 (Team Elemental Effect Damage +40%) 
+
+
 BL2(BwAAAADwkQIIAQkIEBEyGQbBAUEAwf///////////38DQQkgAME=) 
 
+
+
+
+
 Ionized Catalyst 
+
+
 (Shock Storm +6 / Evil Enchantress +5) 
+
+
 (Team Elemental Effect Damage +40%) 
+
+
 BL2(BwAAAAAhcwIIAQkIEBEyWQXBAUEAwf///////////38DQQkgAME=) 
 
+
+
+
+
 Evil Catalyst 
+
+
 (Evil Enchantress +6 / Wires Don't Talk +5) 
+
+
 (Team Elemental Effect Damage +40%) 
+
+
 BL2(BwAAAADbnAIIAQkIEBEymQfBAUEAwf///////////38DgQkgAME=) 
 
+
+
+
+
 Evil Catalyst 
+
+
 (Evil Enchantress +6 / Shock Storm +5) 
+
+
 (Team Elemental Effect Damage +40%) 
+
+
 BL2(BwAAAAAfSgIIAQkIEBEy2QbBAUEAwf///////////38DgQkgAME=) 
 
+
+
+
+
 Swift Anarchist 
+
+
 (Annoyed Android +6 / Fancy Mathematics +5) 
+
+
 (Gun Damage +40% / Weapon Accuracy -35%) 
+
+
 BL2(BwAAAABqVgIFAQkIsBAyGQnBAUEAwf///////////38DwQsgAME=) 
 
+
+
+
+
 Swift Anarchist (Annoyed Android +6 / Death From Above +5) 
+
+
 (Gun Damage +40% / Weapon Accuracy -35%) 
+
+
 BL2(BwAAAACugAIFAQkIsBAyWQjBAUEAwf///////////38DwQsgAME=) 
 
+
+
+
+
 Calculating Anarchist 
+
+
 (Fancy Mathematics +6 / Annoyed Android +5) 
+
+
 (Gun Damage +40% / Weapon Accuracy -35%) 
+
+
 BL2(BwAAAAC1SAIFAQkIsBAymQfBAUEAwf///////////38DQQwgAME=) 
 
+
+
+
+
 Calculating Anarchist 
+
+
 (Fancy Mathematics +6 / Death From Above +5) 
+
+
 (Gun Damage +40% / Weapon Accuracy -35%) 
+
+
 BL2(BwAAAABxngIFAQkIsBAy2QbBAUEAwf///////////38DQQwgAME=) 
 
+
+
+
+
 Airborne Anarchist 
+
+
 (Death From Above +6 / Annoyed Android +5) 
+
+
 (Gun Damage +40% / Weapon Accuracy -35%) 
+
+
 BL2(BwAAAABmpQIFAQkIsBAyGQbBAUEAwf///////////38DAQcgAME=) 
 
+
+
+
+
 Airborne Anarchist 
+
+
 (Death From Above +6 / Fancy Mathematics +5) 
+
+
 (Gun Damage +40% / Weapon Accuracy -35%) 
+
+
 BL2(BwAAAAC3RwIFAQkIsBAyWQXBAUEAwf///////////38DAQcgAME=) 
 
+
+
+
+
 Calculating Technophile 
+
+
 (Fancy Mathematics +6 / Strength Of 5 Gorillas +5) 
+
+
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
+
+
 BL2(BwAAAACXgQIGAQkIEBIymQfBAUEAwf///////////38DgQcgAME=) 
 
+
+
+
+
 Calculating Technophile 
+
+
 (Fancy Mathematics +6 / Interspersed Outburst +5) 
+
+
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
+
+
 BL2(BwAAAABTVwIGAQkIEBIy2QbBAUEAwf///////////38DgQcgAME=) 
 
+
+
+
+
 Tenacious Technophile (Strength Of 5 Gorillas +6 / Fancy Mathematics +5) 
+
+
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
+
+
 BL2(BwAAAACdwgIGAQkIEBIyGQnBAUEAwf///////////38DgQwgAME=) 
 
+
+
+
+
 Tenacious Technophile 
+
+
 (Strength Of 5 Gorillas +6 / Interspersed Outburst +5) 
+
+
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
+
+
 BL2(BwAAAABZFAIGAQkIEBIyWQjBAUEAwf///////////38DgQwgAME=) 
 
+
+
+
+
 Manic Technophile 
+
+
 (Interspersed Outburst +6 / Strength Of 5 Gorillas +5) 
+
+
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
+
+
 BL2(BwAAAAC8jAIGAQkIEBIyGQbBAUEAwf///////////38DQQcgAME=) 
 
+
+
+
+
 Manic Techonphile 
+
+
 (Interspersed Outburst +6 / Fancy Mathematics +5) 
+
+
 (Shield Capacity +5409 / Shield Recharge Rate +35%) 
+
+
 BL2(BwAAAABtbgIGAQkIEBIyWQXBAUEAwf///////////38DQQcgAME=) 
 
+
+
+
+
 Peppy Sweetheart (More Pep +6 / Cooking Up Trouble +5) 
+
+
 (Team Max Health +6310) 
+
+
 BL2(BwAAAADrNAILAQkI8BEyGQnBAUEAwf///////////38DQQ0gAME=) 
 
+
+
+
+
 Peppy Sweetheart 
+
+
 (More Pep +6 / The Better Half +5) 
+
+
 (Team Max Health +6310) 
+
+
 BL2(BwAAAAAv4gILAQkI8BEyWQjBAUEAwf///////////38DQQ0gAME=) 
 
+
+
+
+
 Patient Sweetheart 
+
+
 (Cooking Up Trouble +6 / More Pep +5) 
+
+
 (Team Max Health +6310) 
+
+
 BL2(BwAAAAAo5QILAQkI8BEymQfBAUEAwf///////////38DgQ0gAME=) 
 
+
+
+
+
 Patient Sweetheart 
+
+
 (Cooking Up Trouble +6 / The Better Half +5) 
+
+
 (Team Max Health +6310) 
+
+
 BL2(BwAAAADsMwILAQkI8BEy2QbBAUEAwf///////////38DgQ0gAME=) 
 
+
+
+
+
 Superior Sweetheart 
+
+
 (The Better Half +6 / More Pep +5) 
+
+
 (Team Max Health +6310) 
+
+
 BL2(BwAAAABhDAILAQkI8BEyGQbBAUEAwf///////////38DwQ0gAME=) 
 
+
+
+
+
 Superior Sweetheart 
+
+
 (The Better Half +6 / Cooking Up Trouble +5) 
+
+
 (Team Max Health +6310) 
+
+
 BL2(BwAAAACw7gILAQkI8BEyWQXBAUEAwf///////////38DwQ0gAME=)
 
-Chaotic Evil Necromancer Class Mod	
+
+
+
+
+**Chaotic Evil Necromancer**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAC1cgkvFAmwEBG9HgnBAUEAwf///////////38DgQohAME=)
 
-Chaotic Evil Necromancer Class Mod	
+
+
+
+
+**Chaotic Evil Necromancer**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAABxpAkvFAmwEBG9XgjBAUEAwf///////////38DgQohAME=)
 
-Chaotic Evil Necromancer Class Mod	
+
+
+
+
+**Chaotic Evil Necromancer**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAAAlNQkvFAmwEBG9ngfBAUEAwf///////////38DgQohAME=)
 
-Chaotic Evil Necromancer Class Mod	
+
+
+
+
+**Chaotic Evil Necromancer**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAADh4wkvFAmwEBG93gbBAUEAwf///////////38DgQohAME=)
 
-Chaotic Evil Necromancer Class Mod	
+
+
+
+
+**Chaotic Evil Necromancer**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAABdrgkvFAmwEBG9HgbBAUEAwf///////////38DgQohAME=)
 
-Chaotic Evil Necromancer Class Mod	
+
+
+
+
+**Chaotic Evil Necromancer**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAACMTAkvFAmwEBG9XgXBAUEAwf///////////38DgQohAME=)
 
-Chaotic Good Necromancer Class Mod	
+
+
+
+
+**Chaotic Good Necromancer**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAABdWQksFAmwEBG9HgnBAUEAwf///////////38DwQshAME=)
 
-Chaotic Good Necromancer Class Mod	
+
+
+
+
+**Chaotic Good Necromancer**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAACZjwksFAmwEBG9XgjBAUEAwf///////////38DwQshAME=)
 
-Chaotic Good Necromancer Class Mod	
+
+
+
+
+**Chaotic Good Necromancer**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAADNHgksFAmwEBG9ngfBAUEAwf///////////38DwQshAME=)
 
-Chaotic Good Necromancer Class Mod	
+
+
+
+
+**Chaotic Good Necromancer**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAAJyAksFAmwEBG93gbBAUEAwf///////////38DwQshAME=)
 
-Chaotic Good Necromancer Class Mod	
+
+
+
+
+**Chaotic Good Necromancer**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAAC1hQksFAmwEBG9HgbBAUEAwf///////////38DwQshAME=)
 
-Chaotic Good Necromancer Class Mod	
+
+
+
+
+**Chaotic Good Necromancer**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAABkZwksFAmwEBG9XgXBAUEAwf///////////38DwQshAME=)
 
-Chaotic Neutral Necromancer Class Mod	
+
+
+
+
+**Chaotic Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAB9AgkqFAmwEBG9HgnBAUEAwf///////////38DAQwhAME=)
 
-Chaotic Neutral Necromancer Class Mod	
+
+
+
+
+**Chaotic Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAC51AkqFAmwEBG9XgjBAUEAwf///////////38DAQwhAME=)
 
-Chaotic Neutral Necromancer Class Mod	
+
+
+
+
+**Chaotic Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAADtRQkqFAmwEBG9ngfBAUEAwf///////////38DAQwhAME=)
 
-Chaotic Neutral Necromancer Class Mod	
+
+
+
+
+**Chaotic Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAApkwkqFAmwEBG93gbBAUEAwf///////////38DAQwhAME=)
 
-Chaotic Neutral Necromancer Class Mod	
+
+
+
+
+**Chaotic Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAACV3gkqFAmwEBG9HgbBAUEAwf///////////38DAQwhAME=)
 
-Chaotic Neutral Necromancer Class Mod	
+
+
+
+
+**Chaotic Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAABEPAkqFAmwEBG9XgXBAUEAwf///////////38DAQwhAME=)
 
-Lawful Evil Necromancer Class Mod	
+
+
+
+
+**Lawful Evil Necromancer**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAACK8AkwFAmwEBG9HgnBAUEAwf///////////38DwQohAME=)
 
-Lawful Evil Necromancer Class Mod	
+
+
+
+
+**Lawful Evil Necromancer**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAABOJgkwFAmwEBG9XgjBAUEAwf///////////38DwQohAME=)
 
-Lawful Evil Necromancer Class Mod	
+
+
+
+
+**Lawful Evil Necromancer**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAAAatwkwFAmwEBG9ngfBAUEAwf///////////38DwQohAME=)
 
-Lawful Evil Necromancer Class Mod	
+
+
+
+
+**Lawful Evil Necromancer**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAADeYQkwFAmwEBG93gbBAUEAwf///////////38DwQohAME=)
 
-Lawful Evil Necromancer Class Mod	
+
+
+
+
+**Lawful Evil Necromancer**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAABiLAkwFAmwEBG9HgbBAUEAwf///////////38DwQohAME=)
 
-Lawful Evil Necromancer Class Mod	
+
+
+
+
+**Lawful Evil Necromancer**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAACzzgkwFAmwEBG9XgXBAUEAwf///////////38DwQohAME=)
 
-Lawful Good Necromancer Class Mod	
+
+
+
+
+**Lawful Good Necromancer**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAADGKwkrFAmwEBG9HgnBAUEAwf///////////38DgQshAME=)
 
-Lawful Good Necromancer Class Mod	
+
+
+
+
+**Lawful Good Necromancer**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAAC/QkrFAmwEBG9XgjBAUEAwf///////////38DgQshAME=)
 
-Lawful Good Necromancer Class Mod	
+
+
+
+
+**Lawful Good Necromancer**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAABWbAkrFAmwEBG9ngfBAUEAwf///////////38DgQshAME=)
 
-Lawful Good Necromancer Class Mod	
+
+
+
+
+**Lawful Good Necromancer**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAACSugkrFAmwEBG93gbBAUEAwf///////////38DgQshAME=)
 
-Lawful Good Necromancer Class Mod	
+
+
+
+
+**Lawful Good Necromancer**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAAAu9wkrFAmwEBG9HgbBAUEAwf///////////38DgQshAME=)
 
-Lawful Good Necromancer Class Mod	
+
+
+
+
+**Lawful Good Necromancer**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAD/FQkrFAmwEBG9XgXBAUEAwf///////////38DgQshAME=)
 
-Lawful Neutral Necromancer Class Mod	
+
+
+
+
+**Lawful Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAACN0AkpFAmwEBG9HgnBAUEAwf///////////38DQQwhAME=)
 
-Lawful Neutral Necromancer Class Mod	
+
+
+
+
+**Lawful Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAABJBgkpFAmwEBG9XgjBAUEAwf///////////38DQQwhAME=)
 
-Lawful Neutral Necromancer Class Mod	
+
+
+
+
+**Lawful Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAAAdlwkpFAmwEBG9ngfBAUEAwf///////////38DQQwhAME=)
 
-Lawful Neutral Necromancer Class Mod	
+
+
+
+
+**Lawful Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAADZQQkpFAmwEBG93gbBAUEAwf///////////38DQQwhAME=)
 
-Lawful Neutral Necromancer Class Mod	
+
+
+
+
+**Lawful Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAABlDAkpFAmwEBG9HgbBAUEAwf///////////38DQQwhAME=)
 
-Lawful Neutral Necromancer Class Mod	
+
+
+
+
+**Lawful Neutral Necromancer**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAC07gkpFAmwEBG9XgXBAUEAwf///////////38DQQwhAME=)
 
-Neutral Evil Necromancer Class Mod	
+
+
+
+
+**Neutral Evil Necromancer**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAA7HwkuFAmwEBG9HgnBAUEAwf///////////38DAQshAME=)
 
-Neutral Evil Necromancer Class Mod	
+
+
+
+
+**Neutral Evil Necromancer**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAD/yQkuFAmwEBG9XgjBAUEAwf///////////38DAQshAME=)
 
-Neutral Evil Necromancer Class Mod	
+
+
+
+
+**Neutral Evil Necromancer**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAACrWAkuFAmwEBG9ngfBAUEAwf///////////38DAQshAME=)
 
-Neutral Evil Necromancer Class Mod	
+
+
+
+
+**Neutral Evil Necromancer**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAABvjgkuFAmwEBG93gbBAUEAwf///////////38DAQshAME=)
 
-Neutral Evil Necromancer Class Mod	
+
+
+
+
+**Neutral Evil Necromancer**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAADTwwkuFAmwEBG9HgbBAUEAwf///////////38DAQshAME=)
 
-Neutral Evil Necromancer Class Mod	
+
+
+
+
+**Neutral Evil Necromancer**	
+
+
 [Critical Damage +45%] [Magazine Size +45%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAACIQkuFAmwEBG9XgXBAUEAwf///////////38DAQshAME=)
 
-Neutral Good Necromancer Class Mod	
+
+
+
+
+**Neutral Good Necromancer**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAADLzQktFAmwEBG9HgnBAUEAwf///////////38DQQshAME=)
 
-Neutral Good Necromancer Class Mod	
+
+
+
+
+**Neutral Good Necromancer**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAAPGwktFAmwEBG9XgjBAUEAwf///////////38DQQshAME=)
 
-Neutral Good Necromancer Class Mod	
+
+
+
+
+**Neutral Good Necromancer**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAABbigktFAmwEBG9ngfBAUEAwf///////////38DQQshAME=)
 
-Neutral Good Necromancer Class Mod	
+
+
+
+
+**Neutral Good Necromancer**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAACfXAktFAmwEBG93gbBAUEAwf///////////38DQQshAME=)
 
-Neutral Good Necromancer Class Mod	
+
+
+
+
+**Neutral Good Necromancer**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAAAjEQktFAmwEBG9HgbBAUEAwf///////////38DQQshAME=)
 
-Neutral Good Necromancer Class Mod	
+
+
+
+
+**Neutral Good Necromancer**	
+
+
 [Reload Speed +45% ] [Magazine Size +45%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAADy8wktFAmwEBG9XgXBAUEAwf///////////38DQQshAME=)
 
-True Neutral Necromancer Class Mod	
+
+
+
+
+**True Neutral Necromancer**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAABM5AkoFAmwEBG9HgnBAUEAwf///////////38DQQohAME=)
 
-True Neutral Necromancer Class Mod	
+
+
+
+
+**True Neutral Necromancer**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Strength of 5 Gorillas Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAACIMgkoFAmwEBG9XgjBAUEAwf///////////38DQQohAME=)
 
-True Neutral Necromancer Class Mod	
+
+
+
+
+**True Neutral Necromancer**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAADcowkoFAmwEBG9ngfBAUEAwf///////////38DQQohAME=)
 
-True Neutral Necromancer Class Mod	
+
+
+
+
+**True Neutral Necromancer**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Wires Don't Talk Skill] [+5 Made of Sterner Stuff Skill]	
+
+
 BL2(BwAAAAAYdQkoFAmwEBG93gbBAUEAwf///////////38DQQohAME=)
 
-True Neutral Necromancer Class Mod	
+
+
+
+
+**True Neutral Necromancer**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Strength of 5 Gorillas Skill]	
+
+
 BL2(BwAAAACkOAkoFAmwEBG9HgbBAUEAwf///////////38DQQohAME=)
 
-True Neutral Necromancer Class Mod	
+
+
+
+
+**True Neutral Necromancer**	
+
+
 [Magazine Size +73%]	
+
+
 [+6 Made of Sterner Stuff Skill] [+5 Wires Don't Talk Skill]	
+
+
 BL2(BwAAAAB12gkoFAmwEBG9XgXBAUEAwf///////////38DQQohAME=)
+
+
+
+
 
 ![cWR9LqZ](https://github.com/user-attachments/assets/742af3da-c0e9-4b03-8d56-d8746a86ae79)
 
+
+
+
+
 Legendary Psycho 
-(Blood-Filled Guns / Blood Twitch / Empty the Rage / Feed the Meat / Burn, Baby, Burn / Fuel The Fire +5 All) 
+
+
+(Blood-Filled Guns / Blood Twitch / Empty the Rage / Feed the Meat/ Burn, Baby, Burn / Fuel The Fire +5 All) 
+
+
 (Burn Damage +31% / Magazine Size +31% / Shield Recharge Delay +1.50) 
+
+
 BL2(BwAAAACDDQYLAAMAMBA9AAXBAUEAwf///////////38DQQkgAME=) 
 
-Legendary Torch
+
+
+
+
+**Legendary Torch**
+
 BL2(BwAAAAAjUwoZAA8AMBBIJAXBAUEAwf///////////78EQQQgAME=)
 
-Legendary Sickle
+
+
+
+
+**Legendary Sickle**
+
 BL2(BwAAAACEtQoYAA8AMBBIJAXBAUEAwf///////////78EgQQgAME=)
 
-Legendary Reaper
+
+
+
+
+**Legendary Reaper**
+
 BL2(BwAAAACbEQoXAA8AMBBIJAXBAUEAwf///////////78EAQQgAME=)
 
-Slayer of Terramorphous 
+
+
+
+
+**Slayer of Terramorphous**
+
+
 (Flame Fare / Blood Trance / Thrill of the Kill / Strip the Flesh / Burn, Baby, Burn +4 All) 
+
+
 (Burn Damage +29% / Burn Chance +29% / Max Health +31813) 
+
+
 BL2(BwAAAAAYDAYKAAEAEBE9AAXBAUEAwf///////////38DAQkgAME=)
+
+
+
+
 
 ![cIpQatf](https://github.com/user-attachments/assets/8b0d4e4e-6cbb-4828-828b-7b1040851a8a)
 
-Blood Blister 
+
+
+
+
+**Blood Blister**
+
+
 (Blood Bath +5 / Fuel the Blood +4 / Blood Overdrive +4) 
+
+
 (Grenade Capacity +6 / Kill Skill Duration +66%) 
+
+
 BL2(BwAAAAAkPgYHAAUAMBAymQXBAUEAwf///////////38DAQcgAME=) 
 
-Diesel Blister 
+
+
+
+
+**Diesel Blister**
+
+
 (Fuel The Blood +5 / Blood Overdrive +4 / Blood Bath +4) 
+
+
 (Grenade Capacity +6 / Kill Skill Duration +66%) 
+
+
 BL2(BwAAAAC7MgYHAAUAMBAymQjBAUEAwf///////////38DgQcgAME=) 
 
-Driven Blister 
+
+
+
+
+**Driven Blister**
+
+
 (Blood Overdrive +5 / Fuel The Blood +4 / Blood Bath +4) 
+
+
 (Grenade Capacity +6 / Kill Skill Duration +66%) 
+
+
 BL2(BwAAAACc4QYHAAUAMBAyGQfBAUEAwf///////////38DQQcgAME=) 
 
-Flesh Crunch 
+
+
+
+
+**Flesh Crunch**
+
+
 (Strip the Flesh +5 / Taste of Blood +4 / Blood Trance +4) 
+
+
 (Explosive Damage +40%) 
+
+
 BL2(BwAAAAB6kAYCAAUAMBAymQXBAUEAwf///////////38DAQIgAME=) 
 
-Dazed Crunch 
+
+
+
+
+**Dazed Crunch**
+
+
 (Blood Trance +5 / Taste of Blood +4 / Strip the Flesh +4) 
+
+
 (Explosive Damage +40%) 
+
+
 BL2(BwAAAADCTwYCAAUAMBAyGQfBAUEAwf///////////38DQQIgAME=) 
 
-Tasty Crunch 
+
+
+
+
+**Tasty Crunch**
+
+
 (Taste of Blood +5 / Blood Trance +4 / Strip the Flesh +4) 
+
+
 (Explosive Damage +40%) 
+
+
 BL2(BwAAAADlnAYCAAUAMBAymQjBAUEAwf///////////38DgQIgAME=) 
 
-Twitchy Wound 
+
+
+
+
+**Twitchy Wound**
+
+
 (Blood Twitch +5 / Taste of Blood +4 / Boiling Blood +4) 
+
+
 (Fire rate after kill +30%) 
+
+
 BL2(BwAAAAAUOAYGAAUAMBAymQjBAUEAwf///////////38DgQkgAME=) 
 
-Tasty Wound 
+
+
+
+
+**Tasty Wound**
+
+
 (Taste of Blood +5 / Blood Twitch +4 / Boiling Blood +4) 
+
+
 (Fire rate after kill +30%) 
+
+
 BL2(BwAAAAAj/gYGAAUAMBAyGQfBAUEAwf///////////38DgQYgAME=) 
 
-Hot Wound 
+
+
+
+
+**Hot Wound**
+
+
 (Boiling Blood +5 / Blood Twitch +4 / Taste of Blood +4) 
+
+
 (Fire rate after kill +30%) 
+
+
 BL2(BwAAAACbIQYGAAUAMBAymQXBAUEAwf///////////38DwQYgAME=) 
 
-Beef Slab 
-(Feed the Meat +5 / Thrill of the Kill +4 / Fuel the Rampage +4) 
+
+
+
+
+**Beef Slab**
+
+
+(Feed the Meat+5 / Thrill of the Kill +4 / Fuel the Rampage +4) 
+
+
 (Max Health +9015) 
+
+
 BL2(BwAAAACjgwYAAAUAMBAymQXBAUEAwf///////////38DAQAgAME=) 
 
-Gore Slab 
-(Thrill of the Kill +5 / Fuel the Rampage +4 / Feed the Meat +4) 
+
+
+
+
+**Gore Slab**
+
+
+(Thrill of the Kill +5 / Fuel the Rampage +4 / Feed the Meat+4) 
+
+
 (Max Health +9015) 
+
+
 BL2(BwAAAAA8jwYAAAUAMBAymQjBAUEAwf///////////38DgQAgAME=) 
 
-Rampaging Slab 
-(Fuel the Rampage +5 / Thrill of the Kill +4 / Feed the Meat +4) 
+
+
+
+
+**Rampaging Slab**
+
+
+(Fuel the Rampage +5 / Thrill of the Kill +4 / Feed the Meat+4) 
+
+
 (Max Health +9015) 
+
+
 BL2(BwAAAAAbXAYAAAUAMBAyGQfBAUEAwf///////////38DQQAgAME=) 
 
-Diesel Sickle 
+
+
+
+
+**Diesel Sickle**
+
+
 (Fuel the Blood +5 / Empty the Rage +4 / Silence the Voices +4) 
+
+
 (Melee Damage +40%) 
+
+
 BL2(BwAAAABF8gYFAAUAMBAyGQfBAUEAwf///////////38DQQUgAME=) 
 
-Scream Sickle 
+
+
+
+
+**Scream Sickle**
+
+
 (Silence the Voices +5 / Empty the Rage +4 / Fuel the Blood +4) 
+
+
 (Melee Damage +40%) 
+
+
 BL2(BwAAAAD9LQYFAAUAMBAymQXBAUEAwf///////////38DAQUgAME=) 
 
-Rage Sickle 
+
+
+
+
+**Rage Sickle**
+
+
 (Empty the Rage +5 / Fuel the Blood +4 / Silence the Voices +4) 
+
+
 (Melee Damage +40%) 
+
+
 BL2(BwAAAABiIQYFAAUAMBAymQjBAUEAwf///////////38DgQUgAME=) 
 
-Twitchy Reaper 
+
+
+
+
+**Twitchy Reaper**
+
+
 (Blood Twitch +5 / Fuel the Fire +4 / Blood Overdrive +4) 
+
+
 (Team Kill Skill Duration +66%) 
+
+
 BL2(BwAAAACF8QYIAAUAMBAymQjBAUEAwf///////////38DgQggAME=) 
 
-Fuel Reaper 
+
+
+
+
+**Fuel Reaper**
+
+
 (Fuel the Fire +5 / Blood Twitch +4 / Blood Overdrive +4) 
+
+
 (Team Kill Skill Duration +66%) 
+
+
 BL2(BwAAAACiIgYIAAUAMBAyGQfBAUEAwf///////////38DQQggAME=) 
 
-Driven Reaper 
+
+
+
+
+**Driven Reaper**
+
+
 (Blood Overdrive +5 / Blood Twitch +4 / Fuel the Fire +4) 
+
+
 (Team Kill Skill Duration +66%) 
+
+
 BL2(BwAAAAAa/QYIAAUAMBAymQXBAUEAwf///////////38DAQggAME=) 
 
-Pain Meat 
-(Embrace the Pain +5 / Empty the Rage +4 / Salt the Wound +4) 
+
+
+
+
+**Pain Meat**
+
+
+(Embrace the Pain +5 / Empty the Rage +4 / Salt the Wound+4) 
+
+
 (Health Regeneration +394.4 / Shield Recharge Delay +1.50) 
+
+
 BL2(BwAAAAD31QYBAAUAMBAyGQfBAUEAwf///////////38DQQEgAME=) 
 
-Rage Meat 
-(Empty the Rage +5 / Embrace the Pain +4 / Salt the Wound +4) 
+
+
+
+
+**Rage Meat**
+
+
+(Empty the Rage +5 / Embrace the Pain +4 / Salt the Wound+4) 
+
+
 (Health Regeneration +394.4 / Shield Recharge Delay +1.50) 
+
+
 BL2(BwAAAADQBgYBAAUAMBAymQjBAUEAwf///////////38DgQEgAME=) 
 
-Salt Meat 
-(Salt the Wound +5 / Empty the Rage +4 / Embrace the Pain +4) 
+
+
+
+
+**Salt Meat**
+
+
+(Salt the Wound+5 / Empty the Rage +4 / Embrace the Pain +4) 
+
+
 (Health Regeneration +394.4 / Shield Recharge Delay +1.50) 
+
+
 BL2(BwAAAABPCgYBAAUAMBAymQXBAUEAwf///////////38DAQEgAME=) 
 
-Flare Torch 
+
+
+
+
+**Flare Torch**
+
+
 (Flame Fare +5 / Burn, Baby, Burn +4 / Fuel the Fire +4) 
+
+
 (Burn Damage +45%) 
+
+
 BL2(BwAAAABCMgYEAAUAMBAymQXBAUEAwf///////////38DwQQgAME=) 
 
-Fuel Torch 
+
+
+
+
+**Fuel Torch**
+
+
 (Fuel the Fire +5 / Burn, Baby, Burn +4 / Flame Fare +4) 
+
+
 (Burn Damage +45%) 
+
+
 BL2(BwAAAAD67QYEAAUAMBAyGQfBAUEAwf///////////38DgQQgAME=) 
 
-Blaze Torch 
+
+
+
+
+**Blaze Torch**
+
+
 (Burn, Baby, Burn +5 / Fuel the Fire +4 / Flame Fare +4) 
+
+
 (Burn Damage +45%) 
+
+
 BL2(BwAAAADdPgYEAAUAMBAymQjBAUEAwf///////////38DQQQgAME=) 
 
-Razed Toast 
+
+
+
+
+**Razed Toast**
+
+
 (Elemental Elation +5 / Pain is Power +4 / Fire Fiend +4) 
+
+
 (Burn Chance +65% / Magazine Size +40%) 
+
+
 BL2(BwAAAACWGQYDAAUAMBAymQXBAUEAwf///////////38DAQMgAME=) 
 
-Burnt Toast 
+
+
+
+
+**Burnt Toast**
+
+
 (Fire Fiend +5 / Pain is Power +4 / Elemental Elation +4) 
+
+
 (Burn Chance +65% / Magazine Size +40%) 
+
+
 BL2(BwAAAAAuxgYDAAUAMBAyGQfBAUEAwf///////////38DQQMgAME=) 
 
-Power Toast 
+
+
+
+
+**Power Toast**
+
+
 (Pain is Power +5 / Fire Fiend +4 / Elemental Elation +4) 
+
+
 (Burn Chance +65% / Magazine Size +40%) 
+
+
 BL2(BwAAAAAJFQYDAAUAMBAymQjBAUEAwf///////////38DgQMgAME=)
 
-Chaotic Evil Barbarian Class Mod	
+
+
+
+
+**Chaotic Evil Barbarian**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
+
+
 BL2(BwAAAACbbgk6FAuwEBG9ngjBAUEAwf///////////38DwQwhAME=)
 
-Chaotic Evil Barbarian Class Mod	
+
+
+
+
+**Chaotic Evil Barbarian**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAADvKwk6FAuwEBG9HgfBAUEAwf///////////38DwQwhAME=)
 
-Chaotic Evil Barbarian Class Mod	
+
+
+
+
+**Chaotic Evil Barbarian**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
-[+5 Salt The Wound Skill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]
+
+
+[+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]
+
+
 BL2(BwAAAABmhgk6FAuwEBG9ngXBAUEAwf///////////38DwQwhAME=)
 
-Chaotic Good Barbarian Class Mod	
+
+
+
+
+**Chaotic Good Barbarian**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
-[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAABZewk1FAuwEBG9ngjBAUEAwf///////////38DAQ4hAME=)
 
-Chaotic Good Barbarian Class Mod	
+
+
+
+
+**Chaotic Good Barbarian**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAAAtPgk1FAuwEBG9HgfBAUEAwf///////////38DAQ4hAME=)
 
-Chaotic Good Barbarian Class Mod	
+
+
+
+
+**Chaotic Good Barbarian**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
-[+5 Salt The Wound Skill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
+[+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
 BL2(BwAAAACkkwk1FAuwEBG9ngXBAUEAwf///////////38DAQ4hAME=)
 
-Chaotic Neutral Barbarian Class Mod	
+
+
+
+
+**Chaotic Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
-[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAACceQk0FAuwEBG9ngjBAUEAwf///////////38DQQ4hAME=)
 
-Chaotic Neutral Barbarian Class Mod	
+
+
+
+
+**Chaotic Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAADoPAk0FAuwEBG9HgfBAUEAwf///////////38DQQ4hAME=)
 
-Chaotic Neutral Barbarian Class Mod	
+
+
+
+
+**Chaotic Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
-[+5 Salt The Wound Skill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
+[+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
 BL2(BwAAAABhkQk0FAuwEBG9ngXBAUEAwf///////////38DQQ4hAME=)
 
-Lawful Evil Barbarian Class Mod	
+
+
+
+
+**Lawful Evil Barbarian**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
-[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAAARoQk5FAuwEBG9ngjBAUEAwf///////////38DAQ0hAME=)
 
-Lawful Evil Barbarian Class Mod	
+
+
+
+
+**Lawful Evil Barbarian**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAABl5Ak5FAuwEBG9HgfBAUEAwf///////////38DAQ0hAME=)
 
-Lawful Evil Barbarian Class Mod	
+
+
+
+
+**Lawful Evil Barbarian**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
-[+5 Salt The Wound Skill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
+[+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
 BL2(BwAAAADsSQk5FAuwEBG9ngXBAUEAwf///////////38DAQ0hAME=)
 
-Lawful Good Barbarian Class Mod	
+
+
+
+
+**Lawful Good Barbarian**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
-[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAAA/dwk2FAuwEBG9ngjBAUEAwf///////////38DwQ0hAME=)
 
-Lawful Good Barbarian Class Mod	
+
+
+
+
+**Lawful Good Barbarian**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAABLMgk2FAuwEBG9HgfBAUEAwf///////////38DwQ0hAME=)
 
-Lawful Good Barbarian Class Mod	
+
+
+
+
+**Lawful Good Barbarian**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
-[+5 Salt The Wound Skill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
+[+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
 BL2(BwAAAADCnwk2FAuwEBG9ngXBAUEAwf///////////38DwQ0hAME=)
 
-Lawful Neutral Barbarian Class Mod	
+
+
+
+
+**Lawful Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
-[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAABl7wkzFAuwEBG9ngjBAUEAwf///////////38DgQ4hAME=)
 
-Lawful Neutral Barbarian Class Mod	
+
+
+
+
+**Lawful Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAAARqgkzFAuwEBG9HgfBAUEAwf///////////38DgQ4hAME=)
 
-Lawful Neutral Barbarian Class Mod	
+
+
+
+
+**Lawful Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
-[+5 Salt The Wound Skill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
+[+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
 BL2(BwAAAACYBwkzFAuwEBG9ngXBAUEAwf///////////38DgQ4hAME=)
 
-Neutral Evil Barbarian Class Mod	
+
+
+
+
+**Neutral Evil Barbarian**	
+
+
 [Critical Damage +44%] [Magazine Size +44%]	
-[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAADUowk4FAuwEBG9ngjBAUEAwf///////////38DQQ0hAME=)
 
-Neutral Evil Barbarian Class Mod	
+
+
+
+
+**Neutral Evil Barbarian**	
+
+
 [Critical Damage +44%] [Magazine Size +44%]	
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAACg5gk4FAuwEBG9HgfBAUEAwf///////////38DQQ0hAME=)
 
-Neutral Evil Barbarian Class Mod	
+
+
+
+
+**Neutral Evil Barbarian**	
+
+
 [Critical Damage +44%] [Magazine Size +44%]	
-[+5 Salt The Wound Skill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
+[+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
 BL2(BwAAAAApSwk4FAuwEBG9ngXBAUEAwf///////////38DQQ0hAME=)
 
-Neutral Good Barbarian Class Mod	
+
+
+
+
+**Neutral Good Barbarian**	
+
+
 [Reload Speed +44% ] [Magazine Size +44%]	
-[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAAD6dQk3FAuwEBG9ngjBAUEAwf///////////38DgQ0hAME=)
 
-Neutral Good Barbarian Class Mod	
+
+
+
+
+**Neutral Good Barbarian**	
+
+
 [Reload Speed +44% ] [Magazine Size +44%]	
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAACOMAk3FAuwEBG9HgfBAUEAwf///////////38DgQ0hAME=)
 
-Neutral Good Barbarian Class Mod	
+
+
+
+
+**Neutral Good Barbarian**	
+
+
 [Reload Speed +44% ] [Magazine Size +44%]	
-[+5 Salt The Wound Skill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
+[+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
 BL2(BwAAAAAHnQk3FAuwEBG9ngXBAUEAwf///////////38DgQ0hAME=)
 
-True Neutral Barbarian Class Mod	
+
+
+
+
+**True Neutral Barbarian**	
+
+
 [Magazine Size +71%]	
-[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Fire Fiend Skill] [+4 Blood Trance Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAAB9XAkyFAuwEBG9ngjBAUEAwf///////////38DgQwhAME=)
 
-True Neutral Barbarian Class Mod	
+
+
+
+
+**True Neutral Barbarian**	
+
+
 [Magazine Size +71%]	
-[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The Wound Skill]	
+
+
+[+5 Blood Trance Skill] [+4 Fire Fiend Skill] [+4 Salt The WoundSkill]	
+
+
 BL2(BwAAAAAJGQkyFAuwEBG9HgfBAUEAwf///////////38DgQwhAME=)
 
-True Neutral Barbarian Class Mod	
+
+
+
+
+**True Neutral Barbarian**	
+
+
 [Magazine Size +71%]	
-[+5 Salt The Wound Skill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
+[+5 Salt The WoundSkill] [+4 Fire Fiend Skill] [+4 Blood Trance Skill]	
+
+
 BL2(BwAAAACAtAkyFAuwEBG9ngXBAUEAwf///////////38DgQwhAME=)
+
+
+
+
 
 ![XJSLbsW](https://github.com/user-attachments/assets/4aac1544-6f75-4391-9d03-784a95d92acf)
 
-Diesel Blister Class Mod	
+
+
+
+
+**Diesel Blister**	
+
+
 [Grenade Capacity +6] [Kill Skill Duration +66%]	
+
+
 [+6 Fuel the Blood Skill] [+5 Blood Overdrive Skill]	
+
+
 BL2(BwAAAAAOMgYHAAcAMBC9HgnBAUEAwf///////////38DgQcgAME=)
 
-Diesel Blister Class Mod	
+
+
+
+
+**Diesel Blister**	
+
+
 [Grenade Capacity +6] [Kill Skill Duration +66%]	
+
+
 [+6 Fuel the Blood Skill] [+5 Blood Bath Skill]	
+
+
 BL2(BwAAAADK5AYHAAcAMBC9XgjBAUEAwf///////////38DgQcgAME=)
 
-Driven Blister Class Mod	
+
+
+
+
+**Driven Blister**	
+
+
 [Grenade Capacity +6] [Kill Skill Duration +66%]	
+
+
 [+6 Blood Overdrive Skill] [+5 Fuel the Blood Skill]	
+
+
 BL2(BwAAAADN4wYHAAcAMBC9ngfBAUEAwf///////////38DQQcgAME=)
 
-Driven Blister Class Mod	
+
+
+
+
+**Driven Blister**	
+
+
 [Grenade Capacity +6] [Kill Skill Duration +66%]	
+
+
 [+6 Blood Overdrive Skill] [+5 Blood Bath Skill]	
+
+
 BL2(BwAAAAAJNQYHAAcAMBC93gbBAUEAwf///////////38DQQcgAME=)
 
-Blood Blister Class Mod	
+
+
+
+
+**Blood Blister**	
+
+
 [Grenade Capacity +6] [Kill Skill Duration +66%]	
+
+
 [+6 Blood Bath Skill] [+5 Fuel the Blood Skill]	
+
+
 BL2(BwAAAACECgYHAAcAMBC9HgbBAUEAwf///////////38DAQcgAME=)
 
-Blood Blister Class Mod	
+
+
+
+
+**Blood Blister**	
+
+
 [Grenade Capacity +6] [Kill Skill Duration +66%]	
+
+
 [+6 Blood Bath Skill] [+5 Blood Overdrive Skill]	
+
+
 BL2(BwAAAABV6AYHAAcAMBC9XgXBAUEAwf///////////38DAQcgAME=)
 
-Tasty Crunch Class Mod	
+
+
+
+
+**Tasty Crunch**	
+
+
 [Explosive Damage +44%]	
+
+
 [+6 Taste of Blood Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAABQnAYCAAcAMBC9HgnBAUEAwf///////////38DgQIgAME=)
 
-Tasty Crunch Class Mod	
+
+
+
+
+**Tasty Crunch**	
+
+
 [Explosive Damage +44%]	
+
+
 [+6 Taste of Blood Skill] [+5 Strip the Flesh]	
+
+
 BL2(BwAAAACUSgYCAAcAMBC9XgjBAUEAwf///////////38DgQIgAME=)
 
-Dazed Crunch Class Mod	
+
+
+
+
+**Dazed Crunch**	
+
+
 [Explosive Damage +44%]	
+
+
 [+6 Blood Trance Skill] [+5 Taste of Blood Skill]	
+
+
 BL2(BwAAAACTTQYCAAcAMBC9ngfBAUEAwf///////////38DQQIgAME=)
 
-Dazed Crunch Class Mod	
+
+
+
+
+**Dazed Crunch**	
+
+
 [Explosive Damage +44%]	
+
+
 [+6 Blood Trance Skill] [+5 Strip the Flesh]	
+
+
 BL2(BwAAAABXmwYCAAcAMBC93gbBAUEAwf///////////38DQQIgAME=)
 
-Flesh Crunch Class Mod	
+
+
+
+
+**Flesh Crunch**	
+
+
 [Explosive Damage +44%]	
+
+
 [+6 Strip the Flesh] [+5 Taste of Blood Skill]	
+
+
 BL2(BwAAAADapAYCAAcAMBC9HgbBAUEAwf///////////38DAQIgAME=)
 
-Flesh Crunch Class Mod	
+
+
+
+
+**Flesh Crunch**	
+
+
 [Explosive Damage +44%]	
+
+
 [+6 Strip the Flesh] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAAALRgYCAAcAMBC9XgXBAUEAwf///////////38DAQIgAME=)
 
-Rage Meat Class Mod	
+
+
+
+
+**Rage Meat**	
+
+
 [Health Regeneration +1512.8] [Shield Recharge Delay +1.50]	
+
+
 [+6 Empty the Rage Skill] [+5 Embrace the Pain Skill]	
+
+
 BL2(BwAAAABlBgYBAAcAMBC9HgnBAUEAwf///////////38DgQEgAME=)
 
-Rage Meat Class Mod	
+
+
+
+
+**Rage Meat**	
+
+
 [Health Regeneration +1512.8] [Shield Recharge Delay +1.50]	
+
+
 [+6 Empty the Rage Skill] [+5 Salt The Wound]	
+
+
 BL2(BwAAAACh0AYBAAcAMBC9XgjBAUEAwf///////////38DgQEgAME=)
 
-Pain Meat Class Mod	
+
+
+
+
+**Pain Meat**	
+
+
 [Health Regeneration +1512.8] [Shield Recharge Delay +1.50]	
+
+
 [+6 Embrace the Pain Skill] [+5 Empty the Rage Skill]	
+
+
 BL2(BwAAAACm1wYBAAcAMBC9ngfBAUEAwf///////////38DQQEgAME=)
 
-Pain Meat Class Mod	
+
+
+
+
+**Pain Meat**	
+
+
 [Health Regeneration +1512.8] [Shield Recharge Delay +1.50]	
+
+
 [+6 Embrace the Pain Skill] [+5 Salt The Wound]	
+
+
 BL2(BwAAAABiAQYBAAcAMBC93gbBAUEAwf///////////38DQQEgAME=)
 
-Salt Meat Class Mod	
+
+
+
+
+**Salt Meat**	
+
+
 [Health Regeneration +1512.8] [Shield Recharge Delay +1.50]	
+
+
 [+6 Salt The Wound] [+5 Empty the Rage Skill]	
+
+
 BL2(BwAAAADvPgYBAAcAMBC9HgbBAUEAwf///////////38DAQEgAME=)
 
-Salt Meat Class Mod	
+
+
+
+
+**Salt Meat**	
+
+
 [Health Regeneration +1512.8] [Shield Recharge Delay +1.50]	
+
+
 [+6 Salt The Wound] [+5 Embrace the Pain Skill]	
+
+
 BL2(BwAAAAA+3AYBAAcAMBC9XgXBAUEAwf///////////38DAQEgAME=)
 
-Twitchy Reaper Class Mod	
+
+
+
+
+**Twitchy Reaper**	
+
+
 [Team Kill Skill Duration +66%]	
+
+
 [+6 Blood Twitch Skill] [+5 Fuel the Fire Skill]	
+
+
 BL2(BwAAAAAw8QYIAAcAMBC9HgnBAUEAwf///////////38DgQggAME=)
 
-Twitchy Reaper Class Mod	
+
+
+
+
+**Twitchy Reaper**	
+
+
 [Team Kill Skill Duration +66%]	
+
+
 [+6 Blood Twitch Skill] [+5 Blood Overdrive Skill]	
+
+
 BL2(BwAAAAD0JwYIAAcAMBC9XgjBAUEAwf///////////38DgQggAME=)
 
-Fuel Reaper Class Mod	
+
+
+
+
+**Fuel Reaper**	
+
+
 [Team Kill Skill Duration +66%]	
+
+
 [+6 Fuel the Fire Skill] [+5 Blood Twitch Skill]	
+
+
 BL2(BwAAAADzIAYIAAcAMBC9ngfBAUEAwf///////////38DQQggAME=)
 
-Fuel Reaper Class Mod	
+
+
+
+
+**Fuel Reaper**	
+
+
 [Team Kill Skill Duration +66%]	
+
+
 [+6 Fuel the Fire Skill] [+5 Blood Overdrive Skill]	
+
+
 BL2(BwAAAAA39gYIAAcAMBC93gbBAUEAwf///////////38DQQggAME=)
 
-Driven Reaper Class Mod	
+
+
+
+
+**Driven Reaper**	
+
+
 [Team Kill Skill Duration +66%]	
+
+
 [+6 Blood Overdrive Skill] [+5 Blood Twitch Skill]	
+
+
 BL2(BwAAAAC6yQYIAAcAMBC9HgbBAUEAwf///////////38DAQggAME=)
 
-Driven Reaper Class Mod	
+
+
+
+
+**Driven Reaper**	
+
+
 [Team Kill Skill Duration +66%]	
+
+
 [+6 Blood Overdrive Skill] [+5 Fuel the Fire Skill]	
+
+
 BL2(BwAAAABrKwYIAAcAMBC9XgXBAUEAwf///////////38DAQggAME=)
 
-Rage Sickle Class Mod	
+
+
+
+
+**Rage Sickle**	
+
+
 [Melee Damage +44%]	
+
+
 [+6 Empty the Rage Skill] [+5 Fuel the Blood Skill]	
+
+
 BL2(BwAAAADXIQYFAAcAMBC9HgnBAUEAwf///////////38DgQUgAME=)
 
-Rage Sickle Class Mod	
+
+
+
+
+**Rage Sickle**	
+
+
 [Melee Damage +44%]	
+
+
 [+6 Empty the Rage Skill] [+5 Silence the Voices Skill]	
+
+
 BL2(BwAAAAAT9wYFAAcAMBC9XgjBAUEAwf///////////38DgQUgAME=)
 
-Diesel Sickle Class Mod	
+
+
+
+
+**Diesel Sickle**	
+
+
 [Melee Damage +44%]	
+
+
 [+6 Fuel the Blood Skill] [+5 Empty the Rage Skill]	
+
+
 BL2(BwAAAAAU8AYFAAcAMBC9ngfBAUEAwf///////////38DQQUgAME=)
 
-Diesel Sickle Class Mod	
+
+
+
+
+**Diesel Sickle**	
+
+
 [Melee Damage +44%]	
+
+
 [+6 Fuel the Blood Skill] [+5 Silence the Voices Skill]	
+
+
 BL2(BwAAAADQJgYFAAcAMBC93gbBAUEAwf///////////38DQQUgAME=)
 
-Scream Sickle Class Mod	
+
+
+
+
+**Scream Sickle**	
+
+
 [Melee Damage +44%]	
+
+
 [+6 Silence the Voices Skill] [+5 Empty the Rage Skill]	
+
+
 BL2(BwAAAABdGQYFAAcAMBC9HgbBAUEAwf///////////38DAQUgAME=)
 
-Scream Sickle Class Mod	
+
+
+
+
+**Scream Sickle**	
+
+
 [Melee Damage +44%]	
+
+
 [+6 Silence the Voices Skill] [+5 Fuel the Blood Skill]	
+
+
 BL2(BwAAAACM+wYFAAcAMBC9XgXBAUEAwf///////////38DAQUgAME=)
 
-Gore Slab Class Mod	
+
+
+
+
+**Gore Slab**	
+
+
 [Max Health +34579]	
+
+
 [+6 Thrill of the Kill Skill] [+5 Fuel the Rampage Skill]	
+
+
 BL2(BwAAAACJjwYAAAcAMBC9HgnBAUEAwf///////////38DgQAgAME=)
 
-Gore Slab Class Mod	
+
+
+
+
+**Gore Slab**	
+
+
 [Max Health +34579]	
-[+6 Thrill of the Kill Skill] [+5 Feed the Meat Skill]	
+
+
+[+6 Thrill of the Kill Skill] [+5 Feed the MeatSkill]	
+
+
 BL2(BwAAAABNWQYAAAcAMBC9XgjBAUEAwf///////////38DgQAgAME=)
 
-Rampaging Slab Class Mod	
+
+
+
+
+**Rampaging Slab**	
+
+
 [Max Health +34579]	
+
+
 [+6 Fuel the Rampage Skill] [+5 Thrill of the Kill Skill]	
+
+
 BL2(BwAAAABKXgYAAAcAMBC9ngfBAUEAwf///////////38DQQAgAME=)
 
-Rampaging Slab Class Mod	
+
+
+
+
+**Rampaging Slab**	
+
+
 [Max Health +34579]	
-[+6 Fuel the Rampage Skill] [+5 Feed the Meat Skill]	
+
+
+[+6 Fuel the Rampage Skill] [+5 Feed the MeatSkill]	
+
+
 BL2(BwAAAACOiAYAAAcAMBC93gbBAUEAwf///////////38DQQAgAME=)
 
-Beef Slab Class Mod	
+
+
+
+
+**Beef Slab**	
+
+
 [Max Health +34579]	
-[+6 Feed the Meat Skill] [+5 Thrill of the Kill Skill]	
+
+
+[+6 Feed the MeatSkill] [+5 Thrill of the Kill Skill]	
+
+
 BL2(BwAAAAADtwYAAAcAMBC9HgbBAUEAwf///////////38DAQAgAME=)
 
-Beef Slab Class Mod	
+
+
+
+
+**Beef Slab**	
+
+
 [Max Health +34579]	
-[+6 Feed the Meat Skill] [+5 Fuel the Rampage Skill]	
+
+
+[+6 Feed the MeatSkill] [+5 Fuel the Rampage Skill]	
+
+
 BL2(BwAAAADSVQYAAAcAMBC9XgXBAUEAwf///////////38DAQAgAME=)
 
-Power Toast Class Mod	
+
+
+
+
+**Power Toast**	
+
+
 [Burn Chance +70%] [Magazine Size +44%]	
+
+
 [+6 Pain is Power Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAAC8FQYDAAcAMBC9HgnBAUEAwf///////////38DgQMgAME=)
 
-Burnt Toast Class Mod	
+
+
+
+
+**Burnt Toast**	
+
+
 [Burn Chance +70%] [Magazine Size +44%]	
+
+
 [+6 Fire Fiend Skill] [+5 Pain is Power Skill]	
+
+
 BL2(BwAAAAB/xAYDAAcAMBC9ngfBAUEAwf///////////38DQQMgAME=)
 
-Burnt Toast Class Mod	
+
+
+
+
+**Burnt Toast**	
+
+
 [Burn Chance +70%] [Magazine Size +44%]	
+
+
 [+6 Fire Fiend Skill] [+5 Elemental Elation Skill]	
+
+
 BL2(BwAAAAC7EgYDAAcAMBC93gbBAUEAwf///////////38DQQMgAME=)
 
-Razed Toast Class Mod	
+
+
+
+
+**Razed Toast**	
+
+
 [Burn Chance +70%] [Magazine Size +44%]	
+
+
 [+6 Elemental Elation Skill] [+5 Pain is Power Skill]	
+
+
 BL2(BwAAAAA2LQYDAAcAMBC9HgbBAUEAwf///////////38DAQMgAME=)
 
-Razed Toast Class Mod	
+
+
+
+
+**Razed Toast**	
+
+
 [Burn Chance +70%] [Magazine Size +44%]	
+
+
 [+6 Elemental Elation Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAADnzwYDAAcAMBC9XgXBAUEAwf///////////38DAQMgAME=)
 
-Blaze Torch Class Mod	
+
+
+
+
+**Blaze Torch**	
+
+
 [Burn Damage +51%]	
+
+
 [+6 Burn, Baby, Burn Skill] [+5 Fuel the Fire Skill]	
+
+
 BL2(BwAAAABoPgYEAAcAMBC9HgnBAUEAwf///////////38DQQQgAME=)
 
-Blaze Torch Class Mod	
+
+
+
+
+**Blaze Torch**	
+
+
 [Burn Damage +51%]	
+
+
 [+6 Burn, Baby, Burn Skill] [+5 Flame Flare Skill]	
+
+
 BL2(BwAAAACs6AYEAAcAMBC9XgjBAUEAwf///////////38DQQQgAME=)
 
-Fuel Torch Class Mod	
+
+
+
+
+**Fuel Torch**	
+
+
 [Burn Damage +51%]	
+
+
 [+6 Fuel the Fire Skill] [+5 Burn, Baby, Burn Skill]	
+
+
 BL2(BwAAAACr7wYEAAcAMBC9ngfBAUEAwf///////////38DgQQgAME=)
 
-Fuel Torch Class Mod	
+
+
+
+
+**Fuel Torch**	
+
+
 [Burn Damage +51%]	
+
+
 [+6 Fuel the Fire Skill] [+5 Flame Flare Skill]	
+
+
 BL2(BwAAAABvOQYEAAcAMBC93gbBAUEAwf///////////38DgQQgAME=)
 
-Flare Torch Class Mod	
+
+
+
+
+**Flare Torch**	
+
+
 [Burn Damage +51%]	
+
+
 [+6 Flame Flare Skill] [+5 Burn, Baby, Burn Skill]	
+
+
 BL2(BwAAAADiBgYEAAcAMBC9HgbBAUEAwf///////////38DwQQgAME=)
 
-Flare Torch Class Mod	
+
+
+
+
+**Flare Torch**	
+
+
 [Burn Damage +51%]	
+
+
 [+6 Flame Flare Skill] [+5 Fuel the Fire Skill]	
+
+
 BL2(BwAAAAAz5AYEAAcAMBC9XgXBAUEAwf///////////38DwQQgAME=)
 
-Twitchy Wound Class Mod	
+
+
+
+
+**Twitchy Wound**	
+
+
 [Fire rate after kill +30%]	
+
+
 [+6 Blood Twitch Skill] [+5 Taste of Blood Skill]	
+
+
 BL2(BwAAAAChOAYGAAcAMBC9HgnBAUEAwf///////////38DgQkgAME=)
 
-Twitchy Wound Class Mod	
+
+
+
+
+**Twitchy Wound**	
+
+
 [Fire rate after kill +30%]	
+
+
 [+6 Blood Twitch Skill] [+5 Boiling Blood Skill]	
+
+
 BL2(BwAAAABl7gYGAAcAMBC9XgjBAUEAwf///////////38DgQkgAME=)
 
-Tasty Wound Class Mod	
+
+
+
+
+**Tasty Wound**	
+
+
 [Fire rate after kill +30%]	
+
+
 [+6 Taste of Blood Skill] [+5 Blood Twitch Skill]	
+
+
 BL2(BwAAAABy/AYGAAcAMBC9ngfBAUEAwf///////////38DgQYgAME=)
 
-Tasty Wound Class Mod	
+
+
+
+
+**Tasty Wound**	
+
+
 [Fire rate after kill +30%]	
+
+
 [+6 Taste of Blood Skill] [+5 Boiling Blood Skill]	
+
+
 BL2(BwAAAAC2KgYGAAcAMBC93gbBAUEAwf///////////38DgQYgAME=)
 
-Hot Wound Class Mod	
+
+
+
+
+**Hot Wound**	
+
+
 [Fire rate after kill +30%]	
+
+
 [+6 Boiling Blood Skill] [+5 Blood Twitch Skill]	
+
+
 BL2(BwAAAAA7FQYGAAcAMBC9HgbBAUEAwf///////////38DwQYgAME=)
 
-Hot Wound Class Mod	
+
+
+
+
+**Hot Wound**	
+
+
 [Fire rate after kill +30%]	
+
+
 [+6 Boiling Blood Skill] [+5 Taste of Blood Skill]	
+
+
 BL2(BwAAAADq9wYGAAcAMBC9XgXBAUEAwf///////////38DwQYgAME=)
 
-Chaotic Evil Barbarian Class Mod	
+
+
+
+
+**Chaotic Evil Barbarian**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAADj9Qk6FAuwEBG9HgnBAUEAwf///////////38DwQwhAME=)
 
-Chaotic Evil Barbarian Class Mod	
+
+
+
+
+**Chaotic Evil Barbarian**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
-[+6 Fire Fiend Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAAAnIwk6FAuwEBG9XgjBAUEAwf///////////38DwQwhAME=)
 
-Chaotic Evil Barbarian Class Mod	
+
+
+
+
+**Chaotic Evil Barbarian**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
+
+
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAABzsgk6FAuwEBG9ngfBAUEAwf///////////38DwQwhAME=)
 
-Chaotic Evil Barbarian Class Mod	
+
+
+
+
+**Chaotic Evil Barbarian**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
-[+6 Blood Trance Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAAC3ZAk6FAuwEBG93gbBAUEAwf///////////38DwQwhAME=)
 
-Chaotic Evil Barbarian Class Mod	
+
+
+
+
+**Chaotic Evil Barbarian**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
-[+6 Salt The Wound Skill] [+5 Fire Fiend Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAAALKQk6FAuwEBG9HgbBAUEAwf///////////38DwQwhAME=)
 
-Chaotic Evil Barbarian Class Mod	
+
+
+
+
+**Chaotic Evil Barbarian**	
+
+
 [Critical Damage +45%] [Fire Rate +31%]	
-[+6 Salt The Wound Skill] [+5 Blood Trance Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAADaywk6FAuwEBG9XgXBAUEAwf///////////38DwQwhAME=)
 
-Chaotic Good Barbarian Class Mod	
+
+
+
+
+**Chaotic Good Barbarian**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAAAh4Ak1FAuwEBG9HgnBAUEAwf///////////38DAQ4hAME=)
 
-Chaotic Good Barbarian Class Mod	
+
+
+
+
+**Chaotic Good Barbarian**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
-[+6 Fire Fiend Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAADlNgk1FAuwEBG9XgjBAUEAwf///////////38DAQ4hAME=)
 
-Chaotic Good Barbarian Class Mod	
+
+
+
+
+**Chaotic Good Barbarian**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
+
+
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAACxpwk1FAuwEBG9ngfBAUEAwf///////////38DAQ4hAME=)
 
-Chaotic Good Barbarian Class Mod	
+
+
+
+
+**Chaotic Good Barbarian**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
-[+6 Blood Trance Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAAB1cQk1FAuwEBG93gbBAUEAwf///////////38DAQ4hAME=)
 
-Chaotic Good Barbarian Class Mod	
+
+
+
+
+**Chaotic Good Barbarian**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
-[+6 Salt The Wound Skill] [+5 Fire Fiend Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAADJPAk1FAuwEBG9HgbBAUEAwf///////////38DAQ4hAME=)
 
-Chaotic Good Barbarian Class Mod	
+
+
+
+
+**Chaotic Good Barbarian**	
+
+
 [Reload Speed +45%] [Fire Rate +31%]	
-[+6 Salt The Wound Skill] [+5 Blood Trance Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAAAY3gk1FAuwEBG9XgXBAUEAwf///////////38DAQ4hAME=)
 
-Chaotic Neutral Barbarian Class Mod	
+
+
+
+
+**Chaotic Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAADk4gk0FAuwEBG9HgnBAUEAwf///////////38DQQ4hAME=)
 
-Chaotic Neutral Barbarian Class Mod	
+
+
+
+
+**Chaotic Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
-[+6 Fire Fiend Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAAAgNAk0FAuwEBG9XgjBAUEAwf///////////38DQQ4hAME=)
 
-Chaotic Neutral Barbarian Class Mod	
+
+
+
+
+**Chaotic Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
+
+
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAAB0pQk0FAuwEBG9ngfBAUEAwf///////////38DQQ4hAME=)
 
-Chaotic Neutral Barbarian Class Mod	
+
+
+
+
+**Chaotic Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
-[+6 Blood Trance Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAACwcwk0FAuwEBG93gbBAUEAwf///////////38DQQ4hAME=)
 
-Chaotic Neutral Barbarian Class Mod	
+
+
+
+
+**Chaotic Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
-[+6 Salt The Wound Skill] [+5 Fire Fiend Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAAAMPgk0FAuwEBG9HgbBAUEAwf///////////38DQQ4hAME=)
 
-Chaotic Neutral Barbarian Class Mod	
+
+
+
+
+**Chaotic Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Fire Rate +31%]	
-[+6 Salt The Wound Skill] [+5 Blood Trance Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAADd3Ak0FAuwEBG9XgXBAUEAwf///////////38DQQ4hAME=)
 
-Lawful Evil Barbarian Class Mod	
+
+
+
+
+**Lawful Evil Barbarian**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAABpOgk5FAuwEBG9HgnBAUEAwf///////////38DAQ0hAME=)
 
-Lawful Evil Barbarian Class Mod	
+
+
+
+
+**Lawful Evil Barbarian**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
-[+6 Fire Fiend Skill] [+5 Salt The Wound Skill]
+
+
+[+6 Fire Fiend Skill] [+5 Salt The WoundSkill]
+
+
 BL2(BwAAAACt7Ak5FAuwEBG9XgjBAUEAwf///////////38DAQ0hAME=)
 
-Lawful Evil Barbarian Class Mod	
+
+
+
+
+**Lawful Evil Barbarian**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAAD5fQk5FAuwEBG9ngfBAUEAwf///////////38DAQ0hAME=)
 
-Lawful Evil Barbarian Class Mod	
+
+
+
+
+**Lawful Evil Barbarian**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
-[+6 Blood Trance Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAAA9qwk5FAuwEBG93gbBAUEAwf///////////38DAQ0hAME=)
 
-Lawful Evil Barbarian Class Mod	
+
+
+
+
+**Lawful Evil Barbarian**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
-[+6 Salt The Wound Skill] [+5 Fire Fiend Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAACB5gk5FAuwEBG9HgbBAUEAwf///////////38DAQ0hAME=)
 
-Lawful Evil Barbarian Class Mod	
+
+
+
+
+**Lawful Evil Barbarian**	
+
+
 [Critical Damage +45%] [Weapon Accuracy +31%]	
-[+6 Salt The Wound Skill] [+5 Blood Trance Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAABQBAk5FAuwEBG9XgXBAUEAwf///////////38DAQ0hAME=)
 
-Lawful Good Barbarian Class Mod	
+
+
+
+
+**Lawful Good Barbarian**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAABH7Ak2FAuwEBG9HgnBAUEAwf///////////38DwQ0hAME=)
 
-Lawful Good Barbarian Class Mod	
+
+
+
+
+**Lawful Good Barbarian**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
-[+6 Fire Fiend Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAACDOgk2FAuwEBG9XgjBAUEAwf///////////38DwQ0hAME=)
 
-Lawful Good Barbarian Class Mod	
+
+
+
+
+**Lawful Good Barbarian**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAADXqwk2FAuwEBG9ngfBAUEAwf///////////38DwQ0hAME=)
 
-Lawful Good Barbarian Class Mod	
+
+
+
+
+**Lawful Good Barbarian**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
-[+6 Blood Trance Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAAATfQk2FAuwEBG93gbBAUEAwf///////////38DwQ0hAME=)
 
-Lawful Good Barbarian Class Mod	
+
+
+
+
+**Lawful Good Barbarian**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
-[+6 Salt The Wound Skill] [+5 Fire Fiend Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAACvMAk2FAuwEBG9HgbBAUEAwf///////////38DwQ0hAME=)
 
-Lawful Good Barbarian Class Mod	
+
+
+
+
+**Lawful Good Barbarian**	
+
+
 [Reload Speed +45%] [Weapon Accuracy +31%]	
-[+6 Salt The Wound Skill] [+5 Blood Trance Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAAB+0gk2FAuwEBG9XgXBAUEAwf///////////38DwQ0hAME=)
 
-Lawful Neutral Barbarian Class Mod	
+
+
+
+
+**Lawful Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAAAddAkzFAuwEBG9HgnBAUEAwf///////////38DgQ4hAME=)
 
-Lawful Neutral Barbarian Class Mod	
+
+
+
+
+**Lawful Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
-[+6 Fire Fiend Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAADZogkzFAuwEBG9XgjBAUEAwf///////////38DgQ4hAME=)
 
-Lawful Neutral Barbarian Class Mod	
+
+
+
+
+**Lawful Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
+
+
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAACNMwkzFAuwEBG9ngfBAUEAwf///////////38DgQ4hAME=)
 
-Lawful Neutral Barbarian Class Mod	
+
+
+
+
+**Lawful Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
-[+6 Blood Trance Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAABJ5QkzFAuwEBG93gbBAUEAwf///////////38DgQ4hAME=)
 
-Lawful Neutral Barbarian Class Mod	
+
+
+
+
+**Lawful Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
-[+6 Salt The Wound Skill] [+5 Fire Fiend Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAAD1qAkzFAuwEBG9HgbBAUEAwf///////////38DgQ4hAME=)
 
-Lawful Neutral Barbarian Class Mod	
+
+
+
+
+**Lawful Neutral Barbarian**	
+
+
 [Magazine Size +45%] [Weapon Accuracy +31%]	
-[+6 Salt The Wound Skill] [+5 Blood Trance Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAAAkSgkzFAuwEBG9XgXBAUEAwf///////////38DgQ4hAME=)
 
-Neutral Evil Barbarian Class Mod	
+
+
+
+
+**Neutral Evil Barbarian**	
+
+
 [Critical Damage +44%] [Magazine Size +44%]	
+
+
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAACsOAk4FAuwEBG9HgnBAUEAwf///////////38DQQ0hAME=)
 
-Neutral Evil Barbarian Class Mod	
+
+
+
+
+**Neutral Evil Barbarian**	
+
+
 [Critical Damage +44%] [Magazine Size +44%]	
-[+6 Fire Fiend Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAABo7gk4FAuwEBG9XgjBAUEAwf///////////38DQQ0hAME=)
 
-Neutral Evil Barbarian Class Mod	
+
+
+
+
+**Neutral Evil Barbarian**	
+
+
 [Critical Damage +44%] [Magazine Size +44%]	
+
+
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAAA8fwk4FAuwEBG9ngfBAUEAwf///////////38DQQ0hAME=)
 
-Neutral Evil Barbarian Class Mod	
+
+
+
+
+**Neutral Evil Barbarian**	
+
+
 [Critical Damage +44%] [Magazine Size +44%]	
-[+6 Blood Trance Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAAD4qQk4FAuwEBG93gbBAUEAwf///////////38DQQ0hAME=)
 
-Neutral Evil Barbarian Class Mod	
+
+
+
+
+**Neutral Evil Barbarian**	
+
+
 [Critical Damage +44%] [Magazine Size +44%]	
-[+6 Salt The Wound Skill] [+5 Fire Fiend Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAABE5Ak4FAuwEBG9HgbBAUEAwf///////////38DQQ0hAME=)
 
-Neutral Evil Barbarian Class Mod	
+
+
+
+
+**Neutral Evil Barbarian**	
+
+
 [Critical Damage +44%] [Magazine Size +44%]	
-[+6 Salt The Wound Skill] [+5 Blood Trance Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAACVBgk4FAuwEBG9XgXBAUEAwf///////////38DQQ0hAME=)
 
-Neutral Good Barbarian Class Mod	
+
+
+
+
+**Neutral Good Barbarian**	
+
+
 [Reload Speed +44% ] [Magazine Size +44%]	
+
+
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAACC7gk3FAuwEBG9HgnBAUEAwf///////////38DgQ0hAME=)
 
-Neutral Good Barbarian Class Mod	
+
+
+
+
+**Neutral Good Barbarian**	
+
+
 [Reload Speed +44% ] [Magazine Size +44%]	
-[+6 Fire Fiend Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAABGOAk3FAuwEBG9XgjBAUEAwf///////////38DgQ0hAME=)
 
-Neutral Good Barbarian Class Mod	
+
+
+
+
+**Neutral Good Barbarian**	
+
+
 [Reload Speed +44% ] [Magazine Size +44%]	
+
+
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAAASqQk3FAuwEBG9ngfBAUEAwf///////////38DgQ0hAME=)
 
-Neutral Good Barbarian Class Mod	
+
+
+
+
+**Neutral Good Barbarian**	
+
+
 [Reload Speed +44% ] [Magazine Size +44%]	
-[+6 Blood Trance Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAADWfwk3FAuwEBG93gbBAUEAwf///////////38DgQ0hAME=)
 
-Neutral Good Barbarian Class Mod	
+
+
+
+
+**Neutral Good Barbarian**	
+
+
 [Reload Speed +44% ] [Magazine Size +44%]	
-[+6 Salt The Wound Skill] [+5 Fire Fiend Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAABqMgk3FAuwEBG9HgbBAUEAwf///////////38DgQ0hAME=)
 
-Neutral Good Barbarian Class Mod	
+
+
+
+
+**Neutral Good Barbarian**	
+
+
 [Reload Speed +44% ] [Magazine Size +44%]	
-[+6 Salt The Wound Skill] [+5 Blood Trance Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAAC70Ak3FAuwEBG9XgXBAUEAwf///////////38DgQ0hAME=)
 
-True Neutral Barbarian Class Mod	
+
+
+
+
+**True Neutral Barbarian**	
+
+
 [Magazine Size +71%]	
+
+
 [+6 Fire Fiend Skill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAAAFxwkyFAuwEBG9HgnBAUEAwf///////////38DgQwhAME=)
 
-True Neutral Barbarian Class Mod	
+
+
+
+
+**True Neutral Barbarian**	
+
+
 [Magazine Size +71%]	
-[+6 Fire Fiend Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Fire Fiend Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAADBEQkyFAuwEBG9XgjBAUEAwf///////////38DgQwhAME=)
 
-True Neutral Barbarian Class Mod	
+
+
+
+
+**True Neutral Barbarian**	
+
+
 [Magazine Size +71%]	
+
+
 [+6 Blood Trance Skill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAACVgAkyFAuwEBG9ngfBAUEAwf///////////38DgQwhAME=)
 
-True Neutral Barbarian Class Mod	
+
+
+
+
+**True Neutral Barbarian**	
+
+
 [Magazine Size +71%]	
-[+6 Blood Trance Skill] [+5 Salt The Wound Skill]	
+
+
+[+6 Blood Trance Skill] [+5 Salt The WoundSkill]	
+
+
 BL2(BwAAAABRVgkyFAuwEBG93gbBAUEAwf///////////38DgQwhAME=)
 
-True Neutral Barbarian Class Mod	
+
+
+
+
+**True Neutral Barbarian**	
+
+
 [Magazine Size +71%]	
-[+6 Salt The Wound Skill] [+5 Fire Fiend Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Fire Fiend Skill]	
+
+
 BL2(BwAAAADtGwkyFAuwEBG9HgbBAUEAwf///////////38DgQwhAME=)
 
-True Neutral Barbarian Class Mod	
+
+
+
+
+**True Neutral Barbarian**	
+
+
 [Magazine Size +71%]	
-[+6 Salt The Wound Skill] [+5 Blood Trance Skill]	
+
+
+[+6 Salt The WoundSkill] [+5 Blood Trance Skill]	
+
+
 BL2(BwAAAAA8+QkyFAuwEBG9XgXBAUEAwf///////////38DgQwhAME=)
