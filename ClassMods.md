@@ -510,7 +510,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAACyYwAgDZahQxAymQjBAUEAwf///////////38DwS4BAME=)
 ---
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue** 
+**Chaotic Evil Rogue** 
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -518,7 +518,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAAO6QkcFAWwEBG9ngjBAUEAwf///////////38DAQchAME=)
 ---
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**  	
+**Chaotic Evil Rogue**  	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -526,7 +526,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAB6rAkcFAWwEBG9HgfBAUEAwf///////////38DAQchAME=)
 ---
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
+**Chaotic Evil Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -534,7 +534,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAADzAQkcFAWwEBG9ngXBAUEAwf///////////38DAQchAME=)
 ---
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -542,7 +542,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAADvhgkbFAWwEBG9ngjBAUEAwf///////////38DwQYhAME=)
 ---
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -550,7 +550,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAACbwwkbFAWwEBG9HgfBAUEAwf///////////38DwQYhAME=)
 ---
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -558,7 +558,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAASbgkbFAWwEBG9ngXBAUEAwf///////////38DwQYhAME=)
 ---
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -566,7 +566,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAB9sAkYFAWwEBG9ngjBAUEAwf///////////38DAQYhAME=)
 ---
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -574,7 +574,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAAJ9QkYFAWwEBG9HgfBAUEAwf///////////38DAQYhAME=)
 ---
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -582,7 +582,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAACAWAkYFAWwEBG9ngXBAUEAwf///////////38DAQYhAME=)
 ---
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -590,7 +590,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAABZ3QkeFAWwEBG9ngjBAUEAwf///////////38DgQchAME=)
 ---
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -598,7 +598,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAAtmAkeFAWwEBG9HgfBAUEAwf///////////38DgQchAME=)
 ---
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -606,7 +606,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAACkNQkeFAWwEBG9ngXBAUEAwf///////////38DgQchAME=)
 ---
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -614,7 +614,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAC4sgkZFAWwEBG9ngjBAUEAwf///////////38DQQYhAME=)
 ---
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -622,7 +622,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAADM9wkZFAWwEBG9HgfBAUEAwf///////////38DQQYhAME=)
 ---
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -630,7 +630,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAABFWgkZFAWwEBG9ngXBAUEAwf///////////38DQQYhAME=)
 ---
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -638,7 +638,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAACnXAkXFAWwEBG9ngjBAUEAwf///////////38DwQUhAME=)
 ---
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -646,7 +646,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAADTGQkXFAWwEBG9HgfBAUEAwf///////////38DwQUhAME=)
 ---
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -654,7 +654,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAABatAkXFAWwEBG9ngXBAUEAwf///////////38DwQUhAME=)
 ---
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -662,7 +662,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAADL6wkdFAWwEBG9ngjBAUEAwf///////////38DQQchAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -670,7 +670,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAC/rgkdFAWwEBG9HgfBAUEAwf///////////38DQQchAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -678,7 +678,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAA2AwkdFAWwEBG9ngXBAUEAwf///////////38DQQchAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -686,7 +686,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAAqhAkaFAWwEBG9ngjBAUEAwf///////////38DgQYhAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -694,7 +694,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAABewQkaFAWwEBG9HgfBAUEAwf///////////38DgQYhAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -702,7 +702,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAADXbAkaFAWwEBG9ngXBAUEAwf///////////38DgQYhAME=)
 
-**True $${\color{grey}Neutral}$$ Rogue**	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -710,7 +710,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAABiXgkWFAWwEBG9ngjBAUEAwf///////////38DgQUhAME=)
 
-**True $${\color{grey}Neutral}$$ Rogue**	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -718,7 +718,7 @@ BL2(BwAAAADs+AoXAAMIEBFQaAXBAUEAwf///////////78EAQQgAME=)
 
         BL2(BwAAAAAWGwkWFAWwEBG9HgfBAUEAwf///////////38DgQUhAME=)
 
-**True $${\color{grey}Neutral}$$ Rogue**	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -1164,7 +1164,7 @@ BL2(BwAAAAClxQAgDZihQxAyGQbBAUEAwf///////////38DQS4BAME=)
 
 BL2(BwAAAAB0JwAgDZihQxAyWQXBAUEAwf///////////38DQS4BAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**
+**Chaotic Evil Rogue**
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -1172,7 +1172,7 @@ BL2(BwAAAAB0JwAgDZihQxAyWQXBAUEAwf///////////38DQS4BAME=)
 
 BL2(BwAAAAB2cgkcFAWwEBG9HgnBAUEAwf///////////38DAQchAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
+**Chaotic Evil Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -1180,7 +1180,7 @@ BL2(BwAAAAB2cgkcFAWwEBG9HgnBAUEAwf///////////38DAQchAME=)
 
 BL2(BwAAAACypAkcFAWwEBG9XgjBAUEAwf///////////38DAQchAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
+**Chaotic Evil Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -1188,7 +1188,7 @@ BL2(BwAAAACypAkcFAWwEBG9XgjBAUEAwf///////////38DAQchAME=)
 
 BL2(BwAAAADmNQkcFAWwEBG9ngfBAUEAwf///////////38DAQchAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
+**Chaotic Evil Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -1196,7 +1196,7 @@ BL2(BwAAAADmNQkcFAWwEBG9ngfBAUEAwf///////////38DAQchAME=)
 
 BL2(BwAAAAAi4wkcFAWwEBG93gbBAUEAwf///////////38DAQchAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
+**Chaotic Evil Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -1204,7 +1204,7 @@ BL2(BwAAAAAi4wkcFAWwEBG93gbBAUEAwf///////////38DAQchAME=)
 
 BL2(BwAAAACergkcFAWwEBG9HgbBAUEAwf///////////38DAQchAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Rogue**	
+**Chaotic Evil Rogue**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -1212,7 +1212,7 @@ BL2(BwAAAACergkcFAWwEBG9HgbBAUEAwf///////////38DAQchAME=)
 
 BL2(BwAAAABPTAkcFAWwEBG9XgXBAUEAwf///////////38DAQchAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -1220,7 +1220,7 @@ BL2(BwAAAABPTAkcFAWwEBG9XgXBAUEAwf///////////38DAQchAME=)
 
 BL2(BwAAAACXHQkbFAWwEBG9HgnBAUEAwf///////////38DwQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -1228,7 +1228,7 @@ BL2(BwAAAACXHQkbFAWwEBG9HgnBAUEAwf///////////38DwQYhAME=)
 
 BL2(BwAAAABTywkbFAWwEBG9XgjBAUEAwf///////////38DwQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -1236,7 +1236,7 @@ BL2(BwAAAABTywkbFAWwEBG9XgjBAUEAwf///////////38DwQYhAME=)
 
 BL2(BwAAAAAHWgkbFAWwEBG9ngfBAUEAwf///////////38DwQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -1244,7 +1244,7 @@ BL2(BwAAAAAHWgkbFAWwEBG9ngfBAUEAwf///////////38DwQYhAME=)
 
 BL2(BwAAAADDjAkbFAWwEBG93gbBAUEAwf///////////38DwQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -1252,7 +1252,7 @@ BL2(BwAAAADDjAkbFAWwEBG93gbBAUEAwf///////////38DwQYhAME=)
 
 BL2(BwAAAAB/wQkbFAWwEBG9HgbBAUEAwf///////////38DwQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Rogue**	
+**Chaotic Good Rogue**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -1260,7 +1260,7 @@ BL2(BwAAAAB/wQkbFAWwEBG9HgbBAUEAwf///////////38DwQYhAME=)
 
 BL2(BwAAAACuIwkbFAWwEBG9XgXBAUEAwf///////////38DwQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -1268,7 +1268,7 @@ BL2(BwAAAACuIwkbFAWwEBG9XgXBAUEAwf///////////38DwQYhAME=)
 
 BL2(BwAAAAAFKwkYFAWwEBG9HgnBAUEAwf///////////38DAQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -1276,7 +1276,7 @@ BL2(BwAAAAAFKwkYFAWwEBG9HgnBAUEAwf///////////38DAQYhAME=)
 
 BL2(BwAAAADB/QkYFAWwEBG9XgjBAUEAwf///////////38DAQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -1284,7 +1284,7 @@ BL2(BwAAAADB/QkYFAWwEBG9XgjBAUEAwf///////////38DAQYhAME=)
 
 BL2(BwAAAACVbAkYFAWwEBG9ngfBAUEAwf///////////38DAQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -1292,7 +1292,7 @@ BL2(BwAAAACVbAkYFAWwEBG9ngfBAUEAwf///////////38DAQYhAME=)
 
 BL2(BwAAAABRugkYFAWwEBG93gbBAUEAwf///////////38DAQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -1300,7 +1300,7 @@ BL2(BwAAAABRugkYFAWwEBG93gbBAUEAwf///////////38DAQYhAME=)
 
 BL2(BwAAAADt9wkYFAWwEBG9HgbBAUEAwf///////////38DAQYhAME=)
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Chaotic Neutral Rogue**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -1308,7 +1308,7 @@ BL2(BwAAAADt9wkYFAWwEBG9HgbBAUEAwf///////////38DAQYhAME=)
 
 BL2(BwAAAAA8FQkYFAWwEBG9XgXBAUEAwf///////////38DAQYhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -1316,7 +1316,7 @@ BL2(BwAAAAA8FQkYFAWwEBG9XgXBAUEAwf///////////38DAQYhAME=)
 
 BL2(BwAAAAAhRgkeFAWwEBG9HgnBAUEAwf///////////38DgQchAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -1324,7 +1324,7 @@ BL2(BwAAAAAhRgkeFAWwEBG9HgnBAUEAwf///////////38DgQchAME=)
 
 BL2(BwAAAADlkAkeFAWwEBG9XgjBAUEAwf///////////38DgQchAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -1332,7 +1332,7 @@ BL2(BwAAAADlkAkeFAWwEBG9XgjBAUEAwf///////////38DgQchAME=)
 
 BL2(BwAAAACxAQkeFAWwEBG9ngfBAUEAwf///////////38DgQchAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -1340,7 +1340,7 @@ BL2(BwAAAACxAQkeFAWwEBG9ngfBAUEAwf///////////38DgQchAME=)
 
 BL2(BwAAAAB11wkeFAWwEBG93gbBAUEAwf///////////38DgQchAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -1348,7 +1348,7 @@ BL2(BwAAAAB11wkeFAWwEBG93gbBAUEAwf///////////38DgQchAME=)
 
 BL2(BwAAAADJmgkeFAWwEBG9HgbBAUEAwf///////////38DgQchAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Rogue**	
+**Lawful Evil Rogue**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -1356,7 +1356,7 @@ BL2(BwAAAADJmgkeFAWwEBG9HgbBAUEAwf///////////38DgQchAME=)
 
 BL2(BwAAAAAYeAkeFAWwEBG9XgXBAUEAwf///////////38DgQchAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -1364,7 +1364,7 @@ BL2(BwAAAAAYeAkeFAWwEBG9XgXBAUEAwf///////////38DgQchAME=)
 
 BL2(BwAAAADAKQkZFAWwEBG9HgnBAUEAwf///////////38DQQYhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -1372,7 +1372,7 @@ BL2(BwAAAADAKQkZFAWwEBG9HgnBAUEAwf///////////38DQQYhAME=)
 
 BL2(BwAAAAAE/wkZFAWwEBG9XgjBAUEAwf///////////38DQQYhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -1380,7 +1380,7 @@ BL2(BwAAAAAE/wkZFAWwEBG9XgjBAUEAwf///////////38DQQYhAME=)
 
 BL2(BwAAAABQbgkZFAWwEBG9ngfBAUEAwf///////////38DQQYhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -1388,7 +1388,7 @@ BL2(BwAAAABQbgkZFAWwEBG9ngfBAUEAwf///////////38DQQYhAME=)
 
 BL2(BwAAAACUuAkZFAWwEBG93gbBAUEAwf///////////38DQQYhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -1396,7 +1396,7 @@ BL2(BwAAAACUuAkZFAWwEBG93gbBAUEAwf///////////38DQQYhAME=)
 
 BL2(BwAAAAAo9QkZFAWwEBG9HgbBAUEAwf///////////38DQQYhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Rogue**	
+**Lawful Good Rogue**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -1404,7 +1404,7 @@ BL2(BwAAAAAo9QkZFAWwEBG9HgbBAUEAwf///////////38DQQYhAME=)
 
 BL2(BwAAAAD5FwkZFAWwEBG9XgXBAUEAwf///////////38DQQYhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -1412,7 +1412,7 @@ BL2(BwAAAAD5FwkZFAWwEBG9XgXBAUEAwf///////////38DQQYhAME=)
 
 BL2(BwAAAADfxwkXFAWwEBG9HgnBAUEAwf///////////38DwQUhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -1420,7 +1420,7 @@ BL2(BwAAAADfxwkXFAWwEBG9HgnBAUEAwf///////////38DwQUhAME=)
 
 BL2(BwAAAAAbEQkXFAWwEBG9XgjBAUEAwf///////////38DwQUhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -1428,7 +1428,7 @@ BL2(BwAAAAAbEQkXFAWwEBG9XgjBAUEAwf///////////38DwQUhAME=)
 
 BL2(BwAAAABPgAkXFAWwEBG9ngfBAUEAwf///////////38DwQUhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -1436,7 +1436,7 @@ BL2(BwAAAABPgAkXFAWwEBG9ngfBAUEAwf///////////38DwQUhAME=)
 
 BL2(BwAAAACLVgkXFAWwEBG93gbBAUEAwf///////////38DwQUhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -1444,7 +1444,7 @@ BL2(BwAAAACLVgkXFAWwEBG93gbBAUEAwf///////////38DwQUhAME=)
 
 BL2(BwAAAAA3GwkXFAWwEBG9HgbBAUEAwf///////////38DwQUhAME=)
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Rogue**	
+**Lawful Neutral Rogue**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -1452,7 +1452,7 @@ BL2(BwAAAAA3GwkXFAWwEBG9HgbBAUEAwf///////////38DwQUhAME=)
 
 BL2(BwAAAADm+QkXFAWwEBG9XgXBAUEAwf///////////38DwQUhAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -1460,7 +1460,7 @@ BL2(BwAAAADm+QkXFAWwEBG9XgXBAUEAwf///////////38DwQUhAME=)
 
 BL2(BwAAAACzcAkdFAWwEBG9HgnBAUEAwf///////////38DQQchAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -1468,7 +1468,7 @@ BL2(BwAAAACzcAkdFAWwEBG9HgnBAUEAwf///////////38DQQchAME=)
 
 BL2(BwAAAAB3pgkdFAWwEBG9XgjBAUEAwf///////////38DQQchAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -1476,7 +1476,7 @@ BL2(BwAAAAB3pgkdFAWwEBG9XgjBAUEAwf///////////38DQQchAME=)
 
 BL2(BwAAAAAjNwkdFAWwEBG9ngfBAUEAwf///////////38DQQchAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -1484,7 +1484,7 @@ BL2(BwAAAAAjNwkdFAWwEBG9ngfBAUEAwf///////////38DQQchAME=)
 
 BL2(BwAAAADn4QkdFAWwEBG93gbBAUEAwf///////////38DQQchAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -1492,7 +1492,7 @@ BL2(BwAAAADn4QkdFAWwEBG93gbBAUEAwf///////////38DQQchAME=)
 
 BL2(BwAAAABbrAkdFAWwEBG9HgbBAUEAwf///////////38DQQchAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Rogue**	
+**Neutral Evil Rogue**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -1500,7 +1500,7 @@ BL2(BwAAAABbrAkdFAWwEBG9HgbBAUEAwf///////////38DQQchAME=)
 
 BL2(BwAAAACKTgkdFAWwEBG9XgXBAUEAwf///////////38DQQchAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -1508,7 +1508,7 @@ BL2(BwAAAACKTgkdFAWwEBG9XgXBAUEAwf///////////38DQQchAME=)
 
 BL2(BwAAAABSHwkaFAWwEBG9HgnBAUEAwf///////////38DgQYhAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -1516,7 +1516,7 @@ BL2(BwAAAABSHwkaFAWwEBG9HgnBAUEAwf///////////38DgQYhAME=)
 
 BL2(BwAAAACWyQkaFAWwEBG9XgjBAUEAwf///////////38DgQYhAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -1524,7 +1524,7 @@ BL2(BwAAAACWyQkaFAWwEBG9XgjBAUEAwf///////////38DgQYhAME=)
 
 BL2(BwAAAADCWAkaFAWwEBG9ngfBAUEAwf///////////38DgQYhAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -1532,7 +1532,7 @@ BL2(BwAAAADCWAkaFAWwEBG9ngfBAUEAwf///////////38DgQYhAME=)
 
 BL2(BwAAAAAGjgkaFAWwEBG93gbBAUEAwf///////////38DgQYhAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -1540,7 +1540,7 @@ BL2(BwAAAAAGjgkaFAWwEBG93gbBAUEAwf///////////38DgQYhAME=)
 
 BL2(BwAAAAC6wwkaFAWwEBG9HgbBAUEAwf///////////38DgQYhAME=)
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Rogue**	
+**Neutral Good Rogue**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -1548,7 +1548,7 @@ BL2(BwAAAAC6wwkaFAWwEBG9HgbBAUEAwf///////////38DgQYhAME=)
 
 BL2(BwAAAABrIQkaFAWwEBG9XgXBAUEAwf///////////38DgQYhAME=)
 
-**True $${\color{grey}Neutral}$$ Rogue**	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -1556,7 +1556,7 @@ BL2(BwAAAABrIQkaFAWwEBG9XgXBAUEAwf///////////38DgQYhAME=)
 
 BL2(BwAAAAAaxQkWFAWwEBG9HgnBAUEAwf///////////38DgQUhAME=)
 
-**True $${\color{grey}Neutral}$$ Rogue**	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -1564,7 +1564,7 @@ BL2(BwAAAAAaxQkWFAWwEBG9HgnBAUEAwf///////////38DgQUhAME=)
 
 BL2(BwAAAADeEwkWFAWwEBG9XgjBAUEAwf///////////38DgQUhAME=)
 
-**True $${\color{grey}Neutral}$$ Rogue**	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -1572,7 +1572,7 @@ BL2(BwAAAADeEwkWFAWwEBG9XgjBAUEAwf///////////38DgQUhAME=)
 
 BL2(BwAAAACKggkWFAWwEBG9ngfBAUEAwf///////////38DgQUhAME=)
 
-**True $${\color{grey}Neutral}$$ Rogue**	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -1580,7 +1580,7 @@ BL2(BwAAAACKggkWFAWwEBG9ngfBAUEAwf///////////38DgQUhAME=)
 
 BL2(BwAAAABOVAkWFAWwEBG93gbBAUEAwf///////////38DgQUhAME=)
 
-**True $${\color{grey}Neutral}$$ Rogue**	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -1588,7 +1588,7 @@ BL2(BwAAAABOVAkWFAWwEBG93gbBAUEAwf///////////38DgQUhAME=)
 
 BL2(BwAAAADyGQkWFAWwEBG9HgbBAUEAwf///////////38DgQUhAME=)
 
-**True $${\color{grey}Neutral}$$ Rogue**	
+**True Neutral Rogue**	
 
 [Magazine Size +73%]	
 
@@ -1892,7 +1892,7 @@ BL2(BwAAAABSNQAmDWyhQxAyGQfBAUEAwf///////////38DwRIBAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
+**Chaotic Evil Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -1902,7 +1902,7 @@ BL2(BwAAAAA8sAkJFAGwEBG9ngjBAUEAwf///////////38DgQIhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
+**Chaotic Evil Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -1912,7 +1912,7 @@ BL2(BwAAAABI9QkJFAGwEBG9HgfBAUEAwf///////////38DgQIhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
+**Chaotic Evil Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -1922,7 +1922,7 @@ BL2(BwAAAADBWAkJFAGwEBG9ngXBAUEAwf///////////38DgQIhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+**Chaotic Good Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -1932,7 +1932,7 @@ BL2(BwAAAACEuAkGFAGwEBG9ngjBAUEAwf///////////38DwQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+**Chaotic Good Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -1942,7 +1942,7 @@ BL2(BwAAAADw/QkGFAGwEBG9HgfBAUEAwf///////////38DwQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+**Chaotic Good Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -1952,7 +1952,7 @@ BL2(BwAAAAB5UAkGFAGwEBG9ngXBAUEAwf///////////38DwQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Chaotic Neutral Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -1962,7 +1962,7 @@ BL2(BwAAAADTjAkEFAGwEBG9ngjBAUEAwf///////////38DQQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Chaotic Neutral Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -1972,7 +1972,7 @@ BL2(BwAAAACnyQkEFAGwEBG9HgfBAUEAwf///////////38DQQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Chaotic Neutral Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -1982,7 +1982,7 @@ BL2(BwAAAAAuZAkEFAGwEBG9ngXBAUEAwf///////////38DQQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
+**Lawful Evil Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -1992,7 +1992,7 @@ BL2(BwAAAACbVgkIFAGwEBG9ngjBAUEAwf///////////38DQQIhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
+**Lawful Evil Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -2002,7 +2002,7 @@ BL2(BwAAAADvEwkIFAGwEBG9HgfBAUEAwf///////////38DQQIhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
+**Lawful Evil Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -2012,7 +2012,7 @@ BL2(BwAAAABmvgkIFAGwEBG9ngXBAUEAwf///////////38DQQIhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
+**Lawful Good Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -2022,7 +2022,7 @@ BL2(BwAAAAB0agkFFAGwEBG9ngjBAUEAwf///////////38DgQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
+**Lawful Good Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -2032,7 +2032,7 @@ BL2(BwAAAAAALwkFFAGwEBG9HgfBAUEAwf///////////38DgQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
+**Lawful Good Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -2042,7 +2042,7 @@ BL2(BwAAAACJggkFFAGwEBG9ngXBAUEAwf///////////38DgQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Lawful Neutral Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -2054,7 +2054,7 @@ BL2(BwAAAAD34QkCFAGwEBG9ngjBAUEAwf///////////38DwQAhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Lawful Neutral Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -2064,7 +2064,7 @@ BL2(BwAAAACDpAkCFAGwEBG9HgfBAUEAwf///////////38DwQAhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Lawful Neutral Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -2074,7 +2074,7 @@ BL2(BwAAAAAKCQkCFAGwEBG9ngXBAUEAwf///////////38DwQAhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
+**Neutral Evil Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -2084,7 +2084,7 @@ BL2(BwAAAADMYgkKFAGwEBG9ngjBAUEAwf///////////38DwQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
+**Neutral Evil Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -2094,7 +2094,7 @@ BL2(BwAAAAC4JwkKFAGwEBG9HgfBAUEAwf///////////38DwQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
+**Neutral Evil Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -2104,7 +2104,7 @@ BL2(BwAAAAAxigkKFAGwEBG9ngXBAUEAwf///////////38DwQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
+**Neutral Good Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -2114,7 +2114,7 @@ BL2(BwAAAADXZAkHFAGwEBG9ngjBAUEAwf///////////38DAQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
+**Neutral Good Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -2124,7 +2124,7 @@ BL2(BwAAAACjIQkHFAGwEBG9HgfBAUEAwf///////////38DAQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
+**Neutral Good Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -2134,7 +2134,7 @@ BL2(BwAAAAAqjAkHFAGwEBG9ngXBAUEAwf///////////38DAQIhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Ranger**	
+**True Neutral Ranger**	
 
 [Magazine Size +73%]	
 
@@ -2144,7 +2144,7 @@ BL2(BwAAAABI/gkDFAGwEBG9ngjBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Ranger**	
+**True Neutral Ranger**	
 
 [Magazine Size +73%]	
 
@@ -2153,7 +2153,7 @@ BL2(BwAAAABI/gkDFAGwEBG9ngjBAUEAwf///////////38DAQEhAME=)
 BL2(BwAAAAA8uwkDFAGwEBG9HgfBAUEAwf///////////38DAQEhAME=)
 
 
-**True $${\color{grey}Neutral}$$ Ranger**	
+**True Neutral Ranger**	
 
 [Magazine Size +73%]	
 
@@ -2702,7 +2702,7 @@ BL2(BwAAAAC0qwAmDW6hQxAy2QbBAUEAwf///////////38DwRIBAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
+**Chaotic Evil Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -2712,7 +2712,7 @@ BL2(BwAAAABEKwkJFAGwEBG9HgnBAUEAwf///////////38DgQIhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
+**Chaotic Evil Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -2722,7 +2722,7 @@ BL2(BwAAAACA/QkJFAGwEBG9XgjBAUEAwf///////////38DgQIhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
+**Chaotic Evil Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -2732,7 +2732,7 @@ BL2(BwAAAADUbAkJFAGwEBG9ngfBAUEAwf///////////38DgQIhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
+**Chaotic Evil Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -2742,7 +2742,7 @@ BL2(BwAAAAAQugkJFAGwEBG93gbBAUEAwf///////////38DgQIhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
+**Chaotic Evil Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -2752,7 +2752,7 @@ BL2(BwAAAACs9wkJFAGwEBG9HgbBAUEAwf///////////38DgQIhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Ranger**	
+**Chaotic Evil Ranger**	
 
 [Critical Damage +45%] [Fire Rate +31%]	
 
@@ -2762,7 +2762,7 @@ BL2(BwAAAAB9FQkJFAGwEBG9XgXBAUEAwf///////////38DgQIhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+**Chaotic Good Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -2772,7 +2772,7 @@ BL2(BwAAAAD8IwkGFAGwEBG9HgnBAUEAwf///////////38DwQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+**Chaotic Good Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -2782,7 +2782,7 @@ BL2(BwAAAAA49QkGFAGwEBG9XgjBAUEAwf///////////38DwQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+**Chaotic Good Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -2792,7 +2792,7 @@ BL2(BwAAAABsZAkGFAGwEBG9ngfBAUEAwf///////////38DwQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+**Chaotic Good Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -2802,7 +2802,7 @@ BL2(BwAAAACosgkGFAGwEBG93gbBAUEAwf///////////38DwQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+**Chaotic Good Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -2812,7 +2812,7 @@ BL2(BwAAAAAU/wkGFAGwEBG9HgbBAUEAwf///////////38DwQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Ranger**	
+**Chaotic Good Ranger**	
 
 [Reload Speed +45%] [Fire Rate +31%]	
 
@@ -2822,7 +2822,7 @@ BL2(BwAAAADFHQkGFAGwEBG9XgXBAUEAwf///////////38DwQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Chaotic Neutral Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -2832,7 +2832,7 @@ BL2(BwAAAACrFwkEFAGwEBG9HgnBAUEAwf///////////38DQQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Chaotic Neutral Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -2842,7 +2842,7 @@ BL2(BwAAAABvwQkEFAGwEBG9XgjBAUEAwf///////////38DQQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Chaotic Neutral Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -2852,7 +2852,7 @@ BL2(BwAAAAA7UAkEFAGwEBG9ngfBAUEAwf///////////38DQQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Chaotic Neutral Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -2862,7 +2862,7 @@ BL2(BwAAAAD/hgkEFAGwEBG93gbBAUEAwf///////////38DQQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Chaotic Neutral Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -2872,7 +2872,7 @@ BL2(BwAAAABDywkEFAGwEBG9HgbBAUEAwf///////////38DQQEhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Chaotic Neutral Ranger**	
 
 [Magazine Size +45%] [Fire Rate +31%]	
 
@@ -2882,7 +2882,7 @@ BL2(BwAAAACSKQkEFAGwEBG9XgXBAUEAwf///////////38DQQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
+**Lawful Evil Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -2892,7 +2892,7 @@ BL2(BwAAAADjzQkIFAGwEBG9HgnBAUEAwf///////////38DQQIhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
+**Lawful Evil Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -2902,7 +2902,7 @@ BL2(BwAAAAAnGwkIFAGwEBG9XgjBAUEAwf///////////38DQQIhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
+**Lawful Evil Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -2912,7 +2912,7 @@ BL2(BwAAAABzigkIFAGwEBG9ngfBAUEAwf///////////38DQQIhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
+**Lawful Evil Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -2922,7 +2922,7 @@ BL2(BwAAAAC3XAkIFAGwEBG93gbBAUEAwf///////////38DQQIhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
+**Lawful Evil Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -2932,7 +2932,7 @@ BL2(BwAAAAALEQkIFAGwEBG9HgbBAUEAwf///////////38DQQIhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Ranger**	
+**Lawful Evil Ranger**	
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
 
@@ -2942,7 +2942,7 @@ BL2(BwAAAADa8wkIFAGwEBG9XgXBAUEAwf///////////38DQQIhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
+**Lawful Good Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -2952,7 +2952,7 @@ BL2(BwAAAAAM8QkFFAGwEBG9HgnBAUEAwf///////////38DgQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
+**Lawful Good Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -2962,7 +2962,7 @@ BL2(BwAAAADIJwkFFAGwEBG9XgjBAUEAwf///////////38DgQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
+**Lawful Good Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -2972,7 +2972,7 @@ BL2(BwAAAACctgkFFAGwEBG9ngfBAUEAwf///////////38DgQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
+**Lawful Good Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -2982,7 +2982,7 @@ BL2(BwAAAABYYAkFFAGwEBG93gbBAUEAwf///////////38DgQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
+**Lawful Good Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -2992,7 +2992,7 @@ BL2(BwAAAADkLQkFFAGwEBG9HgbBAUEAwf///////////38DgQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Ranger**	
+**Lawful Good Ranger**	
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
 
@@ -3002,7 +3002,7 @@ BL2(BwAAAAA1zwkFFAGwEBG9XgXBAUEAwf///////////38DgQEhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Lawful Neutral Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -3012,7 +3012,7 @@ BL2(BwAAAACPegkCFAGwEBG9HgnBAUEAwf///////////38DwQAhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Lawful Neutral Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -3022,7 +3022,7 @@ BL2(BwAAAABLrAkCFAGwEBG9XgjBAUEAwf///////////38DwQAhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Lawful Neutral Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -3032,7 +3032,7 @@ BL2(BwAAAAAfPQkCFAGwEBG9ngfBAUEAwf///////////38DwQAhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Lawful Neutral Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -3042,7 +3042,7 @@ BL2(BwAAAADb6wkCFAGwEBG93gbBAUEAwf///////////38DwQAhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Lawful Neutral Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -3052,7 +3052,7 @@ BL2(BwAAAABnpgkCFAGwEBG9HgbBAUEAwf///////////38DwQAhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Ranger**	
+**Lawful Neutral Ranger**	
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
 
@@ -3062,7 +3062,7 @@ BL2(BwAAAAC2RAkCFAGwEBG9XgXBAUEAwf///////////38DwQAhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
+**Neutral Evil Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -3072,7 +3072,7 @@ BL2(BwAAAAC0+QkKFAGwEBG9HgnBAUEAwf///////////38DwQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
+**Neutral Evil Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -3082,7 +3082,7 @@ BL2(BwAAAABwLwkKFAGwEBG9XgjBAUEAwf///////////38DwQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
+**Neutral Evil Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -3093,7 +3093,7 @@ BL2(BwAAAAAkvgkKFAGwEBG9ngfBAUEAwf///////////38DwQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
+**Neutral Evil Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -3103,7 +3103,7 @@ BL2(BwAAAADgaAkKFAGwEBG93gbBAUEAwf///////////38DwQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
+**Neutral Evil Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -3113,7 +3113,7 @@ BL2(BwAAAABcJQkKFAGwEBG9HgbBAUEAwf///////////38DwQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Ranger**	
+**Neutral Evil Ranger**	
 
 [Critical Damage +45%] [Magazine Size +45%]	
 
@@ -3123,7 +3123,7 @@ BL2(BwAAAACNxwkKFAGwEBG9XgXBAUEAwf///////////38DwQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
+**Neutral Good Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -3133,7 +3133,7 @@ BL2(BwAAAACv/wkHFAGwEBG9HgnBAUEAwf///////////38DAQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
+**Neutral Good Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -3143,7 +3143,7 @@ BL2(BwAAAABrKQkHFAGwEBG9XgjBAUEAwf///////////38DAQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
+**Neutral Good Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -3153,7 +3153,7 @@ BL2(BwAAAAA/uAkHFAGwEBG9ngfBAUEAwf///////////38DAQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
+**Neutral Good Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -3163,7 +3163,7 @@ BL2(BwAAAAD7bgkHFAGwEBG93gbBAUEAwf///////////38DAQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
+**Neutral Good Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -3173,7 +3173,7 @@ BL2(BwAAAABHIwkHFAGwEBG9HgbBAUEAwf///////////38DAQIhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Ranger**	
+**Neutral Good Ranger**	
 
 [Reload Speed +45% ] [Magazine Size +45%]	
 
@@ -3183,7 +3183,7 @@ BL2(BwAAAACWwQkHFAGwEBG9XgXBAUEAwf///////////38DAQIhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Ranger**	
+**True Neutral Ranger**	
 
 [Magazine Size +73%]	
 
@@ -3193,7 +3193,7 @@ BL2(BwAAAAAwZQkDFAGwEBG9HgnBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Ranger**	
+**True Neutral Ranger**	
 
 [Magazine Size +73%]	
 
@@ -3203,7 +3203,7 @@ BL2(BwAAAAD0swkDFAGwEBG9XgjBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Ranger**	
+**True Neutral Ranger**	
 
 [Magazine Size +73%]	
 
@@ -3213,7 +3213,7 @@ BL2(BwAAAACgIgkDFAGwEBG9ngfBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Ranger**	
+**True Neutral Ranger**	
 
 [Magazine Size +73%]	
 
@@ -3223,7 +3223,7 @@ BL2(BwAAAABk9AkDFAGwEBG93gbBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Ranger**	
+**True Neutral Ranger**	
 
 [Magazine Size +73%]	
 
@@ -3233,7 +3233,7 @@ BL2(BwAAAADYuQkDFAGwEBG9HgbBAUEAwf///////////38DAQEhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Ranger**	
+**True Neutral Ranger**	
 
 [Magazine Size +73%]	
 
@@ -3689,7 +3689,7 @@ BL2(BwAAAAAEwwATDYihgxAymQXBAUEAwf///////////38DASUBAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
+**Chaotic Evil Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -3704,7 +3704,7 @@ BL2(BwAAAABA+QknFAewEBG9ngjBAUEAwf///////////38DQQghAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
+**Chaotic Evil Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -3719,7 +3719,7 @@ BL2(BwAAAAA0vAknFAewEBG9HgfBAUEAwf///////////38DQQghAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
+**Chaotic Evil Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -3734,7 +3734,7 @@ BL2(BwAAAAC9EQknFAewEBG9ngXBAUEAwf///////////38DQQghAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+**Chaotic Good Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -3749,7 +3749,7 @@ BL2(BwAAAACURgkiFAewEBG9ngjBAUEAwf///////////38DgQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+**Chaotic Good Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -3764,7 +3764,7 @@ BL2(BwAAAADgAwkiFAewEBG9HgfBAUEAwf///////////38DgQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+**Chaotic Good Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -3779,7 +3779,7 @@ BL2(BwAAAABprgkiFAewEBG9ngXBAUEAwf///////////38DgQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+**Chaotic Neutral Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -3794,7 +3794,7 @@ BL2(BwAAAABklAkhFAewEBG9ngjBAUEAwf///////////38DwQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+**Chaotic Neutral Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -3809,7 +3809,7 @@ BL2(BwAAAAAQ0QkhFAewEBG9HgfBAUEAwf///////////38DwQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+**Chaotic Neutral Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -3824,7 +3824,7 @@ BL2(BwAAAACZfAkhFAewEBG9ngXBAUEAwf///////////38DwQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+**Lawful Evil Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -3839,7 +3839,7 @@ BL2(BwAAAAAmvwklFAewEBG9ngjBAUEAwf///////////38DgQghAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+**Lawful Evil Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -3854,7 +3854,7 @@ BL2(BwAAAABS+gklFAewEBG9HgfBAUEAwf///////////38DgQghAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+**Lawful Evil Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -3869,7 +3869,7 @@ BL2(BwAAAADbVwklFAewEBG9ngXBAUEAwf///////////38DgQghAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+**Lawful Good Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -3884,7 +3884,7 @@ BL2(BwAAAAAzoAkjFAewEBG9ngjBAUEAwf///////////38DQQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+**Lawful Good Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -3899,7 +3899,7 @@ BL2(BwAAAABH5QkjFAewEBG9HgfBAUEAwf///////////38DQQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+**Lawful Good Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -3914,7 +3914,7 @@ BL2(BwAAAADOSAkjFAewEBG9ngXBAUEAwf///////////38DQQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+**Lawful Neutral Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -3929,7 +3929,7 @@ BL2(BwAAAAA3SAkgFAewEBG9ngjBAUEAwf///////////38DAQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+**Lawful Neutral Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -3944,7 +3944,7 @@ BL2(BwAAAABDDQkgFAewEBG9HgfBAUEAwf///////////38DAQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+**Lawful Neutral Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -3959,7 +3959,7 @@ BL2(BwAAAADKoAkgFAewEBG9ngXBAUEAwf///////////38DAQohAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
+**Neutral Evil Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -3974,7 +3974,7 @@ BL2(BwAAAADWbQkmFAewEBG9ngjBAUEAwf///////////38DwQghAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
+**Neutral Evil Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -3989,7 +3989,7 @@ BL2(BwAAAACiKAkmFAewEBG9HgfBAUEAwf///////////38DwQghAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
+**Neutral Evil Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -4004,7 +4004,7 @@ BL2(BwAAAAArhQkmFAewEBG9ngXBAUEAwf///////////38DwQghAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
+**Neutral Good Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -4019,7 +4019,7 @@ BL2(BwAAAACo0gkkFAewEBG9ngjBAUEAwf///////////38DAQkhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
+**Neutral Good Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -4034,7 +4034,7 @@ BL2(BwAAAADclwkkFAewEBG9HgfBAUEAwf///////////38DAQkhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
+**Neutral Good Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -4049,7 +4049,7 @@ BL2(BwAAAABVOgkkFAewEBG9ngXBAUEAwf///////////38DAQkhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Monk**	
+**True Neutral Monk**	
 
 
 [Magazine Size +73%]	
@@ -4064,7 +4064,7 @@ BL2(BwAAAAAyGwkfFAewEBG9ngjBAUEAwf///////////38DAQghAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Monk**	
+**True Neutral Monk**	
 
 
 [Magazine Size +73%]	
@@ -4079,7 +4079,7 @@ BL2(BwAAAABGXgkfFAewEBG9HgfBAUEAwf///////////38DAQghAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Monk**	
+**True Neutral Monk**	
 
 
 [Magazine Size +73%]	
@@ -4910,7 +4910,7 @@ BL2(BwAAAAAGXwATDYqhgxAyWQXBAUEAwf///////////38DASUBAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
+**Chaotic Evil Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4925,7 +4925,7 @@ BL2(BwAAAAA4YgknFAewEBG9HgnBAUEAwf///////////38DQQghAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
+**Chaotic Evil Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4940,7 +4940,7 @@ BL2(BwAAAAD8tAknFAewEBG9XgjBAUEAwf///////////38DQQghAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
+**Chaotic Evil Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4955,7 +4955,7 @@ BL2(BwAAAACoJQknFAewEBG9ngfBAUEAwf///////////38DQQghAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
+**Chaotic Evil Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4970,7 +4970,7 @@ BL2(BwAAAABs8wknFAewEBG93gbBAUEAwf///////////38DQQghAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
+**Chaotic Evil Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -4985,7 +4985,7 @@ BL2(BwAAAADQvgknFAewEBG9HgbBAUEAwf///////////38DQQghAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Monk**	
+**Chaotic Evil Monk**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -5000,7 +5000,7 @@ BL2(BwAAAAABXAknFAewEBG9XgXBAUEAwf///////////38DQQghAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+**Chaotic Good Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5015,7 +5015,7 @@ BL2(BwAAAADs3QkiFAewEBG9HgnBAUEAwf///////////38DgQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+**Chaotic Good Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5030,7 +5030,7 @@ BL2(BwAAAAAoCwkiFAewEBG9XgjBAUEAwf///////////38DgQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+**Chaotic Good Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5045,7 +5045,7 @@ BL2(BwAAAAB8mgkiFAewEBG9ngfBAUEAwf///////////38DgQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+**Chaotic Good Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5060,7 +5060,7 @@ BL2(BwAAAAC4TAkiFAewEBG93gbBAUEAwf///////////38DgQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+**Chaotic Good Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5075,7 +5075,7 @@ BL2(BwAAAAAEAQkiFAewEBG9HgbBAUEAwf///////////38DgQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Monk**	
+**Chaotic Good Monk**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -5090,7 +5090,7 @@ BL2(BwAAAADV4wkiFAewEBG9XgXBAUEAwf///////////38DgQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+**Chaotic Neutral Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5105,7 +5105,7 @@ BL2(BwAAAAAcDwkhFAewEBG9HgnBAUEAwf///////////38DwQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+**Chaotic Neutral Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5120,7 +5120,7 @@ BL2(BwAAAADY2QkhFAewEBG9XgjBAUEAwf///////////38DwQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+**Chaotic Neutral Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5135,7 +5135,7 @@ BL2(BwAAAACMSAkhFAewEBG9ngfBAUEAwf///////////38DwQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+**Chaotic Neutral Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5150,7 +5150,7 @@ BL2(BwAAAABIngkhFAewEBG93gbBAUEAwf///////////38DwQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+**Chaotic Neutral Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5165,7 +5165,7 @@ BL2(BwAAAAD00wkhFAewEBG9HgbBAUEAwf///////////38DwQkhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Monk**	
+**Chaotic Neutral Monk**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -5180,7 +5180,7 @@ BL2(BwAAAAAlMQkhFAewEBG9XgXBAUEAwf///////////38DwQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+**Lawful Evil Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5195,7 +5195,7 @@ BL2(BwAAAABeJAklFAewEBG9HgnBAUEAwf///////////38DgQghAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+**Lawful Evil Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5210,7 +5210,7 @@ BL2(BwAAAACa8gklFAewEBG9XgjBAUEAwf///////////38DgQghAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+**Lawful Evil Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5225,7 +5225,7 @@ BL2(BwAAAADOYwklFAewEBG9ngfBAUEAwf///////////38DgQghAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+**Lawful Evil Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5240,7 +5240,7 @@ BL2(BwAAAAAKtQklFAewEBG93gbBAUEAwf///////////38DgQghAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+**Lawful Evil Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5255,7 +5255,7 @@ BL2(BwAAAAC2+AklFAewEBG9HgbBAUEAwf///////////38DgQghAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Monk**	
+**Lawful Evil Monk**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -5270,7 +5270,7 @@ BL2(BwAAAABnGgklFAewEBG9XgXBAUEAwf///////////38DgQghAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+**Lawful Good Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5285,7 +5285,7 @@ BL2(BwAAAABLOwkjFAewEBG9HgnBAUEAwf///////////38DQQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+**Lawful Good Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5300,7 +5300,7 @@ BL2(BwAAAACP7QkjFAewEBG9XgjBAUEAwf///////////38DQQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+**Lawful Good Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5315,7 +5315,7 @@ BL2(BwAAAADbfAkjFAewEBG9ngfBAUEAwf///////////38DQQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+**Lawful Good Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5330,7 +5330,7 @@ BL2(BwAAAAAfqgkjFAewEBG93gbBAUEAwf///////////38DQQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+**Lawful Good Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5345,7 +5345,7 @@ BL2(BwAAAACj5wkjFAewEBG9HgbBAUEAwf///////////38DQQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Monk**	
+**Lawful Good Monk**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -5360,7 +5360,7 @@ BL2(BwAAAAByBQkjFAewEBG9XgXBAUEAwf///////////38DQQkhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+**Lawful Neutral Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5375,7 +5375,7 @@ BL2(BwAAAABP0wkgFAewEBG9HgnBAUEAwf///////////38DAQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+**Lawful Neutral Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5390,7 +5390,7 @@ BL2(BwAAAACLBQkgFAewEBG9XgjBAUEAwf///////////38DAQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+**Lawful Neutral Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5405,7 +5405,7 @@ BL2(BwAAAADflAkgFAewEBG9ngfBAUEAwf///////////38DAQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+**Lawful Neutral Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5420,7 +5420,7 @@ BL2(BwAAAAAbQgkgFAewEBG93gbBAUEAwf///////////38DAQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+**Lawful Neutral Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5435,7 +5435,7 @@ BL2(BwAAAACnDwkgFAewEBG9HgbBAUEAwf///////////38DAQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Monk**	
+**Lawful Neutral Monk**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -5450,7 +5450,7 @@ BL2(BwAAAAB27QkgFAewEBG9XgXBAUEAwf///////////38DAQohAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
+**Neutral Evil Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5465,7 +5465,7 @@ BL2(BwAAAACu9gkmFAewEBG9HgnBAUEAwf///////////38DwQghAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
+**Neutral Evil Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5480,7 +5480,7 @@ BL2(BwAAAABqIAkmFAewEBG9XgjBAUEAwf///////////38DwQghAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
+**Neutral Evil Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5495,7 +5495,7 @@ BL2(BwAAAAA+sQkmFAewEBG9ngfBAUEAwf///////////38DwQghAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
+**Neutral Evil Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5510,7 +5510,7 @@ BL2(BwAAAAD6ZwkmFAewEBG93gbBAUEAwf///////////38DwQghAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
+**Neutral Evil Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5525,7 +5525,7 @@ BL2(BwAAAABGKgkmFAewEBG9HgbBAUEAwf///////////38DwQghAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Monk**	
+**Neutral Evil Monk**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -5540,7 +5540,7 @@ BL2(BwAAAACXyAkmFAewEBG9XgXBAUEAwf///////////38DwQghAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
+**Neutral Good Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5555,7 +5555,7 @@ BL2(BwAAAADQSQkkFAewEBG9HgnBAUEAwf///////////38DAQkhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
+**Neutral Good Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5570,7 +5570,7 @@ BL2(BwAAAAAUnwkkFAewEBG9XgjBAUEAwf///////////38DAQkhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
+**Neutral Good Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5585,7 +5585,7 @@ BL2(BwAAAABADgkkFAewEBG9ngfBAUEAwf///////////38DAQkhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
+**Neutral Good Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5600,7 +5600,7 @@ BL2(BwAAAACE2AkkFAewEBG93gbBAUEAwf///////////38DAQkhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
+**Neutral Good Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5615,7 +5615,7 @@ BL2(BwAAAAA4lQkkFAewEBG9HgbBAUEAwf///////////38DAQkhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Monk**	
+**Neutral Good Monk**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -5630,7 +5630,7 @@ BL2(BwAAAADpdwkkFAewEBG9XgXBAUEAwf///////////38DAQkhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Monk**	
+**True Neutral Monk**	
 
 
 [Magazine Size +73%]	
@@ -5645,7 +5645,7 @@ BL2(BwAAAABKgAkfFAewEBG9HgnBAUEAwf///////////38DAQghAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Monk**	
+**True Neutral Monk**	
 
 
 [Magazine Size +73%]	
@@ -5660,7 +5660,7 @@ BL2(BwAAAACOVgkfFAewEBG9XgjBAUEAwf///////////38DAQghAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Monk**	
+**True Neutral Monk**	
 
 
 [Magazine Size +73%]	
@@ -5675,7 +5675,7 @@ BL2(BwAAAADaxwkfFAewEBG9ngfBAUEAwf///////////38DAQghAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Monk**	
+**True Neutral Monk**	
 
 
 [Magazine Size +73%]	
@@ -5690,7 +5690,7 @@ BL2(BwAAAAAeEQkfFAewEBG93gbBAUEAwf///////////38DAQghAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Monk**	
+**True Neutral Monk**	
 
 
 [Magazine Size +73%]	
@@ -5705,7 +5705,7 @@ BL2(BwAAAACiXAkfFAewEBG9HgbBAUEAwf///////////38DAQghAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Monk**	
+**True Neutral Monk**	
 
 
 [Magazine Size +73%]	
@@ -6194,7 +6194,7 @@ BL2(BwAAAAA+LQAKDXqhAxIymQXBAUEAwf///////////38DgRcBAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
+**Chaotic Evil Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -6209,7 +6209,7 @@ BL2(BwAAAAD2GAkUFAOwEBG9ngjBAUEAwf///////////38DAQUhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
+**Chaotic Evil Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -6224,7 +6224,7 @@ BL2(BwAAAACCXQkUFAOwEBG9HgfBAUEAwf///////////38DAQUhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
+**Chaotic Evil Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -6239,7 +6239,7 @@ BL2(BwAAAAAL8AkUFAOwEBG9ngXBAUEAwf///////////38DAQUhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+**Chaotic Good Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -6254,7 +6254,7 @@ BL2(BwAAAACFQQkQFAOwEBG9ngjBAUEAwf///////////38DAQQhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+**Chaotic Good Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -6269,7 +6269,7 @@ BL2(BwAAAADxBAkQFAOwEBG9HgfBAUEAwf///////////38DAQQhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+**Chaotic Good Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -6284,7 +6284,7 @@ BL2(BwAAAAB4qQkQFAOwEBG9ngXBAUEAwf///////////38DAQQhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Chaotic Neutral Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -6299,7 +6299,7 @@ BL2(BwAAAAD1mgkPFAOwEBG9ngjBAUEAwf///////////38DwQMhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Chaotic Neutral Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -6314,7 +6314,7 @@ BL2(BwAAAACB3wkPFAOwEBG9HgfBAUEAwf///////////38DwQMhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Chaotic Neutral Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -6329,7 +6329,7 @@ BL2(BwAAAAAIcgkPFAOwEBG9ngXBAUEAwf///////////38DwQMhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+**Lawful Evil Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -6344,7 +6344,7 @@ BL2(BwAAAAAzGgkVFAOwEBG9ngjBAUEAwf///////////38DQQUhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+**Lawful Evil Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -6359,7 +6359,7 @@ BL2(BwAAAABHXwkVFAOwEBG9HgfBAUEAwf///////////38DQQUhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+**Lawful Evil Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -6374,7 +6374,7 @@ BL2(BwAAAADO8gkVFAOwEBG9ngXBAUEAwf///////////38DQQUhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+**Lawful Good Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -6389,7 +6389,7 @@ BL2(BwAAAABAQwkRFAOwEBG9ngjBAUEAwf///////////38DQQQhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+**Lawful Good Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -6404,7 +6404,7 @@ BL2(BwAAAAA0BgkRFAOwEBG9HgfBAUEAwf///////////38DQQQhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+**Lawful Good Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -6419,7 +6419,7 @@ BL2(BwAAAAC9qwkRFAOwEBG9ngXBAUEAwf///////////38DQQQhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Lawful Neutral Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -6434,7 +6434,7 @@ BL2(BwAAAADxOAkNFAOwEBG9ngjBAUEAwf///////////38DgQMhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Lawful Neutral Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -6449,7 +6449,7 @@ BL2(BwAAAACFfQkNFAOwEBG9HgfBAUEAwf///////////38DgQMhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Lawful Neutral Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -6464,7 +6464,7 @@ BL2(BwAAAAAM0AkNFAOwEBG9ngXBAUEAwf///////////38DgQMhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
+**Neutral Evil Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -6479,7 +6479,7 @@ BL2(BwAAAAAXdwkTFAOwEBG9ngjBAUEAwf///////////38DwQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
+**Neutral Evil Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -6494,7 +6494,7 @@ BL2(BwAAAABjMgkTFAOwEBG9HgfBAUEAwf///////////38DwQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
+**Neutral Evil Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -6509,7 +6509,7 @@ BL2(BwAAAADqnwkTFAOwEBG9ngXBAUEAwf///////////38DwQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
+**Neutral Good Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -6524,7 +6524,7 @@ BL2(BwAAAADSdQkSFAOwEBG9ngjBAUEAwf///////////38DgQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
+**Neutral Good Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -6539,7 +6539,7 @@ BL2(BwAAAACmMAkSFAOwEBG9HgfBAUEAwf///////////38DgQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
+**Neutral Good Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -6554,7 +6554,7 @@ BL2(BwAAAAAvnQkSFAOwEBG9ngXBAUEAwf///////////38DgQQhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Cleric**	
+**True Neutral Cleric**	
 
 
 [Magazine Size +73%]	
@@ -6569,7 +6569,7 @@ BL2(BwAAAABW3gkMFAOwEBG9ngjBAUEAwf///////////38DQQMhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Cleric**	
+**True Neutral Cleric**	
 
 
 [Magazine Size +73%]	
@@ -6584,7 +6584,7 @@ BL2(BwAAAAAimwkMFAOwEBG9HgfBAUEAwf///////////38DQQMhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Cleric**	
+**True Neutral Cleric**	
 
 
 [Magazine Size +73%]	
@@ -7412,7 +7412,7 @@ BL2(BwAAAABBEgAKDXyhAxIyWQXBAUEAwf///////////38DgRcBAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
+**Chaotic Evil Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7427,7 +7427,7 @@ BL2(BwAAAACOgwkUFAOwEBG9HgnBAUEAwf///////////38DAQUhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
+**Chaotic Evil Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7442,7 +7442,7 @@ BL2(BwAAAABKVQkUFAOwEBG9XgjBAUEAwf///////////38DAQUhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
+**Chaotic Evil Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7457,7 +7457,7 @@ BL2(BwAAAAAexAkUFAOwEBG9ngfBAUEAwf///////////38DAQUhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
+**Chaotic Evil Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7472,7 +7472,7 @@ BL2(BwAAAADaEgkUFAOwEBG93gbBAUEAwf///////////38DAQUhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
+**Chaotic Evil Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7487,7 +7487,7 @@ BL2(BwAAAABmXwkUFAOwEBG9HgbBAUEAwf///////////38DAQUhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Cleric**	
+**Chaotic Evil Cleric**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -7502,7 +7502,7 @@ BL2(BwAAAAC3vQkUFAOwEBG9XgXBAUEAwf///////////38DAQUhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+**Chaotic Good Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -7517,7 +7517,7 @@ BL2(BwAAAAD92gkQFAOwEBG9HgnBAUEAwf///////////38DAQQhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+**Chaotic Good Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -7532,7 +7532,7 @@ BL2(BwAAAAA5DAkQFAOwEBG9XgjBAUEAwf///////////38DAQQhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+**Chaotic Good Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -7547,7 +7547,7 @@ BL2(BwAAAABtnQkQFAOwEBG9ngfBAUEAwf///////////38DAQQhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+**Chaotic Good Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -7562,7 +7562,7 @@ BL2(BwAAAACpSwkQFAOwEBG93gbBAUEAwf///////////38DAQQhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+**Chaotic Good Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -7577,7 +7577,7 @@ BL2(BwAAAAAVBgkQFAOwEBG9HgbBAUEAwf///////////38DAQQhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Cleric**	
+**Chaotic Good Cleric**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -7592,7 +7592,7 @@ BL2(BwAAAADE5AkQFAOwEBG9XgXBAUEAwf///////////38DAQQhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Chaotic Neutral Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -7607,7 +7607,7 @@ BL2(BwAAAACNAQkPFAOwEBG9HgnBAUEAwf///////////38DwQMhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Chaotic Neutral Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -7622,7 +7622,7 @@ BL2(BwAAAABJ1wkPFAOwEBG9XgjBAUEAwf///////////38DwQMhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Chaotic Neutral Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -7637,7 +7637,7 @@ BL2(BwAAAAAdRgkPFAOwEBG9ngfBAUEAwf///////////38DwQMhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Chaotic Neutral Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -7652,7 +7652,7 @@ BL2(BwAAAADZkAkPFAOwEBG93gbBAUEAwf///////////38DwQMhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Chaotic Neutral Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -7667,7 +7667,7 @@ BL2(BwAAAABl3QkPFAOwEBG9HgbBAUEAwf///////////38DwQMhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Chaotic Neutral Cleric**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -7682,7 +7682,7 @@ BL2(BwAAAAC0PwkPFAOwEBG9XgXBAUEAwf///////////38DwQMhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+**Lawful Evil Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7697,7 +7697,7 @@ BL2(BwAAAABLgQkVFAOwEBG9HgnBAUEAwf///////////38DQQUhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+**Lawful Evil Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7712,7 +7712,7 @@ BL2(BwAAAACPVwkVFAOwEBG9XgjBAUEAwf///////////38DQQUhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+**Lawful Evil Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7727,7 +7727,7 @@ BL2(BwAAAADbxgkVFAOwEBG9ngfBAUEAwf///////////38DQQUhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+**Lawful Evil Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7742,7 +7742,7 @@ BL2(BwAAAAAfEAkVFAOwEBG93gbBAUEAwf///////////38DQQUhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+**Lawful Evil Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7757,7 +7757,7 @@ BL2(BwAAAACjXQkVFAOwEBG9HgbBAUEAwf///////////38DQQUhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Cleric**	
+**Lawful Evil Cleric**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -7772,7 +7772,7 @@ BL2(BwAAAAByvwkVFAOwEBG9XgXBAUEAwf///////////38DQQUhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+**Lawful Good Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7787,7 +7787,7 @@ BL2(BwAAAAA42AkRFAOwEBG9HgnBAUEAwf///////////38DQQQhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+**Lawful Good Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7802,7 +7802,7 @@ BL2(BwAAAAD8DgkRFAOwEBG9XgjBAUEAwf///////////38DQQQhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+**Lawful Good Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7817,7 +7817,7 @@ BL2(BwAAAAConwkRFAOwEBG9ngfBAUEAwf///////////38DQQQhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+**Lawful Good Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7832,7 +7832,7 @@ BL2(BwAAAABsSQkRFAOwEBG93gbBAUEAwf///////////38DQQQhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+**Lawful Good Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7847,7 +7847,7 @@ BL2(BwAAAADQBAkRFAOwEBG9HgbBAUEAwf///////////38DQQQhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Cleric**	
+**Lawful Good Cleric**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -7862,7 +7862,7 @@ BL2(BwAAAAAB5gkRFAOwEBG9XgXBAUEAwf///////////38DQQQhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Lawful Neutral Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7877,7 +7877,7 @@ BL2(BwAAAACJowkNFAOwEBG9HgnBAUEAwf///////////38DgQMhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Lawful Neutral Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7892,7 +7892,7 @@ BL2(BwAAAABNdQkNFAOwEBG9XgjBAUEAwf///////////38DgQMhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Lawful Neutral Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7907,7 +7907,7 @@ BL2(BwAAAAAZ5AkNFAOwEBG9ngfBAUEAwf///////////38DgQMhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Lawful Neutral Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7922,7 +7922,7 @@ BL2(BwAAAADdMgkNFAOwEBG93gbBAUEAwf///////////38DgQMhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Lawful Neutral Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7937,7 +7937,7 @@ BL2(BwAAAABhfwkNFAOwEBG9HgbBAUEAwf///////////38DgQMhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Cleric**	
+**Lawful Neutral Cleric**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -7952,7 +7952,7 @@ BL2(BwAAAACwnQkNFAOwEBG9XgXBAUEAwf///////////38DgQMhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
+**Neutral Evil Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -7967,7 +7967,7 @@ BL2(BwAAAABv7AkTFAOwEBG9HgnBAUEAwf///////////38DwQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
+**Neutral Evil Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -7982,7 +7982,7 @@ BL2(BwAAAACrOgkTFAOwEBG9XgjBAUEAwf///////////38DwQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
+**Neutral Evil Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -7997,7 +7997,7 @@ BL2(BwAAAAD/qwkTFAOwEBG9ngfBAUEAwf///////////38DwQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
+**Neutral Evil Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8012,7 +8012,7 @@ BL2(BwAAAAA7fQkTFAOwEBG93gbBAUEAwf///////////38DwQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
+**Neutral Evil Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8027,7 +8027,7 @@ BL2(BwAAAACHMAkTFAOwEBG9HgbBAUEAwf///////////38DwQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Cleric**	
+**Neutral Evil Cleric**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8042,7 +8042,7 @@ BL2(BwAAAABW0gkTFAOwEBG9XgXBAUEAwf///////////38DwQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
+**Neutral Good Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8057,7 +8057,7 @@ BL2(BwAAAACq7gkSFAOwEBG9HgnBAUEAwf///////////38DgQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
+**Neutral Good Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8072,7 +8072,7 @@ BL2(BwAAAABuOAkSFAOwEBG9XgjBAUEAwf///////////38DgQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
+**Neutral Good Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8087,7 +8087,7 @@ BL2(BwAAAAA6qQkSFAOwEBG9ngfBAUEAwf///////////38DgQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
+**Neutral Good Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8102,7 +8102,7 @@ BL2(BwAAAAD+fwkSFAOwEBG93gbBAUEAwf///////////38DgQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
+**Neutral Good Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8117,7 +8117,7 @@ BL2(BwAAAABCMgkSFAOwEBG9HgbBAUEAwf///////////38DgQQhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Cleric**	
+**Neutral Good Cleric**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -8132,7 +8132,7 @@ BL2(BwAAAACT0AkSFAOwEBG9XgXBAUEAwf///////////38DgQQhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Cleric**	
+**True Neutral Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8147,7 +8147,7 @@ BL2(BwAAAAAuRQkMFAOwEBG9HgnBAUEAwf///////////38DQQMhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Cleric**	
+**True Neutral Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8162,7 +8162,7 @@ BL2(BwAAAADqkwkMFAOwEBG9XgjBAUEAwf///////////38DQQMhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Cleric**	
+**True Neutral Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8177,7 +8177,7 @@ BL2(BwAAAAC+AgkMFAOwEBG9ngfBAUEAwf///////////38DQQMhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Cleric**	
+**True Neutral Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8192,7 +8192,7 @@ BL2(BwAAAAB61AkMFAOwEBG93gbBAUEAwf///////////38DQQMhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Cleric**	
+**True Neutral Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8207,7 +8207,7 @@ BL2(BwAAAADGmQkMFAOwEBG9HgbBAUEAwf///////////38DQQMhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Cleric**	
+**True Neutral Cleric**	
 
 
 [Magazine Size +73%]	
@@ -8696,7 +8696,7 @@ BL2(BwAAAADppgILAQcI8BEymQXBAUEAwf///////////38DwQ0gAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
+**Chaotic Evil Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -8711,7 +8711,7 @@ BL2(BwAAAADN6QkvFAmwEBG9ngjBAUEAwf///////////38DgQohAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
+**Chaotic Evil Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -8726,7 +8726,7 @@ BL2(BwAAAAC5rAkvFAmwEBG9HgfBAUEAwf///////////38DgQohAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
+**Chaotic Evil Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -8741,7 +8741,7 @@ BL2(BwAAAAAwAQkvFAmwEBG9ngXBAUEAwf///////////38DgQohAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+**Chaotic Good Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -8756,7 +8756,7 @@ BL2(BwAAAAAlwgksFAmwEBG9ngjBAUEAwf///////////38DwQshAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+**Chaotic Good Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -8771,7 +8771,7 @@ BL2(BwAAAABRhwksFAmwEBG9HgfBAUEAwf///////////38DwQshAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+**Chaotic Good Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -8786,7 +8786,7 @@ BL2(BwAAAADYKgksFAmwEBG9ngXBAUEAwf///////////38DwQshAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Chaotic Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -8801,7 +8801,7 @@ BL2(BwAAAAAFmQkqFAmwEBG9ngjBAUEAwf///////////38DAQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Chaotic Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -8816,7 +8816,7 @@ BL2(BwAAAABx3AkqFAmwEBG9HgfBAUEAwf///////////38DAQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Chaotic Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -8831,7 +8831,7 @@ BL2(BwAAAAD4cQkqFAmwEBG9ngXBAUEAwf///////////38DAQwhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+**Lawful Evil Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -8846,7 +8846,7 @@ BL2(BwAAAADyawkwFAmwEBG9ngjBAUEAwf///////////38DwQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+**Lawful Evil Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -8861,7 +8861,7 @@ BL2(BwAAAACGLgkwFAmwEBG9HgfBAUEAwf///////////38DwQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+**Lawful Evil Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -8876,7 +8876,7 @@ BL2(BwAAAAAPgwkwFAmwEBG9ngXBAUEAwf///////////38DwQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+**Lawful Good Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -8891,7 +8891,7 @@ BL2(BwAAAAC+sAkrFAmwEBG9ngjBAUEAwf///////////38DgQshAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+**Lawful Good Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -8906,7 +8906,7 @@ BL2(BwAAAADK9QkrFAmwEBG9HgfBAUEAwf///////////38DgQshAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+**Lawful Good Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -8921,7 +8921,7 @@ BL2(BwAAAABDWAkrFAmwEBG9ngXBAUEAwf///////////38DgQshAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Lawful Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -8936,7 +8936,7 @@ BL2(BwAAAAD1SwkpFAmwEBG9ngjBAUEAwf///////////38DQQwhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Lawful Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -8951,7 +8951,7 @@ BL2(BwAAAACBDgkpFAmwEBG9HgfBAUEAwf///////////38DQQwhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Lawful Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -8966,7 +8966,7 @@ BL2(BwAAAAAIowkpFAmwEBG9ngXBAUEAwf///////////38DQQwhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
+**Neutral Evil Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8981,7 +8981,7 @@ BL2(BwAAAABDhAkuFAmwEBG9ngjBAUEAwf///////////38DAQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
+**Neutral Evil Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -8996,7 +8996,7 @@ BL2(BwAAAAA3wQkuFAmwEBG9HgfBAUEAwf///////////38DAQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
+**Neutral Evil Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -9011,7 +9011,7 @@ BL2(BwAAAAC+bAkuFAmwEBG9ngXBAUEAwf///////////38DAQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
+**Neutral Good Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -9026,7 +9026,7 @@ BL2(BwAAAACzVgktFAmwEBG9ngjBAUEAwf///////////38DQQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
+**Neutral Good Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -9041,7 +9041,7 @@ BL2(BwAAAADHEwktFAmwEBG9HgfBAUEAwf///////////38DQQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
+**Neutral Good Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -9056,7 +9056,7 @@ BL2(BwAAAABOvgktFAmwEBG9ngXBAUEAwf///////////38DQQshAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Necromancer**	
+**True Neutral Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -9071,7 +9071,7 @@ BL2(BwAAAAA0fwkoFAmwEBG9ngjBAUEAwf///////////38DQQohAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Necromancer**	
+**True Neutral Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -9086,7 +9086,7 @@ BL2(BwAAAABAOgkoFAmwEBG9HgfBAUEAwf///////////38DQQohAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Necromancer**	
+**True Neutral Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -9908,7 +9908,7 @@ BL2(BwAAAACw7gILAQkI8BEyWQXBAUEAwf///////////38DwQ0gAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
+**Chaotic Evil Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9923,7 +9923,7 @@ BL2(BwAAAAC1cgkvFAmwEBG9HgnBAUEAwf///////////38DgQohAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
+**Chaotic Evil Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9938,7 +9938,7 @@ BL2(BwAAAABxpAkvFAmwEBG9XgjBAUEAwf///////////38DgQohAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
+**Chaotic Evil Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9953,7 +9953,7 @@ BL2(BwAAAAAlNQkvFAmwEBG9ngfBAUEAwf///////////38DgQohAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
+**Chaotic Evil Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9968,7 +9968,7 @@ BL2(BwAAAADh4wkvFAmwEBG93gbBAUEAwf///////////38DgQohAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
+**Chaotic Evil Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9983,7 +9983,7 @@ BL2(BwAAAABdrgkvFAmwEBG9HgbBAUEAwf///////////38DgQohAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Necromancer**	
+**Chaotic Evil Necromancer**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -9998,7 +9998,7 @@ BL2(BwAAAACMTAkvFAmwEBG9XgXBAUEAwf///////////38DgQohAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+**Chaotic Good Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -10013,7 +10013,7 @@ BL2(BwAAAABdWQksFAmwEBG9HgnBAUEAwf///////////38DwQshAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+**Chaotic Good Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -10028,7 +10028,7 @@ BL2(BwAAAACZjwksFAmwEBG9XgjBAUEAwf///////////38DwQshAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+**Chaotic Good Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -10043,7 +10043,7 @@ BL2(BwAAAADNHgksFAmwEBG9ngfBAUEAwf///////////38DwQshAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+**Chaotic Good Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -10058,7 +10058,7 @@ BL2(BwAAAAAJyAksFAmwEBG93gbBAUEAwf///////////38DwQshAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+**Chaotic Good Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -10073,7 +10073,7 @@ BL2(BwAAAAC1hQksFAmwEBG9HgbBAUEAwf///////////38DwQshAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Necromancer**	
+**Chaotic Good Necromancer**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -10088,7 +10088,7 @@ BL2(BwAAAABkZwksFAmwEBG9XgXBAUEAwf///////////38DwQshAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Chaotic Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -10103,7 +10103,7 @@ BL2(BwAAAAB9AgkqFAmwEBG9HgnBAUEAwf///////////38DAQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Chaotic Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -10118,7 +10118,7 @@ BL2(BwAAAAC51AkqFAmwEBG9XgjBAUEAwf///////////38DAQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Chaotic Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -10133,7 +10133,7 @@ BL2(BwAAAADtRQkqFAmwEBG9ngfBAUEAwf///////////38DAQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Chaotic Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -10148,7 +10148,7 @@ BL2(BwAAAAApkwkqFAmwEBG93gbBAUEAwf///////////38DAQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Chaotic Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -10163,7 +10163,7 @@ BL2(BwAAAACV3gkqFAmwEBG9HgbBAUEAwf///////////38DAQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Chaotic Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -10178,7 +10178,7 @@ BL2(BwAAAABEPAkqFAmwEBG9XgXBAUEAwf///////////38DAQwhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+**Lawful Evil Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10193,7 +10193,7 @@ BL2(BwAAAACK8AkwFAmwEBG9HgnBAUEAwf///////////38DwQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+**Lawful Evil Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10208,7 +10208,7 @@ BL2(BwAAAABOJgkwFAmwEBG9XgjBAUEAwf///////////38DwQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+**Lawful Evil Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10223,7 +10223,7 @@ BL2(BwAAAAAatwkwFAmwEBG9ngfBAUEAwf///////////38DwQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+**Lawful Evil Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10238,7 +10238,7 @@ BL2(BwAAAADeYQkwFAmwEBG93gbBAUEAwf///////////38DwQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+**Lawful Evil Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10253,7 +10253,7 @@ BL2(BwAAAABiLAkwFAmwEBG9HgbBAUEAwf///////////38DwQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Necromancer**	
+**Lawful Evil Necromancer**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -10268,7 +10268,7 @@ BL2(BwAAAACzzgkwFAmwEBG9XgXBAUEAwf///////////38DwQohAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+**Lawful Good Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10283,7 +10283,7 @@ BL2(BwAAAADGKwkrFAmwEBG9HgnBAUEAwf///////////38DgQshAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+**Lawful Good Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10298,7 +10298,7 @@ BL2(BwAAAAAC/QkrFAmwEBG9XgjBAUEAwf///////////38DgQshAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+**Lawful Good Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10313,7 +10313,7 @@ BL2(BwAAAABWbAkrFAmwEBG9ngfBAUEAwf///////////38DgQshAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+**Lawful Good Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10328,7 +10328,7 @@ BL2(BwAAAACSugkrFAmwEBG93gbBAUEAwf///////////38DgQshAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+**Lawful Good Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10343,7 +10343,7 @@ BL2(BwAAAAAu9wkrFAmwEBG9HgbBAUEAwf///////////38DgQshAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Necromancer**	
+**Lawful Good Necromancer**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -10358,7 +10358,7 @@ BL2(BwAAAAD/FQkrFAmwEBG9XgXBAUEAwf///////////38DgQshAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Lawful Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10373,7 +10373,7 @@ BL2(BwAAAACN0AkpFAmwEBG9HgnBAUEAwf///////////38DQQwhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Lawful Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10388,7 +10388,7 @@ BL2(BwAAAABJBgkpFAmwEBG9XgjBAUEAwf///////////38DQQwhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Lawful Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10403,7 +10403,7 @@ BL2(BwAAAAAdlwkpFAmwEBG9ngfBAUEAwf///////////38DQQwhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Lawful Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10418,7 +10418,7 @@ BL2(BwAAAADZQQkpFAmwEBG93gbBAUEAwf///////////38DQQwhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Lawful Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10433,7 +10433,7 @@ BL2(BwAAAABlDAkpFAmwEBG9HgbBAUEAwf///////////38DQQwhAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Necromancer**	
+**Lawful Neutral Necromancer**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -10448,7 +10448,7 @@ BL2(BwAAAAC07gkpFAmwEBG9XgXBAUEAwf///////////38DQQwhAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
+**Neutral Evil Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10463,7 +10463,7 @@ BL2(BwAAAAA7HwkuFAmwEBG9HgnBAUEAwf///////////38DAQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
+**Neutral Evil Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10478,7 +10478,7 @@ BL2(BwAAAAD/yQkuFAmwEBG9XgjBAUEAwf///////////38DAQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
+**Neutral Evil Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10493,7 +10493,7 @@ BL2(BwAAAACrWAkuFAmwEBG9ngfBAUEAwf///////////38DAQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
+**Neutral Evil Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10508,7 +10508,7 @@ BL2(BwAAAABvjgkuFAmwEBG93gbBAUEAwf///////////38DAQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
+**Neutral Evil Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10523,7 +10523,7 @@ BL2(BwAAAADTwwkuFAmwEBG9HgbBAUEAwf///////////38DAQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Necromancer**	
+**Neutral Evil Necromancer**	
 
 
 [Critical Damage +45%] [Magazine Size +45%]	
@@ -10538,7 +10538,7 @@ BL2(BwAAAAACIQkuFAmwEBG9XgXBAUEAwf///////////38DAQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
+**Neutral Good Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10553,7 +10553,7 @@ BL2(BwAAAADLzQktFAmwEBG9HgnBAUEAwf///////////38DQQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
+**Neutral Good Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10568,7 +10568,7 @@ BL2(BwAAAAAPGwktFAmwEBG9XgjBAUEAwf///////////38DQQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
+**Neutral Good Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10583,7 +10583,7 @@ BL2(BwAAAABbigktFAmwEBG9ngfBAUEAwf///////////38DQQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
+**Neutral Good Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10598,7 +10598,7 @@ BL2(BwAAAACfXAktFAmwEBG93gbBAUEAwf///////////38DQQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
+**Neutral Good Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10613,7 +10613,7 @@ BL2(BwAAAAAjEQktFAmwEBG9HgbBAUEAwf///////////38DQQshAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Necromancer**	
+**Neutral Good Necromancer**	
 
 
 [Reload Speed +45% ] [Magazine Size +45%]	
@@ -10628,7 +10628,7 @@ BL2(BwAAAADy8wktFAmwEBG9XgXBAUEAwf///////////38DQQshAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Necromancer**	
+**True Neutral Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10643,7 +10643,7 @@ BL2(BwAAAABM5AkoFAmwEBG9HgnBAUEAwf///////////38DQQohAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Necromancer**	
+**True Neutral Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10658,7 +10658,7 @@ BL2(BwAAAACIMgkoFAmwEBG9XgjBAUEAwf///////////38DQQohAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Necromancer**	
+**True Neutral Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10673,7 +10673,7 @@ BL2(BwAAAADcowkoFAmwEBG9ngfBAUEAwf///////////38DQQohAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Necromancer**	
+**True Neutral Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10688,7 +10688,7 @@ BL2(BwAAAAAYdQkoFAmwEBG93gbBAUEAwf///////////38DQQohAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Necromancer**	
+**True Neutral Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -10703,7 +10703,7 @@ BL2(BwAAAACkOAkoFAmwEBG9HgbBAUEAwf///////////38DQQohAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Necromancer**	
+**True Neutral Necromancer**	
 
 
 [Magazine Size +73%]	
@@ -11189,7 +11189,7 @@ BL2(BwAAAAAJFQYDAAUAMBAymQjBAUEAwf///////////38DgQMgAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
+**Chaotic Evil Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -11204,7 +11204,7 @@ BL2(BwAAAACbbgk6FAuwEBG9ngjBAUEAwf///////////38DwQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
+**Chaotic Evil Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -11219,7 +11219,7 @@ BL2(BwAAAADvKwk6FAuwEBG9HgfBAUEAwf///////////38DwQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
+**Chaotic Evil Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -11234,7 +11234,7 @@ BL2(BwAAAABmhgk6FAuwEBG9ngXBAUEAwf///////////38DwQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}$${\color{green}Good}$$}$$ Barbarian**	
+**Chaotic Good Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -11249,7 +11249,7 @@ BL2(BwAAAABZewk1FAuwEBG9ngjBAUEAwf///////////38DAQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
+**Chaotic Good Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -11264,7 +11264,7 @@ BL2(BwAAAAAtPgk1FAuwEBG9HgfBAUEAwf///////////38DAQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
+**Chaotic Good Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -11279,7 +11279,7 @@ BL2(BwAAAACkkwk1FAuwEBG9ngXBAUEAwf///////////38DAQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Chaotic Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -11294,7 +11294,7 @@ BL2(BwAAAACceQk0FAuwEBG9ngjBAUEAwf///////////38DQQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Chaotic Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -11309,7 +11309,7 @@ BL2(BwAAAADoPAk0FAuwEBG9HgfBAUEAwf///////////38DQQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Chaotic Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -11324,7 +11324,7 @@ BL2(BwAAAABhkQk0FAuwEBG9ngXBAUEAwf///////////38DQQ4hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+**Lawful Evil Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -11339,7 +11339,7 @@ BL2(BwAAAAARoQk5FAuwEBG9ngjBAUEAwf///////////38DAQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+**Lawful Evil Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -11354,7 +11354,7 @@ BL2(BwAAAABl5Ak5FAuwEBG9HgfBAUEAwf///////////38DAQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+**Lawful Evil Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -11369,7 +11369,7 @@ BL2(BwAAAADsSQk5FAuwEBG9ngXBAUEAwf///////////38DAQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+**Lawful Good Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -11384,7 +11384,7 @@ BL2(BwAAAAA/dwk2FAuwEBG9ngjBAUEAwf///////////38DwQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+**Lawful Good Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -11399,7 +11399,7 @@ BL2(BwAAAABLMgk2FAuwEBG9HgfBAUEAwf///////////38DwQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+**Lawful Good Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -11414,7 +11414,7 @@ BL2(BwAAAADCnwk2FAuwEBG9ngXBAUEAwf///////////38DwQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Lawful Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -11429,7 +11429,7 @@ BL2(BwAAAABl7wkzFAuwEBG9ngjBAUEAwf///////////38DgQ4hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Lawful Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -11444,7 +11444,7 @@ BL2(BwAAAAARqgkzFAuwEBG9HgfBAUEAwf///////////38DgQ4hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Lawful Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -11459,7 +11459,7 @@ BL2(BwAAAACYBwkzFAuwEBG9ngXBAUEAwf///////////38DgQ4hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
+**Neutral Evil Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -11474,7 +11474,7 @@ BL2(BwAAAADUowk4FAuwEBG9ngjBAUEAwf///////////38DQQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
+**Neutral Evil Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -11489,7 +11489,7 @@ BL2(BwAAAACg5gk4FAuwEBG9HgfBAUEAwf///////////38DQQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
+**Neutral Evil Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -11504,7 +11504,7 @@ BL2(BwAAAAApSwk4FAuwEBG9ngXBAUEAwf///////////38DQQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
+**Neutral Good Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -11519,7 +11519,7 @@ BL2(BwAAAAD6dQk3FAuwEBG9ngjBAUEAwf///////////38DgQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
+**Neutral Good Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -11534,7 +11534,7 @@ BL2(BwAAAACOMAk3FAuwEBG9HgfBAUEAwf///////////38DgQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
+**Neutral Good Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -11549,7 +11549,7 @@ BL2(BwAAAAAHnQk3FAuwEBG9ngXBAUEAwf///////////38DgQ0hAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Barbarian**	
+**True Neutral Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -11564,7 +11564,7 @@ BL2(BwAAAAB9XAkyFAuwEBG9ngjBAUEAwf///////////38DgQwhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Barbarian**	
+**True Neutral Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -11579,7 +11579,7 @@ BL2(BwAAAAAJGQkyFAuwEBG9HgfBAUEAwf///////////38DgQwhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Barbarian**	
+**True Neutral Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -12395,7 +12395,7 @@ BL2(BwAAAADq9wYGAAcAMBC9XgXBAUEAwf///////////38DwQYgAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
+**Chaotic Evil Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12410,7 +12410,7 @@ BL2(BwAAAADj9Qk6FAuwEBG9HgnBAUEAwf///////////38DwQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
+**Chaotic Evil Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12425,7 +12425,7 @@ BL2(BwAAAAAnIwk6FAuwEBG9XgjBAUEAwf///////////38DwQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
+**Chaotic Evil Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12440,7 +12440,7 @@ BL2(BwAAAABzsgk6FAuwEBG9ngfBAUEAwf///////////38DwQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
+**Chaotic Evil Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12455,7 +12455,7 @@ BL2(BwAAAAC3ZAk6FAuwEBG93gbBAUEAwf///////////38DwQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
+**Chaotic Evil Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12470,7 +12470,7 @@ BL2(BwAAAAALKQk6FAuwEBG9HgbBAUEAwf///////////38DwQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{red}Evil}$$ Barbarian**	
+**Chaotic Evil Barbarian**	
 
 
 [Critical Damage +45%] [Fire Rate +31%]	
@@ -12485,7 +12485,7 @@ BL2(BwAAAADaywk6FAuwEBG9XgXBAUEAwf///////////38DwQwhAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
+**Chaotic Good Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12500,7 +12500,7 @@ BL2(BwAAAAAh4Ak1FAuwEBG9HgnBAUEAwf///////////38DAQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
+**Chaotic Good Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12515,7 +12515,7 @@ BL2(BwAAAADlNgk1FAuwEBG9XgjBAUEAwf///////////38DAQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
+**Chaotic Good Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12530,7 +12530,7 @@ BL2(BwAAAACxpwk1FAuwEBG9ngfBAUEAwf///////////38DAQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
+**Chaotic Good Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12545,7 +12545,7 @@ BL2(BwAAAAB1cQk1FAuwEBG93gbBAUEAwf///////////38DAQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
+**Chaotic Good Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12560,7 +12560,7 @@ BL2(BwAAAADJPAk1FAuwEBG9HgbBAUEAwf///////////38DAQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{green}Good}$$ Barbarian**	
+**Chaotic Good Barbarian**	
 
 
 [Reload Speed +45%] [Fire Rate +31%]	
@@ -12575,7 +12575,7 @@ BL2(BwAAAAAY3gk1FAuwEBG9XgXBAUEAwf///////////38DAQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Chaotic Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12590,7 +12590,7 @@ BL2(BwAAAADk4gk0FAuwEBG9HgnBAUEAwf///////////38DQQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Chaotic Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12605,7 +12605,7 @@ BL2(BwAAAAAgNAk0FAuwEBG9XgjBAUEAwf///////////38DQQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Chaotic Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12620,7 +12620,7 @@ BL2(BwAAAAB0pQk0FAuwEBG9ngfBAUEAwf///////////38DQQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Chaotic Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12635,7 +12635,7 @@ BL2(BwAAAACwcwk0FAuwEBG93gbBAUEAwf///////////38DQQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Chaotic Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12650,7 +12650,7 @@ BL2(BwAAAAAMPgk0FAuwEBG9HgbBAUEAwf///////////38DQQ4hAME=)
 
 
 
-**$${\color{Orange}Chaotic}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Chaotic Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Fire Rate +31%]	
@@ -12665,7 +12665,7 @@ BL2(BwAAAADd3Ak0FAuwEBG9XgXBAUEAwf///////////38DQQ4hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+**Lawful Evil Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12680,7 +12680,7 @@ BL2(BwAAAABpOgk5FAuwEBG9HgnBAUEAwf///////////38DAQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+**Lawful Evil Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12695,7 +12695,7 @@ BL2(BwAAAACt7Ak5FAuwEBG9XgjBAUEAwf///////////38DAQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+**Lawful Evil Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12710,7 +12710,7 @@ BL2(BwAAAAD5fQk5FAuwEBG9ngfBAUEAwf///////////38DAQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+**Lawful Evil Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12725,7 +12725,7 @@ BL2(BwAAAAA9qwk5FAuwEBG93gbBAUEAwf///////////38DAQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+**Lawful Evil Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12740,7 +12740,7 @@ BL2(BwAAAACB5gk5FAuwEBG9HgbBAUEAwf///////////38DAQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{red}Evil}$$ Barbarian**	
+**Lawful Evil Barbarian**	
 
 
 [Critical Damage +45%] [Weapon Accuracy +31%]	
@@ -12755,7 +12755,7 @@ BL2(BwAAAABQBAk5FAuwEBG9XgXBAUEAwf///////////38DAQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+**Lawful Good Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12770,7 +12770,7 @@ BL2(BwAAAABH7Ak2FAuwEBG9HgnBAUEAwf///////////38DwQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+**Lawful Good Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12785,7 +12785,7 @@ BL2(BwAAAACDOgk2FAuwEBG9XgjBAUEAwf///////////38DwQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+**Lawful Good Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12800,7 +12800,7 @@ BL2(BwAAAADXqwk2FAuwEBG9ngfBAUEAwf///////////38DwQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+**Lawful Good Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12815,7 +12815,7 @@ BL2(BwAAAAATfQk2FAuwEBG93gbBAUEAwf///////////38DwQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+**Lawful Good Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12830,7 +12830,7 @@ BL2(BwAAAACvMAk2FAuwEBG9HgbBAUEAwf///////////38DwQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{green}Good}$$ Barbarian**	
+**Lawful Good Barbarian**	
 
 
 [Reload Speed +45%] [Weapon Accuracy +31%]	
@@ -12845,7 +12845,7 @@ BL2(BwAAAAB+0gk2FAuwEBG9XgXBAUEAwf///////////38DwQ0hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Lawful Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12860,7 +12860,7 @@ BL2(BwAAAAAddAkzFAuwEBG9HgnBAUEAwf///////////38DgQ4hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Lawful Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12875,7 +12875,7 @@ BL2(BwAAAADZogkzFAuwEBG9XgjBAUEAwf///////////38DgQ4hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Lawful Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12890,7 +12890,7 @@ BL2(BwAAAACNMwkzFAuwEBG9ngfBAUEAwf///////////38DgQ4hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Lawful Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12905,7 +12905,7 @@ BL2(BwAAAABJ5QkzFAuwEBG93gbBAUEAwf///////////38DgQ4hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Lawful Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12920,7 +12920,7 @@ BL2(BwAAAAD1qAkzFAuwEBG9HgbBAUEAwf///////////38DgQ4hAME=)
 
 
 
-**$${\color{blue}Lawful}$$ $${\color{grey}Neutral}$$ Barbarian**	
+**Lawful Neutral Barbarian**	
 
 
 [Magazine Size +45%] [Weapon Accuracy +31%]	
@@ -12935,7 +12935,7 @@ BL2(BwAAAAAkSgkzFAuwEBG9XgXBAUEAwf///////////38DgQ4hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
+**Neutral Evil Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -12950,7 +12950,7 @@ BL2(BwAAAACsOAk4FAuwEBG9HgnBAUEAwf///////////38DQQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
+**Neutral Evil Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -12965,7 +12965,7 @@ BL2(BwAAAABo7gk4FAuwEBG9XgjBAUEAwf///////////38DQQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
+**Neutral Evil Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -12980,7 +12980,7 @@ BL2(BwAAAAA8fwk4FAuwEBG9ngfBAUEAwf///////////38DQQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
+**Neutral Evil Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -12995,7 +12995,7 @@ BL2(BwAAAAD4qQk4FAuwEBG93gbBAUEAwf///////////38DQQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
+**Neutral Evil Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -13010,7 +13010,7 @@ BL2(BwAAAABE5Ak4FAuwEBG9HgbBAUEAwf///////////38DQQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{red}Evil}$$ Barbarian**	
+**Neutral Evil Barbarian**	
 
 
 [Critical Damage +44%] [Magazine Size +44%]	
@@ -13025,7 +13025,7 @@ BL2(BwAAAACVBgk4FAuwEBG9XgXBAUEAwf///////////38DQQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
+**Neutral Good Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13040,7 +13040,7 @@ BL2(BwAAAACC7gk3FAuwEBG9HgnBAUEAwf///////////38DgQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
+**Neutral Good Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13055,7 +13055,7 @@ BL2(BwAAAABGOAk3FAuwEBG9XgjBAUEAwf///////////38DgQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
+**Neutral Good Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13070,7 +13070,7 @@ BL2(BwAAAAASqQk3FAuwEBG9ngfBAUEAwf///////////38DgQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
+**Neutral Good Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13085,7 +13085,7 @@ BL2(BwAAAADWfwk3FAuwEBG93gbBAUEAwf///////////38DgQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
+**Neutral Good Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13100,7 +13100,7 @@ BL2(BwAAAABqMgk3FAuwEBG9HgbBAUEAwf///////////38DgQ0hAME=)
 
 
 
-**$${\color{grey}Neutral}$$ $${\color{green}Good}$$ Barbarian**	
+**Neutral Good Barbarian**	
 
 
 [Reload Speed +44% ] [Magazine Size +44%]	
@@ -13115,7 +13115,7 @@ BL2(BwAAAAC70Ak3FAuwEBG9XgXBAUEAwf///////////38DgQ0hAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Barbarian**	
+**True Neutral Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13130,7 +13130,7 @@ BL2(BwAAAAAFxwkyFAuwEBG9HgnBAUEAwf///////////38DgQwhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Barbarian**	
+**True Neutral Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13145,7 +13145,7 @@ BL2(BwAAAADBEQkyFAuwEBG9XgjBAUEAwf///////////38DgQwhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Barbarian**	
+**True Neutral Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13160,7 +13160,7 @@ BL2(BwAAAACVgAkyFAuwEBG9ngfBAUEAwf///////////38DgQwhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Barbarian**	
+**True Neutral Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13175,7 +13175,7 @@ BL2(BwAAAABRVgkyFAuwEBG93gbBAUEAwf///////////38DgQwhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Barbarian**	
+**True Neutral Barbarian**	
 
 
 [Magazine Size +71%]	
@@ -13190,7 +13190,7 @@ BL2(BwAAAADtGwkyFAuwEBG9HgbBAUEAwf///////////38DgQwhAME=)
 
 
 
-**True $${\color{grey}Neutral}$$ Barbarian**	
+**True Neutral Barbarian**	
 
 
 [Magazine Size +71%]	
